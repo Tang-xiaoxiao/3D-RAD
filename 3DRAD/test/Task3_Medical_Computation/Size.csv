@@ -1,0 +1,445 @@
+Task,Subtask,VolumeName,Question,Answer,QuestionType,AnswerChoice,Choice A,Choice B,Choice C,Choice D
+3,2,test_1004_a_1.nii.gz,What is the size of the loculated collection-cystic lesion between the paracardiac fatty planes?,30x13 mm,Open,-,-,-,-,-
+3,2,test_1004_a_2.nii.gz,What is the size of the loculated collection-cystic lesion between the paracardiac fatty planes?,30x13 mm,Open,-,-,-,-,-
+3,2,test_1016_a_1.nii.gz,What is the size of the lesion in the mediastinum?,45x21 mm,Open,-,-,-,-,-
+3,2,test_1016_a_1.nii.gz,What is the size of the largest lymph node in the right hilar region?,13x8 mm,Open,-,-,-,-,-
+3,2,test_1016_a_1.nii.gz,What is the size of the largest nodule in the left lung lower lobe laterobasal segment?,16x10 mm,Open,-,-,-,-,-
+3,2,test_1016_a_2.nii.gz,What is the size of the largest nodule in the left lung lower lobe laterobasal segment?,16x10 mm,Open,-,-,-,-,-
+3,2,test_1016_a_2.nii.gz,What is the size of the lesion in the mediastinum?,45x21 mm,Open,-,-,-,-,-
+3,2,test_1016_a_2.nii.gz,What is the size of the largest lymph node in the right hilar region?,13x8 mm,Open,-,-,-,-,-
+3,2,test_1016_b_1.nii.gz,What is the size of the lesion in the current examination?,31 mm,Open,-,-,-,-,-
+3,2,test_1016_b_2.nii.gz,What is the size of the lesion in the current examination?,31 mm,Open,-,-,-,-,-
+3,2,test_1016_c_1.nii.gz,What is the size of the largest lesion in the posterobasal segment of the left lung lower lobe?,16x12 mm,Open,-,-,-,-,-
+3,2,test_1016_c_2.nii.gz,What is the size of the largest lesion in the posterobasal segment of the left lung lower lobe?,16x12 mm,Open,-,-,-,-,-
+3,2,test_1019_a_1.nii.gz,What is the size of the largest mass lesion in the lower lobe superior segment of the right lung?,57x38 mm,Open,-,-,-,-,-
+3,2,test_1019_a_1.nii.gz,What is the size of the pleural-based mass lesion in the apicoposterior segment of the left lung upper lobe?,24x28 mm,Open,-,-,-,-,-
+3,2,test_1019_a_1.nii.gz,What is the size of the largest lymph node in the left axillary region?,22x16 mm,Open,-,-,-,-,-
+3,2,test_1019_b_2.nii.gz,What is the size of the lytic soft tissue lesion in the left 4th rib anterior?,3 cm,Open,-,-,-,-,-
+3,2,test_1019_d_1.nii.gz,What is the size of the lesion in the right lung?,18x12 mm,Open,-,-,-,-,-
+3,2,test_1019_d_1.nii.gz,What is the size of the lymph node in the right central cervical group?,24x16 mm,Open,-,-,-,-,-
+3,2,test_1019_d_1.nii.gz,What is the AP size of the largest lesion?,125 mm,Open,-,-,-,-,-
+3,2,test_1030_a_1.nii.gz,What is the size of the nodules in the upper lobe of the right lung?,2-3 mm,Open,-,-,-,-,-
+3,2,test_1030_a_1.nii.gz,What is the size of the largest lymph node in the subcarinal area?,19x9 mm,Open,-,-,-,-,-
+3,2,test_1030_a_1.nii.gz,What is the size of the nodule in the left lung lower lobe laterobasal segment?,7x4 mm,Open,-,-,-,-,-
+3,2,test_1030_a_2.nii.gz,What is the size of the nodule in the left lung lower lobe laterobasal segment?,7x4 mm,Open,-,-,-,-,-
+3,2,test_1030_a_2.nii.gz,What is the size of the largest lymph node in the subcarinal area?,19x9 mm,Open,-,-,-,-,-
+3,2,test_1030_a_2.nii.gz,What is the size of the nodules in the upper lobe of the right lung?,2-3 mm,Open,-,-,-,-,-
+3,2,test_103_a_1.nii.gz,What is the size of the lymph nodes in the upper-lower paratracheal region?,19x11 mm,Open,-,-,-,-,-
+3,2,test_103_a_2.nii.gz,What is the size of the lymph nodes in the upper-lower paratracheal region?,19x11 mm,Open,-,-,-,-,-
+3,2,test_1041_a_1.nii.gz,What is the size of the nodule observed?,6x4 mm,Open,-,-,-,-,-
+3,2,test_1041_a_2.nii.gz,What is the size of the nodule observed at this level?,6x4 mm,Open,-,-,-,-,-
+3,2,test_1041_c_1.nii.gz,What is the size of the largest lesion on the right?,21x13 mm,Open,-,-,-,-,-
+3,2,test_1041_c_1.nii.gz,What is the size of the largest lymph node in the paraesophageal-subcarinal area?,25x11 mm,Open,-,-,-,-,-
+3,2,test_1060_a_1.nii.gz,What is the size of the cystic lesion in the anterior mediastinum?,55x38 mm,Open,-,-,-,-,-
+3,2,test_1060_a_2.nii.gz,What is the size of the cystic lesion in the anterior mediastinum?,55x38 mm,Open,-,-,-,-,-
+3,2,test_1064_a_1.nii.gz,What is the size of the nodule in the apicoposterior segment of the left lung upper lobe?,5x2 mm,Open,-,-,-,-,-
+3,2,test_1064_a_1.nii.gz,What is the size of the largest lesion in the subcarinal area?,17x10 mm,Open,-,-,-,-,-
+3,2,test_1064_a_2.nii.gz,What is the size of the largest lesion in the subcarinal area?,17x10 mm,Open,-,-,-,-,-
+3,2,test_1064_a_2.nii.gz,What is the size of the partially calcific nodule in the apicoposterior segment of the left lung upper lobe?,5x2 mm,Open,-,-,-,-,-
+3,2,test_1069_b_1.nii.gz,What is the size of the hypodense lesion in the right adrenal gland?,30x13 mm,Open,-,-,-,-,-
+3,2,test_1069_b_2.nii.gz,What is the size of the hypodense lesion in the right adrenal gland?,30x13 mm,Open,-,-,-,-,-
+3,2,test_106_a_1.nii.gz,What is the size of the irregularly circumscribed nodule in the posterior part of the left lung upper lobe lingular segment?,15x17 mm,Open,-,-,-,-,-
+3,2,test_106_a_1.nii.gz,What is the size of the mass in the left adrenal gland?,52x70 mm,Open,-,-,-,-,-
+3,2,test_106_a_1.nii.gz,What is the size of the largest lymphadenopathy in the paratracheal region?,27x35 mm,Open,-,-,-,-,-
+3,2,test_106_a_2.nii.gz,What is the size of the largest lymphadenopathy in the paratracheal region?,27x35 mm,Open,-,-,-,-,-
+3,2,test_106_a_2.nii.gz,What is the size of the mass in the left adrenal gland?,52x70 mm,Open,-,-,-,-,-
+3,2,test_106_a_2.nii.gz,What is the size of the irregularly circumscribed nodule in the posterior part of the left lung upper lobe lingular segment?,15x17 mm,Open,-,-,-,-,-
+3,2,test_106_a_3.nii.gz,What is the size of the mass in the left adrenal gland?,52x70 mm,Open,-,-,-,-,-
+3,2,test_106_a_3.nii.gz,What is the size of the irregularly circumscribed nodule in the posterior part of the left lung upper lobe lingular segment?,15x17 mm,Open,-,-,-,-,-
+3,2,test_106_a_3.nii.gz,What is the size of the largest lymphadenopathy in the paratracheal region?,27x35 mm,Open,-,-,-,-,-
+3,2,test_106_a_4.nii.gz,What is the size of the mass in the left adrenal gland?,52x70 mm,Open,-,-,-,-,-
+3,2,test_106_a_4.nii.gz,What is the size of the largest lymphadenopathy in the paratracheal region?,27x35 mm,Open,-,-,-,-,-
+3,2,test_106_a_4.nii.gz,What is the size of the nodule in the posterior part of the left lung upper lobe lingular segment?,15x17 mm,Open,-,-,-,-,-
+3,2,test_1074_a_1.nii.gz,What is the size of the largest cystic lesion in the upper pole of the left kidney?,120x106 mm,Open,-,-,-,-,-
+3,2,test_1074_a_2.nii.gz,What is the size of the largest cystic lesion in the upper pole of the left kidney?,120x106 mm,Open,-,-,-,-,-
+3,2,test_1092_a_1.nii.gz,What is the size of the mass in the superior segment of the left lung lower lobe?,62x32 mm,Open,-,-,-,-,-
+3,2,test_1092_a_2.nii.gz,What is the size of the mass in the superior segment of the left lung lower lobe?,62x32 mm,Open,-,-,-,-,-
+3,2,test_1094_a_1.nii.gz,What is the size of the larger cyst in the right kidney?,5.5 cm,Open,-,-,-,-,-
+3,2,test_1094_a_2.nii.gz,What is the size of the larger cyst in the right kidney?,5.5 cm,Open,-,-,-,-,-
+3,2,test_1099_a_2.nii.gz,What is the size of the largest calcific LAP in the hilar regions?,6x4 mm,Open,-,-,-,-,-
+3,2,test_10_a_1.nii.gz,What is the size of the nodular density superposed on the minor fissure?,5x3 mm,Open,-,-,-,-,-
+3,2,test_10_a_2.nii.gz,What is the size of the nodular density observed on the right?,5x3 mm,Open,-,-,-,-,-
+3,2,test_1122_a_1.nii.gz,What is the size of the largest nodule in the right middle lobe lateral segment?,6.5 mm,Open,-,-,-,-,-
+3,2,test_1122_a_2.nii.gz,What is the size of the largest nodule in the right middle lobe lateral segment?,6.5 mm,Open,-,-,-,-,-
+3,2,test_1123_a_1.nii.gz,What is the size of the lesion at the left adrenal genu?,20x18 mm,Open,-,-,-,-,-
+3,2,test_1123_a_2.nii.gz,What is the size of the lesion at the left adrenal genu?,20x18 mm,Open,-,-,-,-,-
+3,2,test_1151_a_1.nii.gz,What is the size of the largest lymph node in the mediastinum?,17 mm,Open,-,-,-,-,-
+3,2,test_1154_a_1.nii.gz,What is the size of the largest nodule in the posterobasal segment of the left lung lower lobe?,6x9 mm,Open,-,-,-,-,-
+3,2,test_1154_a_2.nii.gz,What is the size of the largest nodule in the posterobasal segment of the left lung lower lobe?,6x9 mm,Open,-,-,-,-,-
+3,2,test_117_a_1.nii.gz,What is the size of the largest nodule in the apicoposterior segment of the left lung upper lobe?,9x12 mm,Open,-,-,-,-,-
+3,2,test_117_a_2.nii.gz,What is the size of the largest nodule in the apicoposterior segment of the left lung upper lobe?,9x12 mm,Open,-,-,-,-,-
+3,2,test_117_b_1.nii.gz,What is the size of the largest lesion at the basal level of the lower lobe of the left lung?,25x21 mm,Open,-,-,-,-,-
+3,2,test_117_b_2.nii.gz,What is the size of the largest lesion at the basal level of the lower lobe of the left lung?,25x21 mm,Open,-,-,-,-,-
+3,2,test_1191_a_1.nii.gz,What is the size of the subpleural nodules in the superior right lung lower lobe?,Up to 3 mm,Open,-,-,-,-,-
+3,2,test_1191_a_2.nii.gz,What is the size of the subpleural nodules in the superior right lung lower lobe?,Up to 3 mm,Open,-,-,-,-,-
+3,2,test_1192_a_1.nii.gz,What is the size of the lesion in the lower lobe posterobasal segment on the right?,13 mm,Open,-,-,-,-,-
+3,2,test_1192_a_2.nii.gz,What is the size of the lesion in the lower lobe posterobasal segment on the right?,13 mm,Open,-,-,-,-,-
+3,2,test_1197_a_1.nii.gz,What is the size of the largest lesion in the right upper paratracheal area?,15x9 mm,Open,-,-,-,-,-
+3,2,test_1197_a_2.nii.gz,What is the size of the largest lymph node in the right upper paratracheal area?,15x9 mm,Open,-,-,-,-,-
+3,2,test_119_a_1.nii.gz,What is the size of the lesion in the corpus of the left adrenal gland?,28x20 mm,Open,-,-,-,-,-
+3,2,test_119_a_2.nii.gz,What is the size of the lesion in the corpus of the left adrenal gland?,28x20 mm,Open,-,-,-,-,-
+3,2,test_1203_a_1.nii.gz,What is the size of the largest lymph node in the aorticopulmonary window?,14x9 mm,Open,-,-,-,-,-
+3,2,test_1203_a_1.nii.gz,What is the size of the nodule in the lingular segment of the left lung?,4x2 mm,Open,-,-,-,-,-
+3,2,test_1203_a_2.nii.gz,What is the size of the nodule in the anterior segment?,4x2 mm,Open,-,-,-,-,-
+3,2,test_1203_a_2.nii.gz,What is the size of the nodule in the lingular segment of the left lung?,4x2 mm,Open,-,-,-,-,-
+3,2,test_1203_a_2.nii.gz,What is the size of the largest lymph node in the aorticopulmonary window?,14x9 mm,Open,-,-,-,-,-
+3,2,test_1209_a_1.nii.gz,What is the size of the oval structure in the left kidney?,41 mm,Open,-,-,-,-,-
+3,2,test_1209_a_1.nii.gz,What is the size of the fluid localization in the main fissure on the right side?,44 mm,Open,-,-,-,-,-
+3,2,test_1209_a_2.nii.gz,What is the size of the oval structure in the left kidney?,41 mm,Open,-,-,-,-,-
+3,2,test_1209_a_2.nii.gz,What is the size of the fluid localization in the main fissure on the right side?,44 mm,Open,-,-,-,-,-
+3,2,test_1213_a_1.nii.gz,What is the size of the nodule in the anterior segment of the upper lobe of the right lung?,5x5.5 mm,Open,-,-,-,-,-
+3,2,test_1213_a_2.nii.gz,What is the size of the nodule in the anterior segment of the upper lobe of the right lung?,5x5.5 mm,Open,-,-,-,-,-
+3,2,test_1219_a_1.nii.gz,What is the size of the largest consolidation area in the right lung lower lobe basal?,102x36 mm,Open,-,-,-,-,-
+3,2,test_1219_a_2.nii.gz,What is the size of the largest consolidation area in the right lung lower lobe basal?,102x36 mm,Open,-,-,-,-,-
+3,2,test_123_a_1.nii.gz,What is the size of the largest lesion in the left lower lobe?,11x11 mm,Open,-,-,-,-,-
+3,2,test_123_a_2.nii.gz,What is the size of the largest lesion in the left lower lobe?,11x11 mm,Open,-,-,-,-,-
+3,2,test_1241_a_1.nii.gz,What is the size of the pleural-based nodule in the posterobasal segment of the lower lobe of the left lung?,7.5 x 4 mm,Open,-,-,-,-,-
+3,2,test_1242_a_1.nii.gz,What is the size of the semisolid nodule?,6 cm,Open,-,-,-,-,-
+3,2,test_1242_a_2.nii.gz,What is the size of the semisolid nodule?,6 cm,Open,-,-,-,-,-
+3,2,test_1253_a_1.nii.gz,What is the size of the largest lymph node in the right paratracheal area?,24x17 mm,Open,-,-,-,-,-
+3,2,test_1253_a_2.nii.gz,What is the size of the largest lymph node in the right paratracheal area?,24x17 mm,Open,-,-,-,-,-
+3,2,test_1254_a_1.nii.gz,What is the size of the lesion at the junction of liver segments 8-5?,40x34 mm,Open,-,-,-,-,-
+3,2,test_1254_a_2.nii.gz,What is the size of the lesion at the junction of liver segments 8-5?,40x34 mm,Open,-,-,-,-,-
+3,2,test_1258_a_1.nii.gz,What is the size of the soft tissue density in the anterior upper lobe of the left lung?,28x8 mm,Open,-,-,-,-,-
+3,2,test_1258_a_2.nii.gz,What is the size of the soft tissue density in the anterior upper lobe of the left lung?,28x8 mm,Open,-,-,-,-,-
+3,2,test_1258_b_1.nii.gz,What is the size of the largest lesion in the anterior upper lobe of the left lung?,13x7 mm,Open,-,-,-,-,-
+3,2,test_1258_b_2.nii.gz,What is the size of the largest lesion in the anterior upper lobe of the left lung?,13x7 mm,Open,-,-,-,-,-
+3,2,test_1267_b_1.nii.gz,What is the size of the largest lesion?,22.5 x 14 mm,Open,-,-,-,-,-
+3,2,test_1267_b_1.nii.gz,What is the size of the focal consolidation in the paramediastinal area?,24x19 mm,Open,-,-,-,-,-
+3,2,test_1267_b_2.nii.gz,What is the size of the largest lesion?,22.5 x 14 mm,Open,-,-,-,-,-
+3,2,test_1267_b_2.nii.gz,What is the size of the focal consolidation in the paramediastinal area?,24x19 mm,Open,-,-,-,-,-
+3,2,test_1267_c_1.nii.gz,What is the size of the nodule?,7x6 mm,Open,-,-,-,-,-
+3,2,test_1267_c_1.nii.gz,What is the size of the hypodense nodule in the left thyroid gland?,24x22 mm,Open,-,-,-,-,-
+3,2,test_1267_c_2.nii.gz,What is the size of the nodule?,7x6 mm,Open,-,-,-,-,-
+3,2,test_1267_c_2.nii.gz,What is the size of the hypodense nodule in the left thyroid gland?,24x22 mm,Open,-,-,-,-,-
+3,2,test_127_a_1.nii.gz,What is the size of the largest nodule in the anterobasal segment of the lower lobe of the right lung?,6.9 x 5.5 mm,Open,-,-,-,-,-
+3,2,test_127_a_1.nii.gz,What is the size of the largest paraesophageal lymph node?,9x5.5 mm,Open,-,-,-,-,-
+3,2,test_127_a_2.nii.gz,What is the size of the largest paraesophageal lymph node?,9x5.5 mm,Open,-,-,-,-,-
+3,2,test_127_a_2.nii.gz,What is the size of the largest nodule in the anterobasal segment of the lower lobe of the right lung?,6.9 x 5.5 mm,Open,-,-,-,-,-
+3,2,test_1281_a_1.nii.gz,What is the size of the largest lymph node in the upper mediastinum?,29x18 mm,Open,-,-,-,-,-
+3,2,test_1281_a_2.nii.gz,What is the size of the largest lymph node in the upper mediastinum?,29x18 mm,Open,-,-,-,-,-
+3,2,test_1292_a_1.nii.gz,What is the length of the tracheostomy cannula observed?,5 cm,Open,-,-,-,-,-
+3,2,test_1294_a_1.nii.gz,What is the size of the pleural effusion in the right lung?,3.5 cm,Open,-,-,-,-,-
+3,2,test_1294_a_2.nii.gz,What is the size of the pleural effusion in the right lung?,3.5 cm,Open,-,-,-,-,-
+3,2,test_1295_a_1.nii.gz,What is the size of the lesion in the scalene region on the right?,25x20 mm,Open,-,-,-,-,-
+3,2,test_1295_a_1.nii.gz,What is the size of the low-density nodular lesion in the right adrenal gland?,22x13 mm,Open,-,-,-,-,-
+3,2,test_1295_a_2.nii.gz,What is the size of the low-density nodular lesion in the right adrenal gland?,22x13 mm,Open,-,-,-,-,-
+3,2,test_1295_a_2.nii.gz,What is the size of the lesion in the scalene region on the right?,25x20 mm,Open,-,-,-,-,-
+3,2,test_1304_a_2.nii.gz,What is the size of the lesion in the middle-lower inner quadrant of the right breast?,25x22 mm,Open,-,-,-,-,-
+3,2,test_151_a_1.nii.gz,What is the size of the lesion in the posterior segment of the right lobe of the liver?,14x10 mm,Open,-,-,-,-,-
+3,2,test_151_a_1.nii.gz,What is the size of the largest lesion in the left kidney superior pole?,33x29 mm,Open,-,-,-,-,-
+3,2,test_151_a_2.nii.gz,What is the size of the largest lesion in the left kidney superior pole?,33x29 mm,Open,-,-,-,-,-
+3,2,test_151_a_2.nii.gz,What is the size of the lesion in the posterior segment of the right lobe of the liver?,14x10 mm,Open,-,-,-,-,-
+3,2,test_152_a_1.nii.gz,What is the size of the nodular lesion adjacent to the posterior 8th rib?,3x1.5 cm,Open,-,-,-,-,-
+3,2,test_155_a_1.nii.gz,What is the size of the nodule located in the horizontal fissure of the right lung?,15x13 mm,Open,-,-,-,-,-
+3,2,test_155_a_1.nii.gz,What is the size of the nodule in the left thyroid gland?,30x25 mm,Open,-,-,-,-,-
+3,2,test_155_a_1.nii.gz,What is the size of the largest nodule in the right lung?,5.5 mm,Open,-,-,-,-,-
+3,2,test_157_a_2.nii.gz,What is the size of the bulla in the superior segment of the right lung lower lobe?,36 mm,Open,-,-,-,-,-
+3,2,test_163_b_1.nii.gz,What is the size of the nodule in the lateral basal segment of the right lung lower lobe?,4.6 mm,Open,-,-,-,-,-
+3,2,test_163_b_2.nii.gz,What is the size of the nodule in the lateral basal segment of the right lung lower lobe?,4.6 mm,Open,-,-,-,-,-
+3,2,test_163_c_1.nii.gz,What is the size of the oval nodule in the anterior segment of the left lung upper lobe?,13x4 mm,Open,-,-,-,-,-
+3,2,test_163_c_1.nii.gz,What is the size of the nodule located caudally?,5.5 x 3 mm,Open,-,-,-,-,-
+3,2,test_163_c_2.nii.gz,What is the size of the nodule located caudally?,5.5 x 3 mm,Open,-,-,-,-,-
+3,2,test_163_c_2.nii.gz,What is the size of the oval nodule in the anterior segment of the left lung upper lobe?,13x4 mm,Open,-,-,-,-,-
+3,2,test_17_a_1.nii.gz,What is the size of the lesion in the middle lobe of the right lung?,8.5 x 6.2 mm,Open,-,-,-,-,-
+3,2,test_17_a_2.nii.gz,What is the size of the lesion in the middle lobe of the right lung?,8.5 x 6.2 mm,Open,-,-,-,-,-
+3,2,test_182_a_1.nii.gz,What is the size of the free effusion in the deepest part of the left pleural space?,15 cm,Open,-,-,-,-,-
+3,2,test_182_a_1.nii.gz,What is the size of the nodule in the right lung lower lobe posterobasal segment?,20x15 mm,Open,-,-,-,-,-
+3,2,test_182_a_2.nii.gz,What is the size of the free effusion in the deepest part of the left pleural space?,15 cm,Open,-,-,-,-,-
+3,2,test_182_a_2.nii.gz,What is the size of the nodule in the right lung lower lobe posterobasal segment?,20x15 mm,Open,-,-,-,-,-
+3,2,test_186_a_1.nii.gz,What is the size of the nodule in the right lung upper lobe anterior segment?,3x2 mm,Open,-,-,-,-,-
+3,2,test_186_a_2.nii.gz,What is the size of the nodule in the right lung upper lobe anterior segment?,3x2 mm,Open,-,-,-,-,-
+3,2,test_196_a_1.nii.gz,What is the size of the solitary pulmonary nodule in the superior segment of the right lung lower lobe?,14x11 mm,Open,-,-,-,-,-
+3,2,test_196_a_2.nii.gz,What is the size of the solitary pulmonary nodule in the superior segment of the right lung lower lobe?,14x11 mm,Open,-,-,-,-,-
+3,2,test_197_a_1.nii.gz,What is the size of the largest lesion?,15x10 mm,Open,-,-,-,-,-
+3,2,test_197_a_1.nii.gz,What is the size of the consolidation area in the basal segment of the lower lobe of the left lung?,46x63x101 mm,Open,-,-,-,-,-
+3,2,test_197_a_2.nii.gz,What is the size of the consolidation area in the basal segment of the lower lobe of the left lung?,46x63x101 mm,Open,-,-,-,-,-
+3,2,test_197_a_2.nii.gz,What is the size of the largest lesion?,15x10 mm,Open,-,-,-,-,-
+3,2,test_206_a_1.nii.gz,What is the size of the largest cortical cyst in the left kidney?,68x44 mm,Open,-,-,-,-,-
+3,2,test_206_a_2.nii.gz,What is the size of the largest cortical cyst in the left kidney?,68x44 mm,Open,-,-,-,-,-
+3,2,test_213_a_1.nii.gz,What is the size of the cyst in the left lobe of the liver parenchyma?,49x33 mm,Open,-,-,-,-,-
+3,2,test_213_a_2.nii.gz,What is the size of the cyst in the left lobe of the liver parenchyma?,49x33 mm,Open,-,-,-,-,-
+3,2,test_215_c_1.nii.gz,What is the size of the cavitary lesion at the basal level of the lower lobe of the left lung?,100x55 mm,Open,-,-,-,-,-
+3,2,test_215_c_1.nii.gz,What is the size of the cavitation in millimeters?,16x10 mm,Open,-,-,-,-,-
+3,2,test_215_c_2.nii.gz,What is the size of the cavitary lesion at the basal level of the lower lobe of the left lung?,100x55 mm,Open,-,-,-,-,-
+3,2,test_215_c_2.nii.gz,What is the size of the cavitation?,16x10 mm,Open,-,-,-,-,-
+3,2,test_224_a_1.nii.gz,What is the size of the largest lesion in the subcarinal area?,14x9 mm,Open,-,-,-,-,-
+3,2,test_224_a_2.nii.gz,What is the size of the largest lesion in the subcarinal area?,14x9 mm,Open,-,-,-,-,-
+3,2,test_229_a_1.nii.gz,What is the size of the largest lymph node in the right lower paratracheal region?,16x8 mm,Open,-,-,-,-,-
+3,2,test_229_a_1.nii.gz,What is the size of the nodular density increase in the posterobasal segment of the lower lobe of the right lung?,6.5 x 5.5 mm,Open,-,-,-,-,-
+3,2,test_229_a_2.nii.gz,What is the size of the nodular density increase in the posterobasal segment of the lower lobe of the right lung?,6.5 x 5.5 mm,Open,-,-,-,-,-
+3,2,test_229_a_2.nii.gz,What is the size of the largest lymph node in the right lower paratracheal region?,16x8 mm,Open,-,-,-,-,-
+3,2,test_22_a_2.nii.gz,What is the size of the consolidation in the basal segment of the lower lobe of the left lung?,21 mm,Open,-,-,-,-,-
+3,2,test_232_a_1.nii.gz,What is the size of the largest nodule in the posterior segment of the left lung upper lobe?,3.5 mm,Open,-,-,-,-,-
+3,2,test_232_a_2.nii.gz,What is the size of the largest nodule in the posterior segment of the left lung upper lobe?,3.5 mm,Open,-,-,-,-,-
+3,2,test_239_a_1.nii.gz,What is the size of the mesenteric lymph node?,16x9 mm,Open,-,-,-,-,-
+3,2,test_239_a_2.nii.gz,What is the size of the mesenteric lymph node?,16x9 mm,Open,-,-,-,-,-
+3,2,test_247_a_1.nii.gz,What is the size of the nodular lesion in the upper pole of the right kidney?,47x43 mm,Open,-,-,-,-,-
+3,2,test_250_c_1.nii.gz,What is the size of the right upper lymph node?,7.6 x 8.4 mm,Open,-,-,-,-,-
+3,2,test_250_c_2.nii.gz,What is the size of the right upper lymph node?,7.6 x 8.4 mm,Open,-,-,-,-,-
+3,2,test_275_a_1.nii.gz,What is the size of the hypodense nodule in the left lobe?,30x40 mm,Open,-,-,-,-,-
+3,2,test_275_a_2.nii.gz,What is the size of the hypodense nodule in the left lobe?,30x40 mm,Open,-,-,-,-,-
+3,2,test_276_a_1.nii.gz,What is the size of the largest mass lesion on the right anterior chest wall?,55 mm,Open,-,-,-,-,-
+3,2,test_276_a_2.nii.gz,What is the size of the largest mass lesion on the right anterior chest wall?,55 mm,Open,-,-,-,-,-
+3,2,test_278_a_1.nii.gz,What is the size of the lymph node adjacent to the gastric cardia?,15x13 mm,Open,-,-,-,-,-
+3,2,test_278_a_2.nii.gz,What is the size of the lymph node adjacent to the gastric cardia?,15x13 mm,Open,-,-,-,-,-
+3,2,test_291_a_1.nii.gz,What is the size of the large nodule?,55x45 mm,Open,-,-,-,-,-
+3,2,test_291_a_2.nii.gz,What is the size of the large nodule?,55x45 mm,Open,-,-,-,-,-
+3,2,test_2_a_1.nii.gz,What is the size of the soft tissue mass?,5x4x5 cm,Open,-,-,-,-,-
+3,2,test_2_a_2.nii.gz,What is the size of the soft tissue mass?,5x4x5 cm,Open,-,-,-,-,-
+3,2,test_300_a_1.nii.gz,What is the size of the largest calculus?,4x3 mm,Open,-,-,-,-,-
+3,2,test_300_a_1.nii.gz,What is the size of the lesion in subsegment 7 of the right lobe of the liver?,17x15 mm,Open,-,-,-,-,-
+3,2,test_300_a_2.nii.gz,What is the size of the largest calculus?,4x3 mm,Open,-,-,-,-,-
+3,2,test_300_a_2.nii.gz,What is the size of the lesion in subsegment 7 of the right lobe of the liver?,17x15 mm,Open,-,-,-,-,-
+3,2,test_306_a_1.nii.gz,What is the size of the lobulated mass in the left lung?,43x34 mm,Open,-,-,-,-,-
+3,2,test_306_a_1.nii.gz,What is the size of the larger nodular lesion on the right adrenal gland?,21x16 mm,Open,-,-,-,-,-
+3,2,test_306_a_2.nii.gz,What is the size of the lobulated mass in the left lung?,43x34 mm,Open,-,-,-,-,-
+3,2,test_306_a_2.nii.gz,What is the size of the nodular lesion on the right adrenal gland?,21x16 mm,Open,-,-,-,-,-
+3,2,test_311_a_1.nii.gz,What is the size of the lesion in the right upper paratracheal area?,35x25 mm,Open,-,-,-,-,-
+3,2,test_331_a_1.nii.gz,What is the size of the larger nodule in the posterior segment of the right lung upper lobe?,6.1 x 5.3 mm,Open,-,-,-,-,-
+3,2,test_331_b_1.nii.gz,What is the size of the largest nodule in the right lung upper lobe posterior segment?,6.1 x 5.3 mm,Open,-,-,-,-,-
+3,2,test_331_b_2.nii.gz,What is the size of the largest nodule in the right lung upper lobe posterior segment?,6.1 x 5.3 mm,Open,-,-,-,-,-
+3,2,test_339_a_1.nii.gz,What is the size of the lesion in the lingular segment?,7.5x5 mm,Open,-,-,-,-,-
+3,2,test_339_a_2.nii.gz,What is the size of the lesion in the lingular segment?,7.5 x 5 mm,Open,-,-,-,-,-
+3,2,test_342_a_1.nii.gz,What is the size of the nodule in the superior lower lobe of the left lung?,7.5 mm,Open,-,-,-,-,-
+3,2,test_350_a_1.nii.gz,What is the size of the lesion in the paravertebral area?,27x65 mm,Open,-,-,-,-,-
+3,2,test_350_a_2.nii.gz,What is the size of the lesion in the paravertebral area?,27x65 mm,Open,-,-,-,-,-
+3,2,test_352_a_1.nii.gz,What is the size of the hypodense lesion in the medial crus of the right adrenal gland?,30x15 mm,Open,-,-,-,-,-
+3,2,test_352_a_2.nii.gz,What is the size of the lesion in the medial crus of the right adrenal gland?,30x15 mm,Open,-,-,-,-,-
+3,2,test_359_a_2.nii.gz,What is the size of the nodule in the right lung upper lobe apical segment posterior?,5x3.5 mm,Open,-,-,-,-,-
+3,2,test_362_a_1.nii.gz,What is the size of the nodule in the subpleural area at the posterobasal level on the right?,11x5 mm,Open,-,-,-,-,-
+3,2,test_362_a_2.nii.gz,What is the size of the nodule in the subpleural area at the posterobasal level on the right?,11x5 mm,Open,-,-,-,-,-
+3,2,test_364_a_1.nii.gz,What is the size of the lesion at the level of the left adrenal genu?,23x15 mm,Open,-,-,-,-,-
+3,2,test_364_a_2.nii.gz,What is the size of the lesion at the left adrenal genu?,23x15 mm,Open,-,-,-,-,-
+3,2,test_368_a_1.nii.gz,What is the size of the nodule in the anterior segment?,3x2 mm,Open,-,-,-,-,-
+3,2,test_368_a_1.nii.gz,What is the size of the nodule at the level of the interlobar fissure?,8x2 mm,Open,-,-,-,-,-
+3,2,test_368_a_2.nii.gz,What is the size of the nodule in the anterior segment?,3x2 mm,Open,-,-,-,-,-
+3,2,test_368_a_2.nii.gz,What is the size of the nodule at the level of the interlobar fissure?,8x2 mm,Open,-,-,-,-,-
+3,2,test_369_a_1.nii.gz,What is the size of the nodular consolidation in the lower lobe of the left lung?,6x8 mm,Open,-,-,-,-,-
+3,2,test_369_a_2.nii.gz,What is the size of the nodular consolidation in the lower lobe of the left lung?,6x8 mm,Open,-,-,-,-,-
+3,2,test_377_a_1.nii.gz,What is the size of the subpleural nodule in the laterobasal segment of the lower lobe of the left lung?,7.5 x 5 mm,Open,-,-,-,-,-
+3,2,test_377_a_2.nii.gz,What is the size of the subpleural nodule in the laterobasal segment of the lower lobe of the left lung?,7.5 x 5 mm,Open,-,-,-,-,-
+3,2,test_387_a_1.nii.gz,What is the size of the largest lymph node on the right?,7.5 mm,Open,-,-,-,-,-
+3,2,test_387_a_2.nii.gz,What is the size of the largest lymph node on the right?,7.5 mm,Open,-,-,-,-,-
+3,2,test_38_a_2.nii.gz,What is the size of the oval-shaped calcified lesion at the retroareolar level of the left breast?,13x9 mm,Open,-,-,-,-,-
+3,2,test_397_a_2.nii.gz,What is the size of the largest lesion in the right lung lower lobe posterobasal?,40x12 mm,Open,-,-,-,-,-
+3,2,test_39_a_1.nii.gz,What is the size of the nodule at the posterobasal level in the left lung?,6x3 mm,Open,-,-,-,-,-
+3,2,test_39_a_2.nii.gz,What is the size of the nodule at the posterobasal level in the left lung?,6x3 mm,Open,-,-,-,-,-
+3,2,test_3_a_1.nii.gz,What is the size of the nodular image superposed on the major fissure?,6x2.5 mm,Open,-,-,-,-,-
+3,2,test_3_a_2.nii.gz,What is the size of the nodular image superposed on the major fissure?,6x2.5 mm,Open,-,-,-,-,-
+3,2,test_403_b_1.nii.gz,What is the size of the largest lesion on the left?,12x9 mm,Open,-,-,-,-,-
+3,2,test_403_b_1.nii.gz,What is the size of the largest lesion in the right upper paratracheal area?,14x8 mm,Open,-,-,-,-,-
+3,2,test_403_b_2.nii.gz,What is the size of the largest lesion on the left?,12x9 mm,Open,-,-,-,-,-
+3,2,test_403_b_2.nii.gz,What is the size of the largest lesion in the right upper paratracheal area?,14x8 mm,Open,-,-,-,-,-
+3,2,test_414_a_2.nii.gz,What is the size of the nodular lesion in the lateral crus of the left adrenal gland?,16x13 mm,Open,-,-,-,-,-
+3,2,test_416_b_1.nii.gz,What is the size of the largest lesion in the lateral part of the 7th rib on the left?,7x6 mm,Open,-,-,-,-,-
+3,2,test_416_b_2.nii.gz,What is the size of the largest lesion in the lateral part of the 7th rib on the left?,7x6 mm,Open,-,-,-,-,-
+3,2,test_41_a_1.nii.gz,What is the size of the largest lobulated lesion in the superior right lobe?,32x21 mm,Open,-,-,-,-,-
+3,2,test_41_a_2.nii.gz,What is the size of the largest lobulated lesion in the superior right lobe?,32x21 mm,Open,-,-,-,-,-
+3,2,test_437_a_1.nii.gz,What is the size of the largest lesion in the upper paratracheal area?,30x23 mm,Open,-,-,-,-,-
+3,2,test_437_a_2.nii.gz,What is the size of the largest lesion in the upper paratracheal area?,30x23 mm,Open,-,-,-,-,-
+3,2,test_43_a_1.nii.gz,What is the size of the largest lesion in the subcarinal area?,18x9 mm,Open,-,-,-,-,-
+3,2,test_43_a_2.nii.gz,What is the size of the largest lesion in the subcarinal area?,18x9 mm,Open,-,-,-,-,-
+3,2,test_453_a_1.nii.gz,What is the size of the hypodense nodular lesion at the middle pole of the left kidney?,2x1.8 cm,Open,-,-,-,-,-
+3,2,test_453_a_2.nii.gz,What is the size of the hypodense nodular lesion at the middle pole of the left kidney?,2x1.8 cm,Open,-,-,-,-,-
+3,2,test_457_a_1.nii.gz,What is the size of the low-density collection adjacent to the segment 5 graft?,20x30 mm,Open,-,-,-,-,-
+3,2,test_457_a_2.nii.gz,What is the size of the low-density collection adjacent to the segment 5 graft?,20x30 mm,Open,-,-,-,-,-
+3,2,test_457_d_1.nii.gz,What is the size of the cavitary lesion in the mediobasal segment of the lower lobe of the right lung?,22x10 mm,Open,-,-,-,-,-
+3,2,test_457_d_2.nii.gz,What is the size of the cavitary lesion in the mediobasal segment of the lower lobe of the right lung?,22x10 mm,Open,-,-,-,-,-
+3,2,test_482_b_1.nii.gz,What is the size of the semisolid nodule in the anterior segment of the right lung upper lobe?,11x7 mm,Open,-,-,-,-,-
+3,2,test_482_b_2.nii.gz,What is the size of the semisolid nodule in the anterior segment of the right lung upper lobe?,11x7 mm,Open,-,-,-,-,-
+3,2,test_493_a_1.nii.gz,What is the size of the largest lesion in the right upper paratracheal area?,29x23 mm,Open,-,-,-,-,-
+3,2,test_493_a_1.nii.gz,What is the size of the largest lesion at the posterobasal level of the left lung?,30x25 mm,Open,-,-,-,-,-
+3,2,test_493_a_1.nii.gz,What is the size of the largest lesion at the right hilar level?,20x18 mm,Open,-,-,-,-,-
+3,2,test_493_a_2.nii.gz,What is the size of the largest lesion at the right hilar level?,20x18 mm,Open,-,-,-,-,-
+3,2,test_493_a_2.nii.gz,What is the size of the largest lesion in the right upper paratracheal area?,29x23 mm,Open,-,-,-,-,-
+3,2,test_493_a_2.nii.gz,What is the size of the largest lesion at the posterobasal level of the left lung?,30x25 mm,Open,-,-,-,-,-
+3,2,test_497_a_1.nii.gz,What is the size of the lesion in liver segment 4B?,16x11 mm,Open,-,-,-,-,-
+3,2,test_497_a_2.nii.gz,What is the size of the lesion in liver segment 4B?,16x11 mm,Open,-,-,-,-,-
+3,2,test_4_b_1.nii.gz,What is the size of the lesion in the right adrenal gland?,28x17 mm,Open,-,-,-,-,-
+3,2,test_4_b_2.nii.gz,What is the size of the lesion in the right adrenal gland?,28x17 mm,Open,-,-,-,-,-
+3,2,test_512_a_1.nii.gz,What is the size of the lymph node at the right hilar level?,12x10 mm,Open,-,-,-,-,-
+3,2,test_512_a_2.nii.gz,What is the size of the lymph node at the right hilar level?,12x10 mm,Open,-,-,-,-,-
+3,2,test_517_a_2.nii.gz,What is the size of the nodular lesion in the lateral crus of the left adrenal gland?,17x13 mm,Open,-,-,-,-,-
+3,2,test_535_a_1.nii.gz,What is the size of the largest nodule in the laterobasal segment of the lower lobe of the left lung?,6x8 mm,Open,-,-,-,-,-
+3,2,test_535_a_2.nii.gz,What is the size of the largest nodule in the laterobasal segment of the lower lobe of the left lung?,6x8 mm,Open,-,-,-,-,-
+3,2,test_535_b_1.nii.gz,What is the size of the subpleural nodules in the lateral segment of the left lung lower lobe?,6 mm,Open,-,-,-,-,-
+3,2,test_535_c_1.nii.gz,What is the size of the calcific nodule in the anterior segment caudal of the right lung upper lobe?,5x3 mm,Open,-,-,-,-,-
+3,2,test_535_c_1.nii.gz,What is the size of the nodule at the laterobasal level in the left lung?,7x5 mm,Open,-,-,-,-,-
+3,2,test_535_c_1.nii.gz,What is the size of the calcific nodule in the anterior segment caudal?,4x3 mm,Open,-,-,-,-,-
+3,2,test_535_c_2.nii.gz,What is the size of the nodule at the laterobasal level in the left lung?,7x5 mm,Open,-,-,-,-,-
+3,2,test_535_c_2.nii.gz,What is the size of the calcific nodule in the anterior segment caudal of the right lung upper lobe?,5x3 mm,Open,-,-,-,-,-
+3,2,test_538_a_1.nii.gz,What is the size of the mass lesion in the upper lobe?,10x8.6 cm,Open,-,-,-,-,-
+3,2,test_538_a_2.nii.gz,What is the size of the mass lesion in the upper lobe?,10x8.6 cm,Open,-,-,-,-,-
+3,2,test_538_b_1.nii.gz,What is the size of the largest lesion observed?,35 mm,Open,-,-,-,-,-
+3,2,test_538_b_1.nii.gz,What is the size of the mass lesion at the level of the left scapula?,Approximately 9 cm.,Open,-,-,-,-,-
+3,2,test_538_b_1.nii.gz,What is the size of the pathological mediastinal lymph node in the left lower paratracheal region?,32 mm,Open,-,-,-,-,-
+3,2,test_538_b_2.nii.gz,What is the size of the largest lesion observed?,35 mm,Open,-,-,-,-,-
+3,2,test_538_b_2.nii.gz,What is the size of the mass lesion infiltrating the skin?,Approximately 9 cm.,Open,-,-,-,-,-
+3,2,test_538_b_2.nii.gz,What is the size of the pathological mediastinal lymph node in the left lower paratracheal region?,32 mm,Open,-,-,-,-,-
+3,2,test_555_a_1.nii.gz,What is the size of the nodule in the left adrenal gland?,17 mm,Open,-,-,-,-,-
+3,2,test_566_b_1.nii.gz,What is the size of the pleural effusion in the right hemithorax?,16 mm,Open,-,-,-,-,-
+3,2,test_578_a_1.nii.gz,What is the size of the nodule in the lingular segment of the left lung?,5x3 mm,Open,-,-,-,-,-
+3,2,test_578_a_2.nii.gz,What is the size of the nodule in the lingular segment of the left lung?,5x3 mm,Open,-,-,-,-,-
+3,2,test_57_a_1.nii.gz,What is the size of the largest lesion in the subcarinal area?,20x14 mm,Open,-,-,-,-,-
+3,2,test_57_a_2.nii.gz,What is the size of the largest lesion in the subcarinal area?,20x14 mm,Open,-,-,-,-,-
+3,2,test_593_a_2.nii.gz,What is the size of the largest lesion in the prevascular area?,13x12 mm,Open,-,-,-,-,-
+3,2,test_594_a_1.nii.gz,What is the size of the lesion in the right adrenal gland?,25x10 mm,Open,-,-,-,-,-
+3,2,test_60_a_1.nii.gz,What is the size of the largest nodule in the superior segment of the left lung lower lobe?,10x12 mm,Open,-,-,-,-,-
+3,2,test_60_a_1.nii.gz,What is the size of the largest nodular metastatic lesion in the lateral-posterior wall of the right thorax?,16x20 mm,Open,-,-,-,-,-
+3,2,test_60_a_2.nii.gz,What is the size of the largest nodule in the superior segment of the left lung lower lobe?,10x12 mm,Open,-,-,-,-,-
+3,2,test_60_a_2.nii.gz,What is the size of the largest nodular metastatic lesion in the lateral-posterior wall of the right thorax?,16x20 mm,Open,-,-,-,-,-
+3,2,test_613_a_1.nii.gz,What is the widest dimension of the mass lesion at the level of the aortic arch?,95 mm,Open,-,-,-,-,-
+3,2,test_613_a_1.nii.gz,What is the size of the lesion in the current examination?,30x20 mm,Open,-,-,-,-,-
+3,2,test_613_a_2.nii.gz,What is the size of the lesion in the current examination?,30x20 mm,Open,-,-,-,-,-
+3,2,test_613_a_2.nii.gz,What is the widest dimension of the mass lesion at the level of the aortic arch?,95 mm,Open,-,-,-,-,-
+3,2,test_615_a_1.nii.gz,What is the size of the largest lesion in the image?,4.5 mm,Open,-,-,-,-,-
+3,2,test_615_a_2.nii.gz,What is the size of the largest lesion?,4.5 mm,Open,-,-,-,-,-
+3,2,test_624_b_1.nii.gz,What is the size of the largest nodule in the posterobasal segment of the left lung lower lobe?,9.5 x 8 mm,Open,-,-,-,-,-
+3,2,test_624_b_2.nii.gz,What is the size of the largest nodule in the posterobasal segment of the left lung lower lobe?,9.5 x 8 mm,Open,-,-,-,-,-
+3,2,test_630_a_1.nii.gz,What is the size of the largest lesion in the subcarinal area?,15x9 mm,Open,-,-,-,-,-
+3,2,test_630_a_2.nii.gz,What is the size of the largest lesion in the subcarinal area?,15x9 mm,Open,-,-,-,-,-
+3,2,test_637_a_1.nii.gz,What is the size of the nodules in the posterobasal segment of the left lung lower lobe?,3.5 mm,Open,-,-,-,-,-
+3,2,test_63_b_1.nii.gz,What is the size of the lymph nodes in the upper-lower paratracheal area?,17x11 mm,Open,-,-,-,-,-
+3,2,test_63_b_2.nii.gz,What is the size of the lymph nodes in the upper-lower paratracheal area?,17x11 mm,Open,-,-,-,-,-
+3,2,test_645_c_1.nii.gz,What is the size of the nodular formation in the anterior of the spleen?,9x5 mm,Open,-,-,-,-,-
+3,2,test_645_c_1.nii.gz,What is the size of the largest lesion?,10x5.5 mm,Open,-,-,-,-,-
+3,2,test_645_c_2.nii.gz,What is the size of the nodular formation in the anterior of the spleen?,9x5 mm,Open,-,-,-,-,-
+3,2,test_645_c_2.nii.gz,What is the size of the largest lesion?,10x5.5 mm,Open,-,-,-,-,-
+3,2,test_653_a_1.nii.gz,What is the size of the lesion in the posterior of the right scapula?,55x29 mm,Open,-,-,-,-,-
+3,2,test_653_a_2.nii.gz,What is the size of the lesion in the posterior of the right scapula?,55x29 mm,Open,-,-,-,-,-
+3,2,test_658_a_1.nii.gz,What is the size of the largest nodule in the lateral segment of the right lung middle lobe?,6x3 mm,Open,-,-,-,-,-
+3,2,test_658_a_2.nii.gz,What is the size of the largest nodule in the lateral segment of the right lung middle lobe?,6x3 mm,Open,-,-,-,-,-
+3,2,test_662_a_1.nii.gz,What is the size of the mass lesion in the apical region of the upper lobe of the right lung?,64 mm,Open,-,-,-,-,-
+3,2,test_662_a_2.nii.gz,What is the size of the mass lesion in the apical region of the upper lobe of the right lung?,64 mm,Open,-,-,-,-,-
+3,2,test_665_a_1.nii.gz,What is the size of the largest lymph node in the left axilla?,12x7 mm,Open,-,-,-,-,-
+3,2,test_665_a_2.nii.gz,What is the size of the largest lymph node in the left axilla?,12x7 mm,Open,-,-,-,-,-
+3,2,test_685_a_1.nii.gz,What is the size of the pleural-based nodule in the apicoposterior segment of the upper lobe of the left lung?,15x11 mm,Open,-,-,-,-,-
+3,2,test_685_a_2.nii.gz,What is the size of the pleural-based nodule in the apicoposterior segment of the upper lobe of the left lung?,15x11 mm,Open,-,-,-,-,-
+3,2,test_690_a_1.nii.gz,What is the size of the nodular lesion in the lower pole of the left kidney?,42x27 mm,Open,-,-,-,-,-
+3,2,test_690_a_1.nii.gz,What is the size of the largest lesion in the anterior segment of the left lung upper lobe?,10x5 mm,Open,-,-,-,-,-
+3,2,test_690_a_1.nii.gz,What is the size of the effusion in the deepest part of the right pleural area?,113 mm,Open,-,-,-,-,-
+3,2,test_690_a_2.nii.gz,What is the size of the largest lesion in the anterior segment of the left lung upper lobe?,10x5 mm,Open,-,-,-,-,-
+3,2,test_690_a_2.nii.gz,What is the size of the effusion in the deepest part of the right pleural area?,113 mm,Open,-,-,-,-,-
+3,2,test_690_a_2.nii.gz,What is the size of the nodular lesion in the lower pole of the left kidney?,42x27 mm,Open,-,-,-,-,-
+3,2,test_691_a_1.nii.gz,What is the size of the lesion?,33x23 mm,Open,-,-,-,-,-
+3,2,test_691_a_1.nii.gz,What is the size of the lesion in the dorsal part of the right lower lobe?,43x62 mm,Open,-,-,-,-,-
+3,2,test_691_a_1.nii.gz,What is the size of the effusion in the right pleural area?,39 mm,Open,-,-,-,-,-
+3,2,test_691_a_2.nii.gz,What is the size of the lesion in the dorsal part of the right lower lobe?,43x62 mm,Open,-,-,-,-,-
+3,2,test_691_a_2.nii.gz,What is the size of the effusion in the deepest part of the right pleural area?,39 mm,Open,-,-,-,-,-
+3,2,test_691_a_2.nii.gz,What is the size of the lesion?,33x23 mm,Open,-,-,-,-,-
+3,2,test_699_a_1.nii.gz,What is the size of the pleural effusion at its widest point in the lower lobe of the right lung?,9 cm,Open,-,-,-,-,-
+3,2,test_699_a_2.nii.gz,What is the size of the pleural effusion at its widest point in the lower lobe of the right lung?,9 cm,Open,-,-,-,-,-
+3,2,test_709_a_1.nii.gz,What is the size of the largest pathological lymph node at the right upper-lower paratracheal level?,17x12 mm,Open,-,-,-,-,-
+3,2,test_709_a_2.nii.gz,What is the size of the largest pathological lymph node at the right upper-lower paratracheal level?,17x12 mm,Open,-,-,-,-,-
+3,2,test_712_a_2.nii.gz,What is the size of the lesion in the lateral aspect of the left breast?,9x6.5 cm,Open,-,-,-,-,-
+3,2,test_717_a_1.nii.gz,What is the size of the largest lymphadenopathy in the subcarinal area?,26 mm,Open,-,-,-,-,-
+3,2,test_717_a_2.nii.gz,What is the size of the largest lymphadenopathy in the subcarinal area?,26 mm,Open,-,-,-,-,-
+3,2,test_718_a_1.nii.gz,What is the size of the cystic lesion in the anterior mediastinum?,43x40 mm,Open,-,-,-,-,-
+3,2,test_725_a_1.nii.gz,What is the size of the largest lesion observed?,80 mm,Open,-,-,-,-,-
+3,2,test_725_a_1.nii.gz,What is the size of the target 1 lesion?,98 mm,Open,-,-,-,-,-
+3,2,test_725_a_2.nii.gz,What is the size of the largest lesion observed?,80 mm,Open,-,-,-,-,-
+3,2,test_725_a_2.nii.gz,What is the size of the target 1 lesion?,98 mm,Open,-,-,-,-,-
+3,2,test_732_a_1.nii.gz,What is the size of the effusion on the right hemithorax?,78 mm,Open,-,-,-,-,-
+3,2,test_736_a_1.nii.gz,What is the size of the nodular mass lesion in the left adrenal gland?,29x24 mm,Open,-,-,-,-,-
+3,2,test_736_a_1.nii.gz,What is the size of the subpleural nodular consolidation area in the posterobasal segment of the lower lobe of the right lung?,14x10 mm,Open,-,-,-,-,-
+3,2,test_736_a_1.nii.gz,What is the size of the cystic lesion at the interface of the ascending aorta and pulmonary trunk?,27x23x36 mm,Open,-,-,-,-,-
+3,2,test_736_a_2.nii.gz,What is the size of the subpleural nodular consolidation area in the posterobasal segment of the lower lobe of the right lung?,14x10 mm,Open,-,-,-,-,-
+3,2,test_736_a_2.nii.gz,What is the size of the nodular mass lesion in the left adrenal gland?,29x24 mm,Open,-,-,-,-,-
+3,2,test_736_a_2.nii.gz,What is the size of the cystic lesion at the interface of the ascending aorta and pulmonary trunk?,27x23x36 mm,Open,-,-,-,-,-
+3,2,test_737_a_1.nii.gz,What is the size of the largest lesion at segment 4A level?,41x36 mm,Open,-,-,-,-,-
+3,2,test_737_a_2.nii.gz,What is the size of the largest lesion at segment 4A level?,41x36 mm,Open,-,-,-,-,-
+3,2,test_738_a_2.nii.gz,What is the size of the nodular lesion in the left adrenal gland?,24 mm,Open,-,-,-,-,-
+3,2,test_757_a_1.nii.gz,What is the size of the linear density increase in the right lung lower lobe superior segment?,14.5 x 5 mm,Open,-,-,-,-,-
+3,2,test_757_a_2.nii.gz,What is the size of the linear density increase in the right lung lower lobe superior segment?,14.5 x 5 mm,Open,-,-,-,-,-
+3,2,test_759_a_1.nii.gz,What is the size of the lesion?,19x16 mm,Open,-,-,-,-,-
+3,2,test_759_a_2.nii.gz,What is the size of the lesion?,19x16 mm,Open,-,-,-,-,-
+3,2,test_761_a_1.nii.gz,What is the size of the largest lymph node in the prevascular area?,8x6 mm,Open,-,-,-,-,-
+3,2,test_761_a_2.nii.gz,What is the size of the largest lymph node in the prevascular area?,8x6 mm,Open,-,-,-,-,-
+3,2,test_768_a_1.nii.gz,What is the size of the bulla formation in the right upper lobe?,8 cm,Open,-,-,-,-,-
+3,2,test_768_a_2.nii.gz,What is the size of the bulla formation in the right upper lobe?,8 cm,Open,-,-,-,-,-
+3,2,test_778_a_1.nii.gz,What is the size of the lesion observed in the aorta?,58x48 mm,Open,-,-,-,-,-
+3,2,test_778_a_2.nii.gz,What is the size of the lesion in the widest part of the aorta?,58x48 mm,Open,-,-,-,-,-
+3,2,test_77_a_1.nii.gz,What is the size of the largest lesion in the prevascular area?,14x6 mm,Open,-,-,-,-,-
+3,2,test_77_a_2.nii.gz,What is the size of the largest lesion in the prevascular area?,14x6 mm,Open,-,-,-,-,-
+3,2,test_785_a_1.nii.gz,What is the size of the hyperdense stones in the middle zone of the right kidney?,5.5 x 4 mm,Open,-,-,-,-,-
+3,2,test_789_a_1.nii.gz,What is the size of the nodular appearance in the middle lobe of the right lung?,9x6 mm,Open,-,-,-,-,-
+3,2,test_797_a_1.nii.gz,What is the size of the nodule on the minor fissure?,5x3 mm,Open,-,-,-,-,-
+3,2,test_797_a_1.nii.gz,What is the size of the subpleural nodule in the left lung lower lobe laterobasal segment?,7x3 mm,Open,-,-,-,-,-
+3,2,test_797_a_1.nii.gz,What is the size of the largest lesion on the right?,19x9 mm,Open,-,-,-,-,-
+3,2,test_797_a_2.nii.gz,What is the size of the subpleural nodule in the left lung lower lobe laterobasal segment?,7x3 mm,Open,-,-,-,-,-
+3,2,test_797_a_2.nii.gz,What is the size of the nodule on the minor fissure?,5x3 mm,Open,-,-,-,-,-
+3,2,test_797_a_2.nii.gz,What is the size of the largest lesion on the right?,19x9 mm,Open,-,-,-,-,-
+3,2,test_7_a_1.nii.gz,What is the size of the nodule located slightly more caudally?,5x2 mm,Open,-,-,-,-,-
+3,2,test_7_a_1.nii.gz,What is the size of the nodule in the anterior segment of the left lung upper lobe?,6x4 mm,Open,-,-,-,-,-
+3,2,test_7_a_1.nii.gz,What is the size of the nodule in the left lung lower lobe laterobasal segment?,8x5 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule in the anterior segment of the left lung upper lobe?,6x4 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule in the anterior segment of the left lung upper lobe?,6x4 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule located slightly more caudally?,5x2 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule in the anterior segment of the left lung upper lobe?,6x4 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule located slightly more caudally?,5x2 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule located slightly more caudally?,5x2 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule in the anterior segment of the left lung upper lobe?,6x4 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule in the left lung lower lobe laterobasal segment?,8x5 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule in the left lung lower lobe laterobasal segment?,8x5 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule in the left lung lower lobe laterobasal segment?,8x5 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule in the left lung lower lobe laterobasal segment?,8x5 mm,Open,-,-,-,-,-
+3,2,test_7_a_2.nii.gz,What is the size of the nodule located slightly more caudally?,5x2 mm,Open,-,-,-,-,-
+3,2,test_802_a_2.nii.gz,What is the size of the hemangioma in the right half of the T10 vertebra corpus?,2.5 cm,Open,-,-,-,-,-
+3,2,test_803_a_1.nii.gz,What is the size of the nodule in the posterobasal segment of the lower lobe of the left lung?,5x3 mm,Open,-,-,-,-,-
+3,2,test_803_a_1.nii.gz,What is the size of the largest lymph node in the mediastinum?,8x6 mm,Open,-,-,-,-,-
+3,2,test_803_a_2.nii.gz,What is the size of the nodule in the posterobasal segment of the lower lobe of the left lung?,5x3 mm,Open,-,-,-,-,-
+3,2,test_803_a_2.nii.gz,What is the size of the largest lymph node in the mediastinum?,8x6 mm,Open,-,-,-,-,-
+3,2,test_820_a_1.nii.gz,What is the size of the nodular hypodense lesion in the middle zone posterior of the left kidney?,19x14 mm,Open,-,-,-,-,-
+3,2,test_820_a_1.nii.gz,What is the size of the largest calcific nodule in the left lung?,17x10 mm,Open,-,-,-,-,-
+3,2,test_820_a_2.nii.gz,What is the size of the nodular hypodense lesion in the middle zone posterior of the left kidney?,19x14 mm,Open,-,-,-,-,-
+3,2,test_820_a_2.nii.gz,What is the size of the largest calcific nodule in the left lung?,17x10 mm,Open,-,-,-,-,-
+3,2,test_825_a_1.nii.gz,What is the size of the nodules on the fissure on the left?,8.8 x 3.2 mm,Open,-,-,-,-,-
+3,2,test_825_a_2.nii.gz,What is the size of the nodules observed on the fissure on the left?,8.8 x 3.2 mm,Open,-,-,-,-,-
+3,2,test_825_b_1.nii.gz,What is the size of the nodules observed on the fissure on the left?,8.8 x 3.2 mm,Open,-,-,-,-,-
+3,2,test_829_a_1.nii.gz,What is the size of the pleural effusion in the left lung?,9 cm,Open,-,-,-,-,-
+3,2,test_829_a_2.nii.gz,What is the size of the pleural effusion in the left lung?,9 cm,Open,-,-,-,-,-
+3,2,test_830_b_1.nii.gz,What is the size of the largest lesion?,15x10.6 mm,Open,-,-,-,-,-
+3,2,test_830_b_2.nii.gz,What is the size of the largest lesion?,15x10.6 mm,Open,-,-,-,-,-
+3,2,test_836_a_1.nii.gz,What is the size of the lipomatous lesion in the posterior pole of the right kidney?,24x45 mm,Open,-,-,-,-,-
+3,2,test_836_a_1.nii.gz,What is the size of the largest nodule?,7x6 mm,Open,-,-,-,-,-
+3,2,test_841_a_1.nii.gz,What is the size of the mass lesion?,17x14 mm,Open,-,-,-,-,-
+3,2,test_841_a_2.nii.gz,What is the craniocaudal length of the liver?,181 mm,Open,-,-,-,-,-
+3,2,test_841_a_2.nii.gz,What is the size of the mass lesion with irregular contours?,17x14 mm,Open,-,-,-,-,-
+3,2,test_847_a_1.nii.gz,What is the size of the nodule in the middle lobe of the right lung?,6x4 mm,Open,-,-,-,-,-
+3,2,test_847_a_1.nii.gz,What is the largest dimension of the lesion in the subcarinal area?,16 mm,Open,-,-,-,-,-
+3,2,test_847_a_2.nii.gz,What is the size of the nodule in the middle lobe of the right lung?,6x4 mm,Open,-,-,-,-,-
+3,2,test_847_a_2.nii.gz,What is the largest dimension of the lesion in the subcarinal area?,16 mm,Open,-,-,-,-,-
+3,2,test_849_a_2.nii.gz,What is the size of the subpleural nodule in the left lung apex?,8x6 mm,Open,-,-,-,-,-
+3,2,test_885_a_1.nii.gz,What is the size of the largest lesion in the upper paratracheal area?,18x11 mm,Open,-,-,-,-,-
+3,2,test_885_a_1.nii.gz,What is the size of the largest lesion at the level of the celiac axis?,15x11 mm,Open,-,-,-,-,-
+3,2,test_885_a_2.nii.gz,What is the size of the largest lesion at the level of the celiac axis?,15x11 mm,Open,-,-,-,-,-
+3,2,test_885_a_2.nii.gz,What is the size of the largest lesion in the upper paratracheal area?,18x11 mm,Open,-,-,-,-,-
+3,2,test_902_a_1.nii.gz,What is the size of the mass surrounding the lower lobe segmental bronchi?,11.5 x 5.5 cm,Open,-,-,-,-,-
+3,2,test_902_a_2.nii.gz,What is the size of the mass surrounding the lower lobe segmental bronchi?,11.5 x 5.5 cm,Open,-,-,-,-,-
+3,2,test_90_a_1.nii.gz,What is the size of the thick-walled cavitary lesion in the right upper lobe?,51 mm,Open,-,-,-,-,-
+3,2,test_90_a_2.nii.gz,What is the size of the thick-walled cavitary lesion in the right upper lobe?,51 mm,Open,-,-,-,-,-
+3,2,test_927_a_1.nii.gz,What is the size of the largest lymphadenopathy in the paratracheal region?,30x25 mm,Open,-,-,-,-,-
+3,2,test_927_a_2.nii.gz,What is the size of the largest lymphadenopathy in the paratracheal region?,30x25 mm,Open,-,-,-,-,-
+3,2,test_933_b_1.nii.gz,What is the size of the air cyst in the right lung lower lobe?,3 cm,Open,-,-,-,-,-
+3,2,test_933_b_2.nii.gz,What is the size of the air cyst in the right lung lower lobe?,3 cm,Open,-,-,-,-,-
+3,2,test_936_a_1.nii.gz,What is the size of the nodular lesion in the anterior mediastinum?,20x16 mm,Open,-,-,-,-,-
+3,2,test_936_a_2.nii.gz,What is the size of the nodular lesion in the anterior mediastinum?,20x16 mm,Open,-,-,-,-,-
+3,2,test_941_a_1.nii.gz,What is the size of the lesion in the left paraaortic area?,30x25 mm,Open,-,-,-,-,-
+3,2,test_941_a_2.nii.gz,What is the size of the lesion in the left paraaortic area?,30x25 mm,Open,-,-,-,-,-
+3,2,test_948_a_1.nii.gz,What is the size of the pleural effusion in the right lung?,6 cm,Open,-,-,-,-,-
+3,2,test_948_a_2.nii.gz,What is the size of the pleural effusion in the right lung?,6 cm,Open,-,-,-,-,-
+3,2,test_95_a_1.nii.gz,What is the size of the lymph node at the right hilar level?,10x8 mm,Open,-,-,-,-,-
+3,2,test_95_a_1.nii.gz,What is the size of the lesions in the subcarinal area?,12x9 mm,Open,-,-,-,-,-
+3,2,test_95_a_2.nii.gz,What is the size of the lesions in the subcarinal area?,12x9 mm,Open,-,-,-,-,-
+3,2,test_95_a_2.nii.gz,What is the size of the lymph node at the right hilar level?,10x8 mm,Open,-,-,-,-,-
+3,2,test_968_b_1.nii.gz,What is the size of the largest lesion in the paratracheal area?,10x5 mm,Open,-,-,-,-,-
+3,2,test_968_b_2.nii.gz,What is the size of the largest lesion in the paratracheal area?,10x5 mm,Open,-,-,-,-,-
+3,2,test_968_d_1.nii.gz,What is the size of the effusion in the deepest part on the right?,33 mm,Open,-,-,-,-,-
+3,2,test_976_a_1.nii.gz,What is the size of the nodular lesion in the lower outer quadrant of the right breast?,26x18 mm,Open,-,-,-,-,-
+3,2,test_976_a_2.nii.gz,What is the size of the nodular lesion in the lower outer quadrant of the right breast?,26x18 mm,Open,-,-,-,-,-
+3,2,test_97_a_1.nii.gz,What is the size of the lesion at the level of the major fissure?,10x5.5 mm,Open,-,-,-,-,-
+3,2,test_97_a_2.nii.gz,What is the size of the lesion at the level of the major fissure?,10x5.5 mm,Open,-,-,-,-,-
+3,2,test_987_a_1.nii.gz,What is the size of the largest nodule in the right lung middle lobe medial segment?,4x2 mm,Open,-,-,-,-,-
+3,2,test_987_a_2.nii.gz,What is the size of the largest nodule in the right lung middle lobe medial segment?,4x2 mm,Open,-,-,-,-,-
+3,2,test_99_a_2.nii.gz,What is the size of the hypodense lesion at the junction of liver segment 5-6?,22x16 mm,Open,-,-,-,-,-

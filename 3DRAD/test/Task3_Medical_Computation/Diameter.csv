@@ -1,0 +1,451 @@
+Task,Subtask,VolumeName,Question,Answer,QuestionType,AnswerChoice,Choice A,Choice B,Choice C,Choice D
+3,1,test_1004_a_1.nii.gz,What is the diameter of the largest lymph node in the subcarinal area?,2 cm,Open,-,-,-,-,-
+3,1,test_1006_c_1.nii.gz,What is the diameter of the pleural effusion between the leaves of the right pleura?,3 cm,Open,-,-,-,-,-
+3,1,test_1006_c_2.nii.gz,What is the diameter of the pleural effusion between the leaves of the right pleura?,3 cm,Open,-,-,-,-,-
+3,1,test_100_a_1.nii.gz,What is the diameter of the largest lymph node in the mediastinal area?,22 mm,Open,-,-,-,-,-
+3,1,test_1016_b_1.nii.gz,What is the diameter of the lesion on the right?,20 mm,Open,-,-,-,-,-
+3,1,test_1016_b_2.nii.gz,What is the diameter of the lesion on the right?,20 mm,Open,-,-,-,-,-
+3,1,test_1016_d_2.nii.gz,What is the longest diameter of the mass?,48 mm,Open,-,-,-,-,-
+3,1,test_1024_a_1.nii.gz,What is the diameter of the nodular lesion in the middle part of the left kidney?,2.5 cm,Open,-,-,-,-,-
+3,1,test_1031_a_1.nii.gz,What is the diameter of the effusion on the right side?,49 mm,Open,-,-,-,-,-
+3,1,test_1031_a_1.nii.gz,What is the diameter of the right pulmonary artery?,28 mm,Open,-,-,-,-,-
+3,1,test_1049_a_1.nii.gz,What is the diameter of the largest lesion observed?,9.5 mm,Open,-,-,-,-,-
+3,1,test_1049_a_2.nii.gz,What is the diameter of the largest lesion observed?,9.5 mm,Open,-,-,-,-,-
+3,1,test_1077_a_1.nii.gz,What is the diameter of the millimetric subpleural nodule in the right lung?,1 millimeter,Open,-,-,-,-,-
+3,1,test_1077_a_2.nii.gz,What is the diameter of the millimetric subpleural nodule in the right lung?,1 millimeter,Open,-,-,-,-,-
+3,1,test_1082_a_1.nii.gz,What is the diameter of the right pulmonary artery?,27 mm,Open,-,-,-,-,-
+3,1,test_1082_a_2.nii.gz,What is the diameter of the right pulmonary artery?,27 mm,Open,-,-,-,-,-
+3,1,test_1082_b_1.nii.gz,What is the diameter of the pleural effusion on the right side?,42 mm,Open,-,-,-,-,-
+3,1,test_1082_b_1.nii.gz,What is the diameter of the pulmonary artery?,41 mm,Open,-,-,-,-,-
+3,1,test_1085_a_1.nii.gz,What is the diameter of the observed nodules?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_1085_a_2.nii.gz,What is the diameter of the observed nodules?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_1092_a_2.nii.gz,What is the diameter of the hypodense lesion in the middle zone of the left kidney?,2 cm,Open,-,-,-,-,-
+3,1,test_1095_a_1.nii.gz,What is the diameter of the hypodense formation in the middle part of the left kidney?,16 mm,Open,-,-,-,-,-
+3,1,test_1095_a_1.nii.gz,What is the diameter of the pulmonary trunk?,27 mm,Open,-,-,-,-,-
+3,1,test_1097_c_1.nii.gz,What is the diameter of the lesion in the right kidney?,2.5 cm,Open,-,-,-,-,-
+3,1,test_1097_c_1.nii.gz,What is the diameter of the lesion in the middle part of the left kidney?,27 mm,Open,-,-,-,-,-
+3,1,test_1097_c_2.nii.gz,What is the diameter of the lesion in the middle part of the left kidney?,27 mm,Open,-,-,-,-,-
+3,1,test_1097_c_2.nii.gz,What is the diameter of the lesion in the right kidney?,2.5 cm,Open,-,-,-,-,-
+3,1,test_1099_a_2.nii.gz,What is the diameter of the largest nodule in the lower lobe mediobasal segment of the right lung?,4.3 mm,Open,-,-,-,-,-
+3,1,test_109_a_1.nii.gz,What is the diameter of the pleural effusion between the left pleural leaves?,6.5 cm,Open,-,-,-,-,-
+3,1,test_109_a_2.nii.gz,What is the diameter of the pleural effusion between the left pleural leaves?,6.5 cm,Open,-,-,-,-,-
+3,1,test_109_a_3.nii.gz,What is the diameter of the pleural effusion between the left pleural leaves?,6.5 cm,Open,-,-,-,-,-
+3,1,test_109_a_4.nii.gz,What is the diameter of the pleural effusion between the left pleural leaves?,6.5 cm,Open,-,-,-,-,-
+3,1,test_109_a_5.nii.gz,What is the diameter of the pleural effusion between the left pleural leaves?,6.5 cm,Open,-,-,-,-,-
+3,1,test_1103_a_1.nii.gz,What is the transverse diameter of the solid nodule in the middle lobe of the right lung?,20 mm,Open,-,-,-,-,-
+3,1,test_1103_a_2.nii.gz,What is the transverse diameter of the solid nodule in the middle lobe of the right lung?,20 mm,Open,-,-,-,-,-
+3,1,test_1105_a_1.nii.gz,What is the diameter of the aorta?,33 mm,Open,-,-,-,-,-
+3,1,test_1105_a_2.nii.gz,What is the diameter of the aorta?,33 mm,Open,-,-,-,-,-
+3,1,test_1105_a_2.nii.gz,What is the diameter of the larger aortopulmonary lymph node?,11 mm,Open,-,-,-,-,-
+3,1,test_1120_a_1.nii.gz,What is the diameter of the nodular lesion in the anterior segment of the upper lobe of the right lung?,66 mm,Open,-,-,-,-,-
+3,1,test_1120_a_2.nii.gz,What is the diameter of the nodular lesion in the anterior segment of the upper lobe of the right lung?,66 mm,Open,-,-,-,-,-
+3,1,test_1123_a_1.nii.gz,What is the diameter of the nodule in the left lobe of the thyroid gland?,18 mm,Open,-,-,-,-,-
+3,1,test_1123_a_1.nii.gz,What is the diameter of the pulmonary trunk?,32 mm,Open,-,-,-,-,-
+3,1,test_1123_a_2.nii.gz,What is the diameter of the hypodense lesion nodule in the left lobe of the thyroid gland?,18 mm,Open,-,-,-,-,-
+3,1,test_1124_a_1.nii.gz,What is the diameter of the cortical cyst in the right kidney?,18 mm,Open,-,-,-,-,-
+3,1,test_1124_a_2.nii.gz,What is the diameter of the cortical cyst in the right kidney?,18 mm,Open,-,-,-,-,-
+3,1,test_1126_c_1.nii.gz,What is the diameter of the right pulmonary artery?,28 mm,Open,-,-,-,-,-
+3,1,test_1126_c_2.nii.gz,What is the diameter of the right pulmonary artery?,28 mm,Open,-,-,-,-,-
+3,1,test_1127_a_1.nii.gz,What is the diameter of the hypodense lesion in the middle zone posterior cortex of the right kidney?,16 mm,Open,-,-,-,-,-
+3,1,test_1127_a_2.nii.gz,What is the diameter of the hypodense lesion in the middle zone posterior cortex of the right kidney?,16 mm,Open,-,-,-,-,-
+3,1,test_1142_a_1.nii.gz,What is the diameter of the largest lesion in the right lobe?,15 mm,Open,-,-,-,-,-
+3,1,test_1142_a_2.nii.gz,What is the diameter of the largest lesion in the right lobe?,15 mm,Open,-,-,-,-,-
+3,1,test_1146_a_1.nii.gz,What is the diameter of the largest hypodense nodular lesion in segment 3 of the liver?,9 mm,Open,-,-,-,-,-
+3,1,test_1148_a_1.nii.gz,What is the diameter of the nodule in the right lower lobe posterobasal?,2.5 mm,Open,-,-,-,-,-
+3,1,test_1148_a_2.nii.gz,What is the diameter of the nodule in the right lower lobe posterobasal?,2.5 mm,Open,-,-,-,-,-
+3,1,test_114_a_1.nii.gz,What is the diameter of the lesion on the left?,26 mm,Open,-,-,-,-,-
+3,1,test_114_a_2.nii.gz,What is the diameter of the lesion on the left?,26 mm,Open,-,-,-,-,-
+3,1,test_1154_a_1.nii.gz,What is the diameter of the main pulmonary artery?,38 mm,Open,-,-,-,-,-
+3,1,test_1154_a_2.nii.gz,What is the diameter of the main pulmonary artery?,38 mm,Open,-,-,-,-,-
+3,1,test_1155_a_1.nii.gz,What is the diameter of the pulmonary trunk?,29 mm,Open,-,-,-,-,-
+3,1,test_1155_a_2.nii.gz,What is the diameter of the pulmonary trunk?,29 mm,Open,-,-,-,-,-
+3,1,test_1159_a_1.nii.gz,What is the diameter of the exophytic cortical cyst in the lower pole of the right kidney?,5.4 cm,Open,-,-,-,-,-
+3,1,test_1170_b_1.nii.gz,What is the diameter of the main pulmonary artery?,36 mm,Open,-,-,-,-,-
+3,1,test_1170_b_2.nii.gz,What is the diameter of the main pulmonary artery?,36 mm,Open,-,-,-,-,-
+3,1,test_1170_b_2.nii.gz,What is the short diameter of the largest lymph node in the paratracheal region?,12 mm,Open,-,-,-,-,-
+3,1,test_1175_a_1.nii.gz,What is the diameter of the nodule in the medial segment of the right lung middle lobe?,5.5 mm,Open,-,-,-,-,-
+3,1,test_1175_a_2.nii.gz,What is the diameter of the nodule in the medial segment of the right lung middle lobe?,5.5 mm,Open,-,-,-,-,-
+3,1,test_118_b_2.nii.gz,What is the diameter of the hypodense lesions in liver segments 8 and 7?,19 mm,Open,-,-,-,-,-
+3,1,test_118_c_2.nii.gz,What is the diameter of the hypodense lesions in liver segments 7 and 8?,19 mm,Open,-,-,-,-,-
+3,1,test_118_d_1.nii.gz,What is the diameter of the hypodense lesions in liver segments 7 and 8?,19 mm,Open,-,-,-,-,-
+3,1,test_118_d_2.nii.gz,What is the diameter of the hypodense lesions in liver segments 7 and 8?,19 mm,Open,-,-,-,-,-
+3,1,test_1199_a_1.nii.gz,What is the diameter of the nodule in the upper lobe anterior segment lateral of the left lung?,2 mm,Open,-,-,-,-,-
+3,1,test_1199_a_2.nii.gz,What is the diameter of the nodule in the upper lobe anterior segment lateral of the left lung?,2 mm,Open,-,-,-,-,-
+3,1,test_1199_a_2.nii.gz,What is the diameter of the aortic arch?,33 mm,Open,-,-,-,-,-
+3,1,test_1209_a_1.nii.gz,What is the diameter of the largest lymph node observed in the carina?,11 mm,Open,-,-,-,-,-
+3,1,test_1209_a_2.nii.gz,What is the diameter of the largest lymph node observed in the carina?,11 mm,Open,-,-,-,-,-
+3,1,test_120_a_1.nii.gz,What is the diameter of the largest nodule in the upper lobe of the right lung?,7.2 mm,Open,-,-,-,-,-
+3,1,test_120_a_2.nii.gz,What is the diameter of the largest nodule in the upper lobe of the right lung?,7.2 mm,Open,-,-,-,-,-
+3,1,test_1211_a_1.nii.gz,What is the diameter of the fusiform dilatation observed in the pulmonary artery?,29 mm,Open,-,-,-,-,-
+3,1,test_1211_a_2.nii.gz,What is the diameter of the fusiform dilatation in the pulmonary artery?,29 mm,Open,-,-,-,-,-
+3,1,test_1230_a_1.nii.gz,What is the diameter of the calcified nodule in the middle lobe of the right lung?,7.5 mm,Open,-,-,-,-,-
+3,1,test_1230_a_2.nii.gz,What is the diameter of the calcified nodule in the middle lobe of the right lung?,7.5 mm,Open,-,-,-,-,-
+3,1,test_1238_a_1.nii.gz,What is the diameter of the largest nodule in the right thyroid lobe?,25 mm,Open,-,-,-,-,-
+3,1,test_1238_a_1.nii.gz,What is the diameter of the nodule in the left adrenal gland?,17 mm,Open,-,-,-,-,-
+3,1,test_1238_a_2.nii.gz,What is the diameter of the largest lesion in the right thyroid lobe?,25 mm,Open,-,-,-,-,-
+3,1,test_1238_a_2.nii.gz,What is the diameter of the nodule in the left adrenal gland?,17 mm,Open,-,-,-,-,-
+3,1,test_1241_a_1.nii.gz,What is the diameter of the largest lymph node in the left axillary region?,11 mm,Open,-,-,-,-,-
+3,1,test_1248_a_2.nii.gz,What is the diameter of the solid pulmonary nodule in the superior segment of the right lung lower lobe?,14 mm,Open,-,-,-,-,-
+3,1,test_1253_a_1.nii.gz,What is the diameter of the largest lesion in the mediobasal segment of the right lower lobe?,13 mm,Open,-,-,-,-,-
+3,1,test_1253_a_2.nii.gz,What is the diameter of the largest lesion in the mediobasal segment of the right lower lobe?,13 mm,Open,-,-,-,-,-
+3,1,test_1258_a_1.nii.gz,What is the diameter of the lesion in liver segment 8?,19 mm,Open,-,-,-,-,-
+3,1,test_1258_a_2.nii.gz,What is the diameter of the hypodense lesion in liver segment 8?,19 mm,Open,-,-,-,-,-
+3,1,test_1258_a_2.nii.gz,What is the diameter of the largest lesion?,10 mm,Open,-,-,-,-,-
+3,1,test_1262_a_2.nii.gz,What is the diameter of the bilateral bronchial lymph nodes?,Less than 1 cm.,Open,-,-,-,-,-
+3,1,test_1263_a_1.nii.gz,What is the diameter of the hypodense nodular lesion in the middle part of the left kidney?,2.5 mm,Open,-,-,-,-,-
+3,1,test_1263_a_2.nii.gz,What is the diameter of the hypodense nodular lesion in the middle part of the left kidney?,2.5 mm,Open,-,-,-,-,-
+3,1,test_1266_a_2.nii.gz,What is the diameter of the largest lesion in the anterior upper lobe of the left lung?,11 mm,Open,-,-,-,-,-
+3,1,test_1266_a_2.nii.gz,What is the diameter of the nodules on the pleura at the level of the left lingula?,11 mm,Open,-,-,-,-,-
+3,1,test_1267_b_1.nii.gz,What is the diameter of the central hypodense nodule in the left thyroid gland?,24 mm,Open,-,-,-,-,-
+3,1,test_1267_b_1.nii.gz,What is the diameter of the subcapsular lesion in liver segment II?,28 mm,Open,-,-,-,-,-
+3,1,test_1267_b_2.nii.gz,What is the diameter of the subcapsular lesion in liver segment II?,28 mm,Open,-,-,-,-,-
+3,1,test_1267_b_2.nii.gz,What is the diameter of the central hypodense nodule in the left thyroid gland?,24 mm,Open,-,-,-,-,-
+3,1,test_1275_a_1.nii.gz,What is the diameter of the main pulmonary artery?,30 mm,Open,-,-,-,-,-
+3,1,test_1277_a_1.nii.gz,What is the diameter of the calcific lymph nodes in the right upper-lower paratracheal region?,Less than 1 cm.,Open,-,-,-,-,-
+3,1,test_1277_a_2.nii.gz,What is the diameter of the calcific lymph nodes in the right upper-lower paratracheal region?,Less than 1 cm.,Open,-,-,-,-,-
+3,1,test_1284_a_1.nii.gz,What is the diameter of the largest lymph node in the left retropectoral region?,8.3 mm,Open,-,-,-,-,-
+3,1,test_1284_a_2.nii.gz,What is the diameter of the largest lymph node in the left retropectoral region?,8.3 mm,Open,-,-,-,-,-
+3,1,test_1289_a_1.nii.gz,What is the diameter of the main pulmonary artery?,30 mm,Open,-,-,-,-,-
+3,1,test_1295_a_1.nii.gz,What is the AP diameter of the soft tissue mass in the upper lobe of the right lung?,79 mm,Open,-,-,-,-,-
+3,1,test_1295_a_2.nii.gz,What is the AP diameter of the soft tissue mass in the upper lobe of the right lung?,79 mm,Open,-,-,-,-,-
+3,1,test_1303_a_1.nii.gz,What is the diameter of the largest lymph node in the paratracheal area?,20 mm,Open,-,-,-,-,-
+3,1,test_1303_a_2.nii.gz,What is the diameter of the largest lymph node in the paratracheal area?,20 mm,Open,-,-,-,-,-
+3,1,test_157_a_1.nii.gz,What is the diameter of the bulla in the superior segment of the right lung lower lobe?,36 mm,Open,-,-,-,-,-
+3,1,test_163_a_1.nii.gz,What is the diameter of the largest lesion in the right lung upper lobe anterior segment?,6.3 mm,Open,-,-,-,-,-
+3,1,test_163_a_2.nii.gz,What is the diameter of the largest lesion in the right lung upper lobe anterior segment?,6.3 mm,Open,-,-,-,-,-
+3,1,test_163_b_1.nii.gz,What is the diameter of the nodule in the upper lobe anterior segment of the right lung?,5.5 mm,Open,-,-,-,-,-
+3,1,test_163_b_2.nii.gz,What is the diameter of the nodule in the upper lobe anterior segment of the right lung?,5.5 mm,Open,-,-,-,-,-
+3,1,test_179_a_1.nii.gz,What is the diameter of the hypodense lesion in the upper pole of the left kidney?,25 mm,Open,-,-,-,-,-
+3,1,test_179_a_2.nii.gz,What is the diameter of the hypodense lesion in the upper pole of the left kidney?,25 mm,Open,-,-,-,-,-
+3,1,test_184_a_1.nii.gz,What is the diameter of the lesion in the upper pole of the right kidney?,4.8 mm,Open,-,-,-,-,-
+3,1,test_184_a_2.nii.gz,What is the diameter of the lesion in the upper pole of the right kidney?,4.8 mm,Open,-,-,-,-,-
+3,1,test_186_a_2.nii.gz,What is the diameter of the pulmonary trunk?,31 mm,Open,-,-,-,-,-
+3,1,test_193_a_2.nii.gz,What is the diameter of the largest nodule in the posterior segment of the right lung upper lobe?,Less than 5 mm,Open,-,-,-,-,-
+3,1,test_194_b_2.nii.gz,What is the diameter of the lymph nodes observed?,Less than 1 cm.,Open,-,-,-,-,-
+3,1,test_194_b_2.nii.gz,What is the diameter of the largest bulla formation in the right lung?,57 mm,Open,-,-,-,-,-
+3,1,test_194_b_2.nii.gz,What is the diameter of the largest nodule in the right lung's middle lobe?,7.6 mm,Open,-,-,-,-,-
+3,1,test_203_a_1.nii.gz,What is the diameter of the mass in the left adrenal gland?,3.5 cm,Open,-,-,-,-,-
+3,1,test_203_a_2.nii.gz,What is the diameter of the mass in the left adrenal gland?,3.5 cm,Open,-,-,-,-,-
+3,1,test_207_a_1.nii.gz,What is the diameter of the hypodense nodular lesion in the upper pole of the right kidney?,2.5 cm,Open,-,-,-,-,-
+3,1,test_207_a_1.nii.gz,What is the diameter of the calculus in the lower pole of the left kidney?,6.5 mm,Open,-,-,-,-,-
+3,1,test_207_a_2.nii.gz,What is the diameter of the right pulmonary artery?,27 mm,Open,-,-,-,-,-
+3,1,test_207_a_2.nii.gz,What is the diameter of the hypodense nodular lesion in the upper pole of the right kidney?,2.5 cm,Open,-,-,-,-,-
+3,1,test_207_a_2.nii.gz,What is the diameter of the calculus in the lower pole of the left kidney?,6.5 mm,Open,-,-,-,-,-
+3,1,test_215_c_2.nii.gz,What is the diameter of the pulmonary trunk?,28 mm,Open,-,-,-,-,-
+3,1,test_247_a_1.nii.gz,What is the diameter of the ground-glass nodules in the right lung lower lobe?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_250_f_2.nii.gz,What is the diameter of the calcified lymph nodes in the peribronchial area?,Smaller than 1 cm.,Open,-,-,-,-,-
+3,1,test_275_a_1.nii.gz,What is the diameter of the lymph nodes in the mediastinum?,6.5 mm,Open,-,-,-,-,-
+3,1,test_309_a_1.nii.gz,What is the diameter of the nodule in the anterior segment of the upper lobe of the right lung?,6.5 mm,Open,-,-,-,-,-
+3,1,test_320_a_1.nii.gz,What is the diameter of the pulmonary nodules observed in both lungs?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_320_a_2.nii.gz,What is the diameter of the pulmonary nodules observed in both lungs?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_338_a_1.nii.gz,What is the diameter of the largest nodule in the posterobasal segment of the right lung?,2.5 mm,Open,-,-,-,-,-
+3,1,test_338_a_2.nii.gz,What is the diameter of the largest nodule in the posterobasal segment of the right lung?,2.5 mm,Open,-,-,-,-,-
+3,1,test_339_a_2.nii.gz,What is the diameter of the largest lesion?,3.5 mm,Open,-,-,-,-,-
+3,1,test_339_a_2.nii.gz,What is the diameter of the nodules in the anterior segment of the upper lobe of the left lung?,3.5 mm,Open,-,-,-,-,-
+3,1,test_341_a_2.nii.gz,What is the diameter of the pulmonary trunk?,34 mm,Open,-,-,-,-,-
+3,1,test_345_a_1.nii.gz,What is the short diameter of the lymphadenopathy in the subcarinal area?,26 mm,Open,-,-,-,-,-
+3,1,test_377_a_1.nii.gz,What is the diameter of the bulla in the upper lobe of the left lung?,3.3 cm,Open,-,-,-,-,-
+3,1,test_377_a_2.nii.gz,What is the diameter of the bulla in the upper lobe of the left lung?,3.3 cm,Open,-,-,-,-,-
+3,1,test_382_c_1.nii.gz,What is the diameter of the largest lesion?,19 mm,Open,-,-,-,-,-
+3,1,test_382_c_2.nii.gz,What is the diameter of the largest lesion?,19 mm,Open,-,-,-,-,-
+3,1,test_390_a_1.nii.gz,What is the short diameter of the nodules in both lungs?,Less than 3 mm.,Open,-,-,-,-,-
+3,1,test_390_a_2.nii.gz,What is the short diameter of the nodules in both lungs?,Less than 3 mm.,Open,-,-,-,-,-
+3,1,test_391_a_2.nii.gz,What is the diameter of the nodule in the anterior segment of the right lung upper lobe?,6.4 mm,Open,-,-,-,-,-
+3,1,test_391_a_2.nii.gz,What is the diameter of the calcific nodule in the superior segment of the left lung lower lobe?,7.2 mm,Open,-,-,-,-,-
+3,1,test_395_a_1.nii.gz,What is the diameter of the largest nodule in the right lung upper lobe anterior segment?,3.3 mm,Open,-,-,-,-,-
+3,1,test_417_a_5.nii.gz,What is the diameter of the cortical cyst in the left kidney?,21 mm,Open,-,-,-,-,-
+3,1,test_417_a_5.nii.gz,What is the AP diameter of the lesion at its widest point?,34 mm,Open,-,-,-,-,-
+3,1,test_417_a_5.nii.gz,What is the diameter of the nodular lesion in the left adrenal gland?,22 mm,Open,-,-,-,-,-
+3,1,test_419_a_1.nii.gz,What is the diameter of the millimetric stone in the middle part of the right kidney?,1 millimeter,Open,-,-,-,-,-
+3,1,test_419_a_2.nii.gz,What is the diameter of the millimetric stone in the middle part of the right kidney?,1 millimeter,Open,-,-,-,-,-
+3,1,test_425_a_1.nii.gz,What is the diameter of the effusion at its widest part on the right?,8.8 cm,Open,-,-,-,-,-
+3,1,test_425_a_2.nii.gz,What is the diameter of the effusion at its widest part on the right?,8.8 cm,Open,-,-,-,-,-
+3,1,test_438_a_1.nii.gz,What is the diameter of the dense nodular lesion in the middle part posterior of the left kidney?,8.5 mm,Open,-,-,-,-,-
+3,1,test_438_a_2.nii.gz,What is the diameter of the dense nodular lesion in the middle part posterior of the left kidney?,8.5 mm,Open,-,-,-,-,-
+3,1,test_44_a_1.nii.gz,What is the diameter of the main pulmonary artery?,34 mm,Open,-,-,-,-,-
+3,1,test_44_a_2.nii.gz,What is the diameter of the main pulmonary artery?,34 mm,Open,-,-,-,-,-
+3,1,test_454_c_1.nii.gz,What is the diameter of the hypodense lesion in the middle zone of the left kidney?,17 mm,Open,-,-,-,-,-
+3,1,test_454_c_2.nii.gz,What is the diameter of the hypodense lesion in the middle zone of the left kidney?,17 mm,Open,-,-,-,-,-
+3,1,test_457_a_2.nii.gz,What is the diameter of the hypodense nodule in the right lobe?,7.5 mm,Open,-,-,-,-,-
+3,1,test_457_d_1.nii.gz,What is the diameter of the lymph nodes in the right upper paratracheal area?,9.2 mm,Open,-,-,-,-,-
+3,1,test_457_d_2.nii.gz,What is the diameter of the lymph nodes in the right upper paratracheal area?,9.2 mm,Open,-,-,-,-,-
+3,1,test_482_a_1.nii.gz,What is the longest diameter of the nodule in the anterior segment of the upper lobe of the right lung?,9.4 mm,Open,-,-,-,-,-
+3,1,test_482_a_2.nii.gz,What is the longest diameter of the nodule in the anterior segment of the upper lobe of the right lung?,9.4 mm,Open,-,-,-,-,-
+3,1,test_483_a_1.nii.gz,What is the diameter of the largest nodule in the right lung lower lobe laterobasal segment?,3.9 mm,Open,-,-,-,-,-
+3,1,test_483_a_2.nii.gz,What is the diameter of the largest nodule in the right lung lower lobe laterobasal segment?,3.9 mm,Open,-,-,-,-,-
+3,1,test_486_a_1.nii.gz,What is the diameter of the lesion adjacent to the left atrium?,1.5 mm,Open,-,-,-,-,-
+3,1,test_486_a_2.nii.gz,What is the diameter of the cyst in the lower pole of the left kidney?,11 cm,Open,-,-,-,-,-
+3,1,test_486_a_2.nii.gz,What is the diameter of the lesion adjacent to the left atrium?,1.5 mm,Open,-,-,-,-,-
+3,1,test_505_a_1.nii.gz,What is the diameter of the solid mass in the left adrenal gland?,17 mm,Open,-,-,-,-,-
+3,1,test_515_a_1.nii.gz,What is the diameter of the hypodense nodular lesion in the upper pole of the right kidney?,18.7 mm,Open,-,-,-,-,-
+3,1,test_515_a_2.nii.gz,What is the diameter of the hypodense nodular lesion in the upper pole of the right kidney?,18.7 mm,Open,-,-,-,-,-
+3,1,test_519_a_1.nii.gz,What is the diameter of the arch aorta?,33 mm,Open,-,-,-,-,-
+3,1,test_519_a_2.nii.gz,What is the diameter of the arch aorta?,33 mm,Open,-,-,-,-,-
+3,1,test_535_c_1.nii.gz,What is the diameter of the nodule located laterally?,2 mm,Open,-,-,-,-,-
+3,1,test_535_c_1.nii.gz,What is the diameter of the aortic arch?,29 mm,Open,-,-,-,-,-
+3,1,test_535_c_2.nii.gz,What is the diameter of the aortic arch?,29 mm,Open,-,-,-,-,-
+3,1,test_535_c_2.nii.gz,What is the diameter of the nodule located laterally?,2 mm,Open,-,-,-,-,-
+3,1,test_538_a_1.nii.gz,What is the diameter of the largest nodule in the right lung?,28x29 mm,Open,-,-,-,-,-
+3,1,test_538_a_1.nii.gz,What is the diameter of the larger lymphadenopathy?,38 mm,Open,-,-,-,-,-
+3,1,test_538_a_1.nii.gz,What is the diameter of the lymph nodes in the right upper paratracheal region?,10 mm,Open,-,-,-,-,-
+3,1,test_538_a_2.nii.gz,What is the diameter of the larger lymphadenopathy?,38 mm,Open,-,-,-,-,-
+3,1,test_538_a_2.nii.gz,What is the diameter of the lymph nodes in the right upper paratracheal region?,10 mm,Open,-,-,-,-,-
+3,1,test_538_a_2.nii.gz,What is the diameter of the largest nodule in the right lung?,28x29 mm,Open,-,-,-,-,-
+3,1,test_538_b_1.nii.gz,What is the diameter of the larger mass lesion adjacent to the posterior axillary fossa?,18 mm,Open,-,-,-,-,-
+3,1,test_538_b_2.nii.gz,What is the diameter of the larger mass lesion adjacent to the posterior axillary fossa?,18 mm,Open,-,-,-,-,-
+3,1,test_539_a_1.nii.gz,What is the diameter of the lymph nodes in the upper-lower paratracheal area?,6 mm,Open,-,-,-,-,-
+3,1,test_542_a_1.nii.gz,What is the AP diameter of the ascending aorta?,4.1 cm,Open,-,-,-,-,-
+3,1,test_542_a_1.nii.gz,What is the diameter of the nodules in the right upper paratracheal region?,Less than 1 cm,Open,-,-,-,-,-
+3,1,test_544_a_1.nii.gz,What is the AP diameter of the ascending aorta?,4.5 cm,Open,-,-,-,-,-
+3,1,test_544_a_1.nii.gz,What is the diameter of the right upper paratracheal lymph nodes?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_548_a_2.nii.gz,What is the short diameter of the pretracheal lymph node?,1 cm,Open,-,-,-,-,-
+3,1,test_550_a_1.nii.gz,What is the diameter of the lesion in the posterolateral aspect of the middle part of the right kidney?,1.5 cm,Open,-,-,-,-,-
+3,1,test_550_a_2.nii.gz,What is the diameter of the lesion in the posterolateral aspect of the middle part of the right kidney?,1.5 cm,Open,-,-,-,-,-
+3,1,test_559_a_1.nii.gz,What is the diameter of the largest nodule in the superior segment of the left lung lower lobe?,9 mm,Open,-,-,-,-,-
+3,1,test_559_a_1.nii.gz,What is the diameter of the largest lesion observed in the liver?,5 cm,Open,-,-,-,-,-
+3,1,test_559_a_1.nii.gz,What is the diameter of the largest lesion?,15 mm,Open,-,-,-,-,-
+3,1,test_559_a_2.nii.gz,What is the diameter of the largest nodule in the superior segment of the left lung lower lobe?,9 mm,Open,-,-,-,-,-
+3,1,test_559_a_2.nii.gz,What is the diameter of the largest lesion in the liver?,5 cm,Open,-,-,-,-,-
+3,1,test_559_a_2.nii.gz,What is the diameter of the largest lesion?,15 mm,Open,-,-,-,-,-
+3,1,test_566_b_1.nii.gz,What is the diameter of the right upper paratracheal lymph node?,Less than 1 cm.,Open,-,-,-,-,-
+3,1,test_571_a_1.nii.gz,What is the diameter of the hypodense nodular lesion in the upper pole of the left kidney?,24 mm,Open,-,-,-,-,-
+3,1,test_571_a_1.nii.gz,What is the anteroposterior diameter of the descending aorta?,26 mm,Open,-,-,-,-,-
+3,1,test_571_a_1.nii.gz,What is the diameter of the nodular mass lesion in the right adrenal gland corpus?,9 mm,Open,-,-,-,-,-
+3,1,test_571_a_2.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,40 mm,Open,-,-,-,-,-
+3,1,test_571_a_2.nii.gz,What is the anteroposterior diameter of the descending aorta?,26 mm,Open,-,-,-,-,-
+3,1,test_571_a_2.nii.gz,What is the diameter of the nodular mass lesion in the right adrenal gland corpus?,9 mm,Open,-,-,-,-,-
+3,1,test_571_a_2.nii.gz,What is the diameter of the hypodense nodular lesion in the upper pole of the left kidney?,24 mm,Open,-,-,-,-,-
+3,1,test_578_a_1.nii.gz,What is the diameter of the nodule in the anterior segment of the right lung upper lobe?,2 mm,Open,-,-,-,-,-
+3,1,test_578_a_2.nii.gz,What is the diameter of the nodule in the anterior segment of the right lung upper lobe?,2 mm,Open,-,-,-,-,-
+3,1,test_583_a_1.nii.gz,What is the diameter of the stone in the middle part of the right kidney?,3 mm,Open,-,-,-,-,-
+3,1,test_585_a_1.nii.gz,What is the diameter of the hypodense lesion in the lateral segment of the left lobe of the liver?,25 mm,Open,-,-,-,-,-
+3,1,test_585_a_2.nii.gz,What is the diameter of the hypodense lesion in the lateral segment of the left lobe of the liver?,25 mm,Open,-,-,-,-,-
+3,1,test_586_a_1.nii.gz,What is the diameter of the pleural effusion observed between the right pleural leaves?,1 cm,Open,-,-,-,-,-
+3,1,test_586_a_2.nii.gz,What is the diameter of the pleural effusion observed between the right pleural leaves?,1 cm,Open,-,-,-,-,-
+3,1,test_590_a_1.nii.gz,What is the short diameter of the largest lymph node in the subcarinal area?,7 mm,Open,-,-,-,-,-
+3,1,test_590_a_2.nii.gz,What is the short diameter of the largest lymph node in the subcarinal area?,7 mm,Open,-,-,-,-,-
+3,1,test_593_a_2.nii.gz,What is the diameter of the pulmonary trunk?,30mm,Open,-,-,-,-,-
+3,1,test_595_a_1.nii.gz,What is the short diameter of the largest lymph node in the subcarinal area?,15 mm,Open,-,-,-,-,-
+3,1,test_595_a_1.nii.gz,What is the shortest diameter of the largest lymph node?,10 mm,Open,-,-,-,-,-
+3,1,test_595_a_2.nii.gz,What is the short diameter of the largest lymph node in the subcarinal area?,15 mm,Open,-,-,-,-,-
+3,1,test_595_a_2.nii.gz,What is the shortest diameter of the largest lymph node?,10 mm,Open,-,-,-,-,-
+3,1,test_597_a_1.nii.gz,What is the diameter of the lymph nodes observed?,Less than 1 cm.,Open,-,-,-,-,-
+3,1,test_597_a_2.nii.gz,What is the diameter of the lymph nodes observed?,Less than 1 cm.,Open,-,-,-,-,-
+3,1,test_605_a_1.nii.gz,What is the diameter of the largest lymph node in the upper-lower paratracheal area?,8.5 mm,Open,-,-,-,-,-
+3,1,test_605_a_1.nii.gz,What is the diameter of the calcified nodule in the upper lobe of the right lung?,3.5 mm,Open,-,-,-,-,-
+3,1,test_605_a_2.nii.gz,What is the diameter of the largest lymph node in the upper-lower paratracheal area?,8.5 mm,Open,-,-,-,-,-
+3,1,test_605_a_2.nii.gz,What is the diameter of the calcified nodule in the upper lobe of the right lung?,3.5 mm,Open,-,-,-,-,-
+3,1,test_606_a_2.nii.gz,What is the diameter of the lesion in the medial segment of the left lobe?,7 mm,Open,-,-,-,-,-
+3,1,test_608_a_1.nii.gz,What is the diameter of the nodules observed in both lungs?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_608_a_2.nii.gz,What is the diameter of the nodules observed in both lungs?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_618_a_1.nii.gz,What is the diameter of the lymph nodes located in the right upper paratracheal region?,Less than 1 cm.,Open,-,-,-,-,-
+3,1,test_618_a_2.nii.gz,What is the diameter of the lymph nodes located in the right upper paratracheal region?,Less than 1 cm,Open,-,-,-,-,-
+3,1,test_622_a_1.nii.gz,What is the diameter of the largest calcified lymph node in the right hilar region?,6.7 mm,Open,-,-,-,-,-
+3,1,test_622_a_1.nii.gz,What is the diameter of the larger hyperdense nodular lesion?,5.1 mm,Open,-,-,-,-,-
+3,1,test_622_a_2.nii.gz,What is the diameter of the largest calcified lymph node in the right hilar region?,6.7 mm,Open,-,-,-,-,-
+3,1,test_622_a_2.nii.gz,What is the diameter of the larger hyperdense nodular lesion in the subdiaphragmatic area?,5.1 mm,Open,-,-,-,-,-
+3,1,test_623_a_1.nii.gz,What is the diameter of the largest lymph node in the right upper paratracheal region?,13 mm,Open,-,-,-,-,-
+3,1,test_623_a_1.nii.gz,What is the diameter of the pleural effusion on the left?,13 mm,Open,-,-,-,-,-
+3,1,test_623_a_2.nii.gz,What is the diameter of the largest lymph node in the right upper paratracheal region?,13 mm,Open,-,-,-,-,-
+3,1,test_623_a_2.nii.gz,What is the diameter of the pleural effusion on the left?,13 mm,Open,-,-,-,-,-
+3,1,test_631_a_1.nii.gz,What is the diameter of the hypodense lesion in the lateral side of the right lobe of the liver?,25 mm,Open,-,-,-,-,-
+3,1,test_631_a_2.nii.gz,What is the diameter of the hypodense lesion located subcapsular in the lateral side of the right lobe of the liver?,25 mm,Open,-,-,-,-,-
+3,1,test_635_a_1.nii.gz,What is the diameter of the effusion in the deepest part on the right hemithorax?,2.2 cm,Open,-,-,-,-,-
+3,1,test_635_a_2.nii.gz,What is the diameter of the effusion in the deepest part on the right hemithorax?,2.2 cm,Open,-,-,-,-,-
+3,1,test_636_b_1.nii.gz,What is the diameter of the main pulmonary artery?,37 mm,Open,-,-,-,-,-
+3,1,test_636_b_2.nii.gz,What is the diameter of the main pulmonary artery?,37 mm,Open,-,-,-,-,-
+3,1,test_643_b_1.nii.gz,What is the diameter of the nodule in the upper lobe of the right lung?,5.7 mm,Open,-,-,-,-,-
+3,1,test_643_b_2.nii.gz,What is the diameter of the nodule in the upper lobe of the right lung?,5.7 mm,Open,-,-,-,-,-
+3,1,test_645_c_1.nii.gz,What is the diameter of the nodule in the anterior segment of the right lung upper lobe?,2 mm,Open,-,-,-,-,-
+3,1,test_645_c_2.nii.gz,What is the diameter of the nodule in the anterior segment of the right lung upper lobe?,2 mm,Open,-,-,-,-,-
+3,1,test_649_a_1.nii.gz,What is the diameter of the largest nodule in the left lung lower lobe anteromedial segment?,4.6 mm,Open,-,-,-,-,-
+3,1,test_649_a_2.nii.gz,What is the diameter of the largest nodule in the left lung lower lobe anteromedial segment?,4.6 mm,Open,-,-,-,-,-
+3,1,test_652_a_1.nii.gz,What is the diameter of the calcified parenchymal nodule in the posterior segment of the right lung upper lobe?,4.5 mm,Open,-,-,-,-,-
+3,1,test_652_a_2.nii.gz,What is the diameter of the calcified parenchymal nodule in the posterior segment of the right lung upper lobe?,4.5 mm,Open,-,-,-,-,-
+3,1,test_653_a_1.nii.gz,What is the diameter of the aortic arch?,32 mm,Open,-,-,-,-,-
+3,1,test_653_a_2.nii.gz,What is the diameter of the aortic arch?,32 mm,Open,-,-,-,-,-
+3,1,test_662_a_1.nii.gz,What is the diameter of the lymph node in the right upper paratracheal area?,12 mm,Open,-,-,-,-,-
+3,1,test_662_a_2.nii.gz,What is the diameter of the lymph node in the right upper paratracheal area?,12 mm,Open,-,-,-,-,-
+3,1,test_665_a_1.nii.gz,What is the diameter of the nodule on the left interlobar fissure?,2 mm,Open,-,-,-,-,-
+3,1,test_665_a_2.nii.gz,What is the diameter of the nodule on the left interlobar fissure?,2 mm,Open,-,-,-,-,-
+3,1,test_666_a_2.nii.gz,What is the short diameter of the calcified lymph nodes?,7 mm,Open,-,-,-,-,-
+3,1,test_673_a_1.nii.gz,What is the diameter of the largest lesion at the aorticopulmonary window?,10 mm,Open,-,-,-,-,-
+3,1,test_673_a_1.nii.gz,What is the diameter of the nodule in the anterobasal segment of the left lung lower lobe?,5.5 mm,Open,-,-,-,-,-
+3,1,test_673_a_2.nii.gz,What is the diameter of the largest lesion at the aorticopulmonary window?,10 mm,Open,-,-,-,-,-
+3,1,test_673_a_2.nii.gz,What is the diameter of the nodule in the anterobasal segment of the left lung lower lobe?,5.5 mm,Open,-,-,-,-,-
+3,1,test_675_b_2.nii.gz,What is the diameter of the larger subcapsular hypodense area in segment 6 of the right lobe of the liver?,23 mm,Open,-,-,-,-,-
+3,1,test_675_c_1.nii.gz,What is the diameter of the subcapsular hypodense area in segment 6 of the right lobe of the liver?,23 mm,Open,-,-,-,-,-
+3,1,test_675_c_2.nii.gz,What is the diameter of the larger hypodense area in segment 6 of the right lobe of the liver?,23 mm,Open,-,-,-,-,-
+3,1,test_685_a_1.nii.gz,What is the diameter of the largest nodule in the mediobasal segment of the lower lobe of the right lung?,5.7 mm,Open,-,-,-,-,-
+3,1,test_685_a_2.nii.gz,What is the diameter of the largest nodule in the mediobasal segment of the lower lobe of the right lung?,5.7 mm,Open,-,-,-,-,-
+3,1,test_690_a_1.nii.gz,What is the diameter of the largest lymphadenopathy in the left hilar region?,14 mm,Open,-,-,-,-,-
+3,1,test_690_a_1.nii.gz,What is the diameter of the lesion at the level of the pulmonary conus?,35 mm,Open,-,-,-,-,-
+3,1,test_690_a_2.nii.gz,What is the diameter of the largest lymphadenopathy in the left hilar region?,14 mm,Open,-,-,-,-,-
+3,1,test_690_a_2.nii.gz,What is the diameter of the lesion at the level of the pulmonary conus?,35 mm,Open,-,-,-,-,-
+3,1,test_695_a_1.nii.gz,What is the diameter of the largest lymph node in the epiphrenic region on the right?,6 mm,Open,-,-,-,-,-
+3,1,test_695_a_1.nii.gz,What is the short diameter of the calcified lymph nodes in the mediastinal area?,6 mm,Open,-,-,-,-,-
+3,1,test_695_a_2.nii.gz,What is the short diameter of the calcified lymph nodes in the mediastinal area?,6 mm,Open,-,-,-,-,-
+3,1,test_695_a_2.nii.gz,What is the diameter of the largest lymph node in the epiphrenic region on the right?,6 mm,Open,-,-,-,-,-
+3,1,test_698_a_1.nii.gz,What is the diameter of the pulmonary nodules observed in both lungs?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_70_a_1.nii.gz,What is the diameter of the accessory spleen adjacent to the lower pole of the spleen?,17.5 mm,Open,-,-,-,-,-
+3,1,test_70_a_2.nii.gz,What is the diameter of the accessory spleen adjacent to the lower pole of the spleen?,17.5 mm,Open,-,-,-,-,-
+3,1,test_710_a_2.nii.gz,What is the diameter of the nodules in the posterobasal segment of the lower lobe of the right lung?,4 mm,Open,-,-,-,-,-
+3,1,test_711_a_1.nii.gz,What is the diameter of the largest nodule in the upper lobe of the right lung?,6 mm,Open,-,-,-,-,-
+3,1,test_711_a_1.nii.gz,What is the diameter of the ascending aorta?,36 mm,Open,-,-,-,-,-
+3,1,test_711_a_2.nii.gz,What is the diameter of the ascending aorta?,36 mm,Open,-,-,-,-,-
+3,1,test_711_a_2.nii.gz,What is the diameter of the largest nodule in the upper lobe of the right lung?,6 mm,Open,-,-,-,-,-
+3,1,test_713_a_2.nii.gz,What is the diameter of the nodule in the right lung middle lobe lateral segment?,3.5 mm,Open,-,-,-,-,-
+3,1,test_713_c_1.nii.gz,What is the diameter of the nodule in the middle lobe of the right lung?,3.5 mm,Open,-,-,-,-,-
+3,1,test_713_c_2.nii.gz,What is the diameter of the nodule in the middle lobe of the right lung?,3.5 mm,Open,-,-,-,-,-
+3,1,test_717_a_1.nii.gz,What is the diameter of the largest lesion in the right thyroid gland?,2 cm,Open,-,-,-,-,-
+3,1,test_717_a_2.nii.gz,What is the diameter of the largest lesion in the right thyroid gland?,2 cm,Open,-,-,-,-,-
+3,1,test_717_b_1.nii.gz,What is the short diameter of the largest lesion at the subcarinal level?,24 mm,Open,-,-,-,-,-
+3,1,test_718_a_1.nii.gz,What is the diameter of the ascending aorta?,41 mm,Open,-,-,-,-,-
+3,1,test_718_a_1.nii.gz,What is the diameter of the largest lesion?,15 mm,Open,-,-,-,-,-
+3,1,test_722_a_2.nii.gz,What is the diameter of the ascending aorta?,42 mm,Open,-,-,-,-,-
+3,1,test_722_b_1.nii.gz,What is the diameter of the aortic arch?,37 mm,Open,-,-,-,-,-
+3,1,test_722_b_2.nii.gz,What is the diameter of the aortic arch?,37 mm,Open,-,-,-,-,-
+3,1,test_723_a_2.nii.gz,What is the diameter of the largest lesion?,1 cm,Open,-,-,-,-,-
+3,1,test_728_a_1.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,44 mm,Open,-,-,-,-,-
+3,1,test_72_a_1.nii.gz,What is the diameter of the pleural effusion at its thickest point on the right?,3.5 cm,Open,-,-,-,-,-
+3,1,test_72_a_2.nii.gz,What is the diameter of the pleural effusion at its thickest point on the right?,3.5 cm,Open,-,-,-,-,-
+3,1,test_732_a_2.nii.gz,What is the diameter of the effusion on the right side of the bilateral hemithorax?,78 mm,Open,-,-,-,-,-
+3,1,test_736_a_1.nii.gz,What is the diameter of the pulmonary trunk?,33 mm,Open,-,-,-,-,-
+3,1,test_736_a_2.nii.gz,What is the diameter of the pulmonary trunk?,33 mm,Open,-,-,-,-,-
+3,1,test_738_a_2.nii.gz,What is the diameter of the largest nodule in the posterobasal right lower lobe?,14 mm,Open,-,-,-,-,-
+3,1,test_738_a_2.nii.gz,What is the diameter of the round lymph node in the hilar region?,12 mm,Open,-,-,-,-,-
+3,1,test_738_a_2.nii.gz,What is the anterior-posterior diameter of the lobulated nodular soft tissue density in the upper lobe of the left lung?,26 mm,Open,-,-,-,-,-
+3,1,test_740_a_1.nii.gz,What is the diameter of the aortic arch?,32 mm,Open,-,-,-,-,-
+3,1,test_740_a_1.nii.gz,What is the diameter of the right pulmonary artery?,29 mm,Open,-,-,-,-,-
+3,1,test_740_a_1.nii.gz,What is the diameter of the ascending aorta?,46 mm,Open,-,-,-,-,-
+3,1,test_740_a_1.nii.gz,What is the diameter of the nodule in the lower lobe of the left lung?,5 mm,Open,-,-,-,-,-
+3,1,test_740_a_2.nii.gz,What is the diameter of the right pulmonary artery?,29 mm,Open,-,-,-,-,-
+3,1,test_740_a_2.nii.gz,What is the diameter of the nodule in the lower lobe of the left lung?,5 mm,Open,-,-,-,-,-
+3,1,test_740_a_2.nii.gz,What is the diameter of the ascending aorta?,46 mm,Open,-,-,-,-,-
+3,1,test_745_a_1.nii.gz,What is the diameter of the calculus in the pelvicalyceal structures of the left kidney?,4 mm,Open,-,-,-,-,-
+3,1,test_747_a_1.nii.gz,What is the short diameter of the largest lymphadenopathy in the subcarinal region?,28 mm,Open,-,-,-,-,-
+3,1,test_747_a_2.nii.gz,What is the short diameter of the largest lymphadenopathy in the subcarinal region?,28 mm,Open,-,-,-,-,-
+3,1,test_757_a_1.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,43 mm,Open,-,-,-,-,-
+3,1,test_757_a_2.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,43 mm,Open,-,-,-,-,-
+3,1,test_761_a_1.nii.gz,What is the diameter of the nodule in the middle lobe of the right lung?,4 mm,Open,-,-,-,-,-
+3,1,test_761_a_2.nii.gz,What is the diameter of the nodule in the middle lobe of the right lung?,4 mm,Open,-,-,-,-,-
+3,1,test_764_a_1.nii.gz,What is the diameter of the largest lymph node in the carina?,11 mm,Open,-,-,-,-,-
+3,1,test_764_a_2.nii.gz,What is the diameter of the largest lymph node in the carina?,11 mm,Open,-,-,-,-,-
+3,1,test_767_a_1.nii.gz,What is the diameter of the largest lesion in the lower paratracheal area?,6 mm,Open,-,-,-,-,-
+3,1,test_767_a_2.nii.gz,What is the diameter of the largest lesion in the lower paratracheal area?,6 mm,Open,-,-,-,-,-
+3,1,test_768_a_1.nii.gz,What is the diameter of the hypodense lesion in the right kidney?,12 mm,Open,-,-,-,-,-
+3,1,test_768_a_1.nii.gz,What is the diameter of the calcified parenchymal nodule in the upper lobe of the right lung?,4 mm,Open,-,-,-,-,-
+3,1,test_768_a_2.nii.gz,What is the diameter of the hypodense lesion in the right kidney?,12 mm,Open,-,-,-,-,-
+3,1,test_768_a_2.nii.gz,What is the diameter of the calcified parenchymal nodule in the upper lobe of the right lung?,4 mm,Open,-,-,-,-,-
+3,1,test_771_a_1.nii.gz,What is the diameter of the ascending aorta?,40 mm,Open,-,-,-,-,-
+3,1,test_771_a_1.nii.gz,What is the diameter of the largest nodule in the left lower lobe superior?,5 mm,Open,-,-,-,-,-
+3,1,test_771_a_2.nii.gz,What is the diameter of the ascending aorta?,40 mm,Open,-,-,-,-,-
+3,1,test_771_a_2.nii.gz,What is the diameter of the largest nodule in the left lower lobe superior?,5 mm,Open,-,-,-,-,-
+3,1,test_777_a_1.nii.gz,What is the diameter of the largest nodule in the mediastinum?,Exceeding 1 cm,Open,-,-,-,-,-
+3,1,test_781_a_1.nii.gz,What is the diameter of the hypodense nodules in the lower pole of the larger right lobe?,17 mm,Open,-,-,-,-,-
+3,1,test_781_a_2.nii.gz,What is the diameter of the hypodense nodules in the lower pole of the larger right lobe?,17 mm,Open,-,-,-,-,-
+3,1,test_783_a_1.nii.gz,What is the longest diameter of the nodular lesion in the lateral segment of the right lung middle lobe?,17 mm,Open,-,-,-,-,-
+3,1,test_786_a_1.nii.gz,What is the short diameter of the largest lesion?,8 mm,Open,-,-,-,-,-
+3,1,test_786_a_2.nii.gz,What is the short diameter of the largest lesion?,8 mm,Open,-,-,-,-,-
+3,1,test_791_a_1.nii.gz,What is the diameter of the hypodense nodular lesion in the left lobe lateral segment of the liver?,7 mm,Open,-,-,-,-,-
+3,1,test_791_a_2.nii.gz,What is the diameter of the hypodense nodular lesion in the left lobe lateral segment of the liver?,7 mm,Open,-,-,-,-,-
+3,1,test_792_a_1.nii.gz,What is the short diameter of the oval-shaped lymph nodes in the aortopulmonary window?,4 mm,Open,-,-,-,-,-
+3,1,test_792_a_2.nii.gz,What is the short diameter of the oval-shaped lymph nodes in the aortopulmonary window?,4 mm,Open,-,-,-,-,-
+3,1,test_794_a_1.nii.gz,What is the diameter of the largest nodule in the lower lobe posterobasal segment on the right?,10 millimeters,Open,-,-,-,-,-
+3,1,test_797_a_1.nii.gz,What is the diameter of the aortic arch?,30 mm,Open,-,-,-,-,-
+3,1,test_803_a_1.nii.gz,What is the diameter of the ground-glass nodule in the anterior segment of the right lung upper lobe?,4mm,Open,-,-,-,-,-
+3,1,test_803_a_1.nii.gz,What is the diameter of the nodule in the upper lobe apicoposterior segment?,3mm,Open,-,-,-,-,-
+3,1,test_803_a_2.nii.gz,What is the diameter of the ground-glass nodule in the anterior segment of the right lung upper lobe?,4mm,Open,-,-,-,-,-
+3,1,test_803_a_2.nii.gz,What is the diameter of the nodule in the upper lobe apicoposterior segment?,3 mm,Open,-,-,-,-,-
+3,1,test_809_a_1.nii.gz,What is the diameter of the hypodense lesion in the upper pole of the left kidney?,10 mm,Open,-,-,-,-,-
+3,1,test_815_a_1.nii.gz,What is the diameter of the largest lesion at the level of the carina?,8 mm,Open,-,-,-,-,-
+3,1,test_815_a_2.nii.gz,What is the diameter of the largest lesion at the level of the carina?,8 mm,Open,-,-,-,-,-
+3,1,test_816_a_1.nii.gz,What is the diameter of the cyst in the left kidney?,4 cm,Open,-,-,-,-,-
+3,1,test_816_a_2.nii.gz,What is the diameter of the cyst in the left kidney?,4 cm,Open,-,-,-,-,-
+3,1,test_822_a_1.nii.gz,What is the diameter of the lymph nodes in the lower paratracheal mediastinum?,Less than 1 cm,Open,-,-,-,-,-
+3,1,test_829_b_1.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,39 mm,Open,-,-,-,-,-
+3,1,test_829_b_2.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,39 mm,Open,-,-,-,-,-
+3,1,test_832_b_1.nii.gz,What is the diameter of the lesion observed in the image?,10 mm,Open,-,-,-,-,-
+3,1,test_832_b_2.nii.gz,What is the diameter of the lesion?,10 mm,Open,-,-,-,-,-
+3,1,test_836_a_1.nii.gz,What is the short diameter of the largest lymphadenopathy in the subcarinal region?,15 mm,Open,-,-,-,-,-
+3,1,test_837_a_1.nii.gz,What is the diameter of the right upper paratracheal lymph node?,8 mm,Open,-,-,-,-,-
+3,1,test_837_a_1.nii.gz,What is the diameter of the nodule in the middle lobe of the right lung?,5 mm,Open,-,-,-,-,-
+3,1,test_837_a_2.nii.gz,What is the diameter of the nodule in the middle lobe of the right lung?,5 mm,Open,-,-,-,-,-
+3,1,test_838_a_1.nii.gz,What is the diameter of the hypodense lesion in the lower pole?,3 cm,Open,-,-,-,-,-
+3,1,test_838_a_2.nii.gz,What is the diameter of the hypodense lesion in the lower pole?,3 cm,Open,-,-,-,-,-
+3,1,test_846_a_1.nii.gz,What is the diameter of the lesion observed on the left?,1.5 cm,Open,-,-,-,-,-
+3,1,test_846_a_2.nii.gz,What is the diameter of the lesion observed on the left?,1.5 cm,Open,-,-,-,-,-
+3,1,test_847_a_1.nii.gz,What is the diameter of the nodule in the right lung upper lobe anterior segment?,3 mm,Open,-,-,-,-,-
+3,1,test_847_a_1.nii.gz,What is the diameter of the nodule observed in the image?,5 mm,Open,-,-,-,-,-
+3,1,test_847_a_1.nii.gz,What is the diameter of the largest nodule in the paramediastinal area of the left lung?,5 mm,Open,-,-,-,-,-
+3,1,test_847_a_1.nii.gz,What is the diameter of the nodule at the laterobasal level?,3 mm,Open,-,-,-,-,-
+3,1,test_847_a_1.nii.gz,What is the diameter of the nodule at the posterobasal level of the lower lobe?,3 mm,Open,-,-,-,-,-
+3,1,test_847_a_2.nii.gz,What is the diameter of the nodule in the paramediastinal area in the inferior lingular segment?,3 mm,Open,-,-,-,-,-
+3,1,test_847_a_2.nii.gz,What is the diameter of the nodule at the posterobasal level of the lower lobe?,3 mm,Open,-,-,-,-,-
+3,1,test_847_a_2.nii.gz,What is the diameter of the nodule at the laterobasal level?,3 mm,Open,-,-,-,-,-
+3,1,test_847_a_2.nii.gz,What is the diameter of the largest nodule in the paramediastinal area of the left lung?,5 mm,Open,-,-,-,-,-
+3,1,test_847_a_2.nii.gz,What is the diameter of the nodule in the right lung upper lobe anterior segment?,3 mm,Open,-,-,-,-,-
+3,1,test_847_a_2.nii.gz,What is the diameter of the nodule observed in the image?,5 mm,Open,-,-,-,-,-
+3,1,test_849_a_2.nii.gz,What is the diameter of the largest lesion?,12 mm,Open,-,-,-,-,-
+3,1,test_850_b_1.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,45 mm,Open,-,-,-,-,-
+3,1,test_850_b_2.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,45 mm,Open,-,-,-,-,-
+3,1,test_850_d_1.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,45 mm,Open,-,-,-,-,-
+3,1,test_850_d_2.nii.gz,What is the anterior-posterior diameter of the ascending aorta?,45 mm,Open,-,-,-,-,-
+3,1,test_850_f_1.nii.gz,What is the diameter of the ascending aorta?,40 mm,Open,-,-,-,-,-
+3,1,test_850_f_2.nii.gz,What is the diameter of the ascending aorta?,40 mm,Open,-,-,-,-,-
+3,1,test_859_a_1.nii.gz,What is the diameter of the large lymph node in the posterior part of the thoracic aorta?,9 mm,Open,-,-,-,-,-
+3,1,test_859_a_2.nii.gz,What is the diameter of the large lymph node in the posterior part of the thoracic aorta?,9 mm,Open,-,-,-,-,-
+3,1,test_861_a_1.nii.gz,What is the diameter of the largest lymph node in the mediastinal upper-lower paratracheal area?,7 mm,Open,-,-,-,-,-
+3,1,test_861_a_2.nii.gz,What is the diameter of the largest lymph node in the mediastinal upper-lower paratracheal area?,7 mm,Open,-,-,-,-,-
+3,1,test_863_a_2.nii.gz,What is the diameter of the stone in the middle part of the right kidney?,4 mm,Open,-,-,-,-,-
+3,1,test_863_a_3.nii.gz,What is the diameter of the stone in the middle part of the right kidney?,4 mm,Open,-,-,-,-,-
+3,1,test_867_a_1.nii.gz,What is the diameter of the hypodense nodule in the posterior of the left thyroid gland?,13 mm,Open,-,-,-,-,-
+3,1,test_870_a_2.nii.gz,What is the diameter of the largest lymph node in the right lower paratracheal area?,1 cm,Open,-,-,-,-,-
+3,1,test_876_b_1.nii.gz,What is the diameter of the larger lesion in the outer quadrant of the left breast?,26 mm,Open,-,-,-,-,-
+3,1,test_876_b_1.nii.gz,What is the diameter of the nodule in the left adrenal gland?,12 mm,Open,-,-,-,-,-
+3,1,test_876_b_2.nii.gz,What is the diameter of the nodule in the left adrenal gland?,12 mm,Open,-,-,-,-,-
+3,1,test_876_b_2.nii.gz,What is the diameter of the larger lesion in the outer quadrant of the left breast?,26 mm,Open,-,-,-,-,-
+3,1,test_877_a_2.nii.gz,What is the diameter of the aortic arch?,35 mm,Open,-,-,-,-,-
+3,1,test_87_a_1.nii.gz,What is the diameter of the observed parenchymal nodules in both lungs?,Less than 5 mm.,Open,-,-,-,-,-
+3,1,test_880_a_1.nii.gz,What is the diameter of the largest paraaortal lymph node?,8 mm,Open,-,-,-,-,-
+3,1,test_880_a_2.nii.gz,What is the diameter of the largest paraaortal lymph node?,8 mm,Open,-,-,-,-,-
+3,1,test_884_b_1.nii.gz,What is the diameter of the nodule in the superior segment of the left lung lower lobe?,2-3 mm,Open,-,-,-,-,-
+3,1,test_884_b_2.nii.gz,What is the diameter of the nodule in the superior segment of the left lung lower lobe?,2-3 mm,Open,-,-,-,-,-
+3,1,test_886_a_1.nii.gz,What is the diameter of the largest nodule in the mediobasal region of the left lower lobe?,7.5 mm,Open,-,-,-,-,-
+3,1,test_886_a_2.nii.gz,What is the diameter of the largest nodule in the mediobasal region of the left lower lobe?,7.5 mm,Open,-,-,-,-,-
+3,1,test_887_a_1.nii.gz,What is the diameter of the hypodense nodule in the right lobe of the thyroid gland?,8 mm,Open,-,-,-,-,-
+3,1,test_887_a_1.nii.gz,What is the diameter of the largest lesion in the right paratracheal area?,14 mm,Open,-,-,-,-,-
+3,1,test_887_a_2.nii.gz,What is the diameter of the largest lesion in the right paratracheal area?,14 mm,Open,-,-,-,-,-
+3,1,test_887_a_2.nii.gz,What is the diameter of the hypodense nodule in the right lobe of the thyroid gland?,8 mm,Open,-,-,-,-,-
+3,1,test_895_a_1.nii.gz,What is the diameter of the nodular lesion in the left adrenal gland?,1 cm,Open,-,-,-,-,-
+3,1,test_895_a_1.nii.gz,What is the diameter of the observed nodules in the lung parenchyma?,Less than 3 mm.,Open,-,-,-,-,-
+3,1,test_895_a_2.nii.gz,What is the diameter of the nodular lesion in the left adrenal gland?,1 cm,Open,-,-,-,-,-
+3,1,test_895_a_2.nii.gz,What is the diameter of the observed nodules in the lung parenchyma?,Less than 3 mm.,Open,-,-,-,-,-
+3,1,test_898_a_1.nii.gz,What is the diameter of the nodule located in the anterior segment of the right lung upper lobe?,3 mm,Open,-,-,-,-,-
+3,1,test_899_a_1.nii.gz,What is the short diameter of the largest lymphadenopathy in the subcarinal area?,15 mm,Open,-,-,-,-,-
+3,1,test_899_a_2.nii.gz,What is the short diameter of the largest lymphadenopathy in the subcarinal area?,15 mm,Open,-,-,-,-,-
+3,1,test_900_a_1.nii.gz,What is the diameter of the largest lesion?,12 mm,Open,-,-,-,-,-
+3,1,test_910_a_1.nii.gz,What is the diameter of the right pulmonary artery?,31 mm,Open,-,-,-,-,-
+3,1,test_910_a_1.nii.gz,What is the diameter of the largest nodular lesion in the left kidney?,5 cm,Open,-,-,-,-,-
+3,1,test_910_a_1.nii.gz,What is the diameter of the nodular density in the posterobasal segment of the lower lobe of the left lung?,1 mm,Open,-,-,-,-,-
+3,1,test_910_a_2.nii.gz,What is the diameter of the right pulmonary artery?,31 mm,Open,-,-,-,-,-
+3,1,test_910_a_2.nii.gz,What is the diameter of the nodular density in the posterobasal segment of the lower lobe of the left lung?,1 mm,Open,-,-,-,-,-
+3,1,test_915_b_1.nii.gz,What is the diameter of the subpleural millimetric nodule in the left lung lower lobe?,1 millimeter,Open,-,-,-,-,-
+3,1,test_915_c_2.nii.gz,What is the diameter of the millimetric nodule in the lower lobe of the left lung?,1 millimeter,Open,-,-,-,-,-
+3,1,test_928_b_1.nii.gz,What is the diameter of the calcified lymph nodes?,Less than 7 mm.,Open,-,-,-,-,-
+3,1,test_928_b_2.nii.gz,What is the diameter of the calcified lymph nodes?,Less than 7 mm.,Open,-,-,-,-,-
+3,1,test_933_a_1.nii.gz,What is the diameter of the largest lesion in the left lung lower lobe laterobasal segment?,5.5 mm,Open,-,-,-,-,-
+3,1,test_948_a_1.nii.gz,What is the diameter of the left pulmonary artery?,29 mm,Open,-,-,-,-,-
+3,1,test_948_a_2.nii.gz,What is the diameter of the left pulmonary artery?,29 mm,Open,-,-,-,-,-
+3,1,test_965_a_1.nii.gz,What is the axial diameter of the lesion in the left lobe of the thyroid gland?,55 mm,Open,-,-,-,-,-
+3,1,test_965_a_2.nii.gz,What is the axial diameter of the lesion in the left lobe of the thyroid gland?,55 mm,Open,-,-,-,-,-
+3,1,test_968_c_1.nii.gz,What is the diameter of the effusion in the deepest part on the right?,30 mm,Open,-,-,-,-,-
+3,1,test_968_c_2.nii.gz,What is the diameter of the effusion in the deepest part on the right?,30 mm,Open,-,-,-,-,-
+3,1,test_968_d_2.nii.gz,What is the diameter of the effusion in the deepest part on the right?,33 mm,Open,-,-,-,-,-
+3,1,test_983_a_2.nii.gz,What is the diameter of the accessory spleen observed inferior to the splenic hilum?,13 mm,Open,-,-,-,-,-
+3,1,test_994_a_1.nii.gz,What is the diameter of the nodule in the anterior segment of the upper lobe of the right lung?,5.3 mm,Open,-,-,-,-,-
+3,1,test_994_a_5.nii.gz,What is the diameter of the nodule in the anterior segment of the upper lobe of the right lung?,5.3 mm,Open,-,-,-,-,-
+3,1,test_996_a_1.nii.gz,What is the diameter of the hypodense nodular lesion in the right thyroid lobe?,14 mm,Open,-,-,-,-,-
+3,1,test_996_a_1.nii.gz,What is the diameter of the nodular lesion in the medial crus of the left adrenal gland?,14 mm,Open,-,-,-,-,-
+3,1,test_996_a_2.nii.gz,What is the diameter of the hypodense nodular lesion in the right thyroid lobe?,14 mm,Open,-,-,-,-,-
+3,1,test_996_a_2.nii.gz,What is the diameter of the nodular lesion in the medial crus of the left adrenal gland?,14 mm,Open,-,-,-,-,-

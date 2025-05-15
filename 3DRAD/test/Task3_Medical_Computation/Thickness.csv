@@ -1,0 +1,109 @@
+Task,Subtask,VolumeName,Question,Answer,QuestionType,AnswerChoice,Choice A,Choice B,Choice C,Choice D
+3,3,test_1006_b_1.nii.gz,What is the thickness of the pleural effusion at its thickest point?,30 mm,Open,-,-,-,-,-
+3,3,test_1006_b_2.nii.gz,What is the thickness of the pleural effusion at its thickest point?,30 mm,Open,-,-,-,-,-
+3,3,test_1013_a_1.nii.gz,What is the thickness of the pleural effusion on the right side?,49 mm,Open,-,-,-,-,-
+3,3,test_1013_a_2.nii.gz,What is the thickness of the pleural effusion on the right side?,49 mm,Open,-,-,-,-,-
+3,3,test_1016_f_1.nii.gz,What is the thickness of the effusion in the right pleural space?,20 mm,Open,-,-,-,-,-
+3,3,test_1016_f_2.nii.gz,What is the thickness of the effusion in the right pleural space?,20 mm,Open,-,-,-,-,-
+3,3,test_1078_a_1.nii.gz,What is the thickness of the pleural effusion at its thickest point?,70 mm,Open,-,-,-,-,-
+3,3,test_1078_a_2.nii.gz,What is the thickness of the pleural effusion at its thickest point?,70 mm,Open,-,-,-,-,-
+3,3,test_1082_a_1.nii.gz,What is the thickness of the pleural effusion on the left side?,67 mm,Open,-,-,-,-,-
+3,3,test_1082_a_2.nii.gz,What is the thickness of the pleural effusion on the left side?,67 mm,Open,-,-,-,-,-
+3,3,test_1098_a_1.nii.gz,What is the thickness of the pleural effusion at its thickest point?,50 mm,Open,-,-,-,-,-
+3,3,test_1098_a_2.nii.gz,What is the thickness of the pleural effusion at its thickest point?,50 mm,Open,-,-,-,-,-
+3,3,test_1105_a_1.nii.gz,What is the thickness of the pleural thickening in the right hemithorax?,1.5 cm,Open,-,-,-,-,-
+3,3,test_1105_a_2.nii.gz,What is the thickness of the pleural thickening in the right hemithorax?,1.5 cm,Open,-,-,-,-,-
+3,3,test_1126_b_1.nii.gz,What is the thickness of the lesion in the right lung at its widest point?,8.5 cm,Open,-,-,-,-,-
+3,3,test_1126_b_1.nii.gz,What is the thickness of the pleural effusion in the left lung?,1.5 cm,Open,-,-,-,-,-
+3,3,test_1126_b_2.nii.gz,What is the thickness of the lesion in the right lung at its widest point?,8.5 cm,Open,-,-,-,-,-
+3,3,test_1126_b_2.nii.gz,What is the thickness of the pleural effusion in the left lung?,1.5 cm,Open,-,-,-,-,-
+3,3,test_1135_a_1.nii.gz,What is the thickness of the pericardial effusion?,16 mm,Open,-,-,-,-,-
+3,3,test_1135_a_2.nii.gz,What is the thickness of the pericardial effusion?,16 mm,Open,-,-,-,-,-
+3,3,test_114_a_1.nii.gz,What is the thickness of the pleural effusion observed on the right?,8 cm,Open,-,-,-,-,-
+3,3,test_114_a_2.nii.gz,What is the thickness of the pleural effusion observed on the right?,8 cm,Open,-,-,-,-,-
+3,3,test_1192_b_1.nii.gz,What is the thickness of the free effusion in the right pleural space?,20 mm,Open,-,-,-,-,-
+3,3,test_1192_b_2.nii.gz,What is the thickness of the free effusion in the right pleural space?,20 mm,Open,-,-,-,-,-
+3,3,test_1211_a_1.nii.gz,What is the thickness of the pleural effusion on the left side?,32 mm,Open,-,-,-,-,-
+3,3,test_1211_a_2.nii.gz,What is the thickness of the pleural effusion on the left side?,32 mm,Open,-,-,-,-,-
+3,3,test_123_a_1.nii.gz,What is the thickness of the pleural effusion on the left?,6.5 mm,Open,-,-,-,-,-
+3,3,test_123_a_2.nii.gz,What is the thickness of the pleural effusion on the left side?,6.5 mm,Open,-,-,-,-,-
+3,3,test_1267_c_2.nii.gz,What is the thickness of the effusion in the pericardial area?,9 mm,Open,-,-,-,-,-
+3,3,test_127_a_1.nii.gz,What is the thickness of the wall at its thickest point?,6.7 mm,Open,-,-,-,-,-
+3,3,test_127_a_2.nii.gz,What is the thickness of the wall at its thickest point?,6.7 mm,Open,-,-,-,-,-
+3,3,test_1281_a_1.nii.gz,What is the thickness of the effusion in the right hemithorax?,34 mm,Open,-,-,-,-,-
+3,3,test_1281_a_2.nii.gz,What is the thickness of the effusion in the right hemithorax?,34 mm,Open,-,-,-,-,-
+3,3,test_1284_a_1.nii.gz,What is the thickness of the pleural effusion in the left hemithorax?,16 mm,Open,-,-,-,-,-
+3,3,test_1284_a_2.nii.gz,What is the thickness of the pleural effusion in the left hemithorax?,16 mm,Open,-,-,-,-,-
+3,3,test_202_b_1.nii.gz,What is the thickness of the lesion on the right at its thickest point?,5.5 mm,Open,-,-,-,-,-
+3,3,test_202_b_1.nii.gz,What is the thickness of the pleural effusion in the left hemithorax?,4 cm,Open,-,-,-,-,-
+3,3,test_202_b_2.nii.gz,What is the thickness of the lesion on the right at its thickest point?,5.5 mm,Open,-,-,-,-,-
+3,3,test_202_b_2.nii.gz,What is the thickness of the pleural effusion in the left hemithorax?,4 cm,Open,-,-,-,-,-
+3,3,test_27_b_1.nii.gz,What is the thickness of the pericardial effusion?,24 mm,Open,-,-,-,-,-
+3,3,test_27_b_2.nii.gz,What is the thickness of the pericardial effusion at its thickest point?,24 mm,Open,-,-,-,-,-
+3,3,test_342_a_1.nii.gz,What is the thickness of the air cyst at the apex of the upper lobe?,34 mm,Open,-,-,-,-,-
+3,3,test_342_a_2.nii.gz,What is the thickness of the air cyst at the apex of the upper lobe?,34 mm,Open,-,-,-,-,-
+3,3,test_345_a_1.nii.gz,What is the thickness of the pleural effusion at its thickest point?,53 mm,Open,-,-,-,-,-
+3,3,test_345_a_2.nii.gz,What is the thickness of the pleural effusion at its thickest point?,53 mm,Open,-,-,-,-,-
+3,3,test_416_a_1.nii.gz,What is the thickness of the effusion in the right pleural space?,80 mm,Open,-,-,-,-,-
+3,3,test_416_a_2.nii.gz,What is the thickness of the effusion in the right pleural space?,80 mm,Open,-,-,-,-,-
+3,3,test_423_a_1.nii.gz,What is the thickness of the pleural effusion in the right hemithorax?,3.5 cm,Open,-,-,-,-,-
+3,3,test_457_a_1.nii.gz,What is the thickness of the effusion in the right hemithorax?,5 cm,Open,-,-,-,-,-
+3,3,test_457_a_2.nii.gz,What is the thickness of the effusion in the right hemithorax?,5 cm,Open,-,-,-,-,-
+3,3,test_457_b_1.nii.gz,What is the thickness of the pleural effusion on the right?,60 mm,Open,-,-,-,-,-
+3,3,test_457_b_2.nii.gz,What is the thickness of the pleural effusion on the right?,60 mm,Open,-,-,-,-,-
+3,3,test_457_c_1.nii.gz,What is the thickness of the pericardial effusion?,22 mm,Open,-,-,-,-,-
+3,3,test_548_a_2.nii.gz,What is the thickness of the pleural effusion in the left hemithorax?,1 cm,Open,-,-,-,-,-
+3,3,test_554_a_1.nii.gz,What is the thickness of the pleural effusion in both lungs?,2 cm,Open,-,-,-,-,-
+3,3,test_554_a_2.nii.gz,What is the thickness of the pleural effusion in both lungs?,2 cm,Open,-,-,-,-,-
+3,3,test_566_a_1.nii.gz,What is the thickness of the effusion in the left hemithorax?,6.5 cm,Open,-,-,-,-,-
+3,3,test_566_b_1.nii.gz,What is the thickness of the pleural effusion in the left hemithorax?,6.5 cm,Open,-,-,-,-,-
+3,3,test_591_a_1.nii.gz,What is the thickness of the pleural effusion in the left lung?,1.5 cm,Open,-,-,-,-,-
+3,3,test_591_a_2.nii.gz,What is the thickness of the pleural effusion in the left lung?,1.5 cm,Open,-,-,-,-,-
+3,3,test_593_a_2.nii.gz,What is the thickness of the pleural effusion on the right?,18 mm,Open,-,-,-,-,-
+3,3,test_613_a_1.nii.gz,What is the thickness of the lesion at its thickest point?,4 cm,Open,-,-,-,-,-
+3,3,test_613_a_2.nii.gz,What is the thickness of the lesion at its thickest point?,4 cm,Open,-,-,-,-,-
+3,3,test_636_b_1.nii.gz,What is the thickness of the pleural effusion on the right side?,11 mm,Open,-,-,-,-,-
+3,3,test_636_b_2.nii.gz,What is the thickness of the pleural effusion on the right side?,11 mm,Open,-,-,-,-,-
+3,3,test_658_a_1.nii.gz,What is the thickness of the pericardial effusion at its deepest point?,18 mm,Open,-,-,-,-,-
+3,3,test_658_a_2.nii.gz,What is the thickness of the pericardial effusion at its deepest point?,18 mm,Open,-,-,-,-,-
+3,3,test_675_b_1.nii.gz,What is the thickness of the pleural effusion on the right side?,35 mm,Open,-,-,-,-,-
+3,3,test_675_b_2.nii.gz,What is the thickness of the pleural effusion on the right side?,35 mm,Open,-,-,-,-,-
+3,3,test_675_c_1.nii.gz,What is the thickness of the pleural effusion on the right side?,59 mm,Open,-,-,-,-,-
+3,3,test_675_c_2.nii.gz,What is the thickness of the pleural effusion on the right side?,59 mm,Open,-,-,-,-,-
+3,3,test_707_a_2.nii.gz,What is the thickness of the pleural effusion observed on the left?,18 mm,Open,-,-,-,-,-
+3,3,test_718_a_1.nii.gz,What is the thickness of the pleural effusion observed?,9 cm,Open,-,-,-,-,-
+3,3,test_722_b_1.nii.gz,What is the thickness loss observed in the anterior part of the D8 vertebra?,50% loss,Open,-,-,-,-,-
+3,3,test_722_b_2.nii.gz,What is the thickness loss observed in the anterior part of the D8 vertebra?,50% loss,Open,-,-,-,-,-
+3,3,test_730_a_1.nii.gz,What is the thickness of the largest lymph node in the upper-lower paratracheal subcarinal area?,7 mm,Open,-,-,-,-,-
+3,3,test_730_a_2.nii.gz,What is the thickness of the largest lymph node in the upper-lower paratracheal subcarinal area?,7 mm,Open,-,-,-,-,-
+3,3,test_777_a_1.nii.gz,What is the thickness of the pleural effusion in the right hemithorax?,5.5 cm,Open,-,-,-,-,-
+3,3,test_777_a_2.nii.gz,What is the thickness of the pleural effusion in the right hemithorax?,5.5 cm,Open,-,-,-,-,-
+3,3,test_784_a_1.nii.gz,What is the thickness of the pleural effusion on the right lung?,3 cm,Open,-,-,-,-,-
+3,3,test_784_a_2.nii.gz,What is the thickness of the pleural effusion on the right lung?,3 cm,Open,-,-,-,-,-
+3,3,test_804_a_1.nii.gz,What is the thickness of the pleural effusion at its thickest point?,30 mm,Open,-,-,-,-,-
+3,3,test_804_a_2.nii.gz,What is the thickness of the pleural effusion at its thickest point?,30 mm,Open,-,-,-,-,-
+3,3,test_815_a_1.nii.gz,What is the thickness of the pleural effusion in the left lung?,2 cm,Open,-,-,-,-,-
+3,3,test_815_a_2.nii.gz,What is the thickness of the pleural effusion in the left lung?,2 cm,Open,-,-,-,-,-
+3,3,test_815_b_1.nii.gz,What is the thickness of the pleural effusion in the widest part of the left lung?,3 cm,Open,-,-,-,-,-
+3,3,test_815_b_1.nii.gz,What is the thickness of the pleural effusion in the right lung?,8 mm,Open,-,-,-,-,-
+3,3,test_828_a_1.nii.gz,What is the thickness of the pleural effusion in the left hemithorax?,2 cm,Open,-,-,-,-,-
+3,3,test_828_a_2.nii.gz,What is the thickness of the pleural effusion in the left hemithorax?,2 cm,Open,-,-,-,-,-
+3,3,test_829_b_1.nii.gz,What is the thickness of the effusion in the left hemithorax?,75 mm,Open,-,-,-,-,-
+3,3,test_829_b_1.nii.gz,What is the thickness of the pericardial effusion?,7.5 mm,Open,-,-,-,-,-
+3,3,test_829_b_1.nii.gz,What is the thickness of the lesion at its thickest point?,121 mm,Open,-,-,-,-,-
+3,3,test_829_b_2.nii.gz,What is the thickness of the lesion at its thickest point?,121 mm,Open,-,-,-,-,-
+3,3,test_829_b_2.nii.gz,What is the thickness of the pericardial effusion?,7.5 mm,Open,-,-,-,-,-
+3,3,test_829_b_2.nii.gz,What is the thickness of the effusion in the left hemithorax?,75 mm,Open,-,-,-,-,-
+3,3,test_838_a_1.nii.gz,What is the thickness of the pleural effusion on the left?,1 cm,Open,-,-,-,-,-
+3,3,test_838_a_2.nii.gz,What is the thickness of the pleural effusion on the left?,1 cm,Open,-,-,-,-,-
+3,3,test_842_a_2.nii.gz,What is the thickness of the pleural effusion in the left hemithorax?,4.5 cm,Open,-,-,-,-,-
+3,3,test_885_a_1.nii.gz,What is the thickness of the pericardial effusion?,9 mm,Open,-,-,-,-,-
+3,3,test_885_a_2.nii.gz,What is the thickness of the pericardial effusion?,9 mm,Open,-,-,-,-,-
+3,3,test_887_a_1.nii.gz,What is the thickness of the pleural effusion in the right hemithorax?,9 cm,Open,-,-,-,-,-
+3,3,test_887_a_2.nii.gz,What is the thickness of the pleural effusion in the right hemithorax?,9 cm,Open,-,-,-,-,-
+3,3,test_968_b_1.nii.gz,What is the thickness of the pleural effusion in the right side?,19 mm,Open,-,-,-,-,-
+3,3,test_968_b_2.nii.gz,What is the thickness of the pleural effusion in the right side?,19 mm,Open,-,-,-,-,-
+3,3,test_968_d_1.nii.gz,What is the thickness of the effusion in the pericardial space?,8.5 mm,Open,-,-,-,-,-
+3,3,test_968_d_2.nii.gz,What is the thickness of the effusion in the pericardial space?,8.5 mm,Open,-,-,-,-,-
+3,3,test_985_a_1.nii.gz,What is the thickness of the pleural effusion on the right side?,24 mm,Open,-,-,-,-,-
+3,3,test_985_a_2.nii.gz,What is the thickness of the pleural effusion on the right side?,24 mm,Open,-,-,-,-,-

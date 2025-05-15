@@ -1,0 +1,1305 @@
+Task,Subtask,VolumeName,Question,Answer,QuestionType,AnswerChoice,Choice A,Choice B,Choice C,Choice D
+4,11,test_1000_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1001_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1002_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1003_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1004_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1005_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1006_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1007_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1008_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1009_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_100_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1010_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1011_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1012_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1013_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1014_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1015_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1016_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_1017_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1018_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1019_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_101_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1020_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1021_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1022_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1023_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1024_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1025_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1026_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1027_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1028_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1029_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_102_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1030_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1031_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1032_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1033_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1034_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1035_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1036_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1037_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1038_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1039_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_103_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1040_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1041_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1042_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1043_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1044_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1045_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1046_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1047_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1048_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1049_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_104_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1050_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1051_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1052_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1053_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1054_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1055_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1056_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1057_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1058_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1059_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_105_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1060_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1061_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1062_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1063_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1064_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1065_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1066_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1067_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1068_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1069_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_106_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1070_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1071_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1072_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1073_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1074_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1075_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1076_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1077_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1078_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1079_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_107_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1080_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1081_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1082_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1083_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1084_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1085_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1086_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1087_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1088_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1089_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_108_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1090_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1091_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1092_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1093_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1094_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1095_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1096_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1097_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1098_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1099_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_109_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_10_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_1100_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1101_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1102_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1103_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1104_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1105_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1106_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1107_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1108_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1109_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_110_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1110_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1111_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1112_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1113_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1114_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1115_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1116_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1117_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1118_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1119_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_111_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1120_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1121_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1122_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1123_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1124_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1125_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1126_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1127_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1128_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1129_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_112_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1130_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1131_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_1132_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1133_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1134_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1135_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1136_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1137_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1138_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1139_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_113_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1140_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1141_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1142_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1143_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1144_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1145_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1146_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1147_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1148_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1149_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_114_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1150_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1151_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1152_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1153_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1154_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1155_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1156_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1157_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1158_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1159_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_115_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1160_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1161_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1162_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1163_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1164_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1165_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1166_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1167_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1168_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1169_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_116_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1170_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1171_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1172_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1173_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1174_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1175_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1176_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1177_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1178_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1179_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_117_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1180_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1181_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1182_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1183_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1184_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1185_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1186_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1187_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1188_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1189_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_118_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1190_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1191_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1192_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1193_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1194_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1195_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1196_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1197_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1198_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1199_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_119_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_11_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1200_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1201_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1202_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1203_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1204_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1205_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1206_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1207_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1208_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1209_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_120_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1210_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1211_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1212_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1213_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1214_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1215_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1216_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1217_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1218_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1219_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_121_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1220_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1221_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1222_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1223_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1224_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1225_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1226_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1227_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1228_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1229_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_122_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1230_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1231_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1232_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1233_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1234_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1235_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1236_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1237_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1238_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1239_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_123_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1240_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1241_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1242_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1243_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1244_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1245_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1246_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1247_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1248_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1249_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_124_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1250_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1251_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1252_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1253_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1254_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1255_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1256_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1257_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1258_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1259_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_125_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1260_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1261_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1262_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1263_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1264_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1265_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1266_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1267_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1268_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1269_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_126_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1270_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1271_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1272_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1273_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1274_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1275_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1276_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1277_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1278_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1279_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_127_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1280_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1281_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1282_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1283_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_1284_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1285_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1286_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1287_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1288_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1289_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_128_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1290_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_1291_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_1292_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1293_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1294_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_1295_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1296_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1297_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_1298_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1299_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_129_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_12_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1300_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1301_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_1302_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_1303_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1304_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_130_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_131_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_132_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_133_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_134_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_135_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_136_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_137_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_138_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_139_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_13_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_140_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_141_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_142_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_143_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_144_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_145_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_146_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_147_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_148_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_149_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_14_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_150_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_151_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_152_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_153_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_154_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_155_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_156_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_157_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_158_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_159_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_15_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_160_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_161_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_162_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_163_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_164_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_165_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_166_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_167_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_168_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_169_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_16_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_170_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_171_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_172_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_173_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_174_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_175_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_176_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_177_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_178_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_179_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_17_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_180_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_181_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_182_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_183_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_184_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_185_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_186_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_187_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_188_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_189_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_18_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_190_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_191_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_192_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_193_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_194_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_195_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_196_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_197_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_198_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_199_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_19_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_1_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_200_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_201_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_202_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_203_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_204_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_205_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_206_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_207_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_208_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_209_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_20_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_210_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_211_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_212_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_213_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_214_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_215_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_216_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_217_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_218_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_219_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_21_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_220_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_221_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_222_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_223_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_224_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_225_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_226_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_227_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_228_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_229_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_22_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_230_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_231_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_232_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_233_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_234_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_235_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_236_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_237_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_238_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_239_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_23_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_240_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_241_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_242_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_243_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_244_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_245_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_246_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_247_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_248_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_249_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_24_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_250_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_251_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_252_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_253_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_254_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_255_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_256_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_257_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_258_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_259_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_25_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_260_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_261_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_262_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_263_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_264_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_265_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_266_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_267_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_268_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_269_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_26_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_270_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_271_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_272_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_273_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_274_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_275_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_276_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_277_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_278_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_279_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_27_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_280_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_281_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_282_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_283_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_284_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_285_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_286_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_287_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_288_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_289_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_28_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_290_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_291_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_292_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_293_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_294_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_295_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_296_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_297_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_298_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_299_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_29_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_2_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_300_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_301_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_302_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_303_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_304_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_305_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_306_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_307_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_308_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_309_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_30_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_310_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_311_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_312_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_313_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_314_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_315_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_316_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_317_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_318_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_319_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_31_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_320_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_321_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_322_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_323_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_324_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_325_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_326_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_327_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_328_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_329_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_32_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_330_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_331_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_332_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_333_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_334_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_335_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_336_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_337_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_338_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_339_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_33_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_340_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_341_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_342_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_343_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_344_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_345_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_346_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_347_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_348_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_349_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_34_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_350_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_351_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_352_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_353_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_354_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_355_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_356_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_357_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_358_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_359_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_35_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_360_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_361_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_362_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_363_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_364_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_365_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_366_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_367_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_368_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_369_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_36_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_370_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_371_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_372_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_373_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_374_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_375_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_376_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_377_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_378_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_379_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_37_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_380_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_381_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_382_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_383_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_384_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_385_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_386_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_387_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_388_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_389_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_38_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_390_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_391_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_392_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_393_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_394_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_395_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_396_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_397_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_398_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_399_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_39_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_3_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_400_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_401_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_402_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_403_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_404_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_405_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_406_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_407_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_408_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_409_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_40_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_410_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_411_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_412_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_413_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_414_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_415_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_416_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_417_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_418_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_419_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_41_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_420_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_421_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_422_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_423_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_424_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_425_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_426_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_427_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_428_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_429_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_42_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_430_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_431_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_432_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_433_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_434_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_435_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_436_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_437_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_438_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_439_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_43_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_440_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_441_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_442_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_443_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_444_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_445_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_446_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_447_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_448_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_449_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_44_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_450_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_451_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_452_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_453_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_454_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_455_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_456_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_457_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_458_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_459_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_45_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_460_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_461_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_462_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_463_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_464_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_465_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_466_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_467_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_468_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_469_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_46_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_470_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_471_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_472_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_473_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_474_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_475_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_476_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_477_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_478_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_479_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_47_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_480_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_481_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_482_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_483_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_484_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_485_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_486_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_487_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_488_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_489_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_48_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_490_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_491_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_492_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_493_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_494_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_495_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_496_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_497_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_498_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_499_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_49_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_4_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_500_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_501_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_502_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_503_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_504_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_505_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_506_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_507_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_508_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_509_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_50_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_510_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_511_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_512_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_513_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_514_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_515_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_516_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_517_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_518_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_519_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_51_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_520_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_521_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_522_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_523_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_524_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_525_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_526_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_527_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_528_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_529_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_52_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_530_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_531_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_532_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_533_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_534_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_535_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_536_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_537_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_538_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_539_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_53_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_540_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_541_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_542_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_543_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_544_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_545_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_546_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_547_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_548_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_549_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_54_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_550_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_551_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_552_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_553_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_554_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_555_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_556_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_557_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_558_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_559_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_55_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_560_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_561_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_562_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_563_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_564_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_565_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_566_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_567_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_568_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_569_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_56_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_570_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_571_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_572_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_573_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_574_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_575_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_576_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_577_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_578_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_579_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_57_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_580_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_581_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_582_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_583_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_584_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_585_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_586_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_587_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_588_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_589_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_58_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_590_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_591_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_592_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_593_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_594_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_595_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_596_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_597_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_598_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_599_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_59_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_5_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_600_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_601_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_602_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_603_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_604_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_605_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_606_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_607_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_608_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_609_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_60_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_610_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_611_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_612_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_613_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_614_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_615_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_616_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_617_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_618_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_619_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_61_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_620_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_621_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_622_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_623_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_624_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_625_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_626_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_627_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_628_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_629_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_62_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_630_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_631_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_632_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_633_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_634_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_635_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_636_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_637_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_638_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_639_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_63_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_640_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_641_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_642_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_643_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_644_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_645_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_646_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_647_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_648_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_649_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_64_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_650_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_651_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_652_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_653_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_654_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_655_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_656_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_657_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_658_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_659_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_65_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_660_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_661_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_662_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_663_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_664_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_665_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_666_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_667_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_668_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_669_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_66_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_670_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_671_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_672_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_673_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_674_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_675_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_676_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_677_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_678_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_679_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_67_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_680_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_681_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_682_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_683_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_684_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_685_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_686_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_687_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_688_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_689_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_68_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_690_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_691_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_692_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_693_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_694_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_695_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_696_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_697_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_698_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_699_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_69_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_6_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_700_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_701_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_702_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_703_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_704_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_705_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_706_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_707_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_708_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_709_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_70_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_710_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_711_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_712_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_713_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_714_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_715_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_716_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_717_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_718_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_719_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_71_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_720_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_721_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_722_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_723_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_724_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_725_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_726_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_727_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_728_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_729_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_72_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_730_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_731_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_732_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_733_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_734_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_735_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_736_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_737_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_738_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_739_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_73_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_740_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_741_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_742_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_743_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_744_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_745_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_746_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_747_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_748_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_749_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_74_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_750_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_751_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_752_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_753_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_754_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_755_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_756_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_757_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_758_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_759_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_75_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_760_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_761_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_762_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_763_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_764_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_765_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_766_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_767_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_768_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_769_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_76_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_770_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_771_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_772_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_773_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_774_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_775_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_776_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_777_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_778_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_779_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_77_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_780_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_781_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_782_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_783_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_784_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_785_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_786_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_787_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_788_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_789_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_78_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_790_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_791_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_792_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_793_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_794_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_795_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_796_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_797_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_798_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_799_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_79_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_7_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_800_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_801_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_802_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_803_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_804_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_805_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_806_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_807_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_808_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_809_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_80_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_810_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_811_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_812_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_813_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_814_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_815_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_816_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_817_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_818_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_819_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_81_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_820_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_821_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_822_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_823_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_824_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_825_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_826_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_827_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_828_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_829_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_82_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_830_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_831_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_832_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_833_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_834_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_835_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_836_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_837_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_838_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_839_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_83_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_840_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_841_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_842_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_843_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_844_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_845_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_846_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_847_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_848_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_849_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_84_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_850_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_851_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_852_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_853_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_854_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_855_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_856_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_857_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_858_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_859_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_85_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_860_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_861_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_862_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_863_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_864_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_865_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_866_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_867_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_868_a_1.nii.gz,Is lung opacity noted on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_869_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_86_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_870_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_871_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_872_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_873_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_874_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_875_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_876_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_877_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_878_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_879_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_87_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_880_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_881_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_882_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_883_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_884_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_885_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_886_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_887_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_888_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_889_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_88_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_890_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_891_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_892_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_893_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_894_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_895_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_896_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_897_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_898_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_899_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_89_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_8_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_900_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_901_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_902_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_903_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_904_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_905_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_906_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_907_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_908_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_909_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_90_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_910_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_911_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_912_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_913_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_914_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_915_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_916_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_917_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_918_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_919_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_91_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_920_a_1.nii.gz,Can lung opacity be observed on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_921_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_922_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_923_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_924_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_925_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_926_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_927_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_928_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_929_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_92_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_930_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,Yes,Close,A,Yes,No,-,-
+4,11,test_931_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_932_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_933_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_934_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_935_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_936_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_937_a_1.nii.gz,Is lung opacity visible on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_938_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_939_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_93_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_940_a_1.nii.gz,Is lung opacity identifiable on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_941_a_1.nii.gz,Is lung opacity present on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_942_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_943_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_944_a_1.nii.gz,Does the CT scan exhibit lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_945_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_946_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_947_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_948_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_949_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_94_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_950_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_951_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_952_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_953_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_954_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_955_a_1.nii.gz,Does the CT scan reveal lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_956_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_957_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_958_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_959_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_95_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_960_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_961_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_962_a_1.nii.gz,Is lung opacity noted on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_963_a_1.nii.gz,Can lung opacity be observed on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_964_a_1.nii.gz,Does this CT image show lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_965_a_1.nii.gz,Does this CT image present lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_966_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_967_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_968_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_969_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_96_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_970_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_971_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_972_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_973_a_1.nii.gz,Is lung opacity visible on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_974_a_1.nii.gz,Does the CT scan suggest lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_975_a_1.nii.gz,Is lung opacity present on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_976_a_1.nii.gz,Can lung opacity be detected on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_977_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_978_a_1.nii.gz,Can signs of lung opacity be recognized on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_979_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_97_a_1.nii.gz,Can lung opacity be detected on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_980_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_981_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_982_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_983_a_1.nii.gz,Does this CT image show lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_984_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_985_a_1.nii.gz,Does the CT scan suggest lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_986_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,Yes,Close,A,Yes,No,-,-
+4,11,test_987_a_1.nii.gz,Does this CT image present lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_988_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_989_a_1.nii.gz,Is lung opacity apparent on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_98_a_1.nii.gz,Does the CT scan reveal lung opacity?,Yes,Close,A,Yes,No,-,-
+4,11,test_990_a_1.nii.gz,Is lung opacity apparent on the CT images?,Yes,Close,A,Yes,No,-,-
+4,11,test_991_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_992_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_993_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_994_a_1.nii.gz,Is lung opacity confirmed by the CT findings?,No,Close,B,Yes,No,-,-
+4,11,test_995_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_996_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_997_a_1.nii.gz,Is there evidence of lung opacity on the CT images?,No,Close,B,Yes,No,-,-
+4,11,test_998_a_1.nii.gz,Does the CT scan demonstrate lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_999_a_1.nii.gz,Does the CT scan exhibit lung opacity?,No,Close,B,Yes,No,-,-
+4,11,test_99_a_1.nii.gz,Can lung opacity be clearly seen on the CT scan?,No,Close,B,Yes,No,-,-
+4,11,test_9_a_1.nii.gz,Is there any presence of lung opacity on the CT scan?,No,Close,B,Yes,No,-,-

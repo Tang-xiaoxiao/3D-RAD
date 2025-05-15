@@ -1,0 +1,684 @@
+Task,Subtask,VolumeName,Question,Answer,QuestionType,AnswerChoice,Choice A,Choice B,Choice C,Choice D
+1,1,train_10025_a_1.nii.gz,Where are the focal consolidations primarily located?,Upper lobes.,Open,-,-,-,-,-
+1,1,train_10037_a_1.nii.gz,Where is the pulmonary nodule located?,Right lower lobe,Open,-,-,-,-,-
+1,1,train_10148_a_2.nii.gz,Which breast is absent?,Left breast,Open,-,-,-,-,-
+1,1,train_10256_a_2.nii.gz,Where are the parenchymal nodules located?,"Right lung middle lobe, left lung lower lobe.",Open,-,-,-,-,-
+1,1,train_10269_a_1.nii.gz,Where are the tree-like nodular opacities located?,"Right lung, lower lobe.",Open,-,-,-,-,-
+1,1,train_10292_a_1.nii.gz,Where is the subpleural nodule located?,Superior right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_10301_a_2.nii.gz,Where is the catheter extending?,Superior vena cava,Open,-,-,-,-,-
+1,1,train_10326_c_2.nii.gz,Where is the right hemidiaphragm positioned?,Elevated.,Open,-,-,-,-,-
+1,1,train_10382_a_2.nii.gz,Which chamber of the heart is clearly observed?,Left atrium.,Open,-,-,-,-,-
+1,1,train_10439_a_1.nii.gz,Which structure is located in the midline between the main bronchi?,Trachea.,Open,-,-,-,-,-
+1,1,train_10498_b_2.nii.gz,Where is the pneumothorax observed?,Left pleural space.,Open,-,-,-,-,-
+1,1,train_10509_a_1.nii.gz,Where are the focal consolidations located?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_10558_a_1.nii.gz,What is the condition of the trachea and bronchi?,Open and unobstructed.,Open,-,-,-,-,-
+1,1,train_10580_a_2.nii.gz,Where are the peripheral consolidations observed?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_10594_a_2.nii.gz,Where is the triangular nodule located?,Right inferolateral to minor fissure.,Open,-,-,-,-,-
+1,1,train_10641_c_1.nii.gz,Where is the nonspecific nodule located?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_10669_a_1.nii.gz,Where is the solid pulmonary nodule located?,Left lung middle lobe.,Open,-,-,-,-,-
+1,1,train_10714_a_1.nii.gz,Which lung apex shows a mass?,Right lung apex.,Open,-,-,-,-,-
+1,1,train_10714_a_2.nii.gz,Which lung apex shows a mass?,Right lung apex.,Open,-,-,-,-,-
+1,1,train_10726_a_1.nii.gz,Where is the mass lesion located?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_10736_a_1.nii.gz,Where is the large cortical cyst located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_10736_a_2.nii.gz,Where is the large exophytic cortical cyst located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_10795_a_2.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_10801_a_1.nii.gz,Which breast shows metallic densities?,Right breast.,Open,-,-,-,-,-
+1,1,train_10835_a_2.nii.gz,Which breast is absent?,Right breast.,Open,-,-,-,-,-
+1,1,train_10894_a_2.nii.gz,Where is the space-occupying consolidation area located?,Right lung middle lobe,Open,-,-,-,-,-
+1,1,train_11073_d_1.nii.gz,Where is the sequela calcific nodule located?,Left lung upper lobe,Open,-,-,-,-,-
+1,1,train_11136_a_2.nii.gz,What metallic structures are visible?,Metallic sutures.,Open,-,-,-,-,-
+1,1,train_11163_a_1.nii.gz,Where is the calcified nodule located?,Superior left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_11184_c_2.nii.gz,Where is the primary mass located?,Lower lobe of right lung.,Open,-,-,-,-,-
+1,1,train_11237_a_2.nii.gz,What is the condition of the lymph nodes in the supraclavicular fossa?,No pathological enlargement.,Open,-,-,-,-,-
+1,1,train_11250_a_1.nii.gz,Which lung contains a nodular lesion?,Right lung,Open,-,-,-,-,-
+1,1,train_11315_g_1.nii.gz,Where is the pleural effusion observed?,Right side.,Open,-,-,-,-,-
+1,1,train_11315_g_2.nii.gz,Which lung shows pleural effusion?,Right lung.,Open,-,-,-,-,-
+1,1,train_11345_a_2.nii.gz,Where is the pleural-based nodule located?,Lower lobe.,Open,-,-,-,-,-
+1,1,train_11480_a_2.nii.gz,Where is the mass lesion located?,Lung hilum.,Open,-,-,-,-,-
+1,1,train_11518_a_2.nii.gz,Where is the hypodense lesion located?,Right kidney.,Open,-,-,-,-,-
+1,1,train_11617_a_1.nii.gz,What device is observed on the anterior left chest wall?,Pacemaker.,Open,-,-,-,-,-
+1,1,train_11617_a_2.nii.gz,What device is observed on the anterior left chest wall?,Pacemaker.,Open,-,-,-,-,-
+1,1,train_1169_a_1.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_11830_a_1.nii.gz,Where is the mass lesion located?,Anterior mediastinum,Open,-,-,-,-,-
+1,1,train_11831_a_1.nii.gz,Where is the nasogastric tube located?,Stomach,Open,-,-,-,-,-
+1,1,train_11861_a_1.nii.gz,Which lung shows a massive pleural effusion?,Left lung.,Open,-,-,-,-,-
+1,1,train_11861_a_2.nii.gz,Which lung shows a massive pleural effusion?,Left lung.,Open,-,-,-,-,-
+1,1,train_11931_d_1.nii.gz,Where is the primary lesion located?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_1196_c_1.nii.gz,Which main bronchi are open?,Both main bronchi.,Open,-,-,-,-,-
+1,1,train_12040_a_2.nii.gz,Where is the hyperdense nodule located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_12182_a_2.nii.gz,Which lung lobe contains the primary mass?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_12201_a_2.nii.gz,Where are the hyperdense stones located?,Right and left kidneys.,Open,-,-,-,-,-
+1,1,train_12201_a_3.nii.gz,Where are the hyperdense stones located?,Right and left kidneys.,Open,-,-,-,-,-
+1,1,train_12201_a_5.nii.gz,Where are the hyperdense stones located?,Right kidney upper pole.,Open,-,-,-,-,-
+1,1,train_12278_a_1.nii.gz,Which lung shows consolidation?,Right lung,Open,-,-,-,-,-
+1,1,train_12281_a_2.nii.gz,Where is the pleural effusion observed?,Right side,Open,-,-,-,-,-
+1,1,train_12281_a_4.nii.gz,Which lung shows pleural effusion?,Right lung.,Open,-,-,-,-,-
+1,1,train_12281_a_5.nii.gz,Which lung shows pleural effusion?,Right lung.,Open,-,-,-,-,-
+1,1,train_12318_a_2.nii.gz,Which lobe contains the hypodense lesion?,Left lobe,Open,-,-,-,-,-
+1,1,train_12372_a_1.nii.gz,What is the condition of the trachea and bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_12378_b_1.nii.gz,Where is the calculus located?,Right kidney.,Open,-,-,-,-,-
+1,1,train_12378_b_2.nii.gz,Which kidney is affected?,Right kidney.,Open,-,-,-,-,-
+1,1,train_12455_c_2.nii.gz,What area shows consolidation?,Lower lobe.,Open,-,-,-,-,-
+1,1,train_12455_e_2.nii.gz,Which breast shows increased skin thickness?,Left breast.,Open,-,-,-,-,-
+1,1,train_12488_a_1.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_12520_e_2.nii.gz,Where is the tracheostomy cannula observed?,Trachea.,Open,-,-,-,-,-
+1,1,train_12525_a_2.nii.gz,Where is the cortical cyst located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_12537_f_1.nii.gz,Which lobes show nodular consolidation?,Right and left upper lobes.,Open,-,-,-,-,-
+1,1,train_12537_f_2.nii.gz,Which lobes show nodular consolidation?,Right and left upper lobes.,Open,-,-,-,-,-
+1,1,train_12537_g_1.nii.gz,Where are the nodular consolidations located?,Right and left upper lobes.,Open,-,-,-,-,-
+1,1,train_12537_g_2.nii.gz,What areas show nodular consolidation?,Right and left upper lobes.,Open,-,-,-,-,-
+1,1,train_12538_b_1.nii.gz,Which implants are observed?,Bilateral breast implants.,Open,-,-,-,-,-
+1,1,train_12538_b_2.nii.gz,What implants are visible?,Bilateral breast implants.,Open,-,-,-,-,-
+1,1,train_1261_a_2.nii.gz,Where is the endovascular stent located?,Descending thoracic aorta.,Open,-,-,-,-,-
+1,1,train_12638_a_1.nii.gz,Where is the massive pleural effusion observed?,Right side.,Open,-,-,-,-,-
+1,1,train_12656_a_1.nii.gz,Which lobe contains the nodule?,Right lobe,Open,-,-,-,-,-
+1,1,train_12699_a_1.nii.gz,Where is the mass located?,Left lung upper lobe,Open,-,-,-,-,-
+1,1,train_12720_a_1.nii.gz,Which pulmonary artery is ectatic?,Left pulmonary artery.,Open,-,-,-,-,-
+1,1,train_12735_a_2.nii.gz,Where is the port catheter located?,Right anterior chest wall.,Open,-,-,-,-,-
+1,1,train_1278_a_1.nii.gz,Which tubes are visible?,"Tracheal tube, nasogastric tube.",Open,-,-,-,-,-
+1,1,train_12823_a_2.nii.gz,Where is the hypodense lesion located?,Right lobe anterior segment,Open,-,-,-,-,-
+1,1,train_12869_b_1.nii.gz,Where are the consolidations most prominent?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_12869_b_2.nii.gz,Where are the consolidations most prominent?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_12913_a_1.nii.gz,Which lobe contains the nodule?,Left lobe,Open,-,-,-,-,-
+1,1,train_12913_a_2.nii.gz,Which lobe contains the nodule?,Left lobe,Open,-,-,-,-,-
+1,1,train_12941_a_1.nii.gz,Where is the aneurysmatic dilatation observed?,Ascending aorta,Open,-,-,-,-,-
+1,1,train_12941_a_2.nii.gz,Where is the aneurysmatic dilatation located?,Ascending aorta.,Open,-,-,-,-,-
+1,1,train_12941_b_2.nii.gz,Where are the cysts located?,Both kidneys.,Open,-,-,-,-,-
+1,1,train_12972_a_1.nii.gz,Which structure is observed in the image?,Tracheostomy tube.,Open,-,-,-,-,-
+1,1,train_13063_a_2.nii.gz,Which quadrant of the left breast is observed?,Outer quadrant.,Open,-,-,-,-,-
+1,1,train_1311_a_1.nii.gz,Which major bronchi are open?,Both main bronchi.,Open,-,-,-,-,-
+1,1,train_1313_b_1.nii.gz,Where are the ground-glass areas located?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_13243_a_1.nii.gz,Where is the malignant mass located?,"Upper lobe, right lung.",Open,-,-,-,-,-
+1,1,train_13243_a_2.nii.gz,Where is the malignant mass located?,"Upper lobe, right lung.",Open,-,-,-,-,-
+1,1,train_13304_a_1.nii.gz,Where is the hypodense nodule located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_13355_a_2.nii.gz,Which device is observed in the trachea?,Tracheostomy cannula.,Open,-,-,-,-,-
+1,1,train_1335_a_2.nii.gz,Which gland appears enlarged?,Thyroid gland.,Open,-,-,-,-,-
+1,1,train_13367_a_1.nii.gz,Which lobe contains the nodule?,Left lobe,Open,-,-,-,-,-
+1,1,train_13380_a_1.nii.gz,Which breast is operated?,Left breast.,Open,-,-,-,-,-
+1,1,train_13480_a_1.nii.gz,Where is the hyperdense nodule located?,Left thyroid lobe.,Open,-,-,-,-,-
+1,1,train_13498_b_1.nii.gz,What structure is observed in the image?,Central venous catheter.,Open,-,-,-,-,-
+1,1,train_13519_a_1.nii.gz,Which lung shows atelectasis?,Right lung,Open,-,-,-,-,-
+1,1,train_13542_a_2.nii.gz,Which pleural space shows an effusion?,Right pleural space.,Open,-,-,-,-,-
+1,1,train_1360_a_1.nii.gz,Where is the pleural effusion more prominent?,Right side,Open,-,-,-,-,-
+1,1,train_13632_c_2.nii.gz,Which major vascular structure is observed?,Aortic arch.,Open,-,-,-,-,-
+1,1,train_13660_b_2.nii.gz,Where is the effusion located?,Right pleural space.,Open,-,-,-,-,-
+1,1,train_13690_a_1.nii.gz,Where is the pleural nodule located?,Superior right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_13690_a_2.nii.gz,Where is the pleural nodule located?,Superior right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_13718_f_1.nii.gz,What device is observed on the anterior chest wall?,Pacemaker.,Open,-,-,-,-,-
+1,1,train_13733_a_2.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_13758_a_1.nii.gz,Which side shows pneumothorax?,Right.,Open,-,-,-,-,-
+1,1,train_13771_b_1.nii.gz,Where is the catheter observed?,Left internal jugular vein.,Open,-,-,-,-,-
+1,1,train_1378_c_2.nii.gz,Where is the area of atelectasis located?,Right lung middle lobe,Open,-,-,-,-,-
+1,1,train_1382_a_2.nii.gz,Which bronchus is compressed?,Right main bronchus.,Open,-,-,-,-,-
+1,1,train_1384_a_1.nii.gz,Which breast is absent?,Right breast.,Open,-,-,-,-,-
+1,1,train_1384_a_2.nii.gz,Which breast is absent?,Right breast.,Open,-,-,-,-,-
+1,1,train_1386_a_2.nii.gz,Which lobe of the thyroid gland shows a nodule?,Right lobe.,Open,-,-,-,-,-
+1,1,train_13882_a_2.nii.gz,Where is the subpleural nodule located?,Right upper lobe,Open,-,-,-,-,-
+1,1,train_13940_b_2.nii.gz,Which major vascular structure is observed?,Aortic arch.,Open,-,-,-,-,-
+1,1,train_13987_a_2.nii.gz,Which quadrant of the right breast shows an abnormality?,Lower outer quadrant.,Open,-,-,-,-,-
+1,1,train_13988_b_1.nii.gz,Where is the stable nodule located?,Right middle lobe,Open,-,-,-,-,-
+1,1,train_13993_a_1.nii.gz,Which major vascular structure is observed?,Aortic arch.,Open,-,-,-,-,-
+1,1,train_14031_a_1.nii.gz,Which major vascular structure is observed?,Aortic arch.,Open,-,-,-,-,-
+1,1,train_14032_a_1.nii.gz,Where is the enlarged thyroid lobe located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_14032_a_2.nii.gz,Where is the enlarged thyroid lobe located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_14077_a_2.nii.gz,Where is the tracheal tube located?,In the trachea.,Open,-,-,-,-,-
+1,1,train_1409_a_2.nii.gz,Which lung shows a mass lesion?,Left lung,Open,-,-,-,-,-
+1,1,train_140_b_1.nii.gz,Which breast contains the prosthesis?,Right breast.,Open,-,-,-,-,-
+1,1,train_14174_a_1.nii.gz,Which pleural space shows effusion?,Right pleural space.,Open,-,-,-,-,-
+1,1,train_14180_a_1.nii.gz,Which structure is midline between the main bronchi?,Trachea.,Open,-,-,-,-,-
+1,1,train_14183_b_1.nii.gz,Which lung shows consolidation areas?,Right lung,Open,-,-,-,-,-
+1,1,train_14185_a_1.nii.gz,Where are the cortical cysts located?,Right kidney.,Open,-,-,-,-,-
+1,1,train_14235_a_1.nii.gz,Which tube is observed in the image?,Endotracheal tube.,Open,-,-,-,-,-
+1,1,train_14235_a_2.nii.gz,Which tube is observed in the image?,Endotracheal tube.,Open,-,-,-,-,-
+1,1,train_14266_a_2.nii.gz,Which pleural space shows fluid accumulation?,Left pleural space.,Open,-,-,-,-,-
+1,1,train_14356_a_2.nii.gz,Which bronchus is open?,Left main bronchus.,Open,-,-,-,-,-
+1,1,train_1437_a_2.nii.gz,Where is the cortical cyst located?,Right kidney.,Open,-,-,-,-,-
+1,1,train_14429_a_1.nii.gz,Which lung shows consolidation?,Left lung,Open,-,-,-,-,-
+1,1,train_14442_i_2.nii.gz,Where is the minimal pleural effusion observed?,Left side.,Open,-,-,-,-,-
+1,1,train_14449_a_1.nii.gz,Where are the round-shaped consolidations located?,Lower lobe of left lung.,Open,-,-,-,-,-
+1,1,train_1448_a_2.nii.gz,Which structure is observed in the tracheal lumen?,Endotracheal tube.,Open,-,-,-,-,-
+1,1,train_1448_e_1.nii.gz,Where is the pleural effusion most prominent?,Right pleura.,Open,-,-,-,-,-
+1,1,train_14530_a_2.nii.gz,Which chamber is observed?,Right atrium.,Open,-,-,-,-,-
+1,1,train_14551_a_2.nii.gz,Where is the aneurysmatic dilatation observed?,Ascending aorta,Open,-,-,-,-,-
+1,1,train_14610_a_2.nii.gz,Where is the central venous catheter terminating?,Right atrium.,Open,-,-,-,-,-
+1,1,train_14661_a_2.nii.gz,Where are the consolidations observed?,Upper and middle lobes.,Open,-,-,-,-,-
+1,1,train_14722_a_2.nii.gz,Which lung shows volume loss?,Left lung,Open,-,-,-,-,-
+1,1,train_14784_a_2.nii.gz,Which lobe contains the lesion?,Left lobe.,Open,-,-,-,-,-
+1,1,train_14787_a_1.nii.gz,Which structure is midline between the main bronchi?,Trachea.,Open,-,-,-,-,-
+1,1,train_14797_a_2.nii.gz,Which lung contains mass lesions?,Left lung,Open,-,-,-,-,-
+1,1,train_1486_c_2.nii.gz,Which space shows effusion?,Pleural space.,Open,-,-,-,-,-
+1,1,train_14889_b_1.nii.gz,Which vascular structure is observed?,Pulmonary trunk.,Open,-,-,-,-,-
+1,1,train_14898_a_1.nii.gz,Where is the significant pleural effusion observed?,Right side.,Open,-,-,-,-,-
+1,1,train_1494_b_1.nii.gz,What structure is observed in the midline?,Trachea.,Open,-,-,-,-,-
+1,1,train_14951_a_1.nii.gz,What shape is the lesion in the right thyroid lobe?,Oval-shaped.,Open,-,-,-,-,-
+1,1,train_14951_a_2.nii.gz,What shape is the lesion in the right thyroid lobe?,Oval-shaped.,Open,-,-,-,-,-
+1,1,train_1497_a_1.nii.gz,Where are the dependent ground glass densities observed?,Both lower lobes.,Open,-,-,-,-,-
+1,1,train_15027_a_1.nii.gz,Which major vessel shows aneurysmatic dilatation?,Ascending aorta.,Open,-,-,-,-,-
+1,1,train_15027_a_2.nii.gz,Where is the aneurysmatic dilatation observed?,Ascending aorta.,Open,-,-,-,-,-
+1,1,train_15083_a_1.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_15246_a_1.nii.gz,Which lung lobe shows a nodular area?,Right upper lobe,Open,-,-,-,-,-
+1,1,train_15246_a_2.nii.gz,Which lung lobe shows a nodular area?,Right upper lobe,Open,-,-,-,-,-
+1,1,train_15257_a_2.nii.gz,Which major bronchi are open?,Both main bronchi.,Open,-,-,-,-,-
+1,1,train_15267_a_2.nii.gz,Where are the ground glass areas observed?,Both lung lower lobes.,Open,-,-,-,-,-
+1,1,train_15329_a_2.nii.gz,Which lung shows ground-glass density?,Right lung,Open,-,-,-,-,-
+1,1,train_15346_a_1.nii.gz,Where is the solitary nodule located?,Right lung middle lobe,Open,-,-,-,-,-
+1,1,train_1540_b_2.nii.gz,Where is the irregular nodule located?,Right lung upper lobe posterior segment.,Open,-,-,-,-,-
+1,1,train_15421_a_1.nii.gz,Where is the ground-glass nodule located?,Anterior lower lobe.,Open,-,-,-,-,-
+1,1,train_15424_a_2.nii.gz,Where is the large space-occupying lesion located?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_15443_a_1.nii.gz,Where is the fracture located?,Right second rib,Open,-,-,-,-,-
+1,1,train_15443_a_2.nii.gz,Where is the fracture located?,Right second rib.,Open,-,-,-,-,-
+1,1,train_15464_c_1.nii.gz,Which lobe contains the hypodense nodule?,Left lobe.,Open,-,-,-,-,-
+1,1,train_15464_c_2.nii.gz,Which lobe contains the hypodense nodule?,Left lobe.,Open,-,-,-,-,-
+1,1,train_15469_a_2.nii.gz,Where is the centrally located mass observed?,Right lung hilum.,Open,-,-,-,-,-
+1,1,train_15564_e_1.nii.gz,What is the condition of the trachea and main bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_15582_c_1.nii.gz,Which side shows minimal pleural effusion?,Left side.,Open,-,-,-,-,-
+1,1,train_15582_c_2.nii.gz,Which side shows minimal pleural effusion?,Left side.,Open,-,-,-,-,-
+1,1,train_1560_a_1.nii.gz,Where is the lesion located?,Left lung upper lobe,Open,-,-,-,-,-
+1,1,train_15675_a_2.nii.gz,Where is the minimal pleural effusion observed?,Right side.,Open,-,-,-,-,-
+1,1,train_15678_b_1.nii.gz,Where is the largest lymph node observed?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_15718_a_1.nii.gz,Which lung lobe contains a nodule?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_15718_a_2.nii.gz,Where is the nodule located in the right lung?,Middle lobe.,Open,-,-,-,-,-
+1,1,train_15777_a_1.nii.gz,Where is the irregularly circumscribed parenchymal nodular lesion located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_15810_d_1.nii.gz,What is the condition of the trachea and bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_15810_d_2.nii.gz,Where is the pleural effusion located?,Right pleural space.,Open,-,-,-,-,-
+1,1,train_15863_a_1.nii.gz,Which lobe contains the hypodense nodule?,Left lobe.,Open,-,-,-,-,-
+1,1,train_15863_a_2.nii.gz,Which lobe contains the hypodense nodule?,Left lobe.,Open,-,-,-,-,-
+1,1,train_15874_a_1.nii.gz,What device is observed in the right pectoral region?,Pacemaker.,Open,-,-,-,-,-
+1,1,train_15874_a_2.nii.gz,What device is observed in the right pectoral region?,Pacemaker.,Open,-,-,-,-,-
+1,1,train_15890_b_2.nii.gz,Which side shows pleural effusion?,Left side.,Open,-,-,-,-,-
+1,1,train_15897_a_2.nii.gz,What fluid accumulation is observed?,Bilateral pleural effusion.,Open,-,-,-,-,-
+1,1,train_15897_b_1.nii.gz,Where is the pleural effusion more prominent?,Right side.,Open,-,-,-,-,-
+1,1,train_15910_a_1.nii.gz,Which major vascular structure is observed?,Aortic arch.,Open,-,-,-,-,-
+1,1,train_15911_a_2.nii.gz,Where is the catheter observed?,Right internal jugular vein.,Open,-,-,-,-,-
+1,1,train_15926_a_2.nii.gz,Where is the small amount of effusion observed?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_15943_b_1.nii.gz,Which lobe contains the nodule?,Right lobe,Open,-,-,-,-,-
+1,1,train_16020_a_2.nii.gz,Which device is visible on the chest wall?,Pacemaker.,Open,-,-,-,-,-
+1,1,train_16078_a_1.nii.gz,Where is the atelectasis located?,Right lung middle lobe.,Open,-,-,-,-,-
+1,1,train_16078_b_2.nii.gz,Where is the atelectasis located?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_16097_a_2.nii.gz,Where is the nonspecific pulmonary nodule located?,Right lung middle lobe.,Open,-,-,-,-,-
+1,1,train_16148_j_1.nii.gz,Where is the consolidation observed?,Left lower lobe.,Open,-,-,-,-,-
+1,1,train_16163_a_1.nii.gz,Where is the patchy ground glass density observed?,Left lower lobe.,Open,-,-,-,-,-
+1,1,train_16203_a_1.nii.gz,Which lung shows total loss of aeration?,Left lung.,Open,-,-,-,-,-
+1,1,train_16227_a_2.nii.gz,Where is the largest nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+1,1,train_16301_a_1.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_16303_a_1.nii.gz,Where is the port catheter located?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_16303_a_2.nii.gz,Where is the port catheter located?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_16307_a_2.nii.gz,Which structure is midline between the main bronchi?,Trachea.,Open,-,-,-,-,-
+1,1,train_16310_a_1.nii.gz,Where is the nodule located in the right lung?,Upper lobe.,Open,-,-,-,-,-
+1,1,train_16360_a_2.nii.gz,Where is the focal consolidation located?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_16388_a_2.nii.gz,Which lobe of the thyroid gland appears enlarged?,Left lobe,Open,-,-,-,-,-
+1,1,train_16391_a_2.nii.gz,Where is the subpleural nodule located?,Left lower lobe.,Open,-,-,-,-,-
+1,1,train_16394_a_2.nii.gz,Where is the calcific nodule located?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_16426_a_1.nii.gz,Which structure is midline?,Trachea,Open,-,-,-,-,-
+1,1,train_16426_b_1.nii.gz,Which structure is midline?,Trachea,Open,-,-,-,-,-
+1,1,train_16434_a_1.nii.gz,Where is the intubation catheter located?,Trachea,Open,-,-,-,-,-
+1,1,train_16434_a_2.nii.gz,Where is the intubation catheter located?,Trachea,Open,-,-,-,-,-
+1,1,train_16435_a_2.nii.gz,Which lobe contains the nodule?,Right lobe.,Open,-,-,-,-,-
+1,1,train_16437_a_2.nii.gz,What is the position of the trachea?,Midline position,Open,-,-,-,-,-
+1,1,train_16449_a_2.nii.gz,What structures are open?,"Trachea, bronchi",Open,-,-,-,-,-
+1,1,train_16459_a_1.nii.gz,What structures are open?,"Trachea, bronchi.",Open,-,-,-,-,-
+1,1,train_16467_b_2.nii.gz,What structures are open?,"Trachea, bronchi",Open,-,-,-,-,-
+1,1,train_16476_a_1.nii.gz,Where is the ground glass opacity located?,Left upper lobe.,Open,-,-,-,-,-
+1,1,train_16496_a_2.nii.gz,What is the position of the trachea?,Midline position,Open,-,-,-,-,-
+1,1,train_16509_a_1.nii.gz,Which thyroid lobe appears more prominent?,Right lobe.,Open,-,-,-,-,-
+1,1,train_16509_a_2.nii.gz,Which thyroid lobe appears more prominent?,Right lobe.,Open,-,-,-,-,-
+1,1,train_16522_a_1.nii.gz,Where is the mass located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_16541_a_2.nii.gz,Where is the nodular lesion located?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_16544_a_1.nii.gz,Where is the pleural effusion located?,Left hemithorax.,Open,-,-,-,-,-
+1,1,train_16550_c_2.nii.gz,Where are the lesions located?,No lesions detected.,Open,-,-,-,-,-
+1,1,train_16572_b_2.nii.gz,Where is the semisolid nodule located?,Left lower lobe.,Open,-,-,-,-,-
+1,1,train_16683_a_2.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_16705_a_1.nii.gz,Where is the area of pneumonic infiltration located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_16705_a_2.nii.gz,Where is the area of pneumonic infiltration located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_16706_a_1.nii.gz,Which lung shows ground glass densities?,Right lung.,Open,-,-,-,-,-
+1,1,train_16735_a_1.nii.gz,Where is the nodule located?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_16758_a_2.nii.gz,Which hemithorax shows effusion?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_16764_a_2.nii.gz,Which breast contains an implant?,Left breast.,Open,-,-,-,-,-
+1,1,train_16796_a_1.nii.gz,Where is the nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_16803_a_1.nii.gz,Where is the nodule located?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_16811_a_2.nii.gz,Where is the calcific nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_16840_a_1.nii.gz,Where is the nodule located?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_16869_a_1.nii.gz,Where is the soft tissue mass located?,Left lung hilum.,Open,-,-,-,-,-
+1,1,train_16869_b_1.nii.gz,Where is the soft tissue mass located?,Left lung hilum.,Open,-,-,-,-,-
+1,1,train_16873_a_1.nii.gz,Where is the ground-glass density area located?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_16873_a_2.nii.gz,Where is the ground-glass density area located?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_16879_a_1.nii.gz,Where is the mild thymic tissue observed?,Anterior mediastinum.,Open,-,-,-,-,-
+1,1,train_16886_b_1.nii.gz,Where is the largest nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_16886_b_2.nii.gz,Where is the largest nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_16913_a_1.nii.gz,Which bronchus is open?,Right main bronchus.,Open,-,-,-,-,-
+1,1,train_16913_a_2.nii.gz,Which bronchus is open?,Right main bronchus.,Open,-,-,-,-,-
+1,1,train_16924_a_1.nii.gz,Which lung shows atelectasis?,Left lung,Open,-,-,-,-,-
+1,1,train_16924_a_2.nii.gz,Where is the pleural effusion observed?,Left hemithorax.,Open,-,-,-,-,-
+1,1,train_16936_a_2.nii.gz,Where is the calcific plaque observed?,Aortic arch.,Open,-,-,-,-,-
+1,1,train_16973_a_1.nii.gz,Which device is observed on the anterior left chest wall?,Pacemaker,Open,-,-,-,-,-
+1,1,train_16978_a_2.nii.gz,Where is the well-circumscribed mass lesion located?,Right adrenal gland.,Open,-,-,-,-,-
+1,1,train_16993_a_1.nii.gz,Which lobe contains the large hypodense nodule?,Right lobe.,Open,-,-,-,-,-
+1,1,train_17047_a_2.nii.gz,Where is the catheter extending to?,Superior vena cava,Open,-,-,-,-,-
+1,1,train_17113_a_1.nii.gz,Where is the pleural effusion observed?,Left side.,Open,-,-,-,-,-
+1,1,train_17126_c_1.nii.gz,Where is the effusion located?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_17126_c_2.nii.gz,Where is the effusion located?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_17135_a_1.nii.gz,Where is the hypodense nodule located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_17155_b_1.nii.gz,Which side shows a post-pneumonectomy effusion?,Left hemithorax.,Open,-,-,-,-,-
+1,1,train_17181_a_1.nii.gz,Where is the consolidation located?,Left upper lobe,Open,-,-,-,-,-
+1,1,train_17189_e_1.nii.gz,Which major vascular structure is observed?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_17189_f_1.nii.gz,Which hemithorax shows effusion?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_17222_a_1.nii.gz,Which lung shows pleural effusion?,Left lung.,Open,-,-,-,-,-
+1,1,train_17232_a_1.nii.gz,Where is the catheter observed?,Right internal jugular vein.,Open,-,-,-,-,-
+1,1,train_17263_a_1.nii.gz,Where is the pleural effusion more prominent?,Right side.,Open,-,-,-,-,-
+1,1,train_17263_b_2.nii.gz,Which lung shows significant atelectasis?,Right lung.,Open,-,-,-,-,-
+1,1,train_17291_b_1.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_17334_a_1.nii.gz,Where is the consolidation located?,"Middle lobe, right lung.",Open,-,-,-,-,-
+1,1,train_17341_a_1.nii.gz,Which diaphragm is elevated?,Right hemidiaphragm.,Open,-,-,-,-,-
+1,1,train_17341_a_2.nii.gz,What structure is elevated?,Right hemidiaphragm.,Open,-,-,-,-,-
+1,1,train_1742_a_2.nii.gz,Where is the minimal pleural effusion located?,Left side.,Open,-,-,-,-,-
+1,1,train_17446_a_2.nii.gz,Where are the peripheral consolidations located?,"Lower lobe, left lung.",Open,-,-,-,-,-
+1,1,train_1758_d_1.nii.gz,What structure is observed in the image?,Tracheal tube.,Open,-,-,-,-,-
+1,1,train_17597_a_1.nii.gz,What quadrant of the breast is observed?,Upper outer quadrant.,Open,-,-,-,-,-
+1,1,train_17597_a_2.nii.gz,Which quadrant of the right breast contains the lesions?,Upper outer quadrant.,Open,-,-,-,-,-
+1,1,train_17619_b_1.nii.gz,Where is the irregularly circumscribed mass located?,Right upper lobe,Open,-,-,-,-,-
+1,1,train_17619_d_1.nii.gz,Where is the cystic lesion located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_17619_d_2.nii.gz,Where is the cystic lesion located?,Left kidney upper pole.,Open,-,-,-,-,-
+1,1,train_17620_a_2.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_17656_a_1.nii.gz,What structure is elevated?,Right hemidiaphragm.,Open,-,-,-,-,-
+1,1,train_17656_a_2.nii.gz,Where is the right hemidiaphragm positioned?,Elevated.,Open,-,-,-,-,-
+1,1,train_17684_a_2.nii.gz,Where are the nodules located?,Left lung apex.,Open,-,-,-,-,-
+1,1,train_17728_a_1.nii.gz,Where is the pleural thickening observed?,Right lung pleura,Open,-,-,-,-,-
+1,1,train_17753_a_2.nii.gz,Where is the catheter observed?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_17800_b_1.nii.gz,Where is the catheter extending to?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_17837_a_2.nii.gz,Which lobe contains the nodule?,Right lobe.,Open,-,-,-,-,-
+1,1,train_17872_a_1.nii.gz,Where is the ground glass nodule located?,Right lung middle lobe.,Open,-,-,-,-,-
+1,1,train_17914_a_2.nii.gz,Which vascular structures appear enlarged?,Pulmonary arteries.,Open,-,-,-,-,-
+1,1,train_17944_c_1.nii.gz,Which lung segment shows consolidation?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_17944_c_2.nii.gz,What segment of the lung shows consolidation?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_17946_a_2.nii.gz,Where are the nodules located?,Upper lobes.,Open,-,-,-,-,-
+1,1,train_17956_d_2.nii.gz,Where is the pleural effusion more prominent?,Left side.,Open,-,-,-,-,-
+1,1,train_18028_b_2.nii.gz,Where is the subpleural nodule located?,Left lung laterobasal segment.,Open,-,-,-,-,-
+1,1,train_1808_a_1.nii.gz,Which vascular structure is dilated?,Ascending aorta,Open,-,-,-,-,-
+1,1,train_18091_b_1.nii.gz,Where is the venous catheter terminating?,SVC,Open,-,-,-,-,-
+1,1,train_18105_b_2.nii.gz,Where is the malignant mass located?,Left upper lobe,Open,-,-,-,-,-
+1,1,train_18132_a_2.nii.gz,Which lobe contains a nodule?,Left lobe,Open,-,-,-,-,-
+1,1,train_1813_a_2.nii.gz,Which lung shows atelectasis?,Left lung,Open,-,-,-,-,-
+1,1,train_18144_b_1.nii.gz,Where are the pleural effusions located?,Left and right pleural spaces.,Open,-,-,-,-,-
+1,1,train_18424_a_1.nii.gz,Where is the stone located?,Right kidney.,Open,-,-,-,-,-
+1,1,train_18428_e_1.nii.gz,Where are the parenchymal nodules located?,"Right middle lobe, left lower lobe.",Open,-,-,-,-,-
+1,1,train_1847_b_1.nii.gz,Where is the prominent pleural effusion located?,Right pleura.,Open,-,-,-,-,-
+1,1,train_18512_a_1.nii.gz,Where is the nodule located in the right lung?,Lower lobe.,Open,-,-,-,-,-
+1,1,train_18612_a_1.nii.gz,Where is the primary mass located?,"Anterior segment, left lung upper lobe.",Open,-,-,-,-,-
+1,1,train_18627_a_2.nii.gz,Which lung shows reduced aeration?,Left lung.,Open,-,-,-,-,-
+1,1,train_18877_a_1.nii.gz,Where is the aneurysmatic dilatation observed?,Ascending aorta.,Open,-,-,-,-,-
+1,1,train_18900_a_1.nii.gz,What is the condition of the trachea and main bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_19108_a_1.nii.gz,Where is the space-occupying mass lesion located?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_19108_a_2.nii.gz,Where is the space-occupying mass lesion located?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_1913_a_1.nii.gz,Which structure is adjacent to the mass?,Right main pulmonary artery,Open,-,-,-,-,-
+1,1,train_1913_a_2.nii.gz,Which structure is adjacent to the mass?,Right main pulmonary artery,Open,-,-,-,-,-
+1,1,train_19244_c_1.nii.gz,Where is the cavitary nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+1,1,train_19289_a_2.nii.gz,Which lung shows consolidation?,Left lung,Open,-,-,-,-,-
+1,1,train_19298_a_1.nii.gz,Which device is visible on the anterior chest wall?,Pacemaker.,Open,-,-,-,-,-
+1,1,train_19318_a_2.nii.gz,Which major vascular structures are observed?,"Aortic arch, aorta.",Open,-,-,-,-,-
+1,1,train_1955_a_2.nii.gz,Where is the fluid localization observed?,Left hemithorax,Open,-,-,-,-,-
+1,1,train_19588_b_2.nii.gz,Where are the atelectasis located?,"Right middle lobe, left upper lobe.",Open,-,-,-,-,-
+1,1,train_19732_a_1.nii.gz,Where is the tracheal tube observed?,Trachea.,Open,-,-,-,-,-
+1,1,train_19732_a_2.nii.gz,Which tube is observed?,Tracheal tube.,Open,-,-,-,-,-
+1,1,train_19735_a_2.nii.gz,Which lung lobes are observed?,"Right lower lobe, left upper lobe, left lower lobe.",Open,-,-,-,-,-
+1,1,train_19751_a_2.nii.gz,Where are the silicone implants located?,Bilateral breasts.,Open,-,-,-,-,-
+1,1,train_19792_a_2.nii.gz,Where is the largest nodule located?,Right apex,Open,-,-,-,-,-
+1,1,train_199_a_1.nii.gz,Which lung shows increased pleural thickness?,Left lung,Open,-,-,-,-,-
+1,1,train_2013_a_2.nii.gz,What tube is observed in the tracheal lumen?,Endotracheal tube.,Open,-,-,-,-,-
+1,1,train_2158_d_1.nii.gz,Where is the effusion located?,Left pleural space.,Open,-,-,-,-,-
+1,1,train_2198_a_1.nii.gz,Where are the thin-walled cysts located?,Upper lobes.,Open,-,-,-,-,-
+1,1,train_2367_a_2.nii.gz,Which lobe of the thyroid is enlarged?,Left thyroid lobe.,Open,-,-,-,-,-
+1,1,train_2376_b_2.nii.gz,Which breast contains an implant?,Right breast.,Open,-,-,-,-,-
+1,1,train_2382_a_2.nii.gz,Where are the focal ground glass opacities located?,Left lung lower lobe,Open,-,-,-,-,-
+1,1,train_240_a_1.nii.gz,Where is the aneurysmatic dilatation observed?,Thoracic aorta,Open,-,-,-,-,-
+1,1,train_2423_b_1.nii.gz,Where is the hypodense lesion located?,Right kidney.,Open,-,-,-,-,-
+1,1,train_2485_b_2.nii.gz,Which lymph nodes are visible?,None observed.,Open,-,-,-,-,-
+1,1,train_2499_a_1.nii.gz,Where are the minimal bronchiectasis and peribronchial thickening observed?,Right lung upper and middle lobes.,Open,-,-,-,-,-
+1,1,train_2636_a_1.nii.gz,Where are the calculi located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_2655_a_2.nii.gz,Where is the calcific nodule located?,Right lung lower lobe,Open,-,-,-,-,-
+1,1,train_2708_a_1.nii.gz,What shape are the lesions in the breast?,Oval-shaped.,Open,-,-,-,-,-
+1,1,train_2709_a_1.nii.gz,Where is the infiltrative mass located?,Right lung apical segment.,Open,-,-,-,-,-
+1,1,train_3203_a_1.nii.gz,Where are the consolidations observed?,Lung lower lobes,Open,-,-,-,-,-
+1,1,train_3203_a_2.nii.gz,Where are the consolidations observed?,Lung lower lobes,Open,-,-,-,-,-
+1,1,train_3235_a_1.nii.gz,Which lobe contains the nodule?,Left lobe,Open,-,-,-,-,-
+1,1,train_3334_a_1.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_3334_a_2.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_3352_b_2.nii.gz,Where are the nonspecific nodules located?,Upper lobes.,Open,-,-,-,-,-
+1,1,train_3358_a_2.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_3381_a_1.nii.gz,Where is the stone located?,Right kidney.,Open,-,-,-,-,-
+1,1,train_3387_a_1.nii.gz,Where is the consolidation area located?,Right lower lobe,Open,-,-,-,-,-
+1,1,train_3447_a_1.nii.gz,Where are the hyperdense stones located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_3480_a_1.nii.gz,Which diaphragm is observed?,Right hemidiaphragm.,Open,-,-,-,-,-
+1,1,train_3487_a_2.nii.gz,What tubes are observed in the image?,Endotracheal tube.,Open,-,-,-,-,-
+1,1,train_3490_b_1.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_3490_b_2.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_3493_a_2.nii.gz,Where is the small nodule located?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_3503_a_2.nii.gz,Where are the intrapulmonary nodules located?,Lower lobe laterobasal segment.,Open,-,-,-,-,-
+1,1,train_3547_a_2.nii.gz,Where is the implant located?,Right breast.,Open,-,-,-,-,-
+1,1,train_3548_a_1.nii.gz,Where is the hyperdense nodule located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_3631_c_1.nii.gz,Which lung shows consolidation?,Left lung,Open,-,-,-,-,-
+1,1,train_3659_a_1.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_3659_a_2.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_3675_d_1.nii.gz,Which lung shows atelectasis?,Right lung,Open,-,-,-,-,-
+1,1,train_3676_c_1.nii.gz,Which breast contains an implant?,Left breast.,Open,-,-,-,-,-
+1,1,train_3676_c_2.nii.gz,Where is the implant observed?,Left breast.,Open,-,-,-,-,-
+1,1,train_3684_b_1.nii.gz,Where is the mass lesion located?,Right lung hilum,Open,-,-,-,-,-
+1,1,train_3684_c_1.nii.gz,Which lung shows complete atelectasis?,Right lung.,Open,-,-,-,-,-
+1,1,train_3684_c_2.nii.gz,Where is the pleural effusion observed?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_3698_a_1.nii.gz,Where is the dilatation observed?,Main pulmonary artery,Open,-,-,-,-,-
+1,1,train_3705_a_2.nii.gz,Where is the endotracheal tube positioned?,Proximal to carina.,Open,-,-,-,-,-
+1,1,train_3714_a_1.nii.gz,Which side shows massive pleural effusion?,Left side.,Open,-,-,-,-,-
+1,1,train_3714_a_2.nii.gz,Where is the pleural effusion located?,Left pleural cavity.,Open,-,-,-,-,-
+1,1,train_3724_a_2.nii.gz,Where is the pleural effusion located?,Right pleural area.,Open,-,-,-,-,-
+1,1,train_3735_a_2.nii.gz,Where is the soft tissue mass located?,Left pulmonary hilus.,Open,-,-,-,-,-
+1,1,train_3735_b_2.nii.gz,Where is the effusion located?,Left pleural space.,Open,-,-,-,-,-
+1,1,train_3749_a_1.nii.gz,Where is the subpleural nodule located?,Right lung middle lobe.,Open,-,-,-,-,-
+1,1,train_3757_a_1.nii.gz,Which breast shows a large mass?,Left breast.,Open,-,-,-,-,-
+1,1,train_3803_a_1.nii.gz,Which lobe contains the nodule?,Right lobe.,Open,-,-,-,-,-
+1,1,train_3808_a_5.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_3811_a_2.nii.gz,Where are the nodules located?,Both lung apexes.,Open,-,-,-,-,-
+1,1,train_3853_a_1.nii.gz,Where is the catheter located?,Right internal jugular vein.,Open,-,-,-,-,-
+1,1,train_3874_a_1.nii.gz,Which quadrant of the left breast contains the lesion?,Upper inner quadrant.,Open,-,-,-,-,-
+1,1,train_3895_a_1.nii.gz,Which structure is dilated?,Ascending aorta,Open,-,-,-,-,-
+1,1,train_3918_b_2.nii.gz,Which lung shows more prominent ground-glass densities?,Right lung.,Open,-,-,-,-,-
+1,1,train_3932_a_1.nii.gz,Which lung lobe contains the nodule?,Right upper lobe,Open,-,-,-,-,-
+1,1,train_3950_a_2.nii.gz,Which lung shows pleural effusion?,Left lung.,Open,-,-,-,-,-
+1,1,train_4014_a_2.nii.gz,What is the condition of the trachea and bronchi?,Open and unobstructed.,Open,-,-,-,-,-
+1,1,train_4050_b_1.nii.gz,Which side shows a pleural effusion?,Right side.,Open,-,-,-,-,-
+1,1,train_4050_b_2.nii.gz,Which lung shows pleural effusion?,Right lung.,Open,-,-,-,-,-
+1,1,train_408_a_2.nii.gz,What device is observed on the chest wall?,Pacemaker.,Open,-,-,-,-,-
+1,1,train_4114_a_1.nii.gz,What is the condition of the trachea and bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_412_b_1.nii.gz,Which lung shows total atelectasis?,Left lung.,Open,-,-,-,-,-
+1,1,train_4151_a_1.nii.gz,Where is the cavitary lesion located?,"Left lung, upper lobe.",Open,-,-,-,-,-
+1,1,train_4151_a_2.nii.gz,Where is the cavitary lesion located?,"Left lung, upper lobe.",Open,-,-,-,-,-
+1,1,train_4215_a_1.nii.gz,Which major bronchi are visible?,Both main bronchi.,Open,-,-,-,-,-
+1,1,train_421_a_1.nii.gz,What is the condition of the trachea and bronchi?,Open and unobstructed.,Open,-,-,-,-,-
+1,1,train_4246_b_1.nii.gz,Where is the tracheostomy cannula located?,In the trachea.,Open,-,-,-,-,-
+1,1,train_4272_f_1.nii.gz,Which side shows pleural effusion?,Right side.,Open,-,-,-,-,-
+1,1,train_4283_a_2.nii.gz,Where is the largest nodule located?,Upper lobe apical region.,Open,-,-,-,-,-
+1,1,train_4295_a_2.nii.gz,Where is the mass located?,Right lung upper lobe,Open,-,-,-,-,-
+1,1,train_4388_a_1.nii.gz,What shape is the nodule in the left thyroid lobe?,Oval shape.,Open,-,-,-,-,-
+1,1,train_446_a_1.nii.gz,Where is the fusiform dilatation observed?,Ascending aorta,Open,-,-,-,-,-
+1,1,train_4564_b_1.nii.gz,Which major vascular structure is observed?,Aortic arch.,Open,-,-,-,-,-
+1,1,train_459_a_1.nii.gz,Which gland contains a lesion?,Left thyroid gland.,Open,-,-,-,-,-
+1,1,train_4649_a_1.nii.gz,Where is the infiltrative mass lesion located?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_4649_a_2.nii.gz,Where is the infiltrative mass lesion located?,Right hilar region,Open,-,-,-,-,-
+1,1,train_4713_a_2.nii.gz,Where is the nodule located in the right lung?,Upper lobe.,Open,-,-,-,-,-
+1,1,train_473_a_1.nii.gz,What is the condition of the trachea and main bronchi?,Normal appearance.,Open,-,-,-,-,-
+1,1,train_4746_a_2.nii.gz,What structure is elevated?,Right hemidiaphragm.,Open,-,-,-,-,-
+1,1,train_4757_a_1.nii.gz,What foreign body is observed?,Metallic linear foreign body.,Open,-,-,-,-,-
+1,1,train_4796_a_2.nii.gz,Where is the soft tissue lesion located?,Right supraclavicular region.,Open,-,-,-,-,-
+1,1,train_4834_a_1.nii.gz,Which breast is absent?,Right breast,Open,-,-,-,-,-
+1,1,train_4962_a_1.nii.gz,Where is the fibrotic band observed?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_4979_a_1.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_4993_a_2.nii.gz,Where is the infiltration area located?,"Upper lobe, left lung.",Open,-,-,-,-,-
+1,1,train_5064_b_1.nii.gz,Where is the soft tissue lesion located?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_5064_b_2.nii.gz,Where is the soft tissue lesion located?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_5089_c_2.nii.gz,Which pleural space shows effusion?,Right pleural space.,Open,-,-,-,-,-
+1,1,train_5090_a_1.nii.gz,What is the condition of the trachea and main bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_5121_a_2.nii.gz,Which diaphragm appears elevated?,Right hemidiaphragm.,Open,-,-,-,-,-
+1,1,train_5132_b_1.nii.gz,Which lung contains the irregularly circumscribed nodular lesion?,Right lung.,Open,-,-,-,-,-
+1,1,train_5132_b_2.nii.gz,Which lung shows a nodular lesion?,Right lung.,Open,-,-,-,-,-
+1,1,train_5136_a_1.nii.gz,Where is the catheter observed?,Right internal jugular vein.,Open,-,-,-,-,-
+1,1,train_5193_b_2.nii.gz,Which major vascular structure is observed?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_5201_a_1.nii.gz,Where is the malignant mass located?,Left upper lobe,Open,-,-,-,-,-
+1,1,train_5239_a_2.nii.gz,Where are the patchy consolidations located?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_5298_b_2.nii.gz,Which lobe contains the nodule?,Left lobe,Open,-,-,-,-,-
+1,1,train_5338_a_2.nii.gz,Where are the microcalcifications located?,Left breast.,Open,-,-,-,-,-
+1,1,train_5363_a_1.nii.gz,Which lobe contains the calcified nodule?,Left lobe.,Open,-,-,-,-,-
+1,1,train_5366_a_1.nii.gz,Which lung lobe shows abnormalities?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_5411_a_1.nii.gz,Where is the focal ground glass density located?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_5411_a_2.nii.gz,Where is the focal ground glass density located?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_5414_a_1.nii.gz,Where is the nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_5422_a_1.nii.gz,Where is the nodule located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_5428_c_2.nii.gz,Where is the catheter observed?,Superior vena cava,Open,-,-,-,-,-
+1,1,train_5436_a_1.nii.gz,Where is the pleural effusion observed?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_5437_a_1.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_5437_a_2.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_5444_a_1.nii.gz,Which hemithorax is observed?,Left hemithorax.,Open,-,-,-,-,-
+1,1,train_5444_a_2.nii.gz,Which hemithorax is observed?,Left hemithorax.,Open,-,-,-,-,-
+1,1,train_5464_a_1.nii.gz,Which quadrant of the left breast contains the mass lesion?,Lower outer quadrant.,Open,-,-,-,-,-
+1,1,train_5464_a_2.nii.gz,Which quadrant of the left breast contains the mass lesion?,Lower outer quadrant.,Open,-,-,-,-,-
+1,1,train_5489_a_2.nii.gz,Where are the atelectasis located?,"Right middle lobe, left lingular segment, both lower lobes.",Open,-,-,-,-,-
+1,1,train_5497_a_2.nii.gz,Where is the irregularly circumscribed nodule located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_5518_a_2.nii.gz,What metallic structures are visible?,Metallic sutures.,Open,-,-,-,-,-
+1,1,train_5520_a_1.nii.gz,Where is the calcified nodule located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_5574_c_1.nii.gz,Where is the opacity observed?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_5596_a_1.nii.gz,Where is the catheter observed?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_5605_a_1.nii.gz,Where is the nonspecific nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_5618_a_1.nii.gz,Which lung shows consolidation?,Right lung,Open,-,-,-,-,-
+1,1,train_5618_a_2.nii.gz,Which lung shows consolidation?,Right lung,Open,-,-,-,-,-
+1,1,train_5619_b_1.nii.gz,Which lung shows atelectasis?,Right lung,Open,-,-,-,-,-
+1,1,train_5634_e_2.nii.gz,Where is the nodular formation located?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_5643_a_2.nii.gz,Where is the consolidation observed?,Right lung middle lobe.,Open,-,-,-,-,-
+1,1,train_5646_a_2.nii.gz,Where is the aneurysmatic dilatation observed?,Ascending aorta,Open,-,-,-,-,-
+1,1,train_5691_c_1.nii.gz,Where is the largest nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_5691_c_2.nii.gz,Where is the largest nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_569_b_1.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_569_b_2.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_5772_a_2.nii.gz,Where are the focal ground glass opacities located?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_5789_a_1.nii.gz,Where is the nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_5792_a_2.nii.gz,What is the condition of the trachea?,Open lumen.,Open,-,-,-,-,-
+1,1,train_5792_b_1.nii.gz,Where is the nodule located?,Right upper lobe,Open,-,-,-,-,-
+1,1,train_5792_b_2.nii.gz,Where is the nodule located in the right lung?,Upper lobe.,Open,-,-,-,-,-
+1,1,train_5794_b_1.nii.gz,Where is the pleural nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_5810_a_2.nii.gz,Where is the bronchiectasis observed?,Left lower lobe.,Open,-,-,-,-,-
+1,1,train_5840_a_1.nii.gz,Where is the nonspecific nodule located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_5846_b_2.nii.gz,Where is the nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_5857_a_2.nii.gz,Where is the space-occupying nodular lesion located?,Right lung middle lobe.,Open,-,-,-,-,-
+1,1,train_5863_a_1.nii.gz,Where are the coarse calcification foci located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_5876_a_2.nii.gz,Where is the nodule located?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_5877_a_2.nii.gz,Where is the patchy ground-glass density observed?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_5883_a_1.nii.gz,Which lung lobe shows abnormalities?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_5909_a_1.nii.gz,Where is the catheter located?,Right internal jugular vein.,Open,-,-,-,-,-
+1,1,train_5914_a_1.nii.gz,Where is the consolidation area observed?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_5915_c_2.nii.gz,Where is the moderate effusion located?,Right pleural space.,Open,-,-,-,-,-
+1,1,train_5924_a_1.nii.gz,Where is the small focal ground glass density located?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_5958_a_2.nii.gz,What is the position of the trachea?,Midline position,Open,-,-,-,-,-
+1,1,train_5963_a_1.nii.gz,Where is the calcified nodule located?,Right lung middle lobe.,Open,-,-,-,-,-
+1,1,train_5974_a_1.nii.gz,Where is the primary mass located?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_5979_a_3.nii.gz,What is the condition of the trachea and main bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_6015_a_2.nii.gz,Which lobe of the thyroid is observed?,Right lobe.,Open,-,-,-,-,-
+1,1,train_6018_a_1.nii.gz,Where is the subpleural nodule located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_6026_a_1.nii.gz,Where is the calcific nodule located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_6034_a_2.nii.gz,Which quadrant of the left breast contains the mass lesion?,Upper-outer quadrant.,Open,-,-,-,-,-
+1,1,train_6048_a_1.nii.gz,Which hemithorax is filled with fluid?,Left hemithorax.,Open,-,-,-,-,-
+1,1,train_6057_a_1.nii.gz,Where is the mass lesion located?,Left lung upper lobe,Open,-,-,-,-,-
+1,1,train_6066_a_2.nii.gz,What is the position of the trachea?,Midline position.,Open,-,-,-,-,-
+1,1,train_6066_b_1.nii.gz,Which structures are open?,"Trachea, bronchi.",Open,-,-,-,-,-
+1,1,train_6066_b_2.nii.gz,Which structures are open?,"Trachea, bronchi.",Open,-,-,-,-,-
+1,1,train_6072_a_1.nii.gz,Where is the hypodense nodule located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_6075_a_2.nii.gz,Which structures are open?,"Trachea, bronchi",Open,-,-,-,-,-
+1,1,train_6076_a_2.nii.gz,Which major airways are open?,"Trachea, bronchi",Open,-,-,-,-,-
+1,1,train_6089_a_1.nii.gz,What is the position of the trachea?,Midline position.,Open,-,-,-,-,-
+1,1,train_6089_a_2.nii.gz,Which structure is midline?,Trachea,Open,-,-,-,-,-
+1,1,train_6101_a_1.nii.gz,What is the position of the trachea?,Midline position.,Open,-,-,-,-,-
+1,1,train_6101_a_2.nii.gz,What is the position of the trachea?,Midline position.,Open,-,-,-,-,-
+1,1,train_6102_a_2.nii.gz,Which structures are open?,"Trachea, main bronchi.",Open,-,-,-,-,-
+1,1,train_6104_a_1.nii.gz,Which structures are open?,"Trachea, main bronchi",Open,-,-,-,-,-
+1,1,train_6109_a_1.nii.gz,Which structures are open?,"Trachea, bronchi",Open,-,-,-,-,-
+1,1,train_6109_a_2.nii.gz,What structures are open?,"Trachea, bronchi",Open,-,-,-,-,-
+1,1,train_6110_b_2.nii.gz,Where are the focal ground glass densities located?,Right lung upper lobe,Open,-,-,-,-,-
+1,1,train_6110_c_1.nii.gz,Which structures are open?,"Trachea, bronchi",Open,-,-,-,-,-
+1,1,train_6112_a_1.nii.gz,Which structures are open?,"Trachea, bronchi.",Open,-,-,-,-,-
+1,1,train_6112_a_2.nii.gz,What structures are open?,"Trachea, bronchi.",Open,-,-,-,-,-
+1,1,train_6114_a_1.nii.gz,Which structure is positioned in the midline?,Trachea,Open,-,-,-,-,-
+1,1,train_6114_a_2.nii.gz,What is the position of the trachea?,Midline position.,Open,-,-,-,-,-
+1,1,train_6114_b_2.nii.gz,What structures are open?,"Trachea, bronchi",Open,-,-,-,-,-
+1,1,train_6119_a_1.nii.gz,What structures are open?,"Trachea, main bronchi.",Open,-,-,-,-,-
+1,1,train_6119_a_2.nii.gz,Which structures are open?,"Trachea, main bronchi.",Open,-,-,-,-,-
+1,1,train_6122_a_1.nii.gz,What structures are open?,"Trachea, bronchi.",Open,-,-,-,-,-
+1,1,train_6124_a_1.nii.gz,Which structure is located in the midline?,Trachea,Open,-,-,-,-,-
+1,1,train_612_a_2.nii.gz,Where is the pleural effusion more prominent?,Right side,Open,-,-,-,-,-
+1,1,train_6130_a_1.nii.gz,Where is the calcific nodule located?,Right lower lobe.,Open,-,-,-,-,-
+1,1,train_6131_a_2.nii.gz,Which structures are open?,"Trachea, main bronchi.",Open,-,-,-,-,-
+1,1,train_6133_a_2.nii.gz,What structures are open?,"Trachea, bronchi",Open,-,-,-,-,-
+1,1,train_6146_a_1.nii.gz,Which structure is midline?,Trachea,Open,-,-,-,-,-
+1,1,train_6146_a_2.nii.gz,What is the position of the trachea?,Midline position.,Open,-,-,-,-,-
+1,1,train_6149_a_2.nii.gz,What structures are open?,"Trachea, bronchi.",Open,-,-,-,-,-
+1,1,train_6154_b_1.nii.gz,Where is the primary mass located?,Left upper lobe.,Open,-,-,-,-,-
+1,1,train_6154_b_2.nii.gz,Where is the primary mass located?,Left upper lobe.,Open,-,-,-,-,-
+1,1,train_6156_a_2.nii.gz,Where is the pleural nodule located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_6187_a_2.nii.gz,What structure is observed in the image?,Central venous catheter.,Open,-,-,-,-,-
+1,1,train_6188_a_1.nii.gz,What is the condition of the trachea and main bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_6196_a_2.nii.gz,What is the position of the trachea and bronchi?,Midline position.,Open,-,-,-,-,-
+1,1,train_6201_b_1.nii.gz,Which structure is midline?,Trachea,Open,-,-,-,-,-
+1,1,train_6201_b_2.nii.gz,What is the position of the trachea and bronchi?,Midline position.,Open,-,-,-,-,-
+1,1,train_6209_a_1.nii.gz,Which diaphragm is elevated?,Right hemidiaphragm.,Open,-,-,-,-,-
+1,1,train_6210_a_1.nii.gz,Which structure is midline?,Trachea,Open,-,-,-,-,-
+1,1,train_6230_a_1.nii.gz,Where is the mass lesion located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_6232_a_1.nii.gz,Where is the mass lesion located?,Right adrenal gland.,Open,-,-,-,-,-
+1,1,train_623_b_1.nii.gz,Which structure is observed in the image?,Tracheal tube.,Open,-,-,-,-,-
+1,1,train_623_b_3.nii.gz,Which structure is observed in the image?,Tracheal tube.,Open,-,-,-,-,-
+1,1,train_6242_a_1.nii.gz,Where is the nonspecific nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_6242_a_2.nii.gz,Where is the nonspecific nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_6262_b_1.nii.gz,Where are the patchy ground glass densities located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_6269_a_1.nii.gz,Which major vascular structure is observed?,Aortic arch.,Open,-,-,-,-,-
+1,1,train_6279_a_1.nii.gz,Where is the tracheal cannula located?,Lumen of trachea,Open,-,-,-,-,-
+1,1,train_6288_a_1.nii.gz,Where are the consolidations observed?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_6290_a_2.nii.gz,What is the position of the trachea and bronchi?,Midline position.,Open,-,-,-,-,-
+1,1,train_6303_a_2.nii.gz,Where is the nonspecific nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_6323_a_2.nii.gz,Where are the coarse calcification foci located?,Right upper lobe,Open,-,-,-,-,-
+1,1,train_6327_b_2.nii.gz,Where is the hypodense lesion located?,Right kidney.,Open,-,-,-,-,-
+1,1,train_6328_a_1.nii.gz,Where are the parenchymal nodules located?,Right upper lobe.,Open,-,-,-,-,-
+1,1,train_6335_b_1.nii.gz,Which lung lobe is affected?,Left upper lobe.,Open,-,-,-,-,-
+1,1,train_6335_b_2.nii.gz,Which lung lobe is affected?,Left upper lobe.,Open,-,-,-,-,-
+1,1,train_6336_c_2.nii.gz,Which major vein is observed extending in the image?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_6355_a_1.nii.gz,Where is the enlarged thyroid lobe located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_6361_b_1.nii.gz,Where is the stable parenchymal nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_6369_a_1.nii.gz,Which lobe contains the hypodense nodule?,Right lobe.,Open,-,-,-,-,-
+1,1,train_6377_c_1.nii.gz,What is the position of the trachea and bronchi?,Midline.,Open,-,-,-,-,-
+1,1,train_6422_a_1.nii.gz,Where is the hypodense nodule located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_6429_a_1.nii.gz,Where is the mass lesion located?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_6434_a_1.nii.gz,Which segment of the lung contains the primary mass?,Left upper lobe.,Open,-,-,-,-,-
+1,1,train_6434_a_2.nii.gz,Where is the primary mass located?,Left upper lobe.,Open,-,-,-,-,-
+1,1,train_6439_c_1.nii.gz,Which lung shows pleural effusion?,Left lung.,Open,-,-,-,-,-
+1,1,train_644_e_1.nii.gz,Where are the new ground glass densities observed?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_644_e_2.nii.gz,Where are the new ground glass densities observed?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_6456_a_1.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_6466_b_1.nii.gz,Where is the pleural effusion located?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_6466_b_2.nii.gz,Where is the pleural effusion located?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_6483_a_2.nii.gz,Where is the pleural effusion located?,Right pleural space.,Open,-,-,-,-,-
+1,1,train_6498_b_2.nii.gz,Where is the bronchiectasis observed?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_6521_b_1.nii.gz,Where is the consolidation observed?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_6521_b_2.nii.gz,Where is the consolidation located?,Right lung upper lobe.,Open,-,-,-,-,-
+1,1,train_6522_b_2.nii.gz,Where is the aneurysmatic dilatation located?,Ascending aorta.,Open,-,-,-,-,-
+1,1,train_6565_a_2.nii.gz,What shape is the nodule in the right thyroid?,Oval-shaped,Open,-,-,-,-,-
+1,1,train_6586_a_1.nii.gz,Where is the catheter observed?,Right internal jugular vein.,Open,-,-,-,-,-
+1,1,train_6586_a_2.nii.gz,Where is the catheter observed?,Right internal jugular vein.,Open,-,-,-,-,-
+1,1,train_6593_a_1.nii.gz,Where is the cortical cyst located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_6593_a_2.nii.gz,Where is the cortical cyst located?,Left kidney,Open,-,-,-,-,-
+1,1,train_6608_a_2.nii.gz,Where is the hypodense nodule located?,Right thyroid lobe.,Open,-,-,-,-,-
+1,1,train_6624_a_2.nii.gz,Where is the calcific nodule located?,Right lower lobe,Open,-,-,-,-,-
+1,1,train_6632_a_2.nii.gz,Where is the fusiform dilatation observed?,Main pulmonary artery.,Open,-,-,-,-,-
+1,1,train_6635_a_1.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_6646_d_2.nii.gz,Where is the aneurysmatic dilatation observed?,Ascending aorta,Open,-,-,-,-,-
+1,1,train_6663_a_1.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_6673_c_1.nii.gz,Which major vascular structure is observed?,Aortic arch.,Open,-,-,-,-,-
+1,1,train_6752_b_2.nii.gz,Which breast is absent?,Right breast.,Open,-,-,-,-,-
+1,1,train_6770_a_2.nii.gz,Where is the cavitary lesion located?,Right lung apex.,Open,-,-,-,-,-
+1,1,train_6776_a_2.nii.gz,Which tube is observed?,Endotracheal tube.,Open,-,-,-,-,-
+1,1,train_6779_f_2.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+1,1,train_6851_b_2.nii.gz,Where is the opacity area located?,Upper lobe of left lung.,Open,-,-,-,-,-
+1,1,train_6885_a_1.nii.gz,Which gland contains a nodule?,Right thyroid gland.,Open,-,-,-,-,-
+1,1,train_6925_a_2.nii.gz,Where are the nodules located?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_6940_b_1.nii.gz,Where is the subpleural nodule located?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_6940_b_2.nii.gz,Where is the subpleural nodule located?,Right middle lobe.,Open,-,-,-,-,-
+1,1,train_694_a_1.nii.gz,Where is the consolidation area located?,Superior right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_6965_a_2.nii.gz,Where is the dilatation observed?,Ascending aorta.,Open,-,-,-,-,-
+1,1,train_6995_a_1.nii.gz,Where are the ground glass areas located?,"Upper lobe, left lung.",Open,-,-,-,-,-
+1,1,train_6998_a_2.nii.gz,Where are the lung infiltrations located?,Both upper lobes.,Open,-,-,-,-,-
+1,1,train_7031_a_1.nii.gz,Where is the parenchymal nodule located?,Left lower lobe.,Open,-,-,-,-,-
+1,1,train_7091_a_1.nii.gz,Where is the catheter observed?,Right internal jugular vein.,Open,-,-,-,-,-
+1,1,train_7094_c_1.nii.gz,Where is the largest metastatic lesion located?,Left lower lobe.,Open,-,-,-,-,-
+1,1,train_7100_c_2.nii.gz,Where is the pleural effusion observed?,Right hemithorax.,Open,-,-,-,-,-
+1,1,train_7102_a_2.nii.gz,Which major vascular structure is observed in the image?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_7107_c_2.nii.gz,Where is the pleural effusion observed?,Left hemithorax.,Open,-,-,-,-,-
+1,1,train_7117_a_1.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_7117_b_1.nii.gz,Where are the ground-glass densities located?,Right lower lobe,Open,-,-,-,-,-
+1,1,train_7123_a_1.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_7123_a_2.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+1,1,train_7132_b_1.nii.gz,Where is the mass lesion located?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_7132_b_2.nii.gz,What region shows a mass lesion?,Right hilar region.,Open,-,-,-,-,-
+1,1,train_7190_a_1.nii.gz,Where are the patchy ground glass densities located?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_7205_a_2.nii.gz,Where is the density located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_7214_b_1.nii.gz,Where is the nodular density located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_7214_b_2.nii.gz,Where is the nodular density located?,Left lung upper lobe.,Open,-,-,-,-,-
+1,1,train_7229_a_1.nii.gz,Where is the area of consolidation located?,Left lower lobe.,Open,-,-,-,-,-
+1,1,train_7238_a_1.nii.gz,Where is the lesion located in the right lung?,Lower lobe.,Open,-,-,-,-,-
+1,1,train_7244_a_2.nii.gz,Where is the irregularly circumscribed mass located?,Right upper lobe,Open,-,-,-,-,-
+1,1,train_7250_d_1.nii.gz,Where is the pleural effusion located?,Right pleural space.,Open,-,-,-,-,-
+1,1,train_7250_g_1.nii.gz,Where is the irregularly circumscribed nodule located?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_7250_g_2.nii.gz,Where is the irregularly circumscribed nodule located?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_7250_i_1.nii.gz,Where is the primary mass located?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_7250_i_2.nii.gz,Where is the primary mass located?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_7271_a_2.nii.gz,Where is the ground-glass nodule located?,Superior left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_7274_a_1.nii.gz,Which lobe contains a nodule?,Right lobe,Open,-,-,-,-,-
+1,1,train_7280_b_2.nii.gz,What is observed in both pleural cavities?,Bilateral pleural effusion.,Open,-,-,-,-,-
+1,1,train_7314_a_1.nii.gz,Which lung lobe shows abnormalities?,Left upper lobe.,Open,-,-,-,-,-
+1,1,train_7386_a_1.nii.gz,Where is the hypodense lesion located?,Right kidney.,Open,-,-,-,-,-
+1,1,train_7404_a_1.nii.gz,Where is the atelectasis located?,Right lung middle lobe.,Open,-,-,-,-,-
+1,1,train_7440_c_1.nii.gz,Where is the catheter terminating?,Superior vena cava.,Open,-,-,-,-,-
+1,1,train_7488_b_1.nii.gz,Where is the tracheostomy tube located?,Proximal to carina,Open,-,-,-,-,-
+1,1,train_7488_h_1.nii.gz,Where is the pleural effusion located?,Right pleural space.,Open,-,-,-,-,-
+1,1,train_7519_a_1.nii.gz,Which breast contains an implant?,Right breast.,Open,-,-,-,-,-
+1,1,train_7525_a_1.nii.gz,Where is the pleural effusion observed?,Right side.,Open,-,-,-,-,-
+1,1,train_7525_a_2.nii.gz,Where is the pleural effusion observed?,Right side.,Open,-,-,-,-,-
+1,1,train_7552_c_2.nii.gz,Which hemithorax shows greater effusion?,Left hemithorax.,Open,-,-,-,-,-
+1,1,train_7565_b_1.nii.gz,Where is the pleural effusion located?,Left hemithorax.,Open,-,-,-,-,-
+1,1,train_7575_a_2.nii.gz,Where is the largest nodule located?,"Middle lobe, right.",Open,-,-,-,-,-
+1,1,train_7579_a_2.nii.gz,Where is the subpleural nodule located?,Left lower lobe.,Open,-,-,-,-,-
+1,1,train_7596_a_2.nii.gz,Where is the consolidation located?,Left lung lower lobe.,Open,-,-,-,-,-
+1,1,train_7598_a_1.nii.gz,Where is the atypical pneumonic infiltration located?,Right lung lower lobe.,Open,-,-,-,-,-
+1,1,train_7602_a_1.nii.gz,Which structure is midline between the main bronchi?,Trachea.,Open,-,-,-,-,-
+1,1,train_7633_a_1.nii.gz,What is the position of the trachea and bronchi?,Midline.,Open,-,-,-,-,-
+1,1,train_7676_a_1.nii.gz,Where is the total atelectasis observed?,Right lung middle lobe.,Open,-,-,-,-,-
+1,1,train_7679_a_1.nii.gz,What is the position of the trachea?,Midline position.,Open,-,-,-,-,-
+1,1,train_7686_a_2.nii.gz,Where is the area of consolidation located?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_7737_b_2.nii.gz,Where are the observed consolidations located?,Lower lobes.,Open,-,-,-,-,-
+1,1,train_7774_a_2.nii.gz,Where is the tracheostomy cannula observed?,In the trachea.,Open,-,-,-,-,-
+1,1,train_7779_a_2.nii.gz,Which breast is not visible?,Left breast.,Open,-,-,-,-,-
+1,1,train_7847_a_2.nii.gz,Where is the consolidation located?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_7980_a_1.nii.gz,What shape is the nodular formation?,Oval-shaped.,Open,-,-,-,-,-
+1,1,train_7987_a_1.nii.gz,What is the status of the trachea and bronchi?,Open lumens.,Open,-,-,-,-,-
+1,1,train_8056_b_1.nii.gz,Which bronchus is narrowed?,Right main bronchus.,Open,-,-,-,-,-
+1,1,train_8065_a_1.nii.gz,Which lobe contains the lesion?,Left lobe.,Open,-,-,-,-,-
+1,1,train_8131_a_2.nii.gz,Where is the mucus material located?,Tracheal lumen.,Open,-,-,-,-,-
+1,1,train_8136_a_2.nii.gz,Where are the pleural effusions located?,Both lower lobes.,Open,-,-,-,-,-
+1,1,train_8140_a_2.nii.gz,Where is the bulla located?,Right lower lobe,Open,-,-,-,-,-
+1,1,train_8175_a_2.nii.gz,Which breast shows skin thickening?,Left breast.,Open,-,-,-,-,-
+1,1,train_8203_a_2.nii.gz,Which quadrant of the left breast contains the lesion?,Upper outer quadrant.,Open,-,-,-,-,-
+1,1,train_8203_b_2.nii.gz,Where is the asymmetric soft tissue density observed?,Left breast.,Open,-,-,-,-,-
+1,1,train_8210_a_2.nii.gz,Where is the cystic lesion located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_8304_f_1.nii.gz,Which major vascular structure is observed extending superiorly?,Vena cava.,Open,-,-,-,-,-
+1,1,train_8309_a_1.nii.gz,Where is the calcific nodule located?,Right upper lobe,Open,-,-,-,-,-
+1,1,train_8550_a_2.nii.gz,Where is the left hemidiaphragm positioned?,Elevated.,Open,-,-,-,-,-
+1,1,train_8590_a_1.nii.gz,Where is the subpleural nodule located?,Left lung laterobasal segment.,Open,-,-,-,-,-
+1,1,train_8591_a_1.nii.gz,What is the condition of the trachea and bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_8613_a_1.nii.gz,Where is the irregularly circumscribed nodule located?,Left upper lobe,Open,-,-,-,-,-
+1,1,train_8634_a_1.nii.gz,Where is the cortical cyst located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_8634_a_2.nii.gz,Where is the cortical cyst located?,Left kidney.,Open,-,-,-,-,-
+1,1,train_8665_a_1.nii.gz,Which pleural area shows free effusion?,Right pleural area.,Open,-,-,-,-,-
+1,1,train_8667_a_2.nii.gz,Which lung lobe shows nodular thickening?,Left upper lobe,Open,-,-,-,-,-
+1,1,train_8761_a_1.nii.gz,Where is the intubation catheter observed?,Trachea.,Open,-,-,-,-,-
+1,1,train_8761_a_2.nii.gz,Where is the intubation catheter observed?,Trachea.,Open,-,-,-,-,-
+1,1,train_8787_b_1.nii.gz,Where is the atelectasis observed?,Left lower lobe,Open,-,-,-,-,-
+1,1,train_8794_a_1.nii.gz,What is the condition of the trachea and main bronchi?,Open and patent.,Open,-,-,-,-,-
+1,1,train_8836_a_1.nii.gz,Where is the nodule located in the right lung?,Lower lobe superior segment.,Open,-,-,-,-,-
+1,1,train_9271_e_1.nii.gz,Which gland contains the observed nodule?,Right thyroid gland.,Open,-,-,-,-,-
+1,1,train_9303_b_1.nii.gz,Where is the mass observed?,Right hilum.,Open,-,-,-,-,-
+1,1,train_9303_b_2.nii.gz,Where is the mass located?,Right hilum.,Open,-,-,-,-,-
+1,1,train_9332_a_1.nii.gz,Which thyroid lobe appears larger?,Left thyroid lobe.,Open,-,-,-,-,-
+1,1,train_9332_a_2.nii.gz,Which thyroid lobe appears larger?,Left thyroid lobe.,Open,-,-,-,-,-
+1,1,train_9380_b_1.nii.gz,Which lung shows ground glass areas?,Left lung.,Open,-,-,-,-,-
+1,1,train_9413_a_2.nii.gz,Where are the round-shaped consolidations located?,Lung lower lobes.,Open,-,-,-,-,-
+1,1,train_9415_a_1.nii.gz,What shape is the lesion in the left breast?,Oval-shaped.,Open,-,-,-,-,-
+1,1,train_9447_a_1.nii.gz,Where is the pneumothorax observed?,Left lung.,Open,-,-,-,-,-
+1,1,train_9455_a_2.nii.gz,Which quadrant of the right breast contains the lesion?,Upper outer quadrant.,Open,-,-,-,-,-
+1,1,train_9548_b_2.nii.gz,Where is the metastatic soft tissue mass located?,Right lung hilum.,Open,-,-,-,-,-
+1,1,train_9607_a_1.nii.gz,What structure is seen inserted in the trachea?,Endotracheal tube.,Open,-,-,-,-,-
+1,1,train_9742_a_2.nii.gz,Where is the consolidation observed?,Right lower lobe,Open,-,-,-,-,-
+1,1,train_9776_a_1.nii.gz,Where is the soft tissue lesion located?,Right breast inner quadrant.,Open,-,-,-,-,-
+1,1,train_9776_a_2.nii.gz,Where is the soft tissue lesion located?,Right breast inner quadrant.,Open,-,-,-,-,-
+1,1,train_9849_a_1.nii.gz,Where is the patchy ground-glass density observed?,Left lung lower lobe,Open,-,-,-,-,-
+1,1,train_9878_a_1.nii.gz,Which breast is absent?,Right breast.,Open,-,-,-,-,-
+1,1,train_9968_b_2.nii.gz,Which major vascular structures are observed?,"Ascending aorta, descending aorta.",Open,-,-,-,-,-

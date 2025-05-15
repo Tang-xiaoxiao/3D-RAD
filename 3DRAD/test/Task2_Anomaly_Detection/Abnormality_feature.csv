@@ -1,0 +1,801 @@
+Task,Subtask,VolumeName,Question,Answer,QuestionType,AnswerChoice,Choice A,Choice B,Choice C,Choice D
+2,1,test_1004_a_1.nii.gz,Where is the consolidation area located?,Middle lobe right lung.,Open,-,-,-,-,-
+2,1,test_1006_a_1.nii.gz,Where is atelectasis observed?,Lower lobe.,Open,-,-,-,-,-
+2,1,test_1006_b_1.nii.gz,Where is the atelectasis observed?,Lung lower lobes,Open,-,-,-,-,-
+2,1,test_1006_b_2.nii.gz,What structural change is noted in the left upper lobe?,Bronchiectasis,Open,-,-,-,-,-
+2,1,test_100_a_1.nii.gz,What appearance is noted in the lung parenchyma?,Honeycomb appearance.,Open,-,-,-,-,-
+2,1,test_100_a_2.nii.gz,What appearance is noted in the lung parenchyma?,Honeycomb appearance.,Open,-,-,-,-,-
+2,1,test_1011_a_1.nii.gz,What pattern is more evident in the lower lobes of both lungs?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_1011_a_2.nii.gz,Where is the mosaic attenuation pattern more evident?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_1015_a_2.nii.gz,Where is the nodule located?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_1016_a_2.nii.gz,Where is the ground-glass halo observed?,In the periphery of nodules.,Open,-,-,-,-,-
+2,1,test_1016_b_1.nii.gz,Where are the nodules with irregular borders found?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_1016_e_1.nii.gz,What characteristic is noted in the mass?,Irregularly circumscribed,Open,-,-,-,-,-
+2,1,test_1016_f_1.nii.gz,Which halo is noted around the nodules?,Ground-glass halo.,Open,-,-,-,-,-
+2,1,test_101_a_1.nii.gz,What is observed in the lung parenchyma?,Minimal peribronchial thickening,Open,-,-,-,-,-
+2,1,test_1023_a_1.nii.gz,What type of changes are noted in the lower lobes of both lungs?,Centriacinar emphysematous changes.,Open,-,-,-,-,-
+2,1,test_1023_a_2.nii.gz,Which characteristic is noted in the pleura?,Calcified plaque-like thickness.,Open,-,-,-,-,-
+2,1,test_1024_a_1.nii.gz,Which pattern is observed in the lung parenchyma?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_1025_a_1.nii.gz,Where are the nodular densities located?,Both lungs,Open,-,-,-,-,-
+2,1,test_1025_c_1.nii.gz,What is the condition of the pleura?,No thickening.,Open,-,-,-,-,-
+2,1,test_1027_a_1.nii.gz,What pattern is observed in both lungs?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_1028_a_1.nii.gz,Where are the band-like soft tissue densities observed?,"Peribronchial, subpleural areas",Open,-,-,-,-,-
+2,1,test_1029_a_1.nii.gz,Where is the halo sign observed?,Around the ground glass nodule.,Open,-,-,-,-,-
+2,1,test_1030_a_1.nii.gz,What type of density change is noted in the lungs?,Ground-glass density,Open,-,-,-,-,-
+2,1,test_1030_a_2.nii.gz,Which density change is noted in the lungs?,Ground-glass density,Open,-,-,-,-,-
+2,1,test_1032_a_1.nii.gz,Where are the focal opacities primarily observed?,Posterobasal segment.,Open,-,-,-,-,-
+2,1,test_1032_a_2.nii.gz,Which feature characterizes the observed opacities?,Ground glass opacity.,Open,-,-,-,-,-
+2,1,test_1033_a_1.nii.gz,What type of densities are noted?,Ground-glass densities.,Open,-,-,-,-,-
+2,1,test_1036_a_1.nii.gz,Where are the consolidations located?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_1036_a_2.nii.gz,What sign is observed in the consolidations?,Air bronchogram sign.,Open,-,-,-,-,-
+2,1,test_1037_a_2.nii.gz,Where is the hyperdense stone located?,Right kidney,Open,-,-,-,-,-
+2,1,test_1038_a_1.nii.gz,Where is the irregularly contoured density located?,Apex of right lung.,Open,-,-,-,-,-
+2,1,test_1038_a_2.nii.gz,What contour does the lesion in the right lung apex have?,Irregular contour,Open,-,-,-,-,-
+2,1,test_1040_a_1.nii.gz,What feature is noted in the left lung?,Ground-glass density,Open,-,-,-,-,-
+2,1,test_1040_a_2.nii.gz,Where is the ground-glass density increase observed?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_1042_a_2.nii.gz,Which abnormality is observed in the lower lobe of the right lung?,Linear atelectasis,Open,-,-,-,-,-
+2,1,test_1044_a_1.nii.gz,Which areas show localized infiltration?,Peribronchial and subpleural.,Open,-,-,-,-,-
+2,1,test_1044_a_2.nii.gz,Which areas show localized infiltration?,Peribronchial and subpleural,Open,-,-,-,-,-
+2,1,test_1045_a_2.nii.gz,Which area shows fluid presence?,Superior paracardiac recess.,Open,-,-,-,-,-
+2,1,test_1047_a_2.nii.gz,Where is the lymph node located?,Pretracheal area,Open,-,-,-,-,-
+2,1,test_1049_a_1.nii.gz,What feature is observed on the pleural surfaces?,Irregularity and thickening,Open,-,-,-,-,-
+2,1,test_1051_a_1.nii.gz,What is the condition of the lung parenchyma?,Normal aeration.,Open,-,-,-,-,-
+2,1,test_1051_a_2.nii.gz,What is the condition of the trachea and main bronchi?,Clear lumens,Open,-,-,-,-,-
+2,1,test_1052_a_1.nii.gz,Where is the heart size described?,Cardiac silhouette,Open,-,-,-,-,-
+2,1,test_1054_a_1.nii.gz,Where is the wall thickening observed?,Thoracic esophagus,Open,-,-,-,-,-
+2,1,test_1054_a_2.nii.gz,Which lesions are present in the lung parenchyma?,None detected,Open,-,-,-,-,-
+2,1,test_1064_a_1.nii.gz,Where is the partially calcific nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_1066_a_1.nii.gz,Where are the areas of consolidation observed?,"Upper, lower lobes",Open,-,-,-,-,-
+2,1,test_1067_a_1.nii.gz,Where is the ground-glass appearance located?,Left upper lobe.,Open,-,-,-,-,-
+2,1,test_1067_c_2.nii.gz,Where is the interlobular septal thickening observed?,Upper zones of both lungs.,Open,-,-,-,-,-
+2,1,test_1069_a_1.nii.gz,Where is the pleural effusion observed?,Right pleura,Open,-,-,-,-,-
+2,1,test_1069_a_2.nii.gz,Where is the free pleural effusion observed?,Right pleural space,Open,-,-,-,-,-
+2,1,test_1069_b_2.nii.gz,Where are the ground-glass infiltrates more prominent?,Lower lobes,Open,-,-,-,-,-
+2,1,test_1070_a_2.nii.gz,What is the condition of the pleural space?,No effusion,Open,-,-,-,-,-
+2,1,test_1072_a_1.nii.gz,Which density increase is observed in the left lung lower lobe?,Ground-glass density.,Open,-,-,-,-,-
+2,1,test_1074_a_1.nii.gz,Which type of densities are seen in the left lung lower lobe?,Ground-glass densities,Open,-,-,-,-,-
+2,1,test_1074_a_2.nii.gz,What pattern is seen in the lungs?,Ground-glass densities,Open,-,-,-,-,-
+2,1,test_1079_a_1.nii.gz,Which feature is observed in the thoracic aorta?,Normal diameter.,Open,-,-,-,-,-
+2,1,test_1082_b_2.nii.gz,Which feature is noted in the lung parenchyma?,Interlobular septa thickening,Open,-,-,-,-,-
+2,1,test_1083_a_1.nii.gz,Where is the thickness increase observed?,Peribronchial regions,Open,-,-,-,-,-
+2,1,test_1091_a_1.nii.gz,Where is the nodule observed?,Posterobasal segment.,Open,-,-,-,-,-
+2,1,test_1092_a_1.nii.gz,What contour does the mass have?,Irregular spiculated,Open,-,-,-,-,-
+2,1,test_1092_a_2.nii.gz,What appearance is noted in the lower lobe of the left lung?,Ground-glass appearance.,Open,-,-,-,-,-
+2,1,test_1097_a_1.nii.gz,Which characteristic is noted in the air cysts?,Thin-walled.,Open,-,-,-,-,-
+2,1,test_1097_a_2.nii.gz,Which segment shows linear pleuroparenchymal sequelae?,Right lung middle lobe.,Open,-,-,-,-,-
+2,1,test_1099_a_1.nii.gz,Where is the pleuroparenchymal fibrotic sequelae band observed?,Left lung apex.,Open,-,-,-,-,-
+2,1,test_109_a_4.nii.gz,What is observed adjacent to the pleural effusion?,Compression atelectasis,Open,-,-,-,-,-
+2,1,test_109_a_5.nii.gz,What type of effusion is present?,Pleural effusion.,Open,-,-,-,-,-
+2,1,test_10_a_1.nii.gz,Where is the linear density consistent with band atelectasis located?,Inferior lingular segment.,Open,-,-,-,-,-
+2,1,test_10_a_2.nii.gz,Where is the linear density consistent with band atelectasis observed?,Inferior lingular segment.,Open,-,-,-,-,-
+2,1,test_1103_a_1.nii.gz,Which characteristic describes the nodule?,Irregularly circumscribed,Open,-,-,-,-,-
+2,1,test_1103_b_1.nii.gz,Which feature indicates surgical intervention?,Suture materials present.,Open,-,-,-,-,-
+2,1,test_1107_a_1.nii.gz,Where is the stone located?,"Middle part, left kidney",Open,-,-,-,-,-
+2,1,test_1108_a_1.nii.gz,What appearance do the lung infiltrations have?,Ground glass and consolidation.,Open,-,-,-,-,-
+2,1,test_1111_a_1.nii.gz,Which sign is observed in the consolidation areas of the left lung?,Air bronchogram signs.,Open,-,-,-,-,-
+2,1,test_1112_a_5.nii.gz,Which areas show dependent density increases?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_1113_a_2.nii.gz,Which characteristic is noted about the nodules?,Subpleural location.,Open,-,-,-,-,-
+2,1,test_1117_a_1.nii.gz,Which segment shows dependent density increases?,Lower lobe posterior segments.,Open,-,-,-,-,-
+2,1,test_1117_a_2.nii.gz,Where is the parenchymal air cyst located?,Right lung upper lobe,Open,-,-,-,-,-
+2,1,test_1118_a_2.nii.gz,Which organ shows a change consistent with hepatosteatosis?,Liver.,Open,-,-,-,-,-
+2,1,test_111_a_1.nii.gz,Where are the ground-glass density increases located?,Upper and lower lobes.,Open,-,-,-,-,-
+2,1,test_111_a_2.nii.gz,Where are the ground-glass densities observed?,"Upper, lower lobes",Open,-,-,-,-,-
+2,1,test_1124_a_2.nii.gz,Where are the prominent areas of emphysema located?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_1125_a_2.nii.gz,Where is the faint ground-glass-like density increase located in the left lung?,Anterior segment.,Open,-,-,-,-,-
+2,1,test_1127_a_1.nii.gz,What is the characteristic of the pleural effusion?,Minimal free effusion.,Open,-,-,-,-,-
+2,1,test_1127_a_2.nii.gz,What is the characteristic of the pleural effusion?,Minimal free pleural effusion.,Open,-,-,-,-,-
+2,1,test_112_a_1.nii.gz,What is the condition of pleural effusion?,Not detected,Open,-,-,-,-,-
+2,1,test_1131_a_2.nii.gz,What type of density increase is noted?,Ground glass,Open,-,-,-,-,-
+2,1,test_1137_a_1.nii.gz,Which nodule is hypodense?,Left thyroid nodule.,Open,-,-,-,-,-
+2,1,test_1138_a_2.nii.gz,Where is the ground glass density located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_1146_a_1.nii.gz,Where is the millimetric calcific nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_1147_b_1.nii.gz,Which pattern is noted in the lung?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_114_a_2.nii.gz,What appearance is noted in both lungs?,Crazy paving appearance.,Open,-,-,-,-,-
+2,1,test_1151_a_2.nii.gz,Which pattern is observed in the lung parenchyma?,Patchy ground glass,Open,-,-,-,-,-
+2,1,test_1154_a_1.nii.gz,Where is the largest nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_1156_b_1.nii.gz,Where is the pleural effusion observed?,Not observed,Open,-,-,-,-,-
+2,1,test_1157_a_1.nii.gz,Where is the thickening observed?,No thickening detected,Open,-,-,-,-,-
+2,1,test_1159_a_1.nii.gz,Where are the nonspecific densities located?,Peripheral subpleural areas.,Open,-,-,-,-,-
+2,1,test_1161_a_1.nii.gz,Which type of bronchial abnormality is present?,Minimal bronchiectasis,Open,-,-,-,-,-
+2,1,test_1163_a_1.nii.gz,Which lung shows minimal density increases?,Right lower lobe,Open,-,-,-,-,-
+2,1,test_1166_a_1.nii.gz,Which lung parenchyma condition is noted?,Normal aeration,Open,-,-,-,-,-
+2,1,test_1167_a_2.nii.gz,Which characteristic is noted within the mass?,Calcifications,Open,-,-,-,-,-
+2,1,test_1170_a_1.nii.gz,What is observed within the dilated bronchi?,Mucosal secretions.,Open,-,-,-,-,-
+2,1,test_1170_a_2.nii.gz,Where are the cystic changes observed?,Middle zone of right lung.,Open,-,-,-,-,-
+2,1,test_1170_a_3.nii.gz,What feature is observed within the dilated bronchi?,Mucosal secretions.,Open,-,-,-,-,-
+2,1,test_1170_a_6.nii.gz,What is observed within the dilated bronchi?,Mucosal secretions,Open,-,-,-,-,-
+2,1,test_1174_a_1.nii.gz,Which feature is noted in the aortic walls?,Calcific plaques,Open,-,-,-,-,-
+2,1,test_1174_a_2.nii.gz,What feature is noted in the aortic walls?,Calcific plaques,Open,-,-,-,-,-
+2,1,test_1175_a_1.nii.gz,What pattern is observed in both lungs?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_117_a_2.nii.gz,Where is the largest nodule observed?,Left lung upper lobe,Open,-,-,-,-,-
+2,1,test_117_b_1.nii.gz,What contours do the largest lesions have?,Spiculated contours,Open,-,-,-,-,-
+2,1,test_117_b_2.nii.gz,What contour is noted in the largest lesion?,Spiculated contours,Open,-,-,-,-,-
+2,1,test_1181_a_1.nii.gz,Which pattern is observed in both lungs?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_1184_a_1.nii.gz,What characteristic is noted in the air cyst?,Thin-walled.,Open,-,-,-,-,-
+2,1,test_1184_a_2.nii.gz,Where are the degenerative changes observed?,Vertebral corpus corners.,Open,-,-,-,-,-
+2,1,test_1184_b_2.nii.gz,Where are the ground-glass densities observed?,Lower lobes,Open,-,-,-,-,-
+2,1,test_1184_c_1.nii.gz,Where is the air cyst located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_1184_c_2.nii.gz,Where is the air cyst located?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_1186_a_1.nii.gz,What pattern is noted in both lungs?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_1186_a_2.nii.gz,What characteristic does the focal area in the right lung upper lobe have?,Ground-glass appearance.,Open,-,-,-,-,-
+2,1,test_1191_a_1.nii.gz,Where are the nodules located?,Subpleural region,Open,-,-,-,-,-
+2,1,test_119_a_1.nii.gz,Where are the emphysematous changes located?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_119_a_2.nii.gz,Where are the emphysematous changes located?,Upper lobes,Open,-,-,-,-,-
+2,1,test_1200_a_1.nii.gz,Where is the thickening observed?,Interlobular septa,Open,-,-,-,-,-
+2,1,test_1201_a_1.nii.gz,Which surgical evidence is visible in the image?,Metallic sutures.,Open,-,-,-,-,-
+2,1,test_1206_a_2.nii.gz,What is observed regarding pleural effusion?,Not detected,Open,-,-,-,-,-
+2,1,test_1207_a_1.nii.gz,Where are the ground-glass densities located?,Lower lobe basal segments,Open,-,-,-,-,-
+2,1,test_1207_a_2.nii.gz,Where are the ground-glass densities located?,Lower lobe basal segments,Open,-,-,-,-,-
+2,1,test_1208_a_1.nii.gz,What significant wall thickening is detected?,None detected,Open,-,-,-,-,-
+2,1,test_120_a_2.nii.gz,What appearance is noted in the subpleural areas?,Honeycomb appearance,Open,-,-,-,-,-
+2,1,test_1214_b_2.nii.gz,What is the condition of the pleura?,No effusion,Open,-,-,-,-,-
+2,1,test_1215_a_1.nii.gz,Which adrenal gland shows more prominent changes?,Left adrenal gland.,Open,-,-,-,-,-
+2,1,test_1215_a_2.nii.gz,Which adrenal gland shows more prominence in calcifications?,Left adrenal gland.,Open,-,-,-,-,-
+2,1,test_1216_a_2.nii.gz,Where are the calculi observed?,Right kidney,Open,-,-,-,-,-
+2,1,test_1217_a_2.nii.gz,What type of thickening is present?,Minimal peribronchial,Open,-,-,-,-,-
+2,1,test_1220_a_1.nii.gz,Where is the density increase noted?,Peripheral subpleural area,Open,-,-,-,-,-
+2,1,test_1220_a_2.nii.gz,Where is the ground glass density primarily observed?,Peripheral subpleural area,Open,-,-,-,-,-
+2,1,test_1221_a_2.nii.gz,What type of thickening is present?,Peribronchial thickening,Open,-,-,-,-,-
+2,1,test_1222_a_2.nii.gz,What is the condition of the pleura?,No effusion,Open,-,-,-,-,-
+2,1,test_1225_a_1.nii.gz,What characteristic does the nodule contain?,Coarse calcification.,Open,-,-,-,-,-
+2,1,test_1227_a_1.nii.gz,What pattern is observed in the lung parenchyma?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_1229_a_2.nii.gz,What densities are observed in the lungs?,Patchy ground-glass,Open,-,-,-,-,-
+2,1,test_122_a_2.nii.gz,What is the condition of the lung parenchyma?,Normal aeration,Open,-,-,-,-,-
+2,1,test_1230_a_1.nii.gz,Where is the calcified nodule observed?,Middle lobe of right lung.,Open,-,-,-,-,-
+2,1,test_1230_a_2.nii.gz,Where are density increases observed?,Right middle lobe,Open,-,-,-,-,-
+2,1,test_1231_a_1.nii.gz,What characteristic is noted in the left lung?,Subtotal atelectasis.,Open,-,-,-,-,-
+2,1,test_1231_a_2.nii.gz,Which abnormality is present in the left lung?,Subtotal atelectasis.,Open,-,-,-,-,-
+2,1,test_1233_a_1.nii.gz,Which pattern is observed in both lungs?,Mosaic lung pattern,Open,-,-,-,-,-
+2,1,test_1233_a_2.nii.gz,Where is interlobular septal thickening predominantly observed?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_1234_a_1.nii.gz,What appearance is noted in the lung infiltrations?,Ground glass opacity.,Open,-,-,-,-,-
+2,1,test_1241_a_2.nii.gz,Where is the pleural-based nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_1242_a_1.nii.gz,What characteristic is noted in the lung parenchyma?,Ground glass densities.,Open,-,-,-,-,-
+2,1,test_1246_a_2.nii.gz,Where is the nodular thickening located?,Major fissure,Open,-,-,-,-,-
+2,1,test_1247_b_2.nii.gz,Which thickenings accompany the ground glass areas?,Interlobular septal,Open,-,-,-,-,-
+2,1,test_1250_b_1.nii.gz,Which area shows increased thickness?,Peribronchial area.,Open,-,-,-,-,-
+2,1,test_1250_b_2.nii.gz,Which area shows increased thickness?,Peribronchial area.,Open,-,-,-,-,-
+2,1,test_1253_a_1.nii.gz,Which feature is observed in the bronchial walls?,Thickening.,Open,-,-,-,-,-
+2,1,test_1256_a_1.nii.gz,Which density increase is noted in the lung parenchyma?,Ground glass density.,Open,-,-,-,-,-
+2,1,test_1257_a_2.nii.gz,What appearance is noted in the left lung upper lobe?,Ground glass areas.,Open,-,-,-,-,-
+2,1,test_1258_a_1.nii.gz,What characteristic is noted about the nodular densities?,Irregular borders.,Open,-,-,-,-,-
+2,1,test_1258_a_2.nii.gz,What characteristic do the nodules have?,Irregular borders.,Open,-,-,-,-,-
+2,1,test_1262_a_1.nii.gz,Where is the consolidation located?,Right lower lobe,Open,-,-,-,-,-
+2,1,test_1264_a_1.nii.gz,What pattern is noted in the lungs?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_1265_a_1.nii.gz,What characteristic is noted in the atelectasis?,Volume loss.,Open,-,-,-,-,-
+2,1,test_1266_a_2.nii.gz,Where is the largest nodule located?,Anterior upper lobe.,Open,-,-,-,-,-
+2,1,test_1267_a_1.nii.gz,What characteristic is observed in the left lung segments?,Ground glass density.,Open,-,-,-,-,-
+2,1,test_1267_b_1.nii.gz,What characteristic is noted in the lung parenchyma?,Ground glass areas.,Open,-,-,-,-,-
+2,1,test_1267_c_2.nii.gz,What surrounds the nodule in the lower lobe?,Peripheral halo.,Open,-,-,-,-,-
+2,1,test_126_a_1.nii.gz,Where are the fibrotic densities located?,Subpleural level,Open,-,-,-,-,-
+2,1,test_1271_a_1.nii.gz,Which aorta shows mild dilatation?,Ascending aorta.,Open,-,-,-,-,-
+2,1,test_1272_a_2.nii.gz,What pattern is observed in the lung parenchyma?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_1275_a_1.nii.gz,Where is the pleural effusion located?,Right side,Open,-,-,-,-,-
+2,1,test_1275_a_2.nii.gz,Which type of atelectasis is observed?,Linear atelectasis,Open,-,-,-,-,-
+2,1,test_1276_a_1.nii.gz,Where are the small lymph nodes observed?,Right hilar region.,Open,-,-,-,-,-
+2,1,test_1277_a_1.nii.gz,Which pattern is seen in the lung parenchyma?,Crazy paving pattern,Open,-,-,-,-,-
+2,1,test_1278_a_1.nii.gz,Where are the fibrotic densities located?,Lung apical segments,Open,-,-,-,-,-
+2,1,test_1278_a_2.nii.gz,Where are the fibrotic densities located?,Lung apical segments,Open,-,-,-,-,-
+2,1,test_1281_a_1.nii.gz,What sign is observed in the consolidation area?,Air bronchogram,Open,-,-,-,-,-
+2,1,test_1281_a_2.nii.gz,Which sign is present in the consolidation area?,Air bronchogram,Open,-,-,-,-,-
+2,1,test_1282_a_1.nii.gz,Where are the nodular opacities located?,Right lung upper lobe,Open,-,-,-,-,-
+2,1,test_1283_a_1.nii.gz,Where are linear atelectatic changes observed?,Right lung middle lobe,Open,-,-,-,-,-
+2,1,test_1285_a_1.nii.gz,Where are the millimetric lymph nodes located?,"Mediastinum, hilar regions",Open,-,-,-,-,-
+2,1,test_1286_a_2.nii.gz,What appearance is noted in the lung lesions?,Crazy paving.,Open,-,-,-,-,-
+2,1,test_1291_a_1.nii.gz,What type of densities are present in both lungs?,Ground-glass densities.,Open,-,-,-,-,-
+2,1,test_1292_a_1.nii.gz,Where are the irregular consolidation areas located?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_1294_a_1.nii.gz,Where is the thickness increase observed?,Inferior-posterior left lung,Open,-,-,-,-,-
+2,1,test_1297_a_1.nii.gz,What type of densities are present?,Patchy ground glass,Open,-,-,-,-,-
+2,1,test_1297_a_2.nii.gz,Where are the ground glass densities more prominent?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_1298_a_1.nii.gz,What is the contour of the nodule?,Spiculated contours,Open,-,-,-,-,-
+2,1,test_12_a_1.nii.gz,What type of density increases are present in both lungs?,Ground-glass density.,Open,-,-,-,-,-
+2,1,test_12_a_2.nii.gz,Where are the areas of consolidation observed?,Upper lobe of left lung.,Open,-,-,-,-,-
+2,1,test_1301_a_2.nii.gz,What is observed in the thoracic esophagus?,Normal wall thickness.,Open,-,-,-,-,-
+2,1,test_1302_a_1.nii.gz,What type of densities are present?,Ground-glass densities.,Open,-,-,-,-,-
+2,1,test_1303_a_2.nii.gz,Where are the paraseptal emphysema changes more prominent?,Subpleural areas.,Open,-,-,-,-,-
+2,1,test_131_a_2.nii.gz,What type of density areas are observed in both lungs?,Ground-glass density,Open,-,-,-,-,-
+2,1,test_134_a_1.nii.gz,Where is focal consolidation observed?,Middle lobe.,Open,-,-,-,-,-
+2,1,test_143_a_2.nii.gz,Where is the pleuroparenchymal change located?,Right lung middle lobe,Open,-,-,-,-,-
+2,1,test_144_a_1.nii.gz,What changes are seen in the aorta?,Fusiform dilatation.,Open,-,-,-,-,-
+2,1,test_145_a_1.nii.gz,Where is the hyperdense finding located?,Left kidney,Open,-,-,-,-,-
+2,1,test_14_a_1.nii.gz,What appearance is noted in both lungs?,Ground-glass appearance.,Open,-,-,-,-,-
+2,1,test_151_a_1.nii.gz,Which type of calcifications are observed in the pleura at the anterior segment of the upper lobe?,Plaque-like calcifications,Open,-,-,-,-,-
+2,1,test_151_b_2.nii.gz,Which appearance is noted in the right lung?,Tree-in-bud nodules.,Open,-,-,-,-,-
+2,1,test_151_c_2.nii.gz,Which area shows reticular densities?,Subpleural area.,Open,-,-,-,-,-
+2,1,test_154_a_2.nii.gz,Which segment shows peripheral ground glass density?,Posterobasal segment.,Open,-,-,-,-,-
+2,1,test_157_a_1.nii.gz,Where are the patchy ground-glass densities located?,Subpleural area,Open,-,-,-,-,-
+2,1,test_157_a_2.nii.gz,Where are the patchy densities observed?,Subpleural area.,Open,-,-,-,-,-
+2,1,test_160_a_1.nii.gz,Where are the fibrotic bands located?,"Upper, middle lobes.",Open,-,-,-,-,-
+2,1,test_160_a_2.nii.gz,What is observed in the right lung middle lobe lateral segment?,Ground glass opacities.,Open,-,-,-,-,-
+2,1,test_162_a_2.nii.gz,Where is the ground-glass opacity located?,Right upper lobe,Open,-,-,-,-,-
+2,1,test_163_a_1.nii.gz,What characteristic is noted about the newly developed lesion?,Ground glass density,Open,-,-,-,-,-
+2,1,test_163_a_2.nii.gz,Which segment contains the largest nodular lesion?,Upper lobe anterior segment.,Open,-,-,-,-,-
+2,1,test_163_b_1.nii.gz,Where are the newly developed nodules located?,Anteromedial basal segment,Open,-,-,-,-,-
+2,1,test_163_b_2.nii.gz,What characteristic do the newly developed nodular lesions have?,Irregular borders,Open,-,-,-,-,-
+2,1,test_163_d_1.nii.gz,What type of density is observed in the left lung lower lobe?,Ground glass density.,Open,-,-,-,-,-
+2,1,test_165_a_1.nii.gz,What characteristic is noted in the lung areas?,Ground-glass opacity,Open,-,-,-,-,-
+2,1,test_167_a_1.nii.gz,What type of density increase is noted in the lungs?,Ground-glass density.,Open,-,-,-,-,-
+2,1,test_167_a_2.nii.gz,What type of density increase is noted in the peripheral subpleural areas?,Ground-glass density,Open,-,-,-,-,-
+2,1,test_168_b_1.nii.gz,Which pattern is observed in both lungs?,Mosaic attenuation pattern.,Open,-,-,-,-,-
+2,1,test_168_b_2.nii.gz,What pattern is noted in both lungs?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_16_a_1.nii.gz,What type of areas are present in the left lung?,Ground glass areas,Open,-,-,-,-,-
+2,1,test_16_a_2.nii.gz,Where are the ground glass areas found?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_170_a_1.nii.gz,Where is the focal ground-glass-like density increase located?,Right lower lobe.,Open,-,-,-,-,-
+2,1,test_170_a_2.nii.gz,What type of density increase is noted in the superior segment of the lower lobe?,Ground-glass-like density.,Open,-,-,-,-,-
+2,1,test_170_b_1.nii.gz,Which bronchial feature is noted in the image?,Thickening of bronchial wall,Open,-,-,-,-,-
+2,1,test_170_b_2.nii.gz,What is observed in the bronchial wall?,Thickening,Open,-,-,-,-,-
+2,1,test_171_a_1.nii.gz,Where is the calcified nodule located?,Lower lobe.,Open,-,-,-,-,-
+2,1,test_172_a_1.nii.gz,Which type of tissue density is noted?,Soft tissue density,Open,-,-,-,-,-
+2,1,test_174_a_1.nii.gz,What thickening is noted in the lungs?,Peribronchial thickening,Open,-,-,-,-,-
+2,1,test_174_a_2.nii.gz,Which thickening is prominent in the center of both lungs?,Peribronchial thickening,Open,-,-,-,-,-
+2,1,test_177_a_2.nii.gz,Where are the consolidations more prominently observed?,Lower lobes,Open,-,-,-,-,-
+2,1,test_178_a_1.nii.gz,What changes are noted in the thoracic aorta?,Calcific atherosclerotic changes.,Open,-,-,-,-,-
+2,1,test_179_a_2.nii.gz,Which thickening is observed in the lung parenchyma?,Septal thickening,Open,-,-,-,-,-
+2,1,test_17_a_1.nii.gz,Which feature describes the nodule in the right lung?,Irregular contours.,Open,-,-,-,-,-
+2,1,test_180_b_2.nii.gz,What type of lung density is observed?,Patchy ground-glass,Open,-,-,-,-,-
+2,1,test_182_a_1.nii.gz,Where is the nodule with a slightly irregular border located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_182_a_2.nii.gz,Where is the nodule with a slightly irregular border located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_184_a_2.nii.gz,What pattern is observed in both lungs?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_185_a_1.nii.gz,What pattern is observed in both lungs?,Mosaic attenuation pattern,Open,-,-,-,-,-
+2,1,test_187_a_1.nii.gz,Where are the air bronchograms observed?,In the consolidative area,Open,-,-,-,-,-
+2,1,test_189_a_2.nii.gz,What is the characteristic of the nodule?,Subpleural location,Open,-,-,-,-,-
+2,1,test_191_a_2.nii.gz,Where is the mild degenerative change noted?,Anterior end plates.,Open,-,-,-,-,-
+2,1,test_193_a_1.nii.gz,Where is the largest nodule located?,Right lung upper lobe,Open,-,-,-,-,-
+2,1,test_193_a_2.nii.gz,Where is the calcific nodule observed?,Right lung middle lobe,Open,-,-,-,-,-
+2,1,test_194_a_2.nii.gz,Where is the parenchymal fibrosis observed?,Left lung apex.,Open,-,-,-,-,-
+2,1,test_196_a_1.nii.gz,Which characteristic is noted around the pulmonary nodule?,Coarse calcifications,Open,-,-,-,-,-
+2,1,test_196_a_2.nii.gz,What type of calcifications are present?,Coarse calcifications,Open,-,-,-,-,-
+2,1,test_200_a_1.nii.gz,Where are the ground glass densities primarily located?,Subpleural regions,Open,-,-,-,-,-
+2,1,test_201_a_1.nii.gz,What characteristic does the nodule in the lower lobe have?,Pure calcified,Open,-,-,-,-,-
+2,1,test_202_a_1.nii.gz,Which appearance is noted in the left lung lower lobe?,Ground glass appearance.,Open,-,-,-,-,-
+2,1,test_202_a_2.nii.gz,Which appearance is noted in the left lung lower lobe?,Ground glass appearance.,Open,-,-,-,-,-
+2,1,test_203_a_2.nii.gz,Where is the largest nodule found?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_206_a_2.nii.gz,Which pattern is noted in both lungs?,Mosaic attenuation pattern,Open,-,-,-,-,-
+2,1,test_207_a_2.nii.gz,Where are the nodular consolidations primarily located?,Upper lobes,Open,-,-,-,-,-
+2,1,test_208_a_1.nii.gz,What is the condition of the heart contour?,Normal contour.,Open,-,-,-,-,-
+2,1,test_208_a_2.nii.gz,Which condition is noted regarding the heart?,Normal contour.,Open,-,-,-,-,-
+2,1,test_208_a_4.nii.gz,What is the condition of the heart contour?,Normal contour.,Open,-,-,-,-,-
+2,1,test_208_a_5.nii.gz,What is observed regarding the heart?,"Normal contour, size",Open,-,-,-,-,-
+2,1,test_20_a_1.nii.gz,Where are the ground glass areas located?,Subpleural regions,Open,-,-,-,-,-
+2,1,test_213_a_2.nii.gz,Which changes are observed in the middle lobe of the right lung?,Band-like atelectatic changes,Open,-,-,-,-,-
+2,1,test_215_b_1.nii.gz,What feature is observed within the cavitary lesion?,Air-fluid leveling.,Open,-,-,-,-,-
+2,1,test_215_c_1.nii.gz,Which type of lesion shows air-fluid leveling?,Cavitary lesion.,Open,-,-,-,-,-
+2,1,test_215_c_2.nii.gz,What characteristic is noted in the cavitary lesion?,Air-fluid level.,Open,-,-,-,-,-
+2,1,test_218_a_1.nii.gz,Which density pattern is noted in the left lung?,Ground glass density.,Open,-,-,-,-,-
+2,1,test_218_a_2.nii.gz,Where is the ground glass density observed?,Left lung upper lobe,Open,-,-,-,-,-
+2,1,test_21_a_2.nii.gz,Where is the largest nodule found?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_221_a_1.nii.gz,Where are density increases noted?,Lower lobe posterobasal segments,Open,-,-,-,-,-
+2,1,test_228_a_1.nii.gz,Where is the largest parenchymal nodule found?,Right lung middle lobe.,Open,-,-,-,-,-
+2,1,test_229_a_1.nii.gz,Where is the nodular density increase located?,Right lower lobe,Open,-,-,-,-,-
+2,1,test_22_a_1.nii.gz,Which lung shows increased density?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,1,test_22_a_2.nii.gz,What type of effusion is present?,Minimal pleural effusion.,Open,-,-,-,-,-
+2,1,test_233_a_1.nii.gz,What contour feature does the pleural-based solid lesion exhibit?,Spiculated contours.,Open,-,-,-,-,-
+2,1,test_236_a_1.nii.gz,Where are the millimetric nodules observed?,Both lungs.,Open,-,-,-,-,-
+2,1,test_238_a_1.nii.gz,Which areas show ground glass opacities?,Lower lobes,Open,-,-,-,-,-
+2,1,test_239_a_2.nii.gz,What shape is the lesion in the right breast?,Oval-shaped,Open,-,-,-,-,-
+2,1,test_246_a_2.nii.gz,Where are the patchy ground glass densities more pronounced?,Right upper lobe,Open,-,-,-,-,-
+2,1,test_247_a_1.nii.gz,Which area shows a focal ground glass appearance?,Right lung middle lobe.,Open,-,-,-,-,-
+2,1,test_248_a_1.nii.gz,What type of opacity is observed in the right lung?,Ground-glass opacity,Open,-,-,-,-,-
+2,1,test_249_a_1.nii.gz,Where are the acinar opacities located?,Right lower lobe.,Open,-,-,-,-,-
+2,1,test_250_d_2.nii.gz,Which accompanying feature is observed with the consolidation?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_255_a_1.nii.gz,What is the condition of the pleural space?,No effusion.,Open,-,-,-,-,-
+2,1,test_258_a_1.nii.gz,Where is no pleural effusion detected?,Both hemithorax,Open,-,-,-,-,-
+2,1,test_25_a_2.nii.gz,What characteristic do the nodular lesions have?,Peripheral subpleural,Open,-,-,-,-,-
+2,1,test_263_b_2.nii.gz,What pattern is observed in the lung parenchyma?,Crazy paving pattern,Open,-,-,-,-,-
+2,1,test_268_a_1.nii.gz,Where is the ground glass area located?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_268_a_2.nii.gz,What appearance is noted in the left lung?,Ground glass area,Open,-,-,-,-,-
+2,1,test_269_a_1.nii.gz,Where is the area of increased density located?,Medial segment of right lung.,Open,-,-,-,-,-
+2,1,test_26_a_2.nii.gz,Where is the mild hernia observed?,Hiatal region.,Open,-,-,-,-,-
+2,1,test_270_a_2.nii.gz,What type of thickening is observed in the right lung?,Peribronchial thickening.,Open,-,-,-,-,-
+2,1,test_271_a_1.nii.gz,What type of densities are observed?,Ground glass,Open,-,-,-,-,-
+2,1,test_274_a_1.nii.gz,Where are segmentary atelectasis areas located?,Upper lobe posterior segment.,Open,-,-,-,-,-
+2,1,test_275_a_1.nii.gz,What type of effusion is observed around the heart?,Pericardial effusion.,Open,-,-,-,-,-
+2,1,test_276_a_1.nii.gz,Which pattern is observed in the left lung parenchyma?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_276_a_2.nii.gz,Which pattern is seen in the left lung?,Crazy paving,Open,-,-,-,-,-
+2,1,test_277_b_1.nii.gz,Where is the newly emerged nodular area located?,Apical right lung,Open,-,-,-,-,-
+2,1,test_277_c_1.nii.gz,What characteristic does the nodular lesion have?,Irregular border.,Open,-,-,-,-,-
+2,1,test_277_d_1.nii.gz,Which characteristic describes the nodular lesion?,Irregular border.,Open,-,-,-,-,-
+2,1,test_277_d_2.nii.gz,Which characteristic is noted about the nodular lesion?,Irregular border.,Open,-,-,-,-,-
+2,1,test_277_e_2.nii.gz,What characteristic does the lesion in the upper pole of the left kidney have?,Hyperdense appearance.,Open,-,-,-,-,-
+2,1,test_277_f_1.nii.gz,What characteristic is noted around the nodules?,Ground glass density,Open,-,-,-,-,-
+2,1,test_278_a_1.nii.gz,What type of pleural condition is observed?,"Effusion, empyema",Open,-,-,-,-,-
+2,1,test_278_b_1.nii.gz,What sign is included in the consolidation area?,Air bronchogram signs.,Open,-,-,-,-,-
+2,1,test_278_b_2.nii.gz,What sign is observed in the consolidation area?,Air bronchogram signs.,Open,-,-,-,-,-
+2,1,test_279_a_2.nii.gz,What type of density increase is noted in the lungs?,Ground glass density.,Open,-,-,-,-,-
+2,1,test_27_a_1.nii.gz,What type of effusion is present in the pericardial area?,Pericardial effusion.,Open,-,-,-,-,-
+2,1,test_280_a_1.nii.gz,Where are the nodules observed?,In both lungs,Open,-,-,-,-,-
+2,1,test_281_a_2.nii.gz,Which segment shows density increases?,Right upper lobe,Open,-,-,-,-,-
+2,1,test_282_a_1.nii.gz,Where are the nonspecific parenchymal nodules located?,Both lungs,Open,-,-,-,-,-
+2,1,test_290_a_2.nii.gz,What characteristic is observed in the lung parenchyma?,Ground-glass density.,Open,-,-,-,-,-
+2,1,test_294_a_2.nii.gz,What type of densities are present?,Ground-glass densities,Open,-,-,-,-,-
+2,1,test_295_a_1.nii.gz,What pattern is observed in both lungs?,Mosaic attenuation pattern.,Open,-,-,-,-,-
+2,1,test_295_a_2.nii.gz,Where is the nodule with irregular border located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_298_a_1.nii.gz,Which type of density is noted in the lung infiltrations?,Ground glass.,Open,-,-,-,-,-
+2,1,test_29_a_1.nii.gz,Which feature is increased in the bronchial structures?,Peribronchial thickness.,Open,-,-,-,-,-
+2,1,test_301_a_1.nii.gz,What appearance is noted in the lungs?,Ground-glass appearance.,Open,-,-,-,-,-
+2,1,test_301_a_2.nii.gz,Which appearance is noted in both lungs?,Ground-glass appearance.,Open,-,-,-,-,-
+2,1,test_302_a_2.nii.gz,Where are the patchy densities located?,Lower lobe,Open,-,-,-,-,-
+2,1,test_304_a_2.nii.gz,Which sign is noted around the ground glass densities?,Halo sign,Open,-,-,-,-,-
+2,1,test_306_a_1.nii.gz,Which feature describes the mass in the left lung?,Irregular borders,Open,-,-,-,-,-
+2,1,test_306_a_2.nii.gz,Which feature characterizes the mass in the left lung?,Irregular borders,Open,-,-,-,-,-
+2,1,test_308_a_2.nii.gz,Which segment shows increased density consistent with atelectasis?,Posterobasal segment,Open,-,-,-,-,-
+2,1,test_313_a_1.nii.gz,Where are the fibrotic changes located?,Superior lingular segment,Open,-,-,-,-,-
+2,1,test_313_a_2.nii.gz,Where are the fibrotic changes located?,Superior lingular segment,Open,-,-,-,-,-
+2,1,test_317_a_2.nii.gz,Where are ground glass densities observed in the left lung?,Lingular segment.,Open,-,-,-,-,-
+2,1,test_318_a_2.nii.gz,Where are the ground-glass densities more prominent?,Lower lobes,Open,-,-,-,-,-
+2,1,test_31_a_1.nii.gz,What is observed in the lower lobe of the left lung?,Loculated pleural effusion,Open,-,-,-,-,-
+2,1,test_320_a_1.nii.gz,Where are the nodules located?,Both lungs,Open,-,-,-,-,-
+2,1,test_323_a_2.nii.gz,Where are the diffuse ground glass densities observed?,Both lungs.,Open,-,-,-,-,-
+2,1,test_326_a_1.nii.gz,Which feature is observed in the posterior segment of the right lung?,Consolidation areas.,Open,-,-,-,-,-
+2,1,test_32_a_1.nii.gz,What is the condition of the lung parenchyma?,Normal aeration.,Open,-,-,-,-,-
+2,1,test_330_a_2.nii.gz,Where is the bronchiectasis most prominent?,Right lung middle lobe,Open,-,-,-,-,-
+2,1,test_331_b_1.nii.gz,What characteristic is noted in the parenchymal nodules?,Irregular borders,Open,-,-,-,-,-
+2,1,test_333_a_2.nii.gz,Where is the millimetric nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_333_b_2.nii.gz,What characteristic is noted in the upper end plate of the L1 vertebral corpus?,Mild height loss,Open,-,-,-,-,-
+2,1,test_334_a_1.nii.gz,Where is wall thickening observed?,None detected.,Open,-,-,-,-,-
+2,1,test_335_a_2.nii.gz,Where are the emphysematous changes located?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_338_a_1.nii.gz,Where are the areas of atelectasis observed?,Right lung middle lobe,Open,-,-,-,-,-
+2,1,test_338_a_2.nii.gz,Where are the areas of atelectasis located?,Right lung middle lobe,Open,-,-,-,-,-
+2,1,test_33_a_2.nii.gz,Which pattern is noted in the lung parenchyma?,Ground glass densities.,Open,-,-,-,-,-
+2,1,test_340_a_3.nii.gz,What is the condition of the thoracic aorta?,No dilatation.,Open,-,-,-,-,-
+2,1,test_341_a_2.nii.gz,Where are the pleuroparenchymal changes noted?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_342_a_2.nii.gz,What density is observed in the right upper lobe?,Ground glass density,Open,-,-,-,-,-
+2,1,test_343_a_2.nii.gz,What is observed in the thoracic aorta?,No dilatation,Open,-,-,-,-,-
+2,1,test_345_a_1.nii.gz,Which characteristic is noted in the lower lobe of the left lung?,Air bronchogram.,Open,-,-,-,-,-
+2,1,test_345_a_2.nii.gz,Where is the consolidation observed?,Central lower lobe.,Open,-,-,-,-,-
+2,1,test_346_a_2.nii.gz,Where is mosaic attenuation more prominent?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_347_a_1.nii.gz,Where are the fibroatelectatic changes observed?,Anterior basal segment.,Open,-,-,-,-,-
+2,1,test_348_a_1.nii.gz,Where is the nodule located?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_348_a_2.nii.gz,Where is the nodule located?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_351_a_1.nii.gz,What type of nodules are observed in the right lung?,Calcific millimetric nodules.,Open,-,-,-,-,-
+2,1,test_351_b_1.nii.gz,Where are the patchy densities more prominent?,Right lower lobe.,Open,-,-,-,-,-
+2,1,test_352_a_1.nii.gz,Where is the hypodense lesion located?,Right adrenal gland.,Open,-,-,-,-,-
+2,1,test_354_a_2.nii.gz,Where are the ground-glass densities more prominent?,Left upper lobe,Open,-,-,-,-,-
+2,1,test_355_a_1.nii.gz,Where are the cortical cysts located?,Both kidneys,Open,-,-,-,-,-
+2,1,test_355_b_1.nii.gz,Where are pleuroparenchymal sequelae bands more prominent?,Lower lobes,Open,-,-,-,-,-
+2,1,test_356_a_2.nii.gz,Where is the density increase consistent with consolidation?,Lower lobes of both lungs,Open,-,-,-,-,-
+2,1,test_357_b_1.nii.gz,Where are the nodules located?,Upper lobe,Open,-,-,-,-,-
+2,1,test_357_b_2.nii.gz,Where are the nodules located?,Upper lobe,Open,-,-,-,-,-
+2,1,test_357_c_1.nii.gz,Where are the nodules located?,Right lung upper lobe,Open,-,-,-,-,-
+2,1,test_357_e_1.nii.gz,Where are the consolidation areas located?,Peripheral subpleural,Open,-,-,-,-,-
+2,1,test_357_e_2.nii.gz,Where are the consolidation areas located?,Peripheral subpleural,Open,-,-,-,-,-
+2,1,test_359_a_1.nii.gz,Which feature is noted in the left kidney?,Hyperdense stone.,Open,-,-,-,-,-
+2,1,test_359_a_2.nii.gz,Where is the area of increased density located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_361_a_2.nii.gz,Which area shows patchy involvement?,Peripheral-subpleural region.,Open,-,-,-,-,-
+2,1,test_362_b_2.nii.gz,What thickening is observed in the lungs?,Interlobular septal thickening,Open,-,-,-,-,-
+2,1,test_363_a_1.nii.gz,Where is the nodule described?,Subpleural region,Open,-,-,-,-,-
+2,1,test_364_a_1.nii.gz,Which density characteristic is noted in the lung lesions?,Ground-glass density,Open,-,-,-,-,-
+2,1,test_364_a_2.nii.gz,Which density increases are noted in both lungs?,Ground-glass density,Open,-,-,-,-,-
+2,1,test_365_a_1.nii.gz,Which density changes are noted in the lower zones of both lungs?,Ground-glass densities.,Open,-,-,-,-,-
+2,1,test_365_a_3.nii.gz,Which density changes are noted in the lower zones of both lungs?,Ground-glass densities,Open,-,-,-,-,-
+2,1,test_370_a_2.nii.gz,What pattern is observed in the lung consolidations?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_371_a_1.nii.gz,Where is the nodule in the right lung?,Anterior subpleural area.,Open,-,-,-,-,-
+2,1,test_373_a_1.nii.gz,Where are the focal ground-glass densities located?,Right middle lobe.,Open,-,-,-,-,-
+2,1,test_373_a_2.nii.gz,Where are the ground-glass densities located?,Right middle lobe.,Open,-,-,-,-,-
+2,1,test_376_a_1.nii.gz,What characteristic is noted in the lung parenchyma?,Normal aeration.,Open,-,-,-,-,-
+2,1,test_377_a_1.nii.gz,Which segment contains the solitary subpleural nodule?,Laterobasal segment.,Open,-,-,-,-,-
+2,1,test_378_a_1.nii.gz,Which pattern is formed by the lung opacities?,Crazy paving,Open,-,-,-,-,-
+2,1,test_378_a_2.nii.gz,Where are the interlobular septal thickenings observed?,Peripheral lung areas.,Open,-,-,-,-,-
+2,1,test_380_a_1.nii.gz,What is the condition of the thoracic aorta?,No dilatation,Open,-,-,-,-,-
+2,1,test_382_a_1.nii.gz,Where is the consolidation area located?,Posterobasal segment.,Open,-,-,-,-,-
+2,1,test_382_b_2.nii.gz,Which area shows consolidation with ground glass opacities?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_382_c_1.nii.gz,What change is noted in the size of the largest lesion?,Decreased size.,Open,-,-,-,-,-
+2,1,test_386_a_1.nii.gz,Where are the circular densities located?,Lung lower lobes,Open,-,-,-,-,-
+2,1,test_386_a_2.nii.gz,Where are the fine circular densities located?,Both lower lobes.,Open,-,-,-,-,-
+2,1,test_387_b_1.nii.gz,What thickening is noted in the lungs?,Interlobular septal,Open,-,-,-,-,-
+2,1,test_389_a_2.nii.gz,What is observed in the lung parenchyma?,Areas of consolidation,Open,-,-,-,-,-
+2,1,test_389_b_1.nii.gz,Where is consolidation observed?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_38_a_2.nii.gz,Which pattern is noted in both lungs?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_391_a_2.nii.gz,What characteristic is noted in the pleura of the right hemithorax?,Coarse calcific thickening.,Open,-,-,-,-,-
+2,1,test_397_a_1.nii.gz,Which pattern is noted in both lungs?,Mosaic attenuation pattern,Open,-,-,-,-,-
+2,1,test_399_a_1.nii.gz,What is observed in the medial crus of the left adrenal gland?,Nodular thickening.,Open,-,-,-,-,-
+2,1,test_401_a_1.nii.gz,Which structures show mild atelectatic changes?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_402_a_1.nii.gz,Where is the nodular formation located?,Left lung apex.,Open,-,-,-,-,-
+2,1,test_404_a_2.nii.gz,Which segment shows density increases?,Left lung inferior lingular.,Open,-,-,-,-,-
+2,1,test_405_a_1.nii.gz,What is the condition of the pleura?,No thickening,Open,-,-,-,-,-
+2,1,test_40_a_1.nii.gz,Where are the subpleural consolidation areas located?,"Right lower lobe, left upper lobe.",Open,-,-,-,-,-
+2,1,test_40_a_2.nii.gz,What type of densities are present in the lungs?,Ground-glass densities,Open,-,-,-,-,-
+2,1,test_410_a_2.nii.gz,What changes are observed in the lung parenchyma?,Ground-glass opacities,Open,-,-,-,-,-
+2,1,test_410_c_2.nii.gz,What thickening is noted in the lungs?,Interlobular septa,Open,-,-,-,-,-
+2,1,test_413_a_1.nii.gz,Which feature is observed in the bronchial walls?,Thickening,Open,-,-,-,-,-
+2,1,test_413_a_2.nii.gz,Where are the irregularly limited infiltrations seen?,Upper lobe anterior,Open,-,-,-,-,-
+2,1,test_414_b_1.nii.gz,What signs are present in the consolidated areas?,Air bronchogram signs,Open,-,-,-,-,-
+2,1,test_414_b_2.nii.gz,What signs are observed in the consolidated areas?,Air bronchogram signs.,Open,-,-,-,-,-
+2,1,test_416_a_1.nii.gz,Which feature is present in the lung consolidation?,Air bronchogram.,Open,-,-,-,-,-
+2,1,test_417_a_1.nii.gz,Which structure shows a slight diameter increase?,Thoracic aorta.,Open,-,-,-,-,-
+2,1,test_417_a_5.nii.gz,Where is the punctate calcification focus located?,Left adrenal gland.,Open,-,-,-,-,-
+2,1,test_418_a_1.nii.gz,Where is the subsegmental atelectasis observed?,Right lung middle lobe,Open,-,-,-,-,-
+2,1,test_418_a_2.nii.gz,What type of density is noted in the peribronchial area?,Ground glass density,Open,-,-,-,-,-
+2,1,test_425_a_2.nii.gz,What type of densities are present in both lungs?,Ground-glass densities,Open,-,-,-,-,-
+2,1,test_428_a_2.nii.gz,Where is the linear increase in density noted?,Right lung apex,Open,-,-,-,-,-
+2,1,test_429_b_2.nii.gz,Where is the crazy paving pattern observed?,Lung parenchyma,Open,-,-,-,-,-
+2,1,test_432_a_1.nii.gz,Which type of infiltrates are noted?,Ground-glass infiltrates,Open,-,-,-,-,-
+2,1,test_432_a_2.nii.gz,Which feature is noted in the lung parenchyma?,Ground-glass densities.,Open,-,-,-,-,-
+2,1,test_433_a_1.nii.gz,Where are the thickenings observed?,Bilateral peribronchial,Open,-,-,-,-,-
+2,1,test_433_a_2.nii.gz,Which thickenings are noted?,Peribronchial thickenings,Open,-,-,-,-,-
+2,1,test_435_a_1.nii.gz,Where are the density increases located in the lungs?,Peripheral subpleural regions.,Open,-,-,-,-,-
+2,1,test_435_a_2.nii.gz,Where are the density increases located in the lungs?,Peripheral subpleural.,Open,-,-,-,-,-
+2,1,test_437_a_1.nii.gz,Where are cicatricial bronchiectasis changes noted?,Right middle lobe,Open,-,-,-,-,-
+2,1,test_439_a_1.nii.gz,What appearance is noted in the left lung segment?,Consolidation with air bronchogram.,Open,-,-,-,-,-
+2,1,test_439_a_2.nii.gz,Which appearance is noted in the subpleural area?,Crazy paving appearance,Open,-,-,-,-,-
+2,1,test_444_a_2.nii.gz,Which lung condition is observed?,Normal aeration,Open,-,-,-,-,-
+2,1,test_447_a_2.nii.gz,Where are the nodules located?,Both lungs,Open,-,-,-,-,-
+2,1,test_448_a_2.nii.gz,What type of atelectasis is observed?,Linear atelectasis.,Open,-,-,-,-,-
+2,1,test_44_a_1.nii.gz,Which abnormality is noted in the pulmonary artery?,Increased diameter.,Open,-,-,-,-,-
+2,1,test_450_a_1.nii.gz,Where is the crazy paving appearance noted?,Peripheral-subpleural regions.,Open,-,-,-,-,-
+2,1,test_451_a_1.nii.gz,Where is subsegmental atelectasis observed?,Bilateral lower lobes,Open,-,-,-,-,-
+2,1,test_453_a_2.nii.gz,Where is the increased wall thickness noted?,Peribronchial region,Open,-,-,-,-,-
+2,1,test_454_c_1.nii.gz,Where is the hypodense lesion found?,Left kidney,Open,-,-,-,-,-
+2,1,test_454_c_2.nii.gz,Which area shows subsegmental atelectasis?,"Right lung, middle lobe",Open,-,-,-,-,-
+2,1,test_455_a_2.nii.gz,Where are the nodules located?,Both lungs,Open,-,-,-,-,-
+2,1,test_457_c_2.nii.gz,Where is volume loss observed?,Right lower lobe,Open,-,-,-,-,-
+2,1,test_458_a_1.nii.gz,Where are the ground-glass opacities predominantly found?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_458_a_2.nii.gz,Where are the opacities primarily located?,Lower lobes,Open,-,-,-,-,-
+2,1,test_459_a_1.nii.gz,What characteristic is noted in the right pleural effusion?,Loculated collection,Open,-,-,-,-,-
+2,1,test_459_a_2.nii.gz,Where is the loculated effusion observed?,Right pleural space.,Open,-,-,-,-,-
+2,1,test_45_a_2.nii.gz,Where are the mild changes observed?,Right middle lobe.,Open,-,-,-,-,-
+2,1,test_461_a_1.nii.gz,Where is the ground glass opacity observed?,Lung parenchyma.,Open,-,-,-,-,-
+2,1,test_461_a_2.nii.gz,Where are the ground glass opacities predominantly observed?,Lung parenchyma.,Open,-,-,-,-,-
+2,1,test_462_a_1.nii.gz,Where is the minimal density increase observed?,Left lung inferior lingular segment.,Open,-,-,-,-,-
+2,1,test_463_a_2.nii.gz,Where is linear atelectasis observed in the left lung?,"Upper lobe, lingular segment",Open,-,-,-,-,-
+2,1,test_464_a_1.nii.gz,Where are the reticular density increases observed?,Apex of both lungs,Open,-,-,-,-,-
+2,1,test_465_a_2.nii.gz,Which lung condition is observed?,Normal aeration.,Open,-,-,-,-,-
+2,1,test_466_a_2.nii.gz,Where are the ground glass areas primarily located?,Peripheral regions.,Open,-,-,-,-,-
+2,1,test_468_a_1.nii.gz,Where is the ground-glass-like density increase noted?,Subpleural area.,Open,-,-,-,-,-
+2,1,test_471_a_1.nii.gz,Where is the irregular nodule observed?,Right lung upper lobe,Open,-,-,-,-,-
+2,1,test_471_a_2.nii.gz,Where is the irregularly circumscribed nodule located?,Right lung upper lobe,Open,-,-,-,-,-
+2,1,test_473_a_1.nii.gz,What is the condition of the thoracic aorta?,No dilatation,Open,-,-,-,-,-
+2,1,test_473_a_2.nii.gz,Which feature of the thoracic aorta is observed?,No dilatation.,Open,-,-,-,-,-
+2,1,test_475_c_1.nii.gz,Where are the ground-glass areas primarily located?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_475_c_2.nii.gz,Where are the ground-glass areas more prominent?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_475_e_2.nii.gz,Where are the subsegmental atelectatic changes located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,1,test_476_a_2.nii.gz,What appearance is noted in the lower lobe?,Ground-glass appearance,Open,-,-,-,-,-
+2,1,test_478_a_1.nii.gz,Which additional features are present alongside the ground glass opacity?,Air bronchograms,Open,-,-,-,-,-
+2,1,test_478_a_2.nii.gz,What additional feature accompanies the opacity?,Air bronchograms,Open,-,-,-,-,-
+2,1,test_47_a_1.nii.gz,What type of thickening is noted in the lungs?,Peribronchial thickening.,Open,-,-,-,-,-
+2,1,test_481_a_2.nii.gz,Which segments show interlobular septal thickenings?,Superior and basal segments,Open,-,-,-,-,-
+2,1,test_482_a_1.nii.gz,Where is the nodule located in the right lung?,Anterior segment.,Open,-,-,-,-,-
+2,1,test_482_a_2.nii.gz,Where is the nodule located in the right lung?,Upper lobe,Open,-,-,-,-,-
+2,1,test_482_c_1.nii.gz,Which changes are noted in both lungs?,Interlobular septa thickening,Open,-,-,-,-,-
+2,1,test_482_d_2.nii.gz,Which feature is noted in both lungs?,Ground-glass density,Open,-,-,-,-,-
+2,1,test_482_e_1.nii.gz,Which feature is observed in the lower lobe of the right lung?,Bronchial wall thickening.,Open,-,-,-,-,-
+2,1,test_482_e_2.nii.gz,Which abnormality is observed in the lower lobe of the right lung?,Bronchial wall thickening,Open,-,-,-,-,-
+2,1,test_482_f_1.nii.gz,What feature is present within the consolidation areas?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_482_f_2.nii.gz,Which feature is visible within the consolidation areas?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_482_g_1.nii.gz,Which area shows newly developing infiltration?,Left lower lobe.,Open,-,-,-,-,-
+2,1,test_482_h_1.nii.gz,Where is the newly emerged pleural effusion observed?,Left pleural space.,Open,-,-,-,-,-
+2,1,test_482_h_2.nii.gz,Where is the newly emerged pleural effusion located?,Left pleural space,Open,-,-,-,-,-
+2,1,test_484_a_2.nii.gz,Where are the sequela calcific nodules located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_486_a_2.nii.gz,Where is the cyst located?,Lower pole of left kidney.,Open,-,-,-,-,-
+2,1,test_487_b_1.nii.gz,What feature is noted in the lung parenchyma?,Linear atelectatic changes,Open,-,-,-,-,-
+2,1,test_489_a_1.nii.gz,Where is the ground glass opacity located?,Right upper lobe,Open,-,-,-,-,-
+2,1,test_48_a_2.nii.gz,Which feature surrounds the nodule?,Peripheral rim calcification,Open,-,-,-,-,-
+2,1,test_490_a_1.nii.gz,Which feature is noted around the consolidated areas?,Septal thickenings.,Open,-,-,-,-,-
+2,1,test_492_a_2.nii.gz,Where are the areas of linear atelectasis observed?,Right lung middle lobe,Open,-,-,-,-,-
+2,1,test_492_b_1.nii.gz,Which lung has the largest nodule?,Left lung,Open,-,-,-,-,-
+2,1,test_492_b_2.nii.gz,Where are the largest nodules located?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_493_b_2.nii.gz,Which feature is observed in both lungs?,Interlobular septa thickening,Open,-,-,-,-,-
+2,1,test_493_c_2.nii.gz,What density is observed in the lower lobe?,Ground glass,Open,-,-,-,-,-
+2,1,test_495_a_1.nii.gz,Where are the patchy ground-glass density areas observed?,Both lungs.,Open,-,-,-,-,-
+2,1,test_495_a_2.nii.gz,What type of density increase is observed in the lung?,Ground-glass density,Open,-,-,-,-,-
+2,1,test_497_a_1.nii.gz,Which type of infiltrations are present in both lungs?,Ground glass infiltrations.,Open,-,-,-,-,-
+2,1,test_497_a_2.nii.gz,Where is minimal thickening observed?,Segmental bronchial walls,Open,-,-,-,-,-
+2,1,test_4_b_2.nii.gz,What is observed in the bronchial wall?,Significant thickening,Open,-,-,-,-,-
+2,1,test_500_a_2.nii.gz,What is observed in the lower right paratracheal region?,Enlarged lymphadenopathy.,Open,-,-,-,-,-
+2,1,test_500_c_1.nii.gz,What is noted in the right lung middle lobe?,Subpleural nodular lesion,Open,-,-,-,-,-
+2,1,test_500_d_1.nii.gz,What changes are noted in the lower lobes?,Prominent interlobular septa.,Open,-,-,-,-,-
+2,1,test_500_d_2.nii.gz,Which density is observed in the right hilar region?,Soft tissue density.,Open,-,-,-,-,-
+2,1,test_502_a_1.nii.gz,Where are the tubular bronchiectatic changes observed?,Lower lobes,Open,-,-,-,-,-
+2,1,test_502_a_2.nii.gz,Where are the nonspecific parenchymal nodules observed?,Upper lobe of right lung.,Open,-,-,-,-,-
+2,1,test_507_a_1.nii.gz,What thickening is noted in the lung parenchyma?,Interlobular septal thickening.,Open,-,-,-,-,-
+2,1,test_507_a_2.nii.gz,Which abnormality is observed in the lower lobe basal segments?,Focal consolidation.,Open,-,-,-,-,-
+2,1,test_509_b_1.nii.gz,What type of aortic change is noted?,Ectatic aorta,Open,-,-,-,-,-
+2,1,test_50_a_1.nii.gz,What is observed in the thoracic esophagus?,Normal wall thickness.,Open,-,-,-,-,-
+2,1,test_512_a_2.nii.gz,Where is the thickening observed?,Interlobular septa,Open,-,-,-,-,-
+2,1,test_513_a_1.nii.gz,Where are the round-shaped consolidations primarily located?,Peripheral areas of both lungs.,Open,-,-,-,-,-
+2,1,test_514_a_1.nii.gz,Which area shows the ground-glass density increases?,Peripheral subpleural area.,Open,-,-,-,-,-
+2,1,test_517_a_1.nii.gz,Where are the nodules observed?,Both lungs.,Open,-,-,-,-,-
+2,1,test_517_a_2.nii.gz,What characteristic do the nodules have?,Pure calcified.,Open,-,-,-,-,-
+2,1,test_520_a_3.nii.gz,Where are the ground-glass nodules located?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_524_a_1.nii.gz,What type of densities are present?,Ground glass,Open,-,-,-,-,-
+2,1,test_524_a_2.nii.gz,Where are the ground glass densities located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_526_a_1.nii.gz,Which structural change is seen in the bronchi?,Bronchial dilatations.,Open,-,-,-,-,-
+2,1,test_526_a_2.nii.gz,What characteristic is noted in the right lung?,Ground-glass density.,Open,-,-,-,-,-
+2,1,test_527_a_2.nii.gz,Which segment shows atelectatic changes?,Posterior basal segments,Open,-,-,-,-,-
+2,1,test_52_a_1.nii.gz,What type of atelectasis is observed?,Linear atelectasis,Open,-,-,-,-,-
+2,1,test_531_a_1.nii.gz,Where is the nodule located?,Lingular segment,Open,-,-,-,-,-
+2,1,test_531_b_1.nii.gz,Which feature is noted in the thoracic aorta?,No dilatation.,Open,-,-,-,-,-
+2,1,test_531_b_2.nii.gz,Which structure shows no significant wall thickening?,Thoracic esophagus.,Open,-,-,-,-,-
+2,1,test_532_a_1.nii.gz,What pattern is seen in the lung parenchyma?,Crazy paving,Open,-,-,-,-,-
+2,1,test_534_b_1.nii.gz,Where is the ground-glass appearance noted?,Both lower lobes.,Open,-,-,-,-,-
+2,1,test_534_b_2.nii.gz,What appearance do the lesions have?,Ground-glass,Open,-,-,-,-,-
+2,1,test_536_a_1.nii.gz,What appearance do the lung densities have?,Ground-glass densities,Open,-,-,-,-,-
+2,1,test_536_a_2.nii.gz,Which shape is the finding in the right kidney?,Oval-shaped.,Open,-,-,-,-,-
+2,1,test_537_a_2.nii.gz,Which type of opacity is noted in the lungs?,Ground-glass opacity,Open,-,-,-,-,-
+2,1,test_538_a_2.nii.gz,What is observed adjacent to the mass?,Interlobular septal thickening.,Open,-,-,-,-,-
+2,1,test_538_b_2.nii.gz,Which lymph node shows a decrease in size?,Left lower paratracheal lymph node.,Open,-,-,-,-,-
+2,1,test_541_a_1.nii.gz,What is observed in the medial segment of the right lung middle lobe?,Linear atelectasis,Open,-,-,-,-,-
+2,1,test_541_a_2.nii.gz,Where is the area of increased density located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,1,test_543_a_2.nii.gz,Where is the hypodense lesion located?,Diaphragmatic dome,Open,-,-,-,-,-
+2,1,test_546_a_1.nii.gz,What is the condition of the heart contour?,Normal contour.,Open,-,-,-,-,-
+2,1,test_548_a_2.nii.gz,What characteristic is noted in the right lung upper lobe?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_549_a_1.nii.gz,Where are the parenchymal calcific nodules located?,Right lower lobe.,Open,-,-,-,-,-
+2,1,test_551_a_1.nii.gz,Where are the pleuroparenchymal sequelae changes located?,Bilateral apex,Open,-,-,-,-,-
+2,1,test_552_a_1.nii.gz,Where are the calcified nodules located?,Right lung apical segment,Open,-,-,-,-,-
+2,1,test_559_a_1.nii.gz,What pattern is observed in the lung consolidations?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_563_a_1.nii.gz,Where are the nodular densities with irregular borders located?,Peribronchovascular area.,Open,-,-,-,-,-
+2,1,test_563_a_2.nii.gz,Where are the nodular densities with irregular borders observed?,Peribronchovascular area,Open,-,-,-,-,-
+2,1,test_564_a_1.nii.gz,What characteristic is noted in the bronchial walls?,Increased thickness.,Open,-,-,-,-,-
+2,1,test_564_b_2.nii.gz,What thickening is observed in the lungs?,Peribronchial thickening,Open,-,-,-,-,-
+2,1,test_566_a_1.nii.gz,Which areas show ground glass opacities?,Right upper lobe,Open,-,-,-,-,-
+2,1,test_566_b_1.nii.gz,Which lung shows ground glass density?,Right lung,Open,-,-,-,-,-
+2,1,test_568_a_1.nii.gz,Which density changes are observed in both lungs?,Ground-glass density.,Open,-,-,-,-,-
+2,1,test_569_b_1.nii.gz,Where is the density observed?,Superior right lung,Open,-,-,-,-,-
+2,1,test_573_a_1.nii.gz,What shape do some of the observed lesions have?,Round shape.,Open,-,-,-,-,-
+2,1,test_576_a_1.nii.gz,Which thickening is noted in the lung?,Interlobular septal thickening.,Open,-,-,-,-,-
+2,1,test_577_a_2.nii.gz,What pattern is observed in the bilateral lower lobes?,Mosaic attenuation pattern.,Open,-,-,-,-,-
+2,1,test_57_a_1.nii.gz,Which feature is prominent in the consolidation?,Air bronchogram,Open,-,-,-,-,-
+2,1,test_57_a_2.nii.gz,Which feature is prominent in the lower lobes?,Air bronchogram,Open,-,-,-,-,-
+2,1,test_580_a_1.nii.gz,What is the density of the lesion?,Hypodense fluid.,Open,-,-,-,-,-
+2,1,test_581_a_1.nii.gz,What is observed in the ascending aorta?,Aneurysmatic dilatation.,Open,-,-,-,-,-
+2,1,test_581_a_2.nii.gz,What is observed in the ascending aorta?,Aneurysmatic dilatation.,Open,-,-,-,-,-
+2,1,test_585_a_2.nii.gz,Where is the hypodense lesion located?,"Left lobe, lateral segment",Open,-,-,-,-,-
+2,1,test_587_a_1.nii.gz,What characteristic surrounds the nodule?,Ground glass area.,Open,-,-,-,-,-
+2,1,test_589_b_2.nii.gz,What type of densities are present?,Ground glass,Open,-,-,-,-,-
+2,1,test_58_a_2.nii.gz,Where is the ground-glass density observed?,Left lung inferior lingula.,Open,-,-,-,-,-
+2,1,test_590_a_1.nii.gz,Which areas show linear atelectasis?,Left lung upper lobe,Open,-,-,-,-,-
+2,1,test_590_a_2.nii.gz,Which feature is observed in the left lung upper lobe?,Linear atelectasis.,Open,-,-,-,-,-
+2,1,test_593_a_1.nii.gz,Where is the largest lymphadenopathy located?,Prevascular area,Open,-,-,-,-,-
+2,1,test_597_a_1.nii.gz,Where is the minimal thickening observed?,Peribronchial region,Open,-,-,-,-,-
+2,1,test_597_a_2.nii.gz,What pattern is observed in both lungs?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_598_a_1.nii.gz,What is the condition of the thoracic aorta?,Normal diameter,Open,-,-,-,-,-
+2,1,test_598_a_2.nii.gz,What is observed in the thoracic aorta?,Normal diameter,Open,-,-,-,-,-
+2,1,test_59_a_1.nii.gz,Where are the calcified parenchymal nodules largest?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_602_a_1.nii.gz,What characteristic is noted about the heart?,Normal contour.,Open,-,-,-,-,-
+2,1,test_605_a_1.nii.gz,What pattern is observed in the lung parenchyma?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_605_a_2.nii.gz,Where is the calcified nodule located?,Right lung upper lobe,Open,-,-,-,-,-
+2,1,test_606_a_1.nii.gz,Which feature is noted in the left kidney?,Cortical cyst.,Open,-,-,-,-,-
+2,1,test_607_a_1.nii.gz,Where is consolidation observed in the lungs?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_607_a_2.nii.gz,What type of density increase is noted?,Ground glass density,Open,-,-,-,-,-
+2,1,test_608_a_1.nii.gz,Where are the passive atelectatic changes observed?,Right middle lobe,Open,-,-,-,-,-
+2,1,test_60_b_1.nii.gz,Where is the consolidation more prominent?,Lower lobe,Open,-,-,-,-,-
+2,1,test_60_b_2.nii.gz,Which lung shows increased ground glass densities?,Right lung.,Open,-,-,-,-,-
+2,1,test_60_c_1.nii.gz,What is observed in the right lung lobes?,Air bronchograms,Open,-,-,-,-,-
+2,1,test_618_a_2.nii.gz,What feature is noted within the ground glass density areas?,Septal thickenings,Open,-,-,-,-,-
+2,1,test_620_a_2.nii.gz,Where is the focal density increase located?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_622_a_1.nii.gz,Where is a calcified nonspecific parenchymal nodule observed?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_622_a_2.nii.gz,Where is the calcified nonspecific parenchymal nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_623_a_2.nii.gz,What is observed in the left pleural space?,Pleural effusion,Open,-,-,-,-,-
+2,1,test_624_a_1.nii.gz,Where is the nodule located in the right lung?,Mediobasal segment,Open,-,-,-,-,-
+2,1,test_624_b_1.nii.gz,Which configuration do the nodular lesions exhibit?,Round configuration.,Open,-,-,-,-,-
+2,1,test_624_b_2.nii.gz,Where is the largest nodular lesion found?,Posterobasal segment.,Open,-,-,-,-,-
+2,1,test_629_a_1.nii.gz,Where is the observed atelectasis located?,Left lung,Open,-,-,-,-,-
+2,1,test_629_a_2.nii.gz,Where is the parenchymal aeration described?,Bilateral lungs,Open,-,-,-,-,-
+2,1,test_631_a_1.nii.gz,Which pattern is observed in the lung parenchyma?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_631_a_2.nii.gz,What pattern is observed in the lung parenchyma?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_632_a_1.nii.gz,Where is the focal fissure sequela thickness increase observed?,Left lung major fissure.,Open,-,-,-,-,-
+2,1,test_635_a_2.nii.gz,Where are the ground glass opacities observed?,Lower lobes,Open,-,-,-,-,-
+2,1,test_636_b_1.nii.gz,Which type of density increase is noted?,Ground-glass density.,Open,-,-,-,-,-
+2,1,test_637_a_1.nii.gz,Where are the nonspecific nodules located?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_638_a_1.nii.gz,Where is the pleural parenchymal change located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_638_a_2.nii.gz,Where is the pleural parenchymal change located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_63_a_2.nii.gz,What pattern is observed in both lungs?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_63_b_2.nii.gz,Where is the pleural effusion observed?,Right pleural space,Open,-,-,-,-,-
+2,1,test_640_a_1.nii.gz,Where are the linear atelectasis areas found?,Right middle lobe.,Open,-,-,-,-,-
+2,1,test_643_a_1.nii.gz,Where is the nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_644_a_1.nii.gz,Where are the reticular density increases observed?,Peribronchial areas,Open,-,-,-,-,-
+2,1,test_645_a_2.nii.gz,Where are the band-like fibrotic densities located?,Right middle lobe.,Open,-,-,-,-,-
+2,1,test_645_b_1.nii.gz,Where are band-like fibrotic densities located?,Middle lobe and inferior lingular segment.,Open,-,-,-,-,-
+2,1,test_647_a_2.nii.gz,Where are the nodular ground glass areas located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_649_a_2.nii.gz,Where is the largest nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_64_a_1.nii.gz,Where is the cortical cyst observed?,Left kidney,Open,-,-,-,-,-
+2,1,test_64_a_3.nii.gz,Which kidney has a cortical cyst?,Left kidney,Open,-,-,-,-,-
+2,1,test_64_c_1.nii.gz,Which appearance is noted in the lungs?,Ground glass appearances.,Open,-,-,-,-,-
+2,1,test_652_a_1.nii.gz,Where is the calcified nodule found?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_667_b_1.nii.gz,Which type of lung abnormality is noted?,Ground glass opacities.,Open,-,-,-,-,-
+2,1,test_676_a_2.nii.gz,Where is the largest nodule located?,Left lower lobe,Open,-,-,-,-,-
+2,1,test_690_a_1.nii.gz,Where is consolidation noted?,"Right lung, lower lobe.",Open,-,-,-,-,-
+2,1,test_691_a_1.nii.gz,Where is the effusion observed?,Right pleural area.,Open,-,-,-,-,-
+2,1,test_695_a_2.nii.gz,Where are the minimal reticular consolidations observed?,Right middle lobe.,Open,-,-,-,-,-
+2,1,test_6_a_2.nii.gz,Which segment shows linear atelectasis?,Right middle lobe.,Open,-,-,-,-,-
+2,1,test_702_a_1.nii.gz,What sign is present in the consolidation area?,Air bronchogram.,Open,-,-,-,-,-
+2,1,test_709_a_1.nii.gz,Where is the subpleural nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,1,test_711_a_2.nii.gz,Where are the focal consolidation areas observed?,Lower lobe of right lung.,Open,-,-,-,-,-
+2,1,test_715_b_2.nii.gz,Where is the largest ground-glass opacity located?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_717_b_2.nii.gz,Which area shows the largest lymphadenopathy?,Subcarinal area.,Open,-,-,-,-,-
+2,1,test_717_c_2.nii.gz,Where are the cavitary lesions observed?,Posterobasal segment of the left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_718_a_2.nii.gz,Where is the pleural effusion most pronounced?,Right pleural space.,Open,-,-,-,-,-
+2,1,test_71_a_1.nii.gz,What type of plaque is observed?,Calcified atherosclerotic,Open,-,-,-,-,-
+2,1,test_720_a_1.nii.gz,Where is the nodule located?,Anterior upper lobe,Open,-,-,-,-,-
+2,1,test_72_a_1.nii.gz,Which pattern is observed in both lungs?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_731_a_2.nii.gz,Where is the pleural effusion?,Not detected,Open,-,-,-,-,-
+2,1,test_736_a_1.nii.gz,Where is the subpleural nodular ground-glass density located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_736_a_2.nii.gz,Where is the subpleural nodular ground-glass density observed?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_738_a_1.nii.gz,What is the contour of the nodular lesion in the left lung?,Lobulated contour,Open,-,-,-,-,-
+2,1,test_741_b_1.nii.gz,Where is the nodule adjacent to?,Pleura,Open,-,-,-,-,-
+2,1,test_747_a_1.nii.gz,What appearance is noted in the lower lobe?,Ground-glass,Open,-,-,-,-,-
+2,1,test_748_a_1.nii.gz,Where is the emphysematous appearance more prominent?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_749_a_1.nii.gz,Where is the pleuroparenchymal linear density increase observed?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_749_a_2.nii.gz,What distribution pattern is noted in the lung density increments?,Peripheral distribution,Open,-,-,-,-,-
+2,1,test_750_a_1.nii.gz,Which pattern is observed in both lungs?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_750_a_2.nii.gz,What type of changes are seen in the right lung?,Subsegmental atelectasis,Open,-,-,-,-,-
+2,1,test_751_a_1.nii.gz,Where are the air passages observed as open?,Trachea and bronchi.,Open,-,-,-,-,-
+2,1,test_752_a_1.nii.gz,Which appearance is noted in the lung parenchyma?,Crazy paving,Open,-,-,-,-,-
+2,1,test_753_a_1.nii.gz,Where is the 5x3 mm nodule located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_75_a_2.nii.gz,Which sign is included in the observed pattern in the left lung?,Air bronchogram signs.,Open,-,-,-,-,-
+2,1,test_760_a_1.nii.gz,Which type of density is noted in the lung parenchyma?,Ground glass density.,Open,-,-,-,-,-
+2,1,test_764_a_2.nii.gz,What sign is observed in the consolidation area?,Air bronchogram.,Open,-,-,-,-,-
+2,1,test_765_a_2.nii.gz,Which type of density is observed?,Patchy ground-glass,Open,-,-,-,-,-
+2,1,test_766_a_2.nii.gz,Where are the ground glass densities located?,Lower lobe.,Open,-,-,-,-,-
+2,1,test_770_a_2.nii.gz,What type of effusion is observed?,No effusion.,Open,-,-,-,-,-
+2,1,test_770_b_1.nii.gz,Which density characteristic is observed in the lesions?,Ground glass,Open,-,-,-,-,-
+2,1,test_774_a_1.nii.gz,What type of densities are observed?,Patchy ground-glass.,Open,-,-,-,-,-
+2,1,test_774_a_2.nii.gz,Where are the ground-glass densities primarily located?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_776_a_1.nii.gz,Where are the nodules described?,"Anteromediobasal, laterobasal segments.",Open,-,-,-,-,-
+2,1,test_776_a_2.nii.gz,Where are the ground glass nodules located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_777_a_1.nii.gz,What appearance is noted in the lower lobe of the right lung?,Ground-glass appearance.,Open,-,-,-,-,-
+2,1,test_777_a_2.nii.gz,What appearance is noted in the lower lobe of the right lung?,Ground-glass appearance.,Open,-,-,-,-,-
+2,1,test_778_a_2.nii.gz,What type of opacities are present in the lungs?,Ground-glass opacities.,Open,-,-,-,-,-
+2,1,test_778_b_2.nii.gz,Where is the cystic structure observed?,Adjacent to aortic arch.,Open,-,-,-,-,-
+2,1,test_780_a_1.nii.gz,Which type of density is observed in the focal area of the right lung?,Ground-glass density.,Open,-,-,-,-,-
+2,1,test_782_a_1.nii.gz,Where are the areas of parenchymal infiltration observed?,Right lung.,Open,-,-,-,-,-
+2,1,test_783_a_1.nii.gz,Where is the calcific nodule found?,Left lung upper lobe,Open,-,-,-,-,-
+2,1,test_783_a_2.nii.gz,Where is the calcific nodule found?,Left lung upper lobe,Open,-,-,-,-,-
+2,1,test_785_a_1.nii.gz,What is observed in the bilateral apex?,Fibrotic bands.,Open,-,-,-,-,-
+2,1,test_787_b_1.nii.gz,What is the condition of the pleura?,No effusion,Open,-,-,-,-,-
+2,1,test_787_c_1.nii.gz,Which appearance is noted in the left lung segment?,Focal consolidation.,Open,-,-,-,-,-
+2,1,test_787_c_2.nii.gz,Where is the focal consolidation observed?,Lingular segment.,Open,-,-,-,-,-
+2,1,test_787_d_2.nii.gz,Where is the pulmonary nodule located?,Left lung,Open,-,-,-,-,-
+2,1,test_788_a_1.nii.gz,Which effusion is observed?,No pleural effusion,Open,-,-,-,-,-
+2,1,test_788_a_2.nii.gz,What characteristic is noted about the pleura?,No thickening,Open,-,-,-,-,-
+2,1,test_789_a_1.nii.gz,What is the size of the nodular appearance?,Millimetric-sized,Open,-,-,-,-,-
+2,1,test_78_a_1.nii.gz,What type of densities are observed?,Ground-glass densities,Open,-,-,-,-,-
+2,1,test_78_a_2.nii.gz,Which bronchial condition is noted in the lower lobes?,Mild bronchiectasis,Open,-,-,-,-,-
+2,1,test_790_a_1.nii.gz,Where are the areas of ground-glass acinar infiltration located?,Right upper lobe.,Open,-,-,-,-,-
+2,1,test_790_a_2.nii.gz,Where are the ground-glass infiltrates found?,Right upper lobe,Open,-,-,-,-,-
+2,1,test_794_a_1.nii.gz,Where is the 8.5 millimeter nodule located?,Inferior lingular segment.,Open,-,-,-,-,-
+2,1,test_794_a_2.nii.gz,What is the size of the largest nodule?,Ten millimeters.,Open,-,-,-,-,-
+2,1,test_799_a_1.nii.gz,Where are the peribronchial thickenings observed?,"Right lung, laterobasal segment",Open,-,-,-,-,-
+2,1,test_799_a_2.nii.gz,Where are the pleuroparenchymal sequelae density increases observed?,Middle lobe and inferior lingular segment,Open,-,-,-,-,-
+2,1,test_7_b_1.nii.gz,What contour do the pulmonary nodules exhibit?,Lobulated contours.,Open,-,-,-,-,-
+2,1,test_7_b_2.nii.gz,What is the contour of the pulmonary nodules?,Lobulated contours.,Open,-,-,-,-,-
+2,1,test_801_a_2.nii.gz,Where are the density increases noted?,Right lung apical.,Open,-,-,-,-,-
+2,1,test_802_a_2.nii.gz,Where are the nodular ground glass opacities observed?,Peripheral subpleural areas.,Open,-,-,-,-,-
+2,1,test_804_a_1.nii.gz,Which areas are more prominently affected in both lungs?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_804_b_1.nii.gz,Where are the newly developed areas of consolidation located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_805_a_1.nii.gz,Where are the linear atelectatic changes observed?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_808_a_1.nii.gz,What type of area is observed in the right lung?,Subpleural ground-glass,Open,-,-,-,-,-
+2,1,test_808_a_2.nii.gz,Which area shows ground-glass opacity?,Subpleural area,Open,-,-,-,-,-
+2,1,test_812_a_2.nii.gz,Where are the pleuroparenchymal changes located?,"Right middle lobe, left upper lobe.",Open,-,-,-,-,-
+2,1,test_813_a_1.nii.gz,Which thickening is noted in the lung parenchyma?,Septal thickening,Open,-,-,-,-,-
+2,1,test_816_a_2.nii.gz,What type of opacity is present in the lungs?,Patchy ground glass.,Open,-,-,-,-,-
+2,1,test_818_a_1.nii.gz,What is the condition of the thoracic aorta?,No dilatation.,Open,-,-,-,-,-
+2,1,test_819_a_2.nii.gz,Which characteristic is noted in the lung parenchyma?,Ground glass densities.,Open,-,-,-,-,-
+2,1,test_81_a_2.nii.gz,Where are the emphysema areas located?,Lower lobe posterior,Open,-,-,-,-,-
+2,1,test_820_a_2.nii.gz,Where is the pleural thickening observed?,Left hemithorax,Open,-,-,-,-,-
+2,1,test_822_a_1.nii.gz,What is observed in the medial segment of the right lung middle lobe?,Subsegmentary atelectasis.,Open,-,-,-,-,-
+2,1,test_822_a_2.nii.gz,What is observed in the bronchial structures?,Mild tubular bronchiectasis.,Open,-,-,-,-,-
+2,1,test_823_a_2.nii.gz,What type of densities are present?,Ground glass.,Open,-,-,-,-,-
+2,1,test_824_b_1.nii.gz,Which type of atelectasis is noted?,Linear atelectasis,Open,-,-,-,-,-
+2,1,test_828_a_1.nii.gz,Which feature indicates interstitial lung disease?,Interlobular septal thickening.,Open,-,-,-,-,-
+2,1,test_828_a_2.nii.gz,Where is the compression atelectasis observed?,Left hemithorax.,Open,-,-,-,-,-
+2,1,test_829_a_2.nii.gz,What density is observed in the right lung?,Ground glass density,Open,-,-,-,-,-
+2,1,test_829_b_1.nii.gz,Where is the thickening observed?,Interlobular septa.,Open,-,-,-,-,-
+2,1,test_829_b_2.nii.gz,Where is the thickening observed?,Interlobular septa.,Open,-,-,-,-,-
+2,1,test_82_a_1.nii.gz,Which appearance is noted in the lung consolidations?,Crazy paving,Open,-,-,-,-,-
+2,1,test_82_a_2.nii.gz,Which appearance is observed in the lung parenchyma?,Crazy paving.,Open,-,-,-,-,-
+2,1,test_831_a_2.nii.gz,Where are the pleuroparenchymal fibrotic bands observed?,Lower lobe posterobasal segment.,Open,-,-,-,-,-
+2,1,test_835_a_1.nii.gz,Where is the linear atelectasis observed?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_837_a_1.nii.gz,What is the diameter of the nodule in the right lung?,Five millimeters.,Open,-,-,-,-,-
+2,1,test_840_a_1.nii.gz,Where is the halo observed?,Nodule periphery,Open,-,-,-,-,-
+2,1,test_840_a_2.nii.gz,Where is the ground-glass halo located?,Nodule periphery,Open,-,-,-,-,-
+2,1,test_842_a_2.nii.gz,Where are pleuroparenchymal bands observed?,Upper lobes.,Open,-,-,-,-,-
+2,1,test_843_a_1.nii.gz,Which sign is present in the areas of consolidation?,Air bronchogram.,Open,-,-,-,-,-
+2,1,test_843_a_2.nii.gz,Where is calcification observed?,Right lower lobe.,Open,-,-,-,-,-
+2,1,test_844_a_1.nii.gz,What appearance is observed in the left lung?,Ground-glass appearance,Open,-,-,-,-,-
+2,1,test_844_a_2.nii.gz,Where is the ground-glass appearance noted?,Lingula inferior segment,Open,-,-,-,-,-
+2,1,test_850_b_2.nii.gz,Where are the budding tree appearances most prominent?,Right upper lobe,Open,-,-,-,-,-
+2,1,test_850_f_2.nii.gz,Where are linear fibrotic densities observed?,Left lung upper lobe,Open,-,-,-,-,-
+2,1,test_851_a_1.nii.gz,Where is the focal increase in thickness noted?,Major fissure.,Open,-,-,-,-,-
+2,1,test_851_a_2.nii.gz,Where is the focal increase in thickness noted?,Major fissure.,Open,-,-,-,-,-
+2,1,test_852_a_2.nii.gz,Where are the minimal effusions located?,Bilateral pleural area,Open,-,-,-,-,-
+2,1,test_857_a_2.nii.gz,Which abnormality is noted in the left kidney?,Cortical cyst.,Open,-,-,-,-,-
+2,1,test_862_a_2.nii.gz,Where is the pericardial effusion?,Not present,Open,-,-,-,-,-
+2,1,test_863_a_3.nii.gz,Where are the nodules located?,Both lungs,Open,-,-,-,-,-
+2,1,test_864_a_2.nii.gz,Where is minimal emphysema observed?,Upper lobes,Open,-,-,-,-,-
+2,1,test_868_a_1.nii.gz,Where is the ground-glass opacity located?,Left lung upper lobe,Open,-,-,-,-,-
+2,1,test_870_a_1.nii.gz,Where are the ground glass areas located?,Peripheral lung regions.,Open,-,-,-,-,-
+2,1,test_870_a_2.nii.gz,Which feature accompanies the consolidations?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_871_a_1.nii.gz,Which appearance is noted in the lung consolidations?,Crazy paving,Open,-,-,-,-,-
+2,1,test_871_a_2.nii.gz,What appearance is noted in the lung parenchyma?,Crazy paving.,Open,-,-,-,-,-
+2,1,test_874_a_1.nii.gz,What density pattern is noted?,Ground glass density,Open,-,-,-,-,-
+2,1,test_874_a_2.nii.gz,What density pattern is observed?,Ground glass density.,Open,-,-,-,-,-
+2,1,test_876_b_1.nii.gz,Which pattern is observed in the lung parenchyma?,Ground glass pattern.,Open,-,-,-,-,-
+2,1,test_876_b_2.nii.gz,What pattern is observed in the lung parenchyma?,Ground glass pattern.,Open,-,-,-,-,-
+2,1,test_879_a_2.nii.gz,What pattern is observed in both lung parenchyma?,Mosaic attenuation pattern.,Open,-,-,-,-,-
+2,1,test_881_a_1.nii.gz,Which thickening is noted in the lungs?,Peribronchial thickening,Open,-,-,-,-,-
+2,1,test_882_a_2.nii.gz,Where is bronchiectasis observed?,Right lower lobe,Open,-,-,-,-,-
+2,1,test_883_a_1.nii.gz,Which changes are noted in the lung parenchyma?,Peribronchial thickenings,Open,-,-,-,-,-
+2,1,test_884_a_5.nii.gz,Which pattern is noted in the lower lobes?,Mosaic attenuation.,Open,-,-,-,-,-
+2,1,test_884_b_1.nii.gz,Where is the nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_886_a_2.nii.gz,Where is the largest nodule located?,Left lower lobe,Open,-,-,-,-,-
+2,1,test_888_a_2.nii.gz,What density pattern is noted in the lung?,Patchy ground-glass.,Open,-,-,-,-,-
+2,1,test_896_a_2.nii.gz,Where are the nodules observed?,Subpleural region,Open,-,-,-,-,-
+2,1,test_898_b_1.nii.gz,Where are the nonspecific nodules located?,Both lungs.,Open,-,-,-,-,-
+2,1,test_89_a_1.nii.gz,Where is the nodule located in the right lung?,Superior segment of lower lobe.,Open,-,-,-,-,-
+2,1,test_8_a_1.nii.gz,Which pattern is noted in the lungs?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_8_a_2.nii.gz,Where are the patchy ground-glass densities located?,Right lung,Open,-,-,-,-,-
+2,1,test_901_a_1.nii.gz,What is the condition of the heart contour?,Normal contour,Open,-,-,-,-,-
+2,1,test_902_a_1.nii.gz,What contour does the mass have?,Lobulated contour.,Open,-,-,-,-,-
+2,1,test_906_a_2.nii.gz,Where is the fibrotic density located?,Left inferior lingula,Open,-,-,-,-,-
+2,1,test_908_a_2.nii.gz,Which densities are observed in the peribronchial areas?,Ground-glass densities,Open,-,-,-,-,-
+2,1,test_916_b_1.nii.gz,Where are the nodules resembling budding trees located?,"Upper lobe, right lung.",Open,-,-,-,-,-
+2,1,test_916_c_1.nii.gz,Where do the nodules resemble budding trees?,Right upper lobe,Open,-,-,-,-,-
+2,1,test_916_c_2.nii.gz,Where are the nodular consolidations observed?,Right upper lobe.,Open,-,-,-,-,-
+2,1,test_917_a_1.nii.gz,What characteristic is noted in the lung parenchyma?,Ground glass opacity.,Open,-,-,-,-,-
+2,1,test_918_a_2.nii.gz,Which contour is observed in the air cyst?,Lobulated contour.,Open,-,-,-,-,-
+2,1,test_924_a_1.nii.gz,What type of bronchograms are seen in the areas of consolidation?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_925_a_1.nii.gz,What contour do the hypodense lesions have?,Lobulated contours.,Open,-,-,-,-,-
+2,1,test_925_a_2.nii.gz,Which contour is noted in the hypodense lesions?,Lobulated contours,Open,-,-,-,-,-
+2,1,test_928_b_2.nii.gz,Where are ground-glass-like density increases observed?,Peripheral subpleural area.,Open,-,-,-,-,-
+2,1,test_930_a_1.nii.gz,Where is the ground-glass area located?,"Middle lobe, right lung.",Open,-,-,-,-,-
+2,1,test_930_a_2.nii.gz,Which areas show emphysematous changes?,"Central acinar, paraseptal.",Open,-,-,-,-,-
+2,1,test_931_a_1.nii.gz,Where are the pleuroparenchymal sequelae density increases located?,"Right middle lobe, left inferior lingula",Open,-,-,-,-,-
+2,1,test_931_a_2.nii.gz,Where is the density increase located?,Right middle lobe,Open,-,-,-,-,-
+2,1,test_935_a_2.nii.gz,Where is the consolidation more prominent?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_937_a_1.nii.gz,Where is the irregular nodule found?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_937_a_2.nii.gz,Where are ground glass areas located?,Left lung lower lobe,Open,-,-,-,-,-
+2,1,test_937_b_2.nii.gz,Where are the faint ground glass areas located?,Anterior segments of both lungs.,Open,-,-,-,-,-
+2,1,test_937_d_1.nii.gz,Where is the newly developed consolidation area located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_937_d_2.nii.gz,Where is the newly developed consolidation area located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_937_e_1.nii.gz,Where is the consolidative area observed?,Apicoposterior left lung.,Open,-,-,-,-,-
+2,1,test_937_g_2.nii.gz,Where is the air bronchogram noted?,Right lung lower lobe.,Open,-,-,-,-,-
+2,1,test_93_a_1.nii.gz,Where is mild bronchiectasis observed?,Left lung upper lobe.,Open,-,-,-,-,-
+2,1,test_943_a_1.nii.gz,Where is the patchy density observed?,Right lung,Open,-,-,-,-,-
+2,1,test_943_a_2.nii.gz,What pattern is seen in the lung?,Crazy paving pattern,Open,-,-,-,-,-
+2,1,test_946_a_1.nii.gz,Where is the minimal fibrotic change observed?,Right lung upper lobe,Open,-,-,-,-,-
+2,1,test_947_a_2.nii.gz,Which pattern is seen in the lung parenchyma?,Crazy paving,Open,-,-,-,-,-
+2,1,test_948_a_1.nii.gz,Where are ground-glass densities noted?,Both lungs.,Open,-,-,-,-,-
+2,1,test_948_a_2.nii.gz,Which density pattern is observed in the lungs?,Ground-glass opacity.,Open,-,-,-,-,-
+2,1,test_949_a_2.nii.gz,Which feature is noted in the thoracic aorta?,Normal diameter.,Open,-,-,-,-,-
+2,1,test_952_a_1.nii.gz,Which pattern is observed in the lung parenchyma?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_952_a_2.nii.gz,Which pattern is observed in the lung parenchyma?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_958_a_2.nii.gz,Which feature is present in the consolidation area?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_95_a_1.nii.gz,Which feature is observed in the consolidative area of the right lung?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_95_a_2.nii.gz,Which feature is observed within the consolidative area?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_960_a_1.nii.gz,Which characteristic is noted in the pleura of the left lung lower lobe?,Increased thickness.,Open,-,-,-,-,-
+2,1,test_960_a_2.nii.gz,Where is the increased pleural thickness observed?,Left lung lower lobe.,Open,-,-,-,-,-
+2,1,test_961_a_2.nii.gz,Which type of nodule is observed?,Calcific nodule,Open,-,-,-,-,-
+2,1,test_963_a_1.nii.gz,Where are the nodules more prominent?,Lower lobes,Open,-,-,-,-,-
+2,1,test_965_a_1.nii.gz,Where is the ectasia observed?,Ascending aorta.,Open,-,-,-,-,-
+2,1,test_967_a_2.nii.gz,Which type of dilatation is noted in the ascending aorta?,Mild fusiform,Open,-,-,-,-,-
+2,1,test_968_a_1.nii.gz,Where is the consolidation observed?,Right lung upper lobe,Open,-,-,-,-,-
+2,1,test_968_a_2.nii.gz,Where is the total atelectasis observed?,Right middle lobe,Open,-,-,-,-,-
+2,1,test_968_b_1.nii.gz,What is seen in the anterior upper lobes?,Air bronchograms,Open,-,-,-,-,-
+2,1,test_969_a_2.nii.gz,What is the condition of the lung parenchyma?,Normal aeration,Open,-,-,-,-,-
+2,1,test_969_b_1.nii.gz,Where are the osteophytes observed?,Vertebral corpus corners,Open,-,-,-,-,-
+2,1,test_96_b_1.nii.gz,Where is the nonspecific nodule located?,Right lower lobe,Open,-,-,-,-,-
+2,1,test_96_b_2.nii.gz,Where is the nonspecific parenchymal nodule observed?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_970_a_2.nii.gz,Where are the nonspecific nodules located?,Both lungs,Open,-,-,-,-,-
+2,1,test_971_a_2.nii.gz,What type of densities are present in both lungs?,Ground glass,Open,-,-,-,-,-
+2,1,test_971_b_2.nii.gz,Where are the nodules more prominent?,Left lung.,Open,-,-,-,-,-
+2,1,test_974_a_1.nii.gz,Which pattern is noted in both lungs?,Mosaic attenuation pattern,Open,-,-,-,-,-
+2,1,test_974_a_2.nii.gz,Which pattern is observed in both lungs?,Mosaic attenuation,Open,-,-,-,-,-
+2,1,test_975_a_2.nii.gz,What feature is observed in the lower lobe of the right lung?,Air bronchograms.,Open,-,-,-,-,-
+2,1,test_976_a_1.nii.gz,Where are the ground-glass consolidations located?,Both lungs,Open,-,-,-,-,-
+2,1,test_977_a_2.nii.gz,What type of atelectasis is present?,Linear atelectasis,Open,-,-,-,-,-
+2,1,test_978_a_2.nii.gz,Which appearance is noted in the lung lesions?,Ground-glass opacity.,Open,-,-,-,-,-
+2,1,test_979_a_1.nii.gz,Where is the mosaic attenuation pattern observed?,Lower lobes.,Open,-,-,-,-,-
+2,1,test_97_a_2.nii.gz,Where is the largest nodule located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,1,test_983_a_1.nii.gz,Which feature is noted in the lung parenchyma?,Peribronchial thickening.,Open,-,-,-,-,-
+2,1,test_983_a_2.nii.gz,What thickening is observed in the lungs?,Peribronchial thickening,Open,-,-,-,-,-
+2,1,test_986_a_1.nii.gz,Where is the ground-glass density located?,Right lower lobe.,Open,-,-,-,-,-
+2,1,test_986_a_2.nii.gz,Where is the indistinct ground-glass density located?,Right lung lower lobe,Open,-,-,-,-,-
+2,1,test_987_a_1.nii.gz,Which density is noted in the nodules?,Ground glass density.,Open,-,-,-,-,-
+2,1,test_987_a_2.nii.gz,Which density is observed in the nodules?,Ground glass density.,Open,-,-,-,-,-
+2,1,test_989_a_1.nii.gz,What is the density of the nodule?,Ground-glass,Open,-,-,-,-,-
+2,1,test_989_a_2.nii.gz,Where is the nodule located?,Anterior upper lobe.,Open,-,-,-,-,-
+2,1,test_98_a_2.nii.gz,What type of densities are observed in the lungs?,Patchy ground glass,Open,-,-,-,-,-
+2,1,test_990_a_1.nii.gz,Which pattern is observed in the lung consolidations?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_990_a_2.nii.gz,What pattern is observed in the lung consolidations?,Crazy paving pattern.,Open,-,-,-,-,-
+2,1,test_991_b_2.nii.gz,Where are the ground-glass densities located?,"Right lung, middle lobe",Open,-,-,-,-,-
+2,1,test_992_a_1.nii.gz,Where is the nodule located?,Right lower lobe.,Open,-,-,-,-,-

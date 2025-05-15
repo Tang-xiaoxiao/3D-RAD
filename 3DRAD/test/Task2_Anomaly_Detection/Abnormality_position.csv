@@ -1,0 +1,769 @@
+Task,Subtask,VolumeName,Question,Answer,QuestionType,AnswerChoice,Choice A,Choice B,Choice C,Choice D
+2,2,test_1004_a_1.nii.gz,Where are the lymph nodes enlarged?,Mediastinal and hilar areas.,Open,-,-,-,-,-
+2,2,test_1004_a_2.nii.gz,Where is the consolidation area located?,Middle lobe of right lung.,Open,-,-,-,-,-
+2,2,test_1005_a_2.nii.gz,What is observed on the right side?,Pleural effusion,Open,-,-,-,-,-
+2,2,test_1005_b_2.nii.gz,Which side shows more prominent pleural effusion?,Right side.,Open,-,-,-,-,-
+2,2,test_1006_b_1.nii.gz,Where is the bronchiectasis located?,Left upper lobe,Open,-,-,-,-,-
+2,2,test_1006_c_2.nii.gz,Which segment shows subsegmental atelectasis?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_100_a_1.nii.gz,Where are the multiple lymph nodes observed?,Mediastinal region.,Open,-,-,-,-,-
+2,2,test_1013_a_2.nii.gz,Which kidneys show hypodense lesions?,Both kidneys,Open,-,-,-,-,-
+2,2,test_1014_a_2.nii.gz,What is the location of the mild atelectasis?,Posterobasal left lung.,Open,-,-,-,-,-
+2,2,test_1015_a_1.nii.gz,Which segment contains the nodule?,Laterobasal segment,Open,-,-,-,-,-
+2,2,test_1015_a_2.nii.gz,Where are the ground-glass densities primarily located?,Peripheral subpleural area,Open,-,-,-,-,-
+2,2,test_1016_a_1.nii.gz,Where is the largest nodular lesion located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_1016_a_2.nii.gz,Where is the largest nodular lesion located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_1016_c_1.nii.gz,Which segment of the left lung contains the largest lesion?,Posterobasal segment,Open,-,-,-,-,-
+2,2,test_1016_d_1.nii.gz,Where is the largest nodule located?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,2,test_1016_d_2.nii.gz,Which lung contains the largest nodule?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_1016_e_2.nii.gz,Where is the pleural effusion located?,Right pleural space,Open,-,-,-,-,-
+2,2,test_1016_f_2.nii.gz,Where is the effusion observed?,Both pleural spaces.,Open,-,-,-,-,-
+2,2,test_1019_a_1.nii.gz,Where is the largest mass lesion located?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_101_a_1.nii.gz,Where are the bulla formations located?,Apices of lungs,Open,-,-,-,-,-
+2,2,test_101_b_2.nii.gz,Which hemidiaphragm is elevated?,Left hemidiaphragm.,Open,-,-,-,-,-
+2,2,test_1022_a_1.nii.gz,Where are the linear changes in the lungs?,"Right middle lobe, left upper lobe",Open,-,-,-,-,-
+2,2,test_1023_a_1.nii.gz,Which lung regions show sequela parenchymal changes?,Bilateral apex and posterior segment of right lung upper lobe.,Open,-,-,-,-,-
+2,2,test_1025_a_1.nii.gz,Which area shows hepatosteatosis?,Liver,Open,-,-,-,-,-
+2,2,test_1026_a_1.nii.gz,Which segment has linear atelectasis?,Middle lobe,Open,-,-,-,-,-
+2,2,test_1026_a_2.nii.gz,Where are the linear atelectasis observed?,"Right lung middle lobe, left lung lower lobe, upper lobe lingular segment",Open,-,-,-,-,-
+2,2,test_1027_a_1.nii.gz,Which lung shows minimal atelectatic changes?,Right middle lobe.,Open,-,-,-,-,-
+2,2,test_1028_a_1.nii.gz,Which lymph nodes are enlarged?,"Mediastinal, hilar regions",Open,-,-,-,-,-
+2,2,test_1029_a_1.nii.gz,Which lobe contains the observed abnormality?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_102_a_2.nii.gz,What is observed in the middle lobe?,Consolidation area.,Open,-,-,-,-,-
+2,2,test_1030_a_2.nii.gz,Which lung lobe contains the largest consolidative area?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_1031_a_1.nii.gz,Which side has a larger pleural effusion?,Right side.,Open,-,-,-,-,-
+2,2,test_1031_a_2.nii.gz,Which side has a larger pleural effusion?,Right side.,Open,-,-,-,-,-
+2,2,test_1032_a_1.nii.gz,Which lung segment shows ground glass opacity?,Lingular segment.,Open,-,-,-,-,-
+2,2,test_1032_a_2.nii.gz,What segment of the left lung shows abnormalities?,Lingular segment.,Open,-,-,-,-,-
+2,2,test_1033_a_2.nii.gz,Where are the ground-glass densities located?,"Middle lobe, right lung",Open,-,-,-,-,-
+2,2,test_1036_a_1.nii.gz,Which hemithorax has minimal pleural effusion?,Right hemithorax.,Open,-,-,-,-,-
+2,2,test_1036_a_2.nii.gz,Which lobes have the largest consolidations?,Upper lobes.,Open,-,-,-,-,-
+2,2,test_1037_a_2.nii.gz,Which regions show no pathological lymph nodes?,"Axillary, supraclavicular",Open,-,-,-,-,-
+2,2,test_1039_a_1.nii.gz,Where are the fibrotic changes located?,"Major fissure, lower lobes.",Open,-,-,-,-,-
+2,2,test_103_a_1.nii.gz,Which side has more pleural fluid?,Right side,Open,-,-,-,-,-
+2,2,test_103_a_2.nii.gz,Which pleural space has free fluid?,Right pleural space.,Open,-,-,-,-,-
+2,2,test_1040_a_1.nii.gz,Where is the parenchymal nodule located?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_1045_a_1.nii.gz,Which area shows fluid presence?,Superior paracardiac recess.,Open,-,-,-,-,-
+2,2,test_1048_a_2.nii.gz,What is the position of the observed consolidation areas?,Subpleural location.,Open,-,-,-,-,-
+2,2,test_1049_a_2.nii.gz,Where is the prominent interlobular septal thickening observed?,Lower lobes,Open,-,-,-,-,-
+2,2,test_1050_a_1.nii.gz,Where is the consolidation primarily located in the lungs?,Peripheral subpleural.,Open,-,-,-,-,-
+2,2,test_1052_a_1.nii.gz,Which area shows normal aeration?,Lung parenchyma,Open,-,-,-,-,-
+2,2,test_1054_a_2.nii.gz,What is the status of the pleural space?,No effusion detected,Open,-,-,-,-,-
+2,2,test_1056_a_1.nii.gz,Where are the crazy paving nodular ground glass consolidations located?,Both lungs.,Open,-,-,-,-,-
+2,2,test_1057_b_1.nii.gz,Where is the mild hiatal hernia observed?,Diaphragmatic region.,Open,-,-,-,-,-
+2,2,test_1057_b_2.nii.gz,Which segments show parenchymal air trapping?,Lower lobe basal,Open,-,-,-,-,-
+2,2,test_1060_a_1.nii.gz,Where are the infiltration areas located?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_1060_a_2.nii.gz,Which kidney has a calculi in the renal pelvis?,Right kidney.,Open,-,-,-,-,-
+2,2,test_1061_a_1.nii.gz,Where is the nodule situated?,Lower lobe,Open,-,-,-,-,-
+2,2,test_1061_a_2.nii.gz,Which lobe contains the observed nodule?,Lower lobe,Open,-,-,-,-,-
+2,2,test_1064_a_1.nii.gz,Which kidney shows density compatible with calculi?,Left kidney.,Open,-,-,-,-,-
+2,2,test_1064_a_2.nii.gz,Where are the multiple lymph nodes located?,Subcarinal area.,Open,-,-,-,-,-
+2,2,test_1067_a_1.nii.gz,Which lobe exhibits total atelectasis?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_1067_b_2.nii.gz,Where is the hypodense nodule located?,Left lobe.,Open,-,-,-,-,-
+2,2,test_1067_d_1.nii.gz,Where are the prominent interstitial scars located?,Upper zones.,Open,-,-,-,-,-
+2,2,test_1069_a_2.nii.gz,Where are the atelectatic changes located?,Lower lobes,Open,-,-,-,-,-
+2,2,test_1069_b_1.nii.gz,Where are the ground-glass infiltrates more prominent?,Lower lobes,Open,-,-,-,-,-
+2,2,test_106_a_2.nii.gz,Where is the irregular nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_106_a_3.nii.gz,Where is the mass in the left adrenal gland located?,Left adrenal gland.,Open,-,-,-,-,-
+2,2,test_106_a_4.nii.gz,Where are the largest lymphadenopathies located?,Paratracheal region.,Open,-,-,-,-,-
+2,2,test_1074_a_2.nii.gz,Where are the cystic lesions located?,Both kidneys,Open,-,-,-,-,-
+2,2,test_1075_a_2.nii.gz,Where is the nodular consolidation observed?,Left lung,Open,-,-,-,-,-
+2,2,test_1077_a_2.nii.gz,Which lung contains the nodule?,Right lung,Open,-,-,-,-,-
+2,2,test_107_a_1.nii.gz,Which bronchus is markedly narrowed?,Left upper lobe bronchus,Open,-,-,-,-,-
+2,2,test_107_b_2.nii.gz,Which lobe has atelectasis?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_1080_a_1.nii.gz,What is observed in the upper abdominal area?,Free fluid,Open,-,-,-,-,-
+2,2,test_1082_a_1.nii.gz,Where is the largest lymphadenopathy found?,Lower paratracheal area.,Open,-,-,-,-,-
+2,2,test_1082_a_2.nii.gz,Where are the largest lymphadenopathies located?,Lower paratracheal area,Open,-,-,-,-,-
+2,2,test_1083_a_1.nii.gz,Where are the stones located?,Left kidney midzone,Open,-,-,-,-,-
+2,2,test_1083_a_2.nii.gz,Which kidney has stones?,Left kidney,Open,-,-,-,-,-
+2,2,test_1087_a_1.nii.gz,Where are the consolidations primarily located?,Lower lobe,Open,-,-,-,-,-
+2,2,test_1088_a_1.nii.gz,What is the location of the largest lymph node?,Subcarinal area,Open,-,-,-,-,-
+2,2,test_1091_a_1.nii.gz,Which lung shows no infiltration?,Both lungs.,Open,-,-,-,-,-
+2,2,test_1092_a_1.nii.gz,Where is the mass located?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_1092_a_2.nii.gz,Which segment of the left lung contains the mass?,Superior segment.,Open,-,-,-,-,-
+2,2,test_109_a_5.nii.gz,What is observed in the left pleural leaves?,Pleural effusion.,Open,-,-,-,-,-
+2,2,test_1102_a_2.nii.gz,What is the position of the nodule relative to the pleura?,Subpleural location.,Open,-,-,-,-,-
+2,2,test_1103_a_1.nii.gz,Where in the lung is the nodule found?,Middle lobe,Open,-,-,-,-,-
+2,2,test_1105_a_2.nii.gz,What is observed in the right hemithorax?,"Pleural thickening, effusion.",Open,-,-,-,-,-
+2,2,test_1106_a_2.nii.gz,What is observed in the mediastinum?,Enlarged lymph nodes.,Open,-,-,-,-,-
+2,2,test_1107_a_2.nii.gz,Which kidney contains the stone?,Left kidney,Open,-,-,-,-,-
+2,2,test_1112_a_5.nii.gz,Where are the emphysematous areas predominantly located?,Upper lobes.,Open,-,-,-,-,-
+2,2,test_1113_a_2.nii.gz,Where are the nodules primarily located?,Both lungs.,Open,-,-,-,-,-
+2,2,test_1114_a_2.nii.gz,What is the position of the pleural effusion?,Absent bilaterally.,Open,-,-,-,-,-
+2,2,test_1115_a_1.nii.gz,Which anatomical area contains the observed lesion?,Right kidney,Open,-,-,-,-,-
+2,2,test_1117_a_1.nii.gz,Where is the parenchymal air cyst located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,2,test_1117_a_2.nii.gz,Which segments show dependent density increases?,Lower lobe posterior segments,Open,-,-,-,-,-
+2,2,test_1122_a_1.nii.gz,Where is the largest nodule located?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_1122_a_2.nii.gz,Where is the largest nodule located?,Right middle lobe.,Open,-,-,-,-,-
+2,2,test_1125_a_1.nii.gz,Which segment contains a 4 mm diameter nodule?,Lingular segment.,Open,-,-,-,-,-
+2,2,test_1125_a_2.nii.gz,Where is the nonspecific nodule located in the lung?,Lateral subpleural area.,Open,-,-,-,-,-
+2,2,test_1126_c_2.nii.gz,Which lung has a prominent pleural effusion?,Right lung,Open,-,-,-,-,-
+2,2,test_1127_a_2.nii.gz,Where are the subsegmental atelectasis areas located?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,2,test_1128_a_2.nii.gz,What area shows calcific atheroma plaques?,Aortic arch.,Open,-,-,-,-,-
+2,2,test_1130_a_2.nii.gz,Where are the millimetric air cysts found?,Upper lobe apex.,Open,-,-,-,-,-
+2,2,test_1131_a_1.nii.gz,Which kidneys have hyperdense stones?,"Right, left kidneys",Open,-,-,-,-,-
+2,2,test_1136_a_1.nii.gz,What is detected in the pericardial space?,Minimal effusion,Open,-,-,-,-,-
+2,2,test_1137_a_1.nii.gz,Which segment contains the largest nodule?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_1138_a_1.nii.gz,Where is the focal area situated?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_113_a_2.nii.gz,What is the location of the calculi?,Middle part of left kidney,Open,-,-,-,-,-
+2,2,test_1140_a_1.nii.gz,Which fissure is thickened?,Right major fissure,Open,-,-,-,-,-
+2,2,test_1142_a_2.nii.gz,Which lobe contains the largest nodule?,Right lobe.,Open,-,-,-,-,-
+2,2,test_1143_a_1.nii.gz,Where are the osteophytes located?,Vertebral corpus corners,Open,-,-,-,-,-
+2,2,test_1145_a_2.nii.gz,Where is the linear atelectasis specifically observed?,Middle lobe.,Open,-,-,-,-,-
+2,2,test_1147_b_1.nii.gz,What segment of the lung shows abnormalities?,Basal segment,Open,-,-,-,-,-
+2,2,test_1148_a_1.nii.gz,Where is the 6 mm nodule located?,Right lung superior lobe,Open,-,-,-,-,-
+2,2,test_1148_a_2.nii.gz,Where is the 2.5 mm nodule observed?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_114_b_2.nii.gz,What is the position of the catheter?,Extending to superior vena cava.,Open,-,-,-,-,-
+2,2,test_1150_a_2.nii.gz,What is observed in the lower lobes?,Focal nodular consolidation,Open,-,-,-,-,-
+2,2,test_1152_a_2.nii.gz,Where is the focal reticular ground glass density observed?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_1153_a_2.nii.gz,What is the condition of the mediastinal vascular structures?,Normal,Open,-,-,-,-,-
+2,2,test_1154_a_1.nii.gz,Where is atelectasis observed?,Right middle lobe.,Open,-,-,-,-,-
+2,2,test_1154_a_2.nii.gz,Where is the largest nodule located?,Left lower lobe,Open,-,-,-,-,-
+2,2,test_1156_b_2.nii.gz,What is the condition of the vertebral corpus heights?,Preserved,Open,-,-,-,-,-
+2,2,test_1157_a_1.nii.gz,Where are the nodules located?,Both lungs,Open,-,-,-,-,-
+2,2,test_1159_a_1.nii.gz,Which lung has linear atelectatic changes?,Right lung.,Open,-,-,-,-,-
+2,2,test_1161_a_1.nii.gz,Where are the stones located?,Both kidneys,Open,-,-,-,-,-
+2,2,test_1163_a_1.nii.gz,Where are the calculi located?,Left kidney,Open,-,-,-,-,-
+2,2,test_1163_a_2.nii.gz,Where are the calculi located?,Left kidney,Open,-,-,-,-,-
+2,2,test_1165_a_2.nii.gz,Which lobes are affected by the observed densities?,Both lower lobes.,Open,-,-,-,-,-
+2,2,test_1167_a_1.nii.gz,What is observed in the central parts of both lungs?,Peribronchial thickening,Open,-,-,-,-,-
+2,2,test_1167_a_2.nii.gz,Which segment contains a 5 mm nodule?,Laterobasal segment,Open,-,-,-,-,-
+2,2,test_1169_a_1.nii.gz,Where is the hypodense lesion located?,Upper pole of left kidney,Open,-,-,-,-,-
+2,2,test_1169_a_2.nii.gz,Which kidney has a hypodense lesion?,Left kidney,Open,-,-,-,-,-
+2,2,test_116_a_1.nii.gz,What area shows no suspicious mass or nodular lesions?,Lung parenchyma.,Open,-,-,-,-,-
+2,2,test_1170_a_3.nii.gz,Which lung zones show cystic bronchiectatic changes?,Middle and lower lobes.,Open,-,-,-,-,-
+2,2,test_1170_a_4.nii.gz,Where are the cystic bronchiectatic changes observed?,"Middle zone, lower lobes.",Open,-,-,-,-,-
+2,2,test_1170_b_1.nii.gz,What is observed in the paratracheal region?,Enlarged lymph node.,Open,-,-,-,-,-
+2,2,test_1170_c_2.nii.gz,Where is bronchiectasis most prominent?,Lower lobes,Open,-,-,-,-,-
+2,2,test_1173_a_1.nii.gz,Where is the nonspecific nodule located in the left lung?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_1173_a_2.nii.gz,Where is the 4 mm nodule located in the left lung?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_1175_a_1.nii.gz,What area shows atelectatic changes?,Lower lobe.,Open,-,-,-,-,-
+2,2,test_1177_a_1.nii.gz,What is the position of the linear atelectasis?,Lower lobe.,Open,-,-,-,-,-
+2,2,test_1177_a_2.nii.gz,Which lobe shows atelectasis?,Left lower lobe,Open,-,-,-,-,-
+2,2,test_117_a_1.nii.gz,Where is the largest nodule located?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_117_b_1.nii.gz,Which organs show increased size?,"Liver, spleen",Open,-,-,-,-,-
+2,2,test_117_b_2.nii.gz,Where are the lesions primarily located?,Lower lobe,Open,-,-,-,-,-
+2,2,test_1180_a_1.nii.gz,What is observed in the right lung?,Linear atelectasis,Open,-,-,-,-,-
+2,2,test_1181_a_1.nii.gz,Where are the nonspecific parenchymal nodules located?,Both lungs,Open,-,-,-,-,-
+2,2,test_1184_a_1.nii.gz,What is the position of the air cyst?,Peripheral subpleural segment.,Open,-,-,-,-,-
+2,2,test_1184_a_2.nii.gz,Which segment contains the air cyst?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_1184_b_1.nii.gz,Where are the consolidative changes primarily observed?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_118_b_1.nii.gz,What is the position of the catheter observed in the image?,Superior vena cava.,Open,-,-,-,-,-
+2,2,test_118_b_2.nii.gz,Which side has a thicker pleural effusion?,Right side.,Open,-,-,-,-,-
+2,2,test_1192_a_1.nii.gz,What segment contains a 13 mm nodule?,Lower lobe posterobasal segment.,Open,-,-,-,-,-
+2,2,test_1192_a_2.nii.gz,Where is the larger nodule found?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_1192_b_1.nii.gz,Which region shows pathological lymphadenopathies?,Left supraclavicular region.,Open,-,-,-,-,-
+2,2,test_1192_b_2.nii.gz,Which region shows lymphadenopathies?,Mediastinum.,Open,-,-,-,-,-
+2,2,test_1195_a_1.nii.gz,What regions show no pathologically enlarged lymph nodes?,"Mediastinum, hilar regions",Open,-,-,-,-,-
+2,2,test_1196_a_1.nii.gz,What segment contains the nodules in the right lung?,Middle lobe,Open,-,-,-,-,-
+2,2,test_1196_a_2.nii.gz,What is the location of the nodules in the left lung?,Superior segment.,Open,-,-,-,-,-
+2,2,test_1199_a_1.nii.gz,Where is the subpleural nodule located?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_119_a_1.nii.gz,Where is the low-density lesion located?,Left adrenal gland.,Open,-,-,-,-,-
+2,2,test_119_a_2.nii.gz,What is the position of the low-density lesion?,Left adrenal gland,Open,-,-,-,-,-
+2,2,test_11_a_1.nii.gz,Where is the occlusion observed?,Main bronchi.,Open,-,-,-,-,-
+2,2,test_1200_a_2.nii.gz,Where is the cyst located?,Right kidney.,Open,-,-,-,-,-
+2,2,test_1203_a_1.nii.gz,Where is the 2 mm nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,2,test_1203_a_2.nii.gz,Which segment contains a 4x2 mm nodule?,Anterior segment.,Open,-,-,-,-,-
+2,2,test_1207_a_1.nii.gz,What side shows more density?,Left side,Open,-,-,-,-,-
+2,2,test_1207_a_2.nii.gz,Where is the predominant ground-glass density observed?,Left lower lobe,Open,-,-,-,-,-
+2,2,test_1209_a_2.nii.gz,What is observed in the left kidney?,Cortical cyst,Open,-,-,-,-,-
+2,2,test_120_a_1.nii.gz,Where are the parenchymal nodules primarily located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,2,test_1211_a_1.nii.gz,Where is the free pleural effusion measuring 32 mm located?,Left pleural space.,Open,-,-,-,-,-
+2,2,test_1212_a_1.nii.gz,Where is the 7 mm nodule located?,Left lung lingular segment.,Open,-,-,-,-,-
+2,2,test_1212_a_2.nii.gz,What segment contains the distinctive nodule?,Left lung lingular segment.,Open,-,-,-,-,-
+2,2,test_1213_a_1.nii.gz,Where is the nodule located?,Right upper lobe.,Open,-,-,-,-,-
+2,2,test_1213_a_2.nii.gz,Which segment contains the nodule?,Anterior segment,Open,-,-,-,-,-
+2,2,test_1214_a_1.nii.gz,Where is the patchy nodule located?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_1215_a_1.nii.gz,Which lung contains the observed nodules?,Right lung.,Open,-,-,-,-,-
+2,2,test_1215_a_2.nii.gz,Which lung contains the observed nodules?,Right lung.,Open,-,-,-,-,-
+2,2,test_1216_a_1.nii.gz,What is detected in the right kidney?,Three calculi,Open,-,-,-,-,-
+2,2,test_1219_a_1.nii.gz,Which lobe contains the largest consolidation area?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_1219_a_2.nii.gz,What is the location of the largest consolidation?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_1220_a_1.nii.gz,Which kidney has calculi?,Right kidney,Open,-,-,-,-,-
+2,2,test_1220_a_2.nii.gz,What is the position of the calculi?,Right kidney,Open,-,-,-,-,-
+2,2,test_1221_a_2.nii.gz,Which lung segment shows density increases?,Left inferior lingular,Open,-,-,-,-,-
+2,2,test_1222_a_2.nii.gz,Where are the lymph nodes evaluated?,Mediastinum and hilar regions,Open,-,-,-,-,-
+2,2,test_1223_a_1.nii.gz,Which lung has the largest nodule?,Left lower lobe,Open,-,-,-,-,-
+2,2,test_1229_a_2.nii.gz,Where are the ground-glass densities located?,Lower lobes,Open,-,-,-,-,-
+2,2,test_1230_a_2.nii.gz,Where are the lymph nodes located?,Right hilar region,Open,-,-,-,-,-
+2,2,test_1231_a_1.nii.gz,Which lung contains parenchymal nodules?,Right lung.,Open,-,-,-,-,-
+2,2,test_1231_a_2.nii.gz,Where is the pleural effusion located?,Left pleura.,Open,-,-,-,-,-
+2,2,test_1233_a_2.nii.gz,Where are the densities with ground glass-mosaic attenuation located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_1234_a_2.nii.gz,What is the location of the hypodense nodule?,Right thyroid lobe.,Open,-,-,-,-,-
+2,2,test_1235_b_2.nii.gz,Which segment contains the nodule?,Anteromediobasal segment.,Open,-,-,-,-,-
+2,2,test_1239_a_1.nii.gz,Where are the ground glass densities located?,Both lungs,Open,-,-,-,-,-
+2,2,test_123_a_2.nii.gz,Which lung contains the largest pulmonary nodule?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_1240_b_2.nii.gz,Which lobes show ground glass areas?,Upper and lower lobes.,Open,-,-,-,-,-
+2,2,test_1241_a_1.nii.gz,What segment shows linear atelectasis?,Left lingular segment,Open,-,-,-,-,-
+2,2,test_1241_a_2.nii.gz,Which segment shows linear atelectasis?,Left lingular segment,Open,-,-,-,-,-
+2,2,test_1242_a_1.nii.gz,Where is the semisolid nodule located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_1242_a_2.nii.gz,What is the position of the semisolid nodule?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_1247_a_1.nii.gz,Which kidney has a stone?,Right kidney,Open,-,-,-,-,-
+2,2,test_1247_a_2.nii.gz,Where is the stone located?,Lower pole right kidney,Open,-,-,-,-,-
+2,2,test_1247_b_1.nii.gz,What areas are more pronounced for the ground glass findings?,Peripheral areas.,Open,-,-,-,-,-
+2,2,test_1248_a_1.nii.gz,Which region has ground glass densities?,Posterobasal left lung,Open,-,-,-,-,-
+2,2,test_1248_a_2.nii.gz,What type of densities are seen in the left lung?,Ground glass densities,Open,-,-,-,-,-
+2,2,test_1250_b_2.nii.gz,What segment of the right lung lower lobe is affected?,Mediobasal segment.,Open,-,-,-,-,-
+2,2,test_1252_a_1.nii.gz,Where are the calculi located?,Right kidney upper pole.,Open,-,-,-,-,-
+2,2,test_1252_a_2.nii.gz,Where are the calculi found?,Right kidney.,Open,-,-,-,-,-
+2,2,test_1253_a_1.nii.gz,What area shows increased lymph node size?,Right paratracheal area.,Open,-,-,-,-,-
+2,2,test_1253_a_2.nii.gz,Where are the multiple nodules located?,Both lungs.,Open,-,-,-,-,-
+2,2,test_1254_a_2.nii.gz,Where is the focal density increase located?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_1256_a_1.nii.gz,Where is the consolidation primarily located in the lungs?,Peripheral subpleural.,Open,-,-,-,-,-
+2,2,test_1258_a_1.nii.gz,Where is the soft tissue density observed?,Left lung upper lobe anterior.,Open,-,-,-,-,-
+2,2,test_1258_a_2.nii.gz,Where is the soft tissue density located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_1258_b_1.nii.gz,Where are the sequela fibrotic changes observed?,Right lung apex.,Open,-,-,-,-,-
+2,2,test_1259_a_1.nii.gz,Where are the parenchymal nodules located?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_1259_a_2.nii.gz,What is the location of the parenchymal nodules?,Middle lobe,Open,-,-,-,-,-
+2,2,test_125_a_1.nii.gz,Which segment shows increased subpleural adipose tissue?,Upper lobe of right lung.,Open,-,-,-,-,-
+2,2,test_1262_a_1.nii.gz,What region shows patchy infiltration?,Subpleural region,Open,-,-,-,-,-
+2,2,test_1263_a_1.nii.gz,Which kidney has a hypodense nodular lesion?,Left kidney,Open,-,-,-,-,-
+2,2,test_1263_a_2.nii.gz,What is observed in the lower lobes of both lungs?,Atelectatic changes,Open,-,-,-,-,-
+2,2,test_1264_a_2.nii.gz,What is noted in the lower lobes?,Prominent mosaic attenuation,Open,-,-,-,-,-
+2,2,test_1265_a_1.nii.gz,Which segment shows saccular bronchiectasis structures?,Inferior lingular segment.,Open,-,-,-,-,-
+2,2,test_1267_b_1.nii.gz,Which segment shows focal consolidation?,Anteromediobasal segment.,Open,-,-,-,-,-
+2,2,test_1267_b_2.nii.gz,Where is the focal consolidation located?,Paramediastinal area.,Open,-,-,-,-,-
+2,2,test_1268_a_2.nii.gz,Where is the nodule located?,Lower lobe.,Open,-,-,-,-,-
+2,2,test_1269_a_2.nii.gz,What is the location of the largest nodule?,Posterior upper lobe.,Open,-,-,-,-,-
+2,2,test_126_a_2.nii.gz,What area of the lungs is affected by the fibrotic densities?,Posterobasal regions.,Open,-,-,-,-,-
+2,2,test_1271_a_1.nii.gz,Where is the suspected nephrolithiasis located?,Right kidney.,Open,-,-,-,-,-
+2,2,test_1275_a_1.nii.gz,Where is the localized atelectasis observed?,"Middle lobe, right lung",Open,-,-,-,-,-
+2,2,test_1275_a_2.nii.gz,Which lobe shows atelectasis on the right lung?,Middle lobe,Open,-,-,-,-,-
+2,2,test_1276_a_2.nii.gz,Which segment of the lungs shows atelectatic changes?,Lower lobe.,Open,-,-,-,-,-
+2,2,test_1279_a_2.nii.gz,What is the position of the abnormality?,Posterior right lung.,Open,-,-,-,-,-
+2,2,test_1281_a_2.nii.gz,What is observed in the right hemithorax?,Effusion,Open,-,-,-,-,-
+2,2,test_1282_a_2.nii.gz,Which lung lobe contains the nodular opacities?,Right upper lobe,Open,-,-,-,-,-
+2,2,test_1284_a_1.nii.gz,Where is the pleural effusion observed?,Left hemithorax.,Open,-,-,-,-,-
+2,2,test_1286_a_1.nii.gz,Which part of the lungs shows patchy appearances?,Peripheral-subpleural regions.,Open,-,-,-,-,-
+2,2,test_1286_a_2.nii.gz,Which part of the lungs shows patchy lesions?,Peripheral-subpleural.,Open,-,-,-,-,-
+2,2,test_1286_b_1.nii.gz,Where are the patchy ground glass densities located in the left lung?,Lower lobe,Open,-,-,-,-,-
+2,2,test_1287_a_2.nii.gz,What is the position of the calculus?,Right kidney,Open,-,-,-,-,-
+2,2,test_1288_a_1.nii.gz,Which artifact is noted on the chest wall?,Metallic body artifact,Open,-,-,-,-,-
+2,2,test_128_a_1.nii.gz,Which lung segment has a subpleural nodule?,Inferior lingular segment,Open,-,-,-,-,-
+2,2,test_128_a_2.nii.gz,Which segment shows slight prominence?,Right middle lobe.,Open,-,-,-,-,-
+2,2,test_1290_a_1.nii.gz,What is the position of the ground-glass areas in the lungs?,Subpleural region,Open,-,-,-,-,-
+2,2,test_1290_a_2.nii.gz,What is the location of the ground-glass areas?,Subpleural,Open,-,-,-,-,-
+2,2,test_1292_a_1.nii.gz,Where is the nodular form observed?,Upper lobes.,Open,-,-,-,-,-
+2,2,test_1293_a_1.nii.gz,Where is the dilated collecting system?,Left kidney,Open,-,-,-,-,-
+2,2,test_1296_a_2.nii.gz,What is observed in the L3 vertebra?,Right transverse fracture,Open,-,-,-,-,-
+2,2,test_1297_a_1.nii.gz,Where are the densities more prominent?,Upper lobes,Open,-,-,-,-,-
+2,2,test_1298_a_2.nii.gz,What is the position of the nodule in the right lung?,Lower lobe,Open,-,-,-,-,-
+2,2,test_1299_a_1.nii.gz,Where are the subpleural air cysts more prominent?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_12_a_2.nii.gz,What is observed between the pleural leaves?,Pleural effusion.,Open,-,-,-,-,-
+2,2,test_1302_a_1.nii.gz,Which lymph node is observed?,Right upper paratracheal.,Open,-,-,-,-,-
+2,2,test_130_a_1.nii.gz,What is the location of the nodule in the lung?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_131_a_2.nii.gz,Where is the hypodense fluid density lesion located?,Right kidney midzone,Open,-,-,-,-,-
+2,2,test_132_a_2.nii.gz,What is the location of the largest nodule?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_134_a_1.nii.gz,What is the location of the nodule in the right lung?,Anterior segment.,Open,-,-,-,-,-
+2,2,test_134_a_2.nii.gz,Which segment of the left lung shows sequelae changes?,Upper lobe anterior segment.,Open,-,-,-,-,-
+2,2,test_135_a_1.nii.gz,Where is the 5 mm nodule found?,Left lower lobe,Open,-,-,-,-,-
+2,2,test_135_a_2.nii.gz,Where is the larger nodule located?,Left lower lobe,Open,-,-,-,-,-
+2,2,test_136_a_2.nii.gz,Which lymph node regions show no enlargement?,"Prevascular, pre-paratracheal, subcarinal, bilateral hilar-axillary",Open,-,-,-,-,-
+2,2,test_137_a_2.nii.gz,What is the condition of the pleural spaces?,No effusion detected.,Open,-,-,-,-,-
+2,2,test_138_a_2.nii.gz,Where are the parenchymal nodules located?,Both lungs,Open,-,-,-,-,-
+2,2,test_141_a_2.nii.gz,Which lymph node regions show no enlargement?,"Prevascular, pre-paratracheal",Open,-,-,-,-,-
+2,2,test_144_a_1.nii.gz,Which bronchus is narrowed?,Right main bronchus.,Open,-,-,-,-,-
+2,2,test_147_a_2.nii.gz,Where are the two nonspecific nodules located in the right lung?,Middle lobe.,Open,-,-,-,-,-
+2,2,test_14_a_1.nii.gz,Which area contains the largest lymph node?,Subcarinal area.,Open,-,-,-,-,-
+2,2,test_14_a_2.nii.gz,Where is the largest lymph node located?,Subcarinal area,Open,-,-,-,-,-
+2,2,test_150_a_2.nii.gz,Where are the patches of ground-glass densities found?,Left lower lobe,Open,-,-,-,-,-
+2,2,test_151_a_2.nii.gz,Where is the stable nodule located in the right lung?,Middle lobe,Open,-,-,-,-,-
+2,2,test_154_a_2.nii.gz,What is the position of the observed ground glass densities?,Peripherally located.,Open,-,-,-,-,-
+2,2,test_155_a_1.nii.gz,Where is the 15x13 mm nodule located?,Right lung horizontal fissure.,Open,-,-,-,-,-
+2,2,test_159_a_1.nii.gz,Where are the sequela parenchymal changes located?,Left upper lobe.,Open,-,-,-,-,-
+2,2,test_160_a_2.nii.gz,Where are the fibrotic band formations located?,Upper and middle lobes.,Open,-,-,-,-,-
+2,2,test_162_a_1.nii.gz,What is the position of the cortical cysts?,Left kidney.,Open,-,-,-,-,-
+2,2,test_162_b_1.nii.gz,What area shows stable focal ground-glass density?,Anterior upper lobe.,Open,-,-,-,-,-
+2,2,test_163_a_1.nii.gz,Which lung segment contains the largest nodular lesion?,Upper lobe anterior segment,Open,-,-,-,-,-
+2,2,test_163_a_2.nii.gz,Where are the fibrotic structures located?,Posterobasal lower lobe.,Open,-,-,-,-,-
+2,2,test_163_b_1.nii.gz,Where are the parenchymal nodules located in the right lung?,Upper lobe anterior segment,Open,-,-,-,-,-
+2,2,test_163_c_2.nii.gz,Where is the 4 mm nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,2,test_163_d_2.nii.gz,Where is the largest solid nodule located?,Anterior upper lobe,Open,-,-,-,-,-
+2,2,test_165_a_1.nii.gz,Which lymph node regions show no enlargement?,"Prevascular, pre-paratracheal",Open,-,-,-,-,-
+2,2,test_167_a_1.nii.gz,What segment shows linear-subsegmental atelectasis?,Left upper lobe.,Open,-,-,-,-,-
+2,2,test_168_a_2.nii.gz,Where is bronchiectasis more prominent?,"Central, left lower lobe",Open,-,-,-,-,-
+2,2,test_16_a_1.nii.gz,Where is the nodular consolidation observed?,Anteromediobasal segment,Open,-,-,-,-,-
+2,2,test_170_a_1.nii.gz,Where are the cortical cysts observed?,Both kidneys.,Open,-,-,-,-,-
+2,2,test_170_b_1.nii.gz,What is the position of the subpleural nodule?,Posterobasal segment,Open,-,-,-,-,-
+2,2,test_170_b_2.nii.gz,Which segment contains the subpleural nodule?,Posterobasal segment,Open,-,-,-,-,-
+2,2,test_178_a_1.nii.gz,Which segment shows subsegmental atelectasis?,"Posterobasal segment, right lung.",Open,-,-,-,-,-
+2,2,test_17_a_1.nii.gz,Where is the nodule located in the lung?,Middle lobe.,Open,-,-,-,-,-
+2,2,test_182_a_1.nii.gz,What is observed in the left pleural space?,Free effusion.,Open,-,-,-,-,-
+2,2,test_182_a_2.nii.gz,What is observed in the deepest part of the left pleural space?,Free effusion.,Open,-,-,-,-,-
+2,2,test_188_a_1.nii.gz,Where is the 6 mm nodule located?,Apical right lung.,Open,-,-,-,-,-
+2,2,test_188_a_2.nii.gz,Where is the 6 mm nodule located?,Right upper lobe.,Open,-,-,-,-,-
+2,2,test_188_b_2.nii.gz,Where are the consolidations more prominent?,Upper lobe posterior segments.,Open,-,-,-,-,-
+2,2,test_18_a_2.nii.gz,Which lobe shows central consolidations?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_191_b_1.nii.gz,Where is the subpleural nodule located?,Upper lobe posterior segment.,Open,-,-,-,-,-
+2,2,test_191_b_2.nii.gz,Where is the subpleural nodule located?,Right upper lobe.,Open,-,-,-,-,-
+2,2,test_193_a_1.nii.gz,Where are the compressive atelectatic changes?,Left lung inferior lingular segment,Open,-,-,-,-,-
+2,2,test_194_b_1.nii.gz,Where are the cavitary lesions located?,Left lung lingular segment.,Open,-,-,-,-,-
+2,2,test_195_a_1.nii.gz,Which lung contains a millimetric nodule?,Right lung.,Open,-,-,-,-,-
+2,2,test_196_a_1.nii.gz,Which lung lobe contains the pulmonary nodule?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_197_a_1.nii.gz,Where is the consolidation area located in the left lung?,Lower lobe,Open,-,-,-,-,-
+2,2,test_198_a_2.nii.gz,Where are the linear atelectasis areas located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_199_a_2.nii.gz,What is observed in the middle lobe of the right lung?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,2,test_1_a_2.nii.gz,Where are the nodules found?,Upper and lower lobes,Open,-,-,-,-,-
+2,2,test_202_a_1.nii.gz,Where is the atelectasis most prominent?,Lower lobe of the right lung.,Open,-,-,-,-,-
+2,2,test_202_a_2.nii.gz,Where is the atelectasis most prominent?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_203_a_1.nii.gz,Which lung lobe contains the largest nodule?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_203_a_2.nii.gz,Which adrenal gland contains a mass?,Left adrenal gland.,Open,-,-,-,-,-
+2,2,test_215_b_2.nii.gz,Where are the nodular consolidations located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_215_c_1.nii.gz,Which lung segment shows consolidative parenchyma?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_215_c_2.nii.gz,Where are the widespread millimetric nodules observed?,Both lungs.,Open,-,-,-,-,-
+2,2,test_219_a_1.nii.gz,Which lymph nodes are observed?,No enlarged lymph nodes,Open,-,-,-,-,-
+2,2,test_219_a_2.nii.gz,Which lobe contains the nodule?,Right lobe,Open,-,-,-,-,-
+2,2,test_221_a_2.nii.gz,Where are the density increases observed?,"Lower lobe, posterobasal segments",Open,-,-,-,-,-
+2,2,test_22_a_1.nii.gz,Where is the effusion more prominent?,Right hemithorax.,Open,-,-,-,-,-
+2,2,test_230_a_2.nii.gz,Which lung lobe shows predominant abnormalities?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_232_a_2.nii.gz,What is the location of the largest nodule?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_239_a_1.nii.gz,Where is the subsegmental atelectasis located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_244_a_1.nii.gz,Where is the atelectasis observed in the left lung?,Lower lobe,Open,-,-,-,-,-
+2,2,test_245_a_1.nii.gz,Which lymph nodes are detected?,None detected,Open,-,-,-,-,-
+2,2,test_249_a_1.nii.gz,What is observed in the left hemithorax?,Mild pleural effusion.,Open,-,-,-,-,-
+2,2,test_258_b_1.nii.gz,Where is the nodule located in the left lung?,Upper lobe.,Open,-,-,-,-,-
+2,2,test_258_b_2.nii.gz,What is the position of the nodule in relation to the lung?,Upper lobe.,Open,-,-,-,-,-
+2,2,test_258_c_1.nii.gz,What segment contains the nodule?,Apicoposterior segment,Open,-,-,-,-,-
+2,2,test_259_a_2.nii.gz,Which lung shows active infiltration?,No lung shows infiltration.,Open,-,-,-,-,-
+2,2,test_25_a_2.nii.gz,Where are the budding tree-shaped densities found?,Peribronchial area,Open,-,-,-,-,-
+2,2,test_262_a_2.nii.gz,What is the symmetry status of the hemithorax?,Both symmetrical.,Open,-,-,-,-,-
+2,2,test_263_a_2.nii.gz,Which lobe contains the calcific nodule?,Anterior upper lobe,Open,-,-,-,-,-
+2,2,test_263_b_1.nii.gz,What is the location of the nonspecific calcific nodule?,"Anterior segment, right lung.",Open,-,-,-,-,-
+2,2,test_263_b_2.nii.gz,Which lung lobe contains the calcific nodule?,Right upper lobe,Open,-,-,-,-,-
+2,2,test_266_a_2.nii.gz,What is the condition of the pleural space?,No effusion.,Open,-,-,-,-,-
+2,2,test_270_a_1.nii.gz,Which lung lobe shows more prominent cystic changes?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_274_c_1.nii.gz,What is the position of the moderate effusion?,Right hemithorax.,Open,-,-,-,-,-
+2,2,test_274_c_2.nii.gz,Which lobe shows more prominent atelectasis?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_275_a_1.nii.gz,What is observed in the right hemithorax?,Pleural effusion.,Open,-,-,-,-,-
+2,2,test_277_b_2.nii.gz,Where are the hypodense lesions located?,Both kidneys,Open,-,-,-,-,-
+2,2,test_277_g_2.nii.gz,Where is the catheter tip located?,Superior-right atrium junction.,Open,-,-,-,-,-
+2,2,test_278_b_2.nii.gz,Where are the atelectatic changes noted?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_279_a_2.nii.gz,What is the location of the hyperdense stone?,Left kidney.,Open,-,-,-,-,-
+2,2,test_27_b_2.nii.gz,Where is the free fluid found?,Perihepatic region.,Open,-,-,-,-,-
+2,2,test_281_a_1.nii.gz,What is the position of the focal ground-glass density increases?,Right upper lobe.,Open,-,-,-,-,-
+2,2,test_28_a_1.nii.gz,Where are the cortical-peripelvic cysts located?,Both kidneys,Open,-,-,-,-,-
+2,2,test_292_a_1.nii.gz,What segment contains a calcific nodule in the left lung?,Lower lobe laterobasal segment.,Open,-,-,-,-,-
+2,2,test_295_a_1.nii.gz,Which lung lobe contains the nodule with irregular borders?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_299_a_1.nii.gz,What is the condition of the pleura?,No effusion,Open,-,-,-,-,-
+2,2,test_29_a_1.nii.gz,Where is the bronchial ectasia more prominent?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_2_a_2.nii.gz,Where are the multiple parenchymal nodules located?,Both lungs.,Open,-,-,-,-,-
+2,2,test_302_a_1.nii.gz,Which lung lobe exhibits the abnormalities?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_303_a_2.nii.gz,Where is the round-shaped consolidation located in the right lung?,Lower lobe.,Open,-,-,-,-,-
+2,2,test_308_a_1.nii.gz,Which segment of the left lung shows linear atelectasis?,Posterobasal segment,Open,-,-,-,-,-
+2,2,test_309_a_2.nii.gz,What is the location of the subpleural nodule?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_315_a_2.nii.gz,Where is the pleural thickening observed?,"Upper lobe, right",Open,-,-,-,-,-
+2,2,test_31_a_1.nii.gz,Where is the loculated pleural effusion located?,"Lower lobe, left lung",Open,-,-,-,-,-
+2,2,test_327_a_1.nii.gz,Where are the sequela parenchymal changes located?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_328_a_2.nii.gz,Which lung has a calcified nodule?,Right lung,Open,-,-,-,-,-
+2,2,test_330_a_1.nii.gz,Where is the focal atelectasis located in the left lung?,Inferior lingular segment.,Open,-,-,-,-,-
+2,2,test_330_a_2.nii.gz,What area shows focal atelectasis?,Inferior lingular segment,Open,-,-,-,-,-
+2,2,test_334_a_1.nii.gz,Which organs show space-occupying lesions?,None observed.,Open,-,-,-,-,-
+2,2,test_335_a_1.nii.gz,What area shows atelectatic changes?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_335_a_2.nii.gz,Which adrenal gland shows diffuse thickening?,Left adrenal gland.,Open,-,-,-,-,-
+2,2,test_337_a_1.nii.gz,Where are the density increases specifically located?,Left inferior lingular segment.,Open,-,-,-,-,-
+2,2,test_33_a_1.nii.gz,What is the location of the effusion?,Right hemithorax.,Open,-,-,-,-,-
+2,2,test_33_a_2.nii.gz,Where is the effusion located?,Right hemithorax.,Open,-,-,-,-,-
+2,2,test_342_a_1.nii.gz,Which lung contains a nodule accompanied by pleural retractions?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_345_a_1.nii.gz,What is the position of the largest lymphadenopathy?,Subcarinal area.,Open,-,-,-,-,-
+2,2,test_348_a_2.nii.gz,Where is the atelectasis observed?,Left lung inferior lingular segment,Open,-,-,-,-,-
+2,2,test_34_a_1.nii.gz,Which lung segment has atelectasis?,Left lung lingular segment,Open,-,-,-,-,-
+2,2,test_34_a_2.nii.gz,Where are the chronic fractures observed?,Anterolateral ribs.,Open,-,-,-,-,-
+2,2,test_355_b_2.nii.gz,Where are the pleuroparenchymal sequelae bands more prominent?,Lower lobes,Open,-,-,-,-,-
+2,2,test_357_c_2.nii.gz,What is the position of the calculi?,Both kidneys,Open,-,-,-,-,-
+2,2,test_35_a_1.nii.gz,Which segments of the lung show the observed abnormalities?,Superior and basal segments.,Open,-,-,-,-,-
+2,2,test_362_a_1.nii.gz,What is observed at the basal level on the right?,Pleural effusion.,Open,-,-,-,-,-
+2,2,test_363_a_2.nii.gz,What is the position of the nodule relative to the pleura?,Subpleural position.,Open,-,-,-,-,-
+2,2,test_365_a_1.nii.gz,What is the location of the largest lymph node?,Subcarinal area.,Open,-,-,-,-,-
+2,2,test_365_a_4.nii.gz,Which lung shows focal consolidative density?,Left lung,Open,-,-,-,-,-
+2,2,test_367_a_1.nii.gz,What area shows faint density increases?,Left lung posterobasal segment.,Open,-,-,-,-,-
+2,2,test_369_a_1.nii.gz,What is the position of the pleural-based consolidation?,Lower lobe superior segment.,Open,-,-,-,-,-
+2,2,test_36_a_1.nii.gz,Which lobes of the left lung contain nodules?,Upper and lower lobes.,Open,-,-,-,-,-
+2,2,test_370_a_2.nii.gz,Which lung segment shows irregular ground glass densities?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_371_a_1.nii.gz,Which lung has a nodule in the lateral subpleural area?,Left lung.,Open,-,-,-,-,-
+2,2,test_371_a_2.nii.gz,Which lung has a nodule in the lateral subpleural area?,Left lung.,Open,-,-,-,-,-
+2,2,test_382_a_1.nii.gz,Which segment of the lung shows consolidation?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_382_c_2.nii.gz,Where is the largest lesion located?,Right upper lobe.,Open,-,-,-,-,-
+2,2,test_386_a_1.nii.gz,Which lung contains nodules?,Right lung,Open,-,-,-,-,-
+2,2,test_387_a_1.nii.gz,Which segment contains a 5 mm nodule in the left lung?,Inferior lingular segment,Open,-,-,-,-,-
+2,2,test_387_a_2.nii.gz,Which segment contains a 5 mm nodule?,Inferior lingular segment.,Open,-,-,-,-,-
+2,2,test_387_b_1.nii.gz,Where are the findings more prominent?,Lower lobes,Open,-,-,-,-,-
+2,2,test_387_b_2.nii.gz,Where are the findings more prominent?,Lower lobes,Open,-,-,-,-,-
+2,2,test_389_a_1.nii.gz,Where is the intrapulmonary solid nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_389_a_2.nii.gz,Where is the intrapulmonary nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_389_b_2.nii.gz,Where is the consolidation observed?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_38_a_1.nii.gz,Where are the passive atelectatic changes located?,Both lung lower lobes.,Open,-,-,-,-,-
+2,2,test_38_a_2.nii.gz,Where are the passive atelectatic changes observed?,Lung lower lobes.,Open,-,-,-,-,-
+2,2,test_390_a_2.nii.gz,Where is the hyperdense stone located?,Left kidney,Open,-,-,-,-,-
+2,2,test_391_a_2.nii.gz,Where is the calcific nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_397_a_1.nii.gz,Where are the areas of consolidation located?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_397_a_2.nii.gz,Which lung lobe has the largest area of consolidation?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_39_a_2.nii.gz,Which lung contains a subpleural nodule?,Left lung.,Open,-,-,-,-,-
+2,2,test_403_b_2.nii.gz,Which lung shows ground-glass densities at the posterobasal-laterobasal level?,Left lung.,Open,-,-,-,-,-
+2,2,test_409_a_2.nii.gz,Where is the nonspecific nodule located?,Upper lobe.,Open,-,-,-,-,-
+2,2,test_40_a_1.nii.gz,Where are the ground-glass densities more prominent?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_40_a_2.nii.gz,What segment shows consolidation in the left lung?,Apicoposterior segment,Open,-,-,-,-,-
+2,2,test_414_a_1.nii.gz,Which adrenal gland contains the nodular lesion?,Left adrenal gland.,Open,-,-,-,-,-
+2,2,test_414_b_2.nii.gz,Where is the hypodense finding located?,Left adrenal gland.,Open,-,-,-,-,-
+2,2,test_415_a_2.nii.gz,Which lungs have the observed nodules?,Bilateral lungs.,Open,-,-,-,-,-
+2,2,test_417_a_4.nii.gz,Which kidney contains a cortical cyst?,Left kidney.,Open,-,-,-,-,-
+2,2,test_417_a_5.nii.gz,Where is the cortical cyst observed?,Left kidney.,Open,-,-,-,-,-
+2,2,test_419_a_2.nii.gz,What is the position of the kidney stone?,Right kidney.,Open,-,-,-,-,-
+2,2,test_41_b_1.nii.gz,Which segment of the right lung contains the linear ground glass area?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_41_b_2.nii.gz,Where are the nodular ground glass areas located?,Lower lobe of the left lung.,Open,-,-,-,-,-
+2,2,test_423_a_1.nii.gz,What area shows atelectatic changes?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_423_a_2.nii.gz,Which lung segment shows atelectatic areas?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_423_b_1.nii.gz,Which lung shows bronchiectatic changes?,Right upper lobe,Open,-,-,-,-,-
+2,2,test_423_b_2.nii.gz,Which area shows bilateral free pleural effusion?,Right and left pleural spaces.,Open,-,-,-,-,-
+2,2,test_423_c_1.nii.gz,Which side has more pronounced pleural effusion?,Right side,Open,-,-,-,-,-
+2,2,test_428_a_1.nii.gz,Where is the linear atelectasis observed?,Left upper lobe,Open,-,-,-,-,-
+2,2,test_429_a_2.nii.gz,Where are the patchy ground glass densities located?,Left upper lobe.,Open,-,-,-,-,-
+2,2,test_42_a_1.nii.gz,Which segment contains the 6 mm diameter parenchymal nodule?,Lateral basal segment,Open,-,-,-,-,-
+2,2,test_430_a_2.nii.gz,What is the location of the low-density nodule?,Superior segment of left lung.,Open,-,-,-,-,-
+2,2,test_431_a_1.nii.gz,Where is the stone located?,Lower pole of right kidney.,Open,-,-,-,-,-
+2,2,test_438_a_1.nii.gz,Which lung lobes contain the parenchymal air cyst?,Right upper lobe,Open,-,-,-,-,-
+2,2,test_439_a_1.nii.gz,Where is the consolidation observed?,Left lung inferior lingular segment.,Open,-,-,-,-,-
+2,2,test_439_a_2.nii.gz,What is the position of the consolidation areas?,Left lung inferior lingular segment,Open,-,-,-,-,-
+2,2,test_443_a_1.nii.gz,Where is the nodule located?,Adjacent to minor fissure,Open,-,-,-,-,-
+2,2,test_44_a_2.nii.gz,What type of effusion is present?,Bilateral minimal pleural effusion,Open,-,-,-,-,-
+2,2,test_454_c_2.nii.gz,Where are the subpleural nodules located?,"Left lung, inferior lingular segment",Open,-,-,-,-,-
+2,2,test_455_a_1.nii.gz,What is the location of the stone?,Upper pole of right kidney.,Open,-,-,-,-,-
+2,2,test_455_a_2.nii.gz,Where is the stone located?,Right kidney,Open,-,-,-,-,-
+2,2,test_456_b_2.nii.gz,What area shows increased density?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_457_a_1.nii.gz,What is observed in the right hemithorax?,Pleural effusion.,Open,-,-,-,-,-
+2,2,test_457_b_2.nii.gz,Which lung shows minimal pleural effusion?,Left lung,Open,-,-,-,-,-
+2,2,test_459_a_1.nii.gz,Which lung segment shows consolidation?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_45_a_1.nii.gz,Where are the mild atelectatic changes located?,"Middle lobe, right lung",Open,-,-,-,-,-
+2,2,test_463_a_1.nii.gz,Where is the nodule located?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_465_a_2.nii.gz,What is the status of pleural effusion?,Not detected.,Open,-,-,-,-,-
+2,2,test_468_a_1.nii.gz,Which lung has a subpleural nodule?,Left lung.,Open,-,-,-,-,-
+2,2,test_468_a_2.nii.gz,Which lobe contains a subpleural nodule?,Lower lobe of the left lung.,Open,-,-,-,-,-
+2,2,test_471_a_1.nii.gz,Which lung shows consolidations?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_475_b_2.nii.gz,Which side has more prominent pleural effusion?,Right side,Open,-,-,-,-,-
+2,2,test_475_e_1.nii.gz,Which lung lobe shows atelectatic changes?,Right middle lobe.,Open,-,-,-,-,-
+2,2,test_475_e_2.nii.gz,Where is the pleural effusion most prominent?,Right hemithorax.,Open,-,-,-,-,-
+2,2,test_481_a_2.nii.gz,Which lung lobe has more consolidation?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,2,test_482_a_2.nii.gz,Which segment of the right lung shows linear atelectasis?,Middle lobe,Open,-,-,-,-,-
+2,2,test_482_c_1.nii.gz,Which lung shows mild atelectasis at the basal level?,Right lung,Open,-,-,-,-,-
+2,2,test_482_c_2.nii.gz,Which lobe contains the nodule?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_482_d_1.nii.gz,Where is the free pleural effusion observed?,Left pleural space,Open,-,-,-,-,-
+2,2,test_482_d_2.nii.gz,Where is the free pleural effusion observed?,Left pleural space,Open,-,-,-,-,-
+2,2,test_482_f_1.nii.gz,Where is the consolidation located in the right lung?,Middle lobe.,Open,-,-,-,-,-
+2,2,test_482_g_1.nii.gz,What is the position of the largest pulmonary nodule?,Right upper lobe.,Open,-,-,-,-,-
+2,2,test_482_g_2.nii.gz,Where is the largest pulmonary nodule located?,Right upper lobe.,Open,-,-,-,-,-
+2,2,test_482_h_2.nii.gz,What area shows significant consolidation increase?,Middle lobe of right lung,Open,-,-,-,-,-
+2,2,test_484_b_1.nii.gz,Which lobe contains the patchy ground glass densities?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_486_a_1.nii.gz,What is the location of the cyst?,Lower pole of left kidney.,Open,-,-,-,-,-
+2,2,test_486_a_2.nii.gz,Which lung hilum shows fullness?,Right lung hilum.,Open,-,-,-,-,-
+2,2,test_488_a_2.nii.gz,Where is the pleural effusion?,Not detected,Open,-,-,-,-,-
+2,2,test_489_a_2.nii.gz,Which kidney shows atrophy?,Left kidney,Open,-,-,-,-,-
+2,2,test_48_a_1.nii.gz,What is the position of the largest lymph node?,Right lower paratracheal area.,Open,-,-,-,-,-
+2,2,test_491_a_1.nii.gz,What is the condition of the lung parenchyma?,Normal aeration,Open,-,-,-,-,-
+2,2,test_492_a_1.nii.gz,Where is the largest nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_492_a_2.nii.gz,Which lung contains the largest nodule?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_493_b_1.nii.gz,Where is the pleural effusion located?,Right hemithorax,Open,-,-,-,-,-
+2,2,test_49_a_1.nii.gz,Where are the atelectatic changes found?,Lower lobe segments,Open,-,-,-,-,-
+2,2,test_4_a_1.nii.gz,Where is atelectasis observed in the right lung?,Middle lobe.,Open,-,-,-,-,-
+2,2,test_4_a_2.nii.gz,What segment of the left lung shows atelectasis?,Anteromediobasal segment.,Open,-,-,-,-,-
+2,2,test_4_b_1.nii.gz,Where is the lesion suspicious for metastasis in the adrenal gland?,Right adrenal gland,Open,-,-,-,-,-
+2,2,test_4_b_2.nii.gz,Where are the pleuroparenchymal opacities located?,Bilateral lower lobes,Open,-,-,-,-,-
+2,2,test_500_c_1.nii.gz,Where is the nodular lesion located?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_501_a_1.nii.gz,Which gland contains a mass?,Left adrenal gland,Open,-,-,-,-,-
+2,2,test_506_a_2.nii.gz,Where is the focal area of consolidation?,"Posterobasal segment, right lung.",Open,-,-,-,-,-
+2,2,test_507_a_1.nii.gz,Where is the focal consolidation area located?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_508_a_1.nii.gz,Where is the nodule located?,"Right lung, lower lobe",Open,-,-,-,-,-
+2,2,test_509_a_1.nii.gz,What segment contains the two nodules?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_509_a_2.nii.gz,Which lung segment contains the nodules?,Left upper lobe.,Open,-,-,-,-,-
+2,2,test_50_a_1.nii.gz,Where are the areas of atelectasis located?,Right middle lobe.,Open,-,-,-,-,-
+2,2,test_510_a_1.nii.gz,What is noted in the bilateral adrenal glands?,No lesions detected,Open,-,-,-,-,-
+2,2,test_513_a_1.nii.gz,Which lung shows superior segment consolidation?,Left lung.,Open,-,-,-,-,-
+2,2,test_517_a_2.nii.gz,Where is the low-density nodular lesion located?,Left adrenal gland.,Open,-,-,-,-,-
+2,2,test_524_a_2.nii.gz,Which lobe shows patchy densities?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_528_a_1.nii.gz,Which kidney shows pelvicaliectasis?,Left kidney.,Open,-,-,-,-,-
+2,2,test_529_a_1.nii.gz,What is the condition of pleura?,No effusion,Open,-,-,-,-,-
+2,2,test_52_a_2.nii.gz,Where are the nodules located?,Both lungs,Open,-,-,-,-,-
+2,2,test_535_c_1.nii.gz,Where is the 7x5 mm nodule located?,Laterobasal left lung.,Open,-,-,-,-,-
+2,2,test_536_a_1.nii.gz,What is the location of the cortical cyst?,Right kidney,Open,-,-,-,-,-
+2,2,test_536_a_2.nii.gz,What is the location of the cortical cyst?,Right kidney.,Open,-,-,-,-,-
+2,2,test_53_a_1.nii.gz,Which segment shows linear atelectasis?,Left lung lingular segment,Open,-,-,-,-,-
+2,2,test_53_a_2.nii.gz,Where is the linear atelectasis observed?,Left lung lingular segment.,Open,-,-,-,-,-
+2,2,test_542_a_2.nii.gz,What segment contains a calcified nodule?,Left lung lower lobe laterobasal segment.,Open,-,-,-,-,-
+2,2,test_555_a_1.nii.gz,Where is the subpleural calcified nodule located?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_559_a_1.nii.gz,What is the position of the largest metastatic nodule?,Superior segment left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_561_a_2.nii.gz,Where is the subpleural nodule located?,Left upper lobe.,Open,-,-,-,-,-
+2,2,test_565_b_1.nii.gz,Where is the 4 mm nodule found?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_566_a_1.nii.gz,Which lung has atelectasis?,Left lung,Open,-,-,-,-,-
+2,2,test_566_a_2.nii.gz,Where is the effusion located?,Left hemithorax,Open,-,-,-,-,-
+2,2,test_568_a_2.nii.gz,Which lobe shows pleuroparenchymal changes?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_569_b_3.nii.gz,Which lobe contains the nodular density?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_56_a_1.nii.gz,What is the condition of the pleural space?,No pleural effusion.,Open,-,-,-,-,-
+2,2,test_571_a_1.nii.gz,Which adrenal gland shows a nodular mass?,Right adrenal gland,Open,-,-,-,-,-
+2,2,test_571_a_2.nii.gz,Which adrenal gland shows a nodular mass?,Right adrenal gland.,Open,-,-,-,-,-
+2,2,test_573_a_1.nii.gz,Where are the consolidations more prominently observed?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_573_a_2.nii.gz,Where are the prominent consolidations located?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_578_a_1.nii.gz,Which lung lobe contains a 2 mm diameter nonspecific nodular density?,Right upper lobe,Open,-,-,-,-,-
+2,2,test_578_a_2.nii.gz,Where is the hypodense lesion located?,Left kidney.,Open,-,-,-,-,-
+2,2,test_57_a_1.nii.gz,What is observed on the right side?,Pleural effusion,Open,-,-,-,-,-
+2,2,test_581_a_2.nii.gz,What is the position of the emphysematous areas?,Upper lobe of left lung.,Open,-,-,-,-,-
+2,2,test_583_a_2.nii.gz,Where is the stone located?,Right kidney,Open,-,-,-,-,-
+2,2,test_587_a_1.nii.gz,What segment of the lung contains the nodule?,Posterobasal segment.,Open,-,-,-,-,-
+2,2,test_589_b_2.nii.gz,Which lung lobe shows atelectasis?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_591_a_2.nii.gz,Where are the linear fibrotic areas observed?,Lower lobes,Open,-,-,-,-,-
+2,2,test_592_a_1.nii.gz,Which lobe shows pleuroparenchymal sequelae bands?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_593_a_2.nii.gz,Which side has a pleural effusion?,Right side,Open,-,-,-,-,-
+2,2,test_595_a_1.nii.gz,What is the position of the central venous catheter?,Superior vena cava.,Open,-,-,-,-,-
+2,2,test_601_a_1.nii.gz,What is the symmetry status of the hemithorax?,Both symmetrical,Open,-,-,-,-,-
+2,2,test_604_a_1.nii.gz,Where are the atelectatic changes located?,"Left inferior lingular, right lower lobe",Open,-,-,-,-,-
+2,2,test_604_a_2.nii.gz,Which lung lobe shows band atelectatic changes?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_606_a_1.nii.gz,Where are the nonspecific hypodense lesions located?,Left lobe of liver.,Open,-,-,-,-,-
+2,2,test_607_a_1.nii.gz,Which lobe shows density increase in the left lung?,Lower lobe.,Open,-,-,-,-,-
+2,2,test_607_a_2.nii.gz,Which lung lobe shows consolidation?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_610_a_2.nii.gz,What is the condition of the trachea?,Open and clear.,Open,-,-,-,-,-
+2,2,test_613_a_1.nii.gz,Which lung shows more prominent nodular pleural thickening?,Left lung.,Open,-,-,-,-,-
+2,2,test_617_a_2.nii.gz,What is the condition of the lung parenchyma?,Normal aeration,Open,-,-,-,-,-
+2,2,test_623_a_1.nii.gz,Where is the pleural effusion observed?,Left side.,Open,-,-,-,-,-
+2,2,test_624_b_2.nii.gz,Which lobe contains the largest nodular lesion?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_625_a_1.nii.gz,Which lung lobe contains the larger nodule?,Right upper lobe.,Open,-,-,-,-,-
+2,2,test_625_a_2.nii.gz,Where is the larger nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,2,test_626_a_1.nii.gz,What is the condition of the trachea and bronchi?,Open and unobstructed.,Open,-,-,-,-,-
+2,2,test_628_a_1.nii.gz,What is the location of the largest nodule?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_628_a_2.nii.gz,Which lung has the largest calcific nodule?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_62_a_2.nii.gz,What type of thickening is noted in both lungs?,Minimal peribronchial thickening,Open,-,-,-,-,-
+2,2,test_62_b_2.nii.gz,Which area exhibits progressive consolidations?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_62_c_1.nii.gz,Where is the majority of the consolidation located?,Peripheral subpleural,Open,-,-,-,-,-
+2,2,test_62_c_2.nii.gz,What segment of the lungs exhibits consolidation?,Lower lobe.,Open,-,-,-,-,-
+2,2,test_636_b_1.nii.gz,What is observed in the right pleural space?,Free pleural effusion.,Open,-,-,-,-,-
+2,2,test_636_b_2.nii.gz,Which side shows free pleural effusion?,Right side.,Open,-,-,-,-,-
+2,2,test_636_c_2.nii.gz,Where is the consolidation primarily located?,Right upper lobe,Open,-,-,-,-,-
+2,2,test_637_a_2.nii.gz,Where are the nonspecific nodules located?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_63_a_2.nii.gz,Where is the pleural effusion located?,Left lung basal,Open,-,-,-,-,-
+2,2,test_63_b_1.nii.gz,Which lung segment shows atelectasis?,Inferior lingular,Open,-,-,-,-,-
+2,2,test_63_b_2.nii.gz,What is noted in the left lung?,Subsegmental atelectasis,Open,-,-,-,-,-
+2,2,test_640_a_1.nii.gz,Which lung contains the largest nodule?,Left lung.,Open,-,-,-,-,-
+2,2,test_640_a_2.nii.gz,Where are the linear atelectasis areas located?,Right middle lobe and left upper lobe.,Open,-,-,-,-,-
+2,2,test_644_a_1.nii.gz,Where is the band atelectasis located?,Left upper lobe,Open,-,-,-,-,-
+2,2,test_646_a_2.nii.gz,Which lung lobe contains the observed nodules?,Right lung lobe.,Open,-,-,-,-,-
+2,2,test_647_a_1.nii.gz,Where are the calculi found?,Right kidney.,Open,-,-,-,-,-
+2,2,test_648_a_1.nii.gz,Where are the nodules located?,Both lungs,Open,-,-,-,-,-
+2,2,test_648_a_2.nii.gz,Where are the nodules located?,Both lungs,Open,-,-,-,-,-
+2,2,test_64_a_2.nii.gz,What is the position of the small cortical cyst?,Left kidney.,Open,-,-,-,-,-
+2,2,test_64_a_3.nii.gz,Which lung shows linear atelectasis changes?,Left lung,Open,-,-,-,-,-
+2,2,test_64_b_1.nii.gz,What is observed in the right lung lower lobe?,Linear atelectasis.,Open,-,-,-,-,-
+2,2,test_650_a_1.nii.gz,What is the location of the cortical cyst?,Right kidney.,Open,-,-,-,-,-
+2,2,test_651_b_2.nii.gz,Which lung lobe contains the calcific nodule?,"Upper lobe, right lung.",Open,-,-,-,-,-
+2,2,test_652_a_2.nii.gz,Where is the calcified nodule found?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_656_a_1.nii.gz,What area shows increased density?,Right upper lobe.,Open,-,-,-,-,-
+2,2,test_657_a_2.nii.gz,Where are the nodules located?,Right lung,Open,-,-,-,-,-
+2,2,test_662_a_1.nii.gz,Where is the stable lymph node located?,Right upper paratracheal area.,Open,-,-,-,-,-
+2,2,test_667_b_1.nii.gz,What is the position of the pleural effusion?,Left side.,Open,-,-,-,-,-
+2,2,test_667_b_2.nii.gz,Where is the minimal pleural effusion located?,Left side.,Open,-,-,-,-,-
+2,2,test_669_a_1.nii.gz,Where are the parenchymal nodules located?,"Left lower lobe, right upper lobe",Open,-,-,-,-,-
+2,2,test_675_b_2.nii.gz,Which side shows thicker pleural effusion?,Right side.,Open,-,-,-,-,-
+2,2,test_675_c_1.nii.gz,Which side has thicker pleural effusion?,Right side,Open,-,-,-,-,-
+2,2,test_677_a_1.nii.gz,Which lung shows linear atelectasis areas?,Right lung.,Open,-,-,-,-,-
+2,2,test_682_a_2.nii.gz,Which lobe contains the nodule?,Superior lower lobe,Open,-,-,-,-,-
+2,2,test_685_a_1.nii.gz,Which lung contains a pleural-based nodule?,Left lung.,Open,-,-,-,-,-
+2,2,test_696_a_2.nii.gz,Which structures are open?,Trachea and main bronchi.,Open,-,-,-,-,-
+2,2,test_697_a_1.nii.gz,Which lung contains the nodule?,Right lung,Open,-,-,-,-,-
+2,2,test_699_a_2.nii.gz,Which lung has total atelectasis?,Right lung,Open,-,-,-,-,-
+2,2,test_69_a_1.nii.gz,What is the condition of the main bronchi?,Open and unobstructed.,Open,-,-,-,-,-
+2,2,test_6_a_1.nii.gz,Where is the linear atelectasis in the right lung?,Middle lobe medial segment,Open,-,-,-,-,-
+2,2,test_702_a_1.nii.gz,Which lobe contains the consolidation area?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_704_a_2.nii.gz,Where is the largest nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_707_a_1.nii.gz,What is the position of the hypodense lesion?,Anterior right lobe.,Open,-,-,-,-,-
+2,2,test_707_a_2.nii.gz,Where is the pleural effusion located?,Left pleural space.,Open,-,-,-,-,-
+2,2,test_713_b_2.nii.gz,Which lung lobe contains the nodule?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_714_a_1.nii.gz,What is the position of the pleural effusion?,Not detected.,Open,-,-,-,-,-
+2,2,test_715_a_1.nii.gz,Where is the nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_718_a_1.nii.gz,Which side has widespread pleural effusion?,Right side,Open,-,-,-,-,-
+2,2,test_719_a_1.nii.gz,Where is the free fluid collection?,Not present,Open,-,-,-,-,-
+2,2,test_71_b_1.nii.gz,Which lung lobe contains a 2 mm diameter nodule?,Left upper lobe,Open,-,-,-,-,-
+2,2,test_71_b_2.nii.gz,Which lung lobe contains a 2 mm nodule?,Left upper lobe,Open,-,-,-,-,-
+2,2,test_723_a_1.nii.gz,What is the location of the consolidation areas?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_726_a_4.nii.gz,Which lung shows more prominent emphysematous changes?,Right lung.,Open,-,-,-,-,-
+2,2,test_727_a_2.nii.gz,Where is the consolidation primarily located?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_738_a_2.nii.gz,What is the position of the largest nodule in the lungs?,Posterobasal right lower lobe.,Open,-,-,-,-,-
+2,2,test_745_a_1.nii.gz,Where are the prominent ground-glass densities located?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_746_a_1.nii.gz,Which lung lobe contains the atelectasis?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_747_a_2.nii.gz,What region has the largest lymphadenopathy?,Subcarinal region,Open,-,-,-,-,-
+2,2,test_753_a_1.nii.gz,Where is the 4 mm nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_756_a_2.nii.gz,Where is the subpleural nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_764_a_1.nii.gz,Which lung shows atelectatic changes?,Right lung,Open,-,-,-,-,-
+2,2,test_771_a_2.nii.gz,What is the location of the hypodense lesion?,Left kidney upper pole,Open,-,-,-,-,-
+2,2,test_771_b_1.nii.gz,Which lung contains the largest nodule?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_773_a_2.nii.gz,Where is the calcific nodule located?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_776_a_1.nii.gz,What is the condition of the lymph nodes?,No enlargement detected.,Open,-,-,-,-,-
+2,2,test_777_a_1.nii.gz,Which hemithorax has a larger pleural effusion?,Right hemithorax.,Open,-,-,-,-,-
+2,2,test_778_b_1.nii.gz,Where are the calcific plaques observed?,Aortic arch.,Open,-,-,-,-,-
+2,2,test_779_a_2.nii.gz,What is the location of the observed abnormalities?,Both lungs,Open,-,-,-,-,-
+2,2,test_780_a_2.nii.gz,Where is the nodular appearance located?,Left lower lobe,Open,-,-,-,-,-
+2,2,test_784_a_1.nii.gz,What segment shows atelectasis?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_785_a_2.nii.gz,Which kidney has hyperdense stones?,Right kidney.,Open,-,-,-,-,-
+2,2,test_78_a_2.nii.gz,What area of the left lung exhibits nearly complete atelectasis?,Lower lobe,Open,-,-,-,-,-
+2,2,test_790_a_1.nii.gz,Which lobes show atelectatic changes?,Both lower lobes.,Open,-,-,-,-,-
+2,2,test_794_a_1.nii.gz,Which lung contains the largest nodule?,Right lung.,Open,-,-,-,-,-
+2,2,test_796_a_2.nii.gz,What is the condition of the pleural space?,No effusion,Open,-,-,-,-,-
+2,2,test_7_b_1.nii.gz,What is the general localization of the pulmonary nodules?,Subpleural localization.,Open,-,-,-,-,-
+2,2,test_801_a_2.nii.gz,Which lung shows no mass nodule?,Both lungs.,Open,-,-,-,-,-
+2,2,test_804_a_1.nii.gz,What is the location of the ground glass areas?,Both lungs.,Open,-,-,-,-,-
+2,2,test_811_a_1.nii.gz,Where is the pleuroparenchymal change located?,Left lung upper lobe,Open,-,-,-,-,-
+2,2,test_814_a_1.nii.gz,Where is the focal density increase located?,Left lung lower lobe,Open,-,-,-,-,-
+2,2,test_814_a_2.nii.gz,Where is the focal ground-glass density increase located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_815_a_1.nii.gz,Where are the areas of consolidation primarily located?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_815_a_2.nii.gz,Where are the consolidation areas primarily located?,Lower lobes.,Open,-,-,-,-,-
+2,2,test_816_a_1.nii.gz,Where is the air cyst located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_820_a_1.nii.gz,Which kidney has a nodular lesion?,Left kidney,Open,-,-,-,-,-
+2,2,test_830_c_2.nii.gz,Where is the atelectasis specifically located?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_831_a_1.nii.gz,Where are the pleuroparenchymal fibrotic bands located?,Lower lobe posterobasal segment.,Open,-,-,-,-,-
+2,2,test_835_a_2.nii.gz,Where is the nodule located?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_836_a_1.nii.gz,Which region has the largest lymphadenopathy?,Subcarinal region,Open,-,-,-,-,-
+2,2,test_837_a_1.nii.gz,What is the location of the nodule in the right lung?,Middle lobe.,Open,-,-,-,-,-
+2,2,test_837_a_2.nii.gz,Where is the nodule located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_839_a_1.nii.gz,Where is the nodule located?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_840_a_2.nii.gz,What segment contains the nodule?,Apicoposterior segment,Open,-,-,-,-,-
+2,2,test_842_a_1.nii.gz,Which hemithorax contains pleural effusion?,Left hemithorax.,Open,-,-,-,-,-
+2,2,test_842_a_2.nii.gz,Where is the pleural effusion located?,Left hemithorax.,Open,-,-,-,-,-
+2,2,test_843_a_1.nii.gz,What is the position of the small amount of effusion?,Right hemithorax.,Open,-,-,-,-,-
+2,2,test_843_a_2.nii.gz,Which hemithorax contains effusion?,Right hemithorax.,Open,-,-,-,-,-
+2,2,test_849_a_2.nii.gz,Where is the largest focal consolidation located?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_851_a_2.nii.gz,What is the location of the calcified nodules?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_852_a_2.nii.gz,Where are the ground-glass densities observed?,Both lungs,Open,-,-,-,-,-
+2,2,test_857_a_1.nii.gz,Where is the air cyst located?,Left upper lobe,Open,-,-,-,-,-
+2,2,test_857_a_2.nii.gz,Where is the air cyst located?,Left upper lobe.,Open,-,-,-,-,-
+2,2,test_85_a_2.nii.gz,Which lung exhibits coalescing infiltration?,Left lung,Open,-,-,-,-,-
+2,2,test_864_a_1.nii.gz,Where are the fibrotic changes located?,Upper lobes,Open,-,-,-,-,-
+2,2,test_865_a_1.nii.gz,Which lung lobe contains the abnormality?,Right lung upper lobe.,Open,-,-,-,-,-
+2,2,test_867_a_1.nii.gz,Which lobe shows interlobular septal thickenings?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_86_a_1.nii.gz,Where are the thyroid nodules located?,Both thyroid lobes.,Open,-,-,-,-,-
+2,2,test_870_a_2.nii.gz,Which lung shows more prominent consolidations?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_874_a_1.nii.gz,Where is the infiltration located?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_879_a_1.nii.gz,Where are the atelectatic changes observed?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_880_a_2.nii.gz,Where is the elevation observed?,Right hemidiaphragm,Open,-,-,-,-,-
+2,2,test_881_a_1.nii.gz,Where is the subsegmental atelectasis located?,Left lower lobe,Open,-,-,-,-,-
+2,2,test_881_a_2.nii.gz,Where is the subsegmental atelectasis found?,"Lower lobe, left lung.",Open,-,-,-,-,-
+2,2,test_882_a_2.nii.gz,Where are the cortical cysts located?,Both kidneys,Open,-,-,-,-,-
+2,2,test_883_a_1.nii.gz,Where are the parenchymal nodules located?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_883_a_2.nii.gz,Where are the parenchymal nodules located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_884_a_1.nii.gz,What segments show subsegmental atelectasis?,Posterobasal segments.,Open,-,-,-,-,-
+2,2,test_884_a_2.nii.gz,Which segments show subsegmental atelectasis?,Posterobasal segments.,Open,-,-,-,-,-
+2,2,test_884_a_3.nii.gz,Which segments show subsegmental atelectasis?,Posterobasal segments.,Open,-,-,-,-,-
+2,2,test_884_a_4.nii.gz,What segments show atelectasis?,Posterobasal segments.,Open,-,-,-,-,-
+2,2,test_885_a_1.nii.gz,What is observed in the right lung lower lobe?,Consolidation areas.,Open,-,-,-,-,-
+2,2,test_886_a_1.nii.gz,Which kidney has a stone?,Right kidney,Open,-,-,-,-,-
+2,2,test_887_a_1.nii.gz,What area contains the largest lymphadenopathy?,Right paratracheal area.,Open,-,-,-,-,-
+2,2,test_887_a_2.nii.gz,Where is the largest lymphadenopathy located?,Right paratracheal area.,Open,-,-,-,-,-
+2,2,test_888_a_2.nii.gz,What area of the lung exhibits atelectatic changes?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_889_a_2.nii.gz,Which lymph node regions show no enlargement?,Prevascular and subcarinal.,Open,-,-,-,-,-
+2,2,test_890_a_1.nii.gz,Where is the largest nodule located?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_890_a_2.nii.gz,Which lung segment contains the largest nodule?,Lateral segment of right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_891_a_1.nii.gz,Which segment shows atelectasis?,Lingular segment,Open,-,-,-,-,-
+2,2,test_894_a_2.nii.gz,What is the position of the fusiform aneurysmatic dilatation?,Ascending aorta.,Open,-,-,-,-,-
+2,2,test_895_a_1.nii.gz,What is the position of the nodular lesion?,Left adrenal gland.,Open,-,-,-,-,-
+2,2,test_896_a_1.nii.gz,Where are the nodules situated?,Subpleural region,Open,-,-,-,-,-
+2,2,test_898_a_2.nii.gz,Where is the nodule situated?,Subpleural,Open,-,-,-,-,-
+2,2,test_899_a_2.nii.gz,Where are the largest lymphadenopathies located?,Subcarinal area,Open,-,-,-,-,-
+2,2,test_900_a_2.nii.gz,Where are the pleuroparenchymal sequelae?,"Right middle lobe, left inferior lingula",Open,-,-,-,-,-
+2,2,test_902_a_1.nii.gz,Where is the mass located?,Left infrahilar region.,Open,-,-,-,-,-
+2,2,test_902_a_2.nii.gz,What segment is the mass surrounding?,Lower lobe segmental bronchi.,Open,-,-,-,-,-
+2,2,test_906_a_1.nii.gz,Where are the fibrotic densities located?,Middle lobe.,Open,-,-,-,-,-
+2,2,test_906_a_2.nii.gz,What is the condition of the thoracic aorta?,No dilatation,Open,-,-,-,-,-
+2,2,test_907_a_1.nii.gz,Where is the nodule situated in relation to the lung?,Lower lobe.,Open,-,-,-,-,-
+2,2,test_908_a_1.nii.gz,Where are the subpleural air cysts found?,Right lower lobe.,Open,-,-,-,-,-
+2,2,test_90_a_2.nii.gz,Which lobe of the right lung has lesions?,Upper lobe.,Open,-,-,-,-,-
+2,2,test_90_b_1.nii.gz,Where is the consolidated area located?,"Lateral segment, left lower lobe",Open,-,-,-,-,-
+2,2,test_90_b_2.nii.gz,What is noted in the lower lobe of the left lung?,Consolidated area,Open,-,-,-,-,-
+2,2,test_911_a_1.nii.gz,Where are the nodular densities primarily observed?,Centriacinar regions.,Open,-,-,-,-,-
+2,2,test_913_a_2.nii.gz,What area shows no enlarged lymph nodes?,Prevascular region,Open,-,-,-,-,-
+2,2,test_914_a_1.nii.gz,Which segment of the right lung shows a subpleural nodule?,Middle lobe.,Open,-,-,-,-,-
+2,2,test_915_b_1.nii.gz,Which lung lobe contains the nodule?,Left lower lobe.,Open,-,-,-,-,-
+2,2,test_915_c_1.nii.gz,Which lung contains the nodule?,Left lung.,Open,-,-,-,-,-
+2,2,test_915_c_2.nii.gz,What is the position of the nodule?,Lower lobe,Open,-,-,-,-,-
+2,2,test_916_a_1.nii.gz,What is noted in the right lung lower lobe?,Nodular consolidation,Open,-,-,-,-,-
+2,2,test_916_a_2.nii.gz,Where are the nodular consolidation areas observed?,Right lung upper lobe anterior.,Open,-,-,-,-,-
+2,2,test_917_a_2.nii.gz,Which lung lobe shows subpleural ground glass opacity?,Left lung lower lobe.,Open,-,-,-,-,-
+2,2,test_919_a_2.nii.gz,What area shows no active infiltration or mass?,Both lungs.,Open,-,-,-,-,-
+2,2,test_91_a_1.nii.gz,Which lobe has consolidations?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_91_a_2.nii.gz,Which lobe shows ground glass areas?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_920_a_1.nii.gz,Where are the areas of increased density localized?,Peripheral subpleural,Open,-,-,-,-,-
+2,2,test_920_a_2.nii.gz,Which part of the lungs are the indistinct borders localized?,Peripheral subpleural,Open,-,-,-,-,-
+2,2,test_921_a_1.nii.gz,Where is the calcific lymph node located?,Posterior to right pulmonary artery,Open,-,-,-,-,-
+2,2,test_922_a_2.nii.gz,What position is the pleural effusion in?,Not present.,Open,-,-,-,-,-
+2,2,test_923_a_1.nii.gz,What is observed in the peripheral area?,Ground glass areas,Open,-,-,-,-,-
+2,2,test_924_a_1.nii.gz,Which lung lobes exhibit consolidation?,Both lower lobes.,Open,-,-,-,-,-
+2,2,test_924_a_2.nii.gz,What segment shows linear subsegmental atelectatic changes?,Right middle lobe.,Open,-,-,-,-,-
+2,2,test_927_a_1.nii.gz,Where are the lymphadenopathies located?,Mediastinum and hilar regions,Open,-,-,-,-,-
+2,2,test_927_a_2.nii.gz,Where is the largest lymphadenopathy located?,Paratracheal region.,Open,-,-,-,-,-
+2,2,test_928_b_1.nii.gz,Where are the millimetric sized nonspecific parenchymal nodules located?,Both lungs.,Open,-,-,-,-,-
+2,2,test_931_b_1.nii.gz,Which lung lobe shows atelectatic changes?,Left lung upper lobe.,Open,-,-,-,-,-
+2,2,test_931_b_2.nii.gz,Which lobe shows atelectatic changes?,Left upper lobe,Open,-,-,-,-,-
+2,2,test_933_a_1.nii.gz,Which kidney contains a cortical cyst?,Right kidney.,Open,-,-,-,-,-
+2,2,test_934_a_1.nii.gz,Which kidney has the hypodense lesion?,Right kidney,Open,-,-,-,-,-
+2,2,test_934_a_2.nii.gz,What is the location of the hypodense lesion?,Upper pole of right kidney,Open,-,-,-,-,-
+2,2,test_935_a_2.nii.gz,Which areas show patchy consolidation?,Posterobasal areas.,Open,-,-,-,-,-
+2,2,test_936_a_1.nii.gz,What is the location of the nodular lesion?,Anterior mediastinum,Open,-,-,-,-,-
+2,2,test_936_a_2.nii.gz,What segment shows linear atelectasis in the left lung?,Upper lobe lingular segment.,Open,-,-,-,-,-
+2,2,test_937_b_1.nii.gz,What segment shows faint ground glass areas?,Anterior segments of both lungs.,Open,-,-,-,-,-
+2,2,test_937_c_1.nii.gz,Where are the infiltration areas located?,Posterobasal segments.,Open,-,-,-,-,-
+2,2,test_937_c_2.nii.gz,What segments show infiltration areas?,Posterobasal segments.,Open,-,-,-,-,-
+2,2,test_937_d_2.nii.gz,Which segment shows a millimetric cavitation area?,Apicoposterior segment.,Open,-,-,-,-,-
+2,2,test_937_f_2.nii.gz,What segment of the right lung shows consolidations?,Middle lobe.,Open,-,-,-,-,-
+2,2,test_937_h_1.nii.gz,Where are the consolidations more prominent?,Upper lobes,Open,-,-,-,-,-
+2,2,test_938_a_1.nii.gz,Which regions show no pathologically enlarged lymph nodes?,"Mediastinum, hilar",Open,-,-,-,-,-
+2,2,test_939_a_2.nii.gz,What segment of the lung shows abnormalities?,Right lung middle lobe,Open,-,-,-,-,-
+2,2,test_93_a_1.nii.gz,Which part of the right clavicle shows a lesion?,Middle part.,Open,-,-,-,-,-
+2,2,test_940_a_1.nii.gz,Where are the ground-glass nodules located?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_940_a_2.nii.gz,Where are the ground-glass nodules located?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_942_a_2.nii.gz,Which lung contains a 3 mm diameter nodule?,Right lung.,Open,-,-,-,-,-
+2,2,test_943_a_1.nii.gz,Which lobe shows consolidation areas?,Right lung upper lobe,Open,-,-,-,-,-
+2,2,test_945_a_1.nii.gz,Where are the ground glass nodules located?,Right lung lower lobe,Open,-,-,-,-,-
+2,2,test_945_b_2.nii.gz,What is the position of the observed lymph node?,Right upper paratracheal.,Open,-,-,-,-,-
+2,2,test_947_a_1.nii.gz,Where are the nodular ground glass consolidations located?,Upper lobes,Open,-,-,-,-,-
+2,2,test_948_a_2.nii.gz,Where is the nodule located?,Right middle lobe.,Open,-,-,-,-,-
+2,2,test_949_a_2.nii.gz,What is the condition of the pleura?,No effusion.,Open,-,-,-,-,-
+2,2,test_94_a_1.nii.gz,Which lung has atelectasis in the upper lobe?,Left lung,Open,-,-,-,-,-
+2,2,test_94_a_2.nii.gz,Where is the atelectasis in the left lung?,Upper lobe apical,Open,-,-,-,-,-
+2,2,test_950_a_1.nii.gz,Where is the newly developed nodule located?,Upper lobe apicoposterior segment.,Open,-,-,-,-,-
+2,2,test_950_a_2.nii.gz,Where is the newly developed nodule located?,Upper lobe,Open,-,-,-,-,-
+2,2,test_957_a_2.nii.gz,Which regions contain the nodules?,Both lungs,Open,-,-,-,-,-
+2,2,test_95_a_1.nii.gz,What is the location of the consolidative parenchyma area?,Lower lobe.,Open,-,-,-,-,-
+2,2,test_95_a_2.nii.gz,What is the position of the largest lymph nodes?,Subcarinal area.,Open,-,-,-,-,-
+2,2,test_960_a_1.nii.gz,Where is the hypodense lesion located in the left lung?,Upper lobe anterior.,Open,-,-,-,-,-
+2,2,test_962_a_2.nii.gz,Where is the thickening located?,Bilateral major fissures.,Open,-,-,-,-,-
+2,2,test_963_a_1.nii.gz,What areas show consolidations?,"Right middle lobe, left upper lobe",Open,-,-,-,-,-
+2,2,test_965_a_2.nii.gz,Where is the trachea displaced?,To the right.,Open,-,-,-,-,-
+2,2,test_968_a_1.nii.gz,Which segment shows total atelectasis?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_968_a_2.nii.gz,Which lung shows nodular ground glass densities?,Bilateral lower lobes,Open,-,-,-,-,-
+2,2,test_968_b_1.nii.gz,Where are the coarse calcifications located?,Posterobasal region,Open,-,-,-,-,-
+2,2,test_968_b_2.nii.gz,Which lung shows total atelectasis?,Right lung,Open,-,-,-,-,-
+2,2,test_968_d_1.nii.gz,Which lymph nodes are calcified?,Right hilar lymph nodes,Open,-,-,-,-,-
+2,2,test_968_d_2.nii.gz,Where is the pericardial effusion located?,Pericardial space,Open,-,-,-,-,-
+2,2,test_969_a_1.nii.gz,Where are the degenerative changes observed?,Lower thoracic vertebrae,Open,-,-,-,-,-
+2,2,test_970_a_1.nii.gz,What segment shows minimal volume loss in the right lung?,Middle lobe medial segment.,Open,-,-,-,-,-
+2,2,test_971_b_1.nii.gz,Where are the nodules more prominent?,Left lung,Open,-,-,-,-,-
+2,2,test_972_a_1.nii.gz,Where are the linear atelectasis located?,"Right middle lobe, left upper lobe.",Open,-,-,-,-,-
+2,2,test_974_a_2.nii.gz,Which lung shows linear atelectatic changes?,Right middle lobe,Open,-,-,-,-,-
+2,2,test_975_a_1.nii.gz,What is noted in the lingular segment?,Linear atelectasis areas.,Open,-,-,-,-,-
+2,2,test_975_a_2.nii.gz,Which segment shows linear atelectasis?,Lingular segment.,Open,-,-,-,-,-
+2,2,test_976_a_2.nii.gz,Which adrenal gland shows thickening?,Left adrenal gland.,Open,-,-,-,-,-
+2,2,test_978_a_1.nii.gz,Which lobes show ground-glass areas?,"Upper, lower lobes",Open,-,-,-,-,-
+2,2,test_97_a_1.nii.gz,Which lung contains the largest nodule?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_983_a_1.nii.gz,What is the location of the nodular ground-glass opacities?,Right lung lower lobe.,Open,-,-,-,-,-
+2,2,test_983_a_2.nii.gz,Which lung shows subsegmental atelectatic changes?,Right lower lobe,Open,-,-,-,-,-
+2,2,test_984_a_1.nii.gz,What area shows a mosaic attenuation pattern?,Lower lung lobes.,Open,-,-,-,-,-
+2,2,test_985_a_1.nii.gz,What is observed in the lower lobes?,Consolidation areas,Open,-,-,-,-,-
+2,2,test_985_a_2.nii.gz,Which lobes show consolidation areas?,Lower lobes,Open,-,-,-,-,-
+2,2,test_986_a_2.nii.gz,What is observed in the left lung lower lobe?,Millimetric ground-glass density,Open,-,-,-,-,-
+2,2,test_987_a_2.nii.gz,Where are the nodules located in the right lung?,Middle lobe medial segment.,Open,-,-,-,-,-
+2,2,test_989_a_1.nii.gz,Which lobe contains the nodule?,Anterior upper lobe,Open,-,-,-,-,-
+2,2,test_989_a_2.nii.gz,Which lung contains the nodule?,Right lung.,Open,-,-,-,-,-
+2,2,test_990_a_1.nii.gz,What segment shows passive atelectatic changes?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_990_a_2.nii.gz,What segment shows passive atelectatic changes?,Right lung middle lobe.,Open,-,-,-,-,-
+2,2,test_991_a_1.nii.gz,What area shows atelectasis changes?,Left upper lobe,Open,-,-,-,-,-
+2,2,test_991_a_2.nii.gz,Which lobe shows atelectasis?,Left upper lobe,Open,-,-,-,-,-
+2,2,test_991_b_1.nii.gz,Where are the newly developed densities located?,"Right lung, upper lobe",Open,-,-,-,-,-
+2,2,test_991_b_2.nii.gz,What is observed in the lower lobe?,Subpleural ground-glass,Open,-,-,-,-,-
+2,2,test_994_a_2.nii.gz,What is the position of the nodules larger than 5.3 mm?,"Anterior segment, upper lobe.",Open,-,-,-,-,-
+2,2,test_994_a_4.nii.gz,What is the position of the larger nodules?,"Anterior segment, upper lobe.",Open,-,-,-,-,-
+2,2,test_994_a_5.nii.gz,Which lung apex has nodules?,Right lung apex.,Open,-,-,-,-,-
+2,2,test_998_a_1.nii.gz,Which lobe has atelectasis?,Middle lobe,Open,-,-,-,-,-
+2,2,test_998_a_2.nii.gz,Which lobes show atelectasis?,"Right middle lobe, left lingular segment",Open,-,-,-,-,-
+2,2,test_999_a_2.nii.gz,Where is the normal aeration observed?,Lung parenchyma.,Open,-,-,-,-,-
+2,2,test_9_a_1.nii.gz,Which lobe of the right lung has the consolidation?,Middle lobe,Open,-,-,-,-,-

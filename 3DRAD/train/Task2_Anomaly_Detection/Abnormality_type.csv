@@ -1,0 +1,1292 @@
+Task,Subtask,VolumeName,Question,Answer,QuestionType,AnswerChoice,Choice A,Choice B,Choice C,Choice D
+2,3,train_10009_a_1.nii.gz,Where is the irregular soft tissue density observed?,Right lung apex.,Open,-,-,-,-,-
+2,3,train_10029_a_1.nii.gz,Where are the calcified nodules located?,Left lung apical.,Open,-,-,-,-,-
+2,3,train_10040_a_1.nii.gz,Where is focal consolidative density observed?,Left lung inferior lingular segment,Open,-,-,-,-,-
+2,3,train_10042_a_1.nii.gz,What type of opacities are observed?,Ground-glass opacities.,Open,-,-,-,-,-
+2,3,train_1004_a_1.nii.gz,Where is the stone located?,Upper pole right kidney.,Open,-,-,-,-,-
+2,3,train_10057_a_1.nii.gz,What type of opacity is observed in the left lung?,Ground glass opacity.,Open,-,-,-,-,-
+2,3,train_10060_a_2.nii.gz,Which lung shows atelectasis?,Right lung.,Open,-,-,-,-,-
+2,3,train_10083_b_2.nii.gz,Where are the stable nodules located in the right lung?,Upper lobe posterior segment.,Open,-,-,-,-,-
+2,3,train_10083_c_2.nii.gz,Where is the nodular thickening located?,"Fissure, inferior lobe",Open,-,-,-,-,-
+2,3,train_10098_a_1.nii.gz,Which type of bronchial abnormality is present?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_10103_a_2.nii.gz,Where are the minimal opacities observed?,Upper lobes of lungs,Open,-,-,-,-,-
+2,3,train_10116_a_1.nii.gz,Where are the patchy ground glass consolidations located?,Lower lobe basal segments,Open,-,-,-,-,-
+2,3,train_10118_a_1.nii.gz,Where are the ground glass opacities located?,Bilateral lungs,Open,-,-,-,-,-
+2,3,train_10118_a_2.nii.gz,Where are the patchy ground glass opacities observed?,Bilateral lungs.,Open,-,-,-,-,-
+2,3,train_10122_a_1.nii.gz,Where is the atelectasis located?,Both lower lobes,Open,-,-,-,-,-
+2,3,train_10131_a_1.nii.gz,Which type of density is observed in the medial segment of the middle lobe of the right lung?,Consolidative density.,Open,-,-,-,-,-
+2,3,train_1016_a_1.nii.gz,Where are the pleural effusions located?,Right and left hemithorax,Open,-,-,-,-,-
+2,3,train_10220_a_1.nii.gz,Where are the ground glass opacities observed?,Both lungs.,Open,-,-,-,-,-
+2,3,train_10223_a_1.nii.gz,Which lung shows consolidation?,Right lung,Open,-,-,-,-,-
+2,3,train_10321_f_1.nii.gz,Where is the air cyst located?,Right upper lobe.,Open,-,-,-,-,-
+2,3,train_10345_b_1.nii.gz,Which abnormality is identified in the thoracic aorta?,Fusiform aneurysmatic dilatation.,Open,-,-,-,-,-
+2,3,train_10362_a_1.nii.gz,Where is the focal consolidation area located?,Lower pole posterobasal segment.,Open,-,-,-,-,-
+2,3,train_10389_a_2.nii.gz,Which configuration does the lesion have?,Oval configuration,Open,-,-,-,-,-
+2,3,train_10393_a_2.nii.gz,Where are the ground-glass density increases located?,Lung lower lobes.,Open,-,-,-,-,-
+2,3,train_10432_c_2.nii.gz,Where is the abnormality primarily located?,Upper lobes.,Open,-,-,-,-,-
+2,3,train_10440_a_2.nii.gz,Where are the ground-glass density nodules located?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_10443_a_1.nii.gz,Where is the semisolid nodule located?,"Upper lobe, right lung.",Open,-,-,-,-,-
+2,3,train_10448_a_2.nii.gz,Where are the nodular ground-glass densities located?,Peripheral subpleural area,Open,-,-,-,-,-
+2,3,train_10468_a_1.nii.gz,Where is the solitary nodule located?,Left lung.,Open,-,-,-,-,-
+2,3,train_10490_a_1.nii.gz,Where is the nodular thickening observed?,Perihilar area of right lung.,Open,-,-,-,-,-
+2,3,train_10498_b_2.nii.gz,Where is the hemothorax located?,Right pleural space.,Open,-,-,-,-,-
+2,3,train_10500_a_2.nii.gz,Where is the calcific plaque located?,Aortic arch.,Open,-,-,-,-,-
+2,3,train_10509_a_2.nii.gz,Where is the consolidation located?,Lower lobe,Open,-,-,-,-,-
+2,3,train_10553_a_1.nii.gz,Where is the focal consolidation observed?,Lingular segment.,Open,-,-,-,-,-
+2,3,train_10579_a_2.nii.gz,Where are the enlarged lymph nodes?,Not present,Open,-,-,-,-,-
+2,3,train_10597_a_2.nii.gz,What type of dilation is noted in the aorta?,Fusiform aneurysmatic dilation.,Open,-,-,-,-,-
+2,3,train_10641_d_2.nii.gz,Which type of density is noted in the left lung?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_10641_g_1.nii.gz,Where is the focal consolidation observed?,Middle lobe.,Open,-,-,-,-,-
+2,3,train_10656_a_2.nii.gz,Where is the mass observed?,Anterior mediastinum.,Open,-,-,-,-,-
+2,3,train_10667_a_2.nii.gz,Where are the bronchiectasis observed?,Middle lobe of the right lung.,Open,-,-,-,-,-
+2,3,train_10669_a_2.nii.gz,Where is the solid nodule located?,Left lung middle lobe,Open,-,-,-,-,-
+2,3,train_10672_a_1.nii.gz,Where are the lesions detected?,None present.,Open,-,-,-,-,-
+2,3,train_10678_a_1.nii.gz,Which lung is collapsed?,Right lung,Open,-,-,-,-,-
+2,3,train_10719_a_1.nii.gz,Which condition is indicated by the total collapse of the left lung?,Atelectasis.,Open,-,-,-,-,-
+2,3,train_10721_a_1.nii.gz,What type of abnormality is present in the lung parenchyma?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_10728_a_2.nii.gz,Where are the hypodense nodular lesions located?,Right liver lobe.,Open,-,-,-,-,-
+2,3,train_10744_e_2.nii.gz,Where is the more extensive pneumonic infiltration located?,Lower lobe basal segments.,Open,-,-,-,-,-
+2,3,train_10746_a_2.nii.gz,Which lung shows atelectasis?,Right lung.,Open,-,-,-,-,-
+2,3,train_10784_b_1.nii.gz,What type of emphysema is observed?,Subpleural paraseptal.,Open,-,-,-,-,-
+2,3,train_10787_a_1.nii.gz,Where is the bronchiectasis extending?,Left lung lingula,Open,-,-,-,-,-
+2,3,train_10807_a_1.nii.gz,Where is the pneumothorax located?,Left side,Open,-,-,-,-,-
+2,3,train_10811_a_1.nii.gz,Where is the larger nodule found?,Lingular segment of left lung.,Open,-,-,-,-,-
+2,3,train_10860_a_2.nii.gz,Where are the nonspecific nodules located?,Bilateral lungs.,Open,-,-,-,-,-
+2,3,train_10887_a_1.nii.gz,Where is the pleural effusion?,Not detected,Open,-,-,-,-,-
+2,3,train_10907_a_2.nii.gz,Where are the patchy ground-glass consolidations observed?,Upper lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_10908_a_2.nii.gz,What type of atelectasis is present?,Segmental atelectasis.,Open,-,-,-,-,-
+2,3,train_10912_a_2.nii.gz,Where are the hypodense lesions located?,Both kidneys.,Open,-,-,-,-,-
+2,3,train_10919_a_2.nii.gz,Where is the bulla formation located?,Left lung apex.,Open,-,-,-,-,-
+2,3,train_10922_a_2.nii.gz,Where are the lesions detected?,No lesions,Open,-,-,-,-,-
+2,3,train_10923_a_2.nii.gz,What type of density is present?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_10940_a_2.nii.gz,Which type of nodule is present?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_10942_b_1.nii.gz,Where are the atelectasis located?,"Right middle lobe, left lingular segment",Open,-,-,-,-,-
+2,3,train_10953_a_1.nii.gz,Where are the ground-glass densities observed?,Both lungs.,Open,-,-,-,-,-
+2,3,train_10953_a_2.nii.gz,Where are the ground-glass densities observed?,Both lungs,Open,-,-,-,-,-
+2,3,train_10966_a_1.nii.gz,What type of nodule is observed in the anterior segment of the left lung?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_1096_a_2.nii.gz,Where is the eventration observed?,Right hemidiaphragm.,Open,-,-,-,-,-
+2,3,train_10980_a_1.nii.gz,Where is the air cyst located?,"Lower lobe, left lung",Open,-,-,-,-,-
+2,3,train_10988_a_1.nii.gz,Where is the fusiform aneurysmatic dilatation observed?,Thoracic aorta.,Open,-,-,-,-,-
+2,3,train_11013_b_1.nii.gz,Where is the small nodule located in the right lung?,Lower lobe laterobasal segment.,Open,-,-,-,-,-
+2,3,train_11019_a_2.nii.gz,Where are the focal atelectasis areas located?,Right middle lobe.,Open,-,-,-,-,-
+2,3,train_11024_a_2.nii.gz,Where is the minimal pleural effusion observed?,Left side.,Open,-,-,-,-,-
+2,3,train_11042_a_2.nii.gz,Where is the pleural effusion?,Not detected,Open,-,-,-,-,-
+2,3,train_11048_a_1.nii.gz,Where are the air cysts localized in the lungs?,"Peripheral, subpleural.",Open,-,-,-,-,-
+2,3,train_11066_a_2.nii.gz,Which type of nodule is observed?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_11073_g_1.nii.gz,Where is the newly developed nodule located?,Right lung mid-lobe.,Open,-,-,-,-,-
+2,3,train_11073_g_2.nii.gz,What type of lesion is observed in the left lung upper lobe?,Cavitary thick-walled lesion.,Open,-,-,-,-,-
+2,3,train_11073_h_1.nii.gz,Which type of opacity is observed in the left lung lower lobe?,Ground glass opacity.,Open,-,-,-,-,-
+2,3,train_11084_b_1.nii.gz,Which lung shows linear fibrotic changes?,Right lung,Open,-,-,-,-,-
+2,3,train_11111_a_2.nii.gz,Which lung shows consolidation?,Left lower lobe.,Open,-,-,-,-,-
+2,3,train_11114_b_2.nii.gz,Where is the band-shaped atelectasis observed?,Lingula of left lung,Open,-,-,-,-,-
+2,3,train_11126_a_1.nii.gz,Where is the pleural effusion?,Not detected.,Open,-,-,-,-,-
+2,3,train_11136_a_1.nii.gz,Where is the eventration observed?,Right hemidiaphragm.,Open,-,-,-,-,-
+2,3,train_11150_a_1.nii.gz,Which contour is observed around the lesion?,Spiculated contour,Open,-,-,-,-,-
+2,3,train_11150_a_2.nii.gz,Which contour is observed around the lesion?,Spiculated contour,Open,-,-,-,-,-
+2,3,train_11161_a_2.nii.gz,Where is the low-density lesion located?,Left adrenal gland.,Open,-,-,-,-,-
+2,3,train_11163_a_1.nii.gz,Where is the nonspecific nodule found?,Superior left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_11176_a_1.nii.gz,Which type of atelectasis is observed?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_11188_a_2.nii.gz,What type of lesions are identified?,No lesions.,Open,-,-,-,-,-
+2,3,train_1118_c_1.nii.gz,Which type of effusion is present?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_1118_c_2.nii.gz,Where is the bilateral pleural effusion observed?,Both hemithorax,Open,-,-,-,-,-
+2,3,train_11229_a_1.nii.gz,Where are the enlarged lymph nodes located?,Not present.,Open,-,-,-,-,-
+2,3,train_1124_a_1.nii.gz,Where is the subsegmental atelectasis located?,Linguloinferior segment of the left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_1133_a_1.nii.gz,Where is the lymph node located?,Right upper paratracheal.,Open,-,-,-,-,-
+2,3,train_1133_a_2.nii.gz,Where is the lymph node located?,Right upper paratracheal.,Open,-,-,-,-,-
+2,3,train_11346_a_2.nii.gz,Which type of nodule is observed?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_11480_a_1.nii.gz,Where is the mass lesion primarily located?,Right lung hilum,Open,-,-,-,-,-
+2,3,train_1149_a_2.nii.gz,Where is the largest nodule located?,Superior segment of the right lung,Open,-,-,-,-,-
+2,3,train_1154_a_2.nii.gz,Where is the abnormality located?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_11572_b_2.nii.gz,Where are the consolidations found?,Middle lobe of right lung.,Open,-,-,-,-,-
+2,3,train_11610_a_1.nii.gz,Where is the consolidation located?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_11620_a_1.nii.gz,Which lung shows focal ground-glass density?,Left lung.,Open,-,-,-,-,-
+2,3,train_1162_a_1.nii.gz,Where is the pleural effusion?,Right pleura.,Open,-,-,-,-,-
+2,3,train_1163_b_1.nii.gz,What type of atelectasis is present?,Segmental atelectasis,Open,-,-,-,-,-
+2,3,train_11647_a_2.nii.gz,Which lung has a nodule at the minor fissure?,Right lung,Open,-,-,-,-,-
+2,3,train_11662_a_2.nii.gz,Where is the moderate to large effusion observed?,Left hemithorax.,Open,-,-,-,-,-
+2,3,train_1166_a_2.nii.gz,What type of abnormality is seen in the posterior segment of the right lung upper lobe?,Consolidation.,Open,-,-,-,-,-
+2,3,train_11728_a_1.nii.gz,Which type of effusions are present?,Bilateral pleural effusions.,Open,-,-,-,-,-
+2,3,train_11751_a_1.nii.gz,Which lung is affected?,Right lung.,Open,-,-,-,-,-
+2,3,train_1175_a_1.nii.gz,Where is the parenchymal nodule located?,Superior segment of left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_11782_a_2.nii.gz,What type of opacity is noted in the right lung?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_11837_b_1.nii.gz,Which arteries are dilated?,Pulmonary arteries.,Open,-,-,-,-,-
+2,3,train_11842_a_1.nii.gz,Where is the ground-glass appearance located?,"Lower lobe, left lung.",Open,-,-,-,-,-
+2,3,train_11857_a_1.nii.gz,What characteristic does the lesion in the right lung have?,Well-defined borders,Open,-,-,-,-,-
+2,3,train_11880_c_2.nii.gz,Which lung shows atelectasis?,Left lung.,Open,-,-,-,-,-
+2,3,train_11910_a_1.nii.gz,What type of opacity is observed?,Ground-glass opacity,Open,-,-,-,-,-
+2,3,train_11910_a_2.nii.gz,Which type of opacity is observed?,Ground-glass opacity,Open,-,-,-,-,-
+2,3,train_11931_f_1.nii.gz,Where are the hypodense lesions located?,"Left lobe, liver.",Open,-,-,-,-,-
+2,3,train_11948_b_1.nii.gz,Which abnormality is present in the ascending aorta?,Aneurysmatic dilation.,Open,-,-,-,-,-
+2,3,train_1196_b_1.nii.gz,Which type of thickening is observed in the bronchi?,Peribronchial thickening.,Open,-,-,-,-,-
+2,3,train_11978_a_1.nii.gz,What type of lymphadenopathy is present?,Bilateral hilar lymphadenopathy,Open,-,-,-,-,-
+2,3,train_11986_a_2.nii.gz,Where is the nodule found?,Middle lobe of right lung.,Open,-,-,-,-,-
+2,3,train_11987_a_2.nii.gz,What type of opacities are present?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_11995_a_1.nii.gz,Where is the consolidation located?,"Upper lobe, left lung.",Open,-,-,-,-,-
+2,3,train_12024_a_1.nii.gz,Where is the thymus tissue observed?,Anterior mediastinum.,Open,-,-,-,-,-
+2,3,train_12032_a_2.nii.gz,Which lung contains a 2 mm diameter nodule?,Left lung.,Open,-,-,-,-,-
+2,3,train_12049_a_1.nii.gz,Where are the consolidations observed?,Left lower lobe.,Open,-,-,-,-,-
+2,3,train_12049_a_2.nii.gz,Where is consolidation observed?,Left lower lobe.,Open,-,-,-,-,-
+2,3,train_12060_a_2.nii.gz,Where are the masses located?,No masses detected.,Open,-,-,-,-,-
+2,3,train_12066_a_2.nii.gz,Which adrenal gland shows thickening?,Left adrenal gland.,Open,-,-,-,-,-
+2,3,train_12083_b_1.nii.gz,Where is the focal consolidation area located?,"Middle lobe, right lung.",Open,-,-,-,-,-
+2,3,train_1213_a_1.nii.gz,Where is the primary mass located?,"Lower lobe, right lung.",Open,-,-,-,-,-
+2,3,train_12165_a_2.nii.gz,Where are the focal ground-glass consolidations located?,"Right lower lobe, left upper lobe.",Open,-,-,-,-,-
+2,3,train_12207_a_1.nii.gz,Where are the enlarged lymph nodes?,Not present,Open,-,-,-,-,-
+2,3,train_12210_d_2.nii.gz,Where is the consolidation area located?,"Lower lobe, left lung",Open,-,-,-,-,-
+2,3,train_12277_a_1.nii.gz,Where is the nonspecific nodule observed?,"Anterior segment, right upper lobe.",Open,-,-,-,-,-
+2,3,train_122_b_2.nii.gz,Where is the mass located?,Upper lobe,Open,-,-,-,-,-
+2,3,train_12332_a_2.nii.gz,Where is the calcified nodule located?,Apex of right lung,Open,-,-,-,-,-
+2,3,train_12338_a_1.nii.gz,Where is the consolidation located?,Left lung middle lobe,Open,-,-,-,-,-
+2,3,train_12358_a_2.nii.gz,Where is the pleural effusion more prominent?,Left hemithorax,Open,-,-,-,-,-
+2,3,train_12365_a_1.nii.gz,Where is the hepatosteatosis observed?,Liver,Open,-,-,-,-,-
+2,3,train_12381_a_1.nii.gz,Where is the focal consolidation located?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_12388_a_2.nii.gz,What type of lesions are identified?,No lesions identified.,Open,-,-,-,-,-
+2,3,train_12392_d_2.nii.gz,Where is the nodular lesion located?,Left adrenal gland.,Open,-,-,-,-,-
+2,3,train_12398_b_1.nii.gz,Which type of fluid is present in the right hemithorax?,Pleural fluid.,Open,-,-,-,-,-
+2,3,train_1239_a_2.nii.gz,Which type of effusion is present?,Left pleural effusion.,Open,-,-,-,-,-
+2,3,train_12428_a_5.nii.gz,Where is the solitary nodule located?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_12434_a_2.nii.gz,What type of atelectasis is observed?,Subsegmental atelectasis,Open,-,-,-,-,-
+2,3,train_1245_a_1.nii.gz,Where is bronchiectasis most prominent?,"Lower lobe, left lung.",Open,-,-,-,-,-
+2,3,train_1245_a_2.nii.gz,Where is bronchiectasis most prominent?,"Lower lobe, left lung.",Open,-,-,-,-,-
+2,3,train_12502_a_1.nii.gz,Where is the aneurysm located?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_12537_d_2.nii.gz,Where are the lobar consolidation areas located?,Both lower lobes.,Open,-,-,-,-,-
+2,3,train_1255_a_2.nii.gz,Where is the nodule located in the left lung?,Inferior lingular segment,Open,-,-,-,-,-
+2,3,train_12567_a_1.nii.gz,What type of abnormality is indicated in the lung parenchyma?,Ground glass opacities.,Open,-,-,-,-,-
+2,3,train_12589_a_2.nii.gz,Where is the large mass located?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_1261_a_1.nii.gz,What type of abnormality is present in the descending thoracic aorta?,Aneurysmatic dilatation.,Open,-,-,-,-,-
+2,3,train_1261_a_2.nii.gz,Where is the fusiform aneurysmatic dilatation observed?,Descending thoracic aorta.,Open,-,-,-,-,-
+2,3,train_1263_b_1.nii.gz,What type of atelectasis is present?,"Linear, subsegmental",Open,-,-,-,-,-
+2,3,train_12706_a_1.nii.gz,Which type of nodules are observed?,Ground-glass nodules.,Open,-,-,-,-,-
+2,3,train_12748_a_2.nii.gz,What type of cyst is present in the right kidney?,Cortical cyst,Open,-,-,-,-,-
+2,3,train_12749_a_2.nii.gz,What type of opacity is observed?,Ground glass opacity,Open,-,-,-,-,-
+2,3,train_12752_a_2.nii.gz,Where is the subpleural nodule located?,"Lower lobe, left lung.",Open,-,-,-,-,-
+2,3,train_12761_a_2.nii.gz,Where is the loculated collection located?,Right pleural space,Open,-,-,-,-,-
+2,3,train_12780_a_1.nii.gz,Which type of effusions are present?,Bilateral pleural effusions.,Open,-,-,-,-,-
+2,3,train_12780_a_2.nii.gz,Which type of effusions are present?,Bilateral pleural effusions.,Open,-,-,-,-,-
+2,3,train_1287_a_1.nii.gz,Where is the newly developed consolidation observed?,"Lower lobe, right lung.",Open,-,-,-,-,-
+2,3,train_12881_a_1.nii.gz,What type of configuration do the nodules exhibit?,Round configuration.,Open,-,-,-,-,-
+2,3,train_12892_a_1.nii.gz,Where is the mass located?,Right hilum.,Open,-,-,-,-,-
+2,3,train_12914_b_2.nii.gz,Which lung has nodular lesions?,Left lung,Open,-,-,-,-,-
+2,3,train_12967_a_2.nii.gz,Where are the fibrotic densities located?,Both lower lobes,Open,-,-,-,-,-
+2,3,train_13053_a_1.nii.gz,Where are the nodular lesions?,None present,Open,-,-,-,-,-
+2,3,train_13062_a_2.nii.gz,Where is the calcific nodule observed?,Anterior segment of upper lobe.,Open,-,-,-,-,-
+2,3,train_13063_a_1.nii.gz,What is the shape of the observed finding?,Oval-shaped.,Open,-,-,-,-,-
+2,3,train_13068_b_2.nii.gz,What type of nodule is observed?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_13094_a_1.nii.gz,Where is the aneurysmatic dilatation observed?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_13099_e_1.nii.gz,Where is the mass lesion observed?,Right lung hilum,Open,-,-,-,-,-
+2,3,train_13102_b_1.nii.gz,Where is the pneumothorax observed?,Left hemithorax,Open,-,-,-,-,-
+2,3,train_13102_b_2.nii.gz,Where is the pneumothorax located?,Left hemithorax,Open,-,-,-,-,-
+2,3,train_1313_b_2.nii.gz,Where are the minimal ground-glass areas observed?,Upper lobes.,Open,-,-,-,-,-
+2,3,train_13143_a_2.nii.gz,Where is the irregularly contoured lesion located?,Middle lobe of right lung.,Open,-,-,-,-,-
+2,3,train_13163_a_1.nii.gz,Where are the nodular lesions?,None present,Open,-,-,-,-,-
+2,3,train_1316_a_1.nii.gz,Where is the large mass lesion located?,Right hilar region,Open,-,-,-,-,-
+2,3,train_13191_a_2.nii.gz,Where is the stable nodule located?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,3,train_1320_b_1.nii.gz,What type of density is observed in the right lung?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_13227_b_1.nii.gz,Where is the effusion located?,Left hemithorax,Open,-,-,-,-,-
+2,3,train_1323_a_1.nii.gz,Which abnormality is noted in the left hemidiaphragm?,Marked elevation.,Open,-,-,-,-,-
+2,3,train_13243_b_1.nii.gz,Where is the malignant mass located?,"Upper lobe, right lung.",Open,-,-,-,-,-
+2,3,train_1324_a_2.nii.gz,What type of bronchial abnormality is present?,Tubular bronchiectasis.,Open,-,-,-,-,-
+2,3,train_13269_a_2.nii.gz,Which mass shape is noted?,Spiculated contour,Open,-,-,-,-,-
+2,3,train_13298_a_1.nii.gz,Where is the well-circumscribed nodule located?,"Middle lobe, right lung.",Open,-,-,-,-,-
+2,3,train_13400_a_2.nii.gz,What type of opacities are observed?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_13422_b_1.nii.gz,Where is the observed scoliosis?,Thoracic vertebrae,Open,-,-,-,-,-
+2,3,train_13427_a_2.nii.gz,Where is the aneurysmatic dilatation located?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_13451_a_2.nii.gz,What type of mass is detected in the right breast?,No mass.,Open,-,-,-,-,-
+2,3,train_1345_a_1.nii.gz,Where is the low-density hypodense lesion located?,Left adrenal gland.,Open,-,-,-,-,-
+2,3,train_1345_a_2.nii.gz,Where is the low-density hypodense lesion located?,Left adrenal gland,Open,-,-,-,-,-
+2,3,train_13480_b_1.nii.gz,Where is the nodular lesion located?,Lower lobe of right lung.,Open,-,-,-,-,-
+2,3,train_13506_a_1.nii.gz,Where is the pleural effusion?,Not present.,Open,-,-,-,-,-
+2,3,train_13518_a_2.nii.gz,Where are the fibrotic changes located?,Upper lobe apex.,Open,-,-,-,-,-
+2,3,train_13528_b_1.nii.gz,What type of density is noted in the lower lobe of the right lung?,Ground glass,Open,-,-,-,-,-
+2,3,train_13545_b_1.nii.gz,Where are the effusions located?,"Right, left hemithorax",Open,-,-,-,-,-
+2,3,train_13551_a_1.nii.gz,Where is the large atelectasis area observed?,Upper lobe of left lung.,Open,-,-,-,-,-
+2,3,train_13571_a_1.nii.gz,Where is the atelectasis observed?,"Lower lobe, right lung.",Open,-,-,-,-,-
+2,3,train_13577_a_2.nii.gz,What type of opacity is present?,Ground glass opacity.,Open,-,-,-,-,-
+2,3,train_13583_c_1.nii.gz,Where are the parenchymal nodules located?,Left lung lingular segment.,Open,-,-,-,-,-
+2,3,train_13587_a_1.nii.gz,Where is the obstruction observed?,Right intermediate bronchus.,Open,-,-,-,-,-
+2,3,train_13594_a_1.nii.gz,Where is the largest nonspecific nodular lesion located?,"Right lung, upper lobe.",Open,-,-,-,-,-
+2,3,train_13601_b_1.nii.gz,Where are the parenchymal nodules located?,Both lungs.,Open,-,-,-,-,-
+2,3,train_13603_a_1.nii.gz,Where are the nodular opacities located?,Upper lobes,Open,-,-,-,-,-
+2,3,train_13618_b_2.nii.gz,What type of abnormality is present in the right lung lower lobe?,Consolidation.,Open,-,-,-,-,-
+2,3,train_13628_a_2.nii.gz,Where are the stones located?,Right and left kidneys.,Open,-,-,-,-,-
+2,3,train_1364_d_1.nii.gz,Where is the catheter observed?,Right atrium.,Open,-,-,-,-,-
+2,3,train_1366_a_1.nii.gz,Where are the masses or nodules located?,"No masses, nodules.",Open,-,-,-,-,-
+2,3,train_13678_a_2.nii.gz,What type of densities are present?,Ground-glass densities.,Open,-,-,-,-,-
+2,3,train_13704_a_1.nii.gz,Which type of opacity is present in the upper lobe of the right lung?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_1370_a_1.nii.gz,Where is the pleural effusion detected?,Not detected.,Open,-,-,-,-,-
+2,3,train_13718_b_2.nii.gz,Where are the focal consolidations observed?,Lower lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_13740_a_1.nii.gz,Where is the mass consolidation area observed?,Lower lobe superior segment.,Open,-,-,-,-,-
+2,3,train_13741_a_1.nii.gz,Where is the hypodense nodule observed?,Left thyroid lobe.,Open,-,-,-,-,-
+2,3,train_13743_a_1.nii.gz,What type of density area is observed in the left lung lower lobe?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_1375_a_1.nii.gz,Where is the hypodense lesion located?,Right adrenal gland,Open,-,-,-,-,-
+2,3,train_13772_a_1.nii.gz,Where is the volume loss located?,"Upper lobe, right lung",Open,-,-,-,-,-
+2,3,train_1378_c_2.nii.gz,What type of abnormality is observed in the right lung middle lobe?,Atelectasis,Open,-,-,-,-,-
+2,3,train_13804_a_1.nii.gz,Where is the ground-glass density located?,Left lower lobe,Open,-,-,-,-,-
+2,3,train_13804_a_2.nii.gz,Which type of nodule is observed?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_13812_a_1.nii.gz,Where is the more prominent pleural effusion located?,Left side.,Open,-,-,-,-,-
+2,3,train_13828_a_1.nii.gz,Where are the lytic-destructive lesions?,Not present,Open,-,-,-,-,-
+2,3,train_13829_a_1.nii.gz,Where is the mass lesion located?,"Basal segment, right lung.",Open,-,-,-,-,-
+2,3,train_1384_b_2.nii.gz,Where is the pleural effusion more prominent?,Right side,Open,-,-,-,-,-
+2,3,train_13858_a_1.nii.gz,What type of density is noted in the left lung?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_13897_a_1.nii.gz,Where are the enlarged lymph nodes located?,Not present.,Open,-,-,-,-,-
+2,3,train_13904_a_2.nii.gz,Which type of bronchial abnormality is present?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_13913_a_2.nii.gz,What condition is indicated by the increased heart size?,Cardiomegaly.,Open,-,-,-,-,-
+2,3,train_13915_a_2.nii.gz,Which type of density is observed in the middle lobe of the right lung?,Consolidative density,Open,-,-,-,-,-
+2,3,train_1396_b_1.nii.gz,Which lung shows consolidation?,Right lung.,Open,-,-,-,-,-
+2,3,train_13995_a_2.nii.gz,Where are the nonspecific nodules located?,Left upper lobe,Open,-,-,-,-,-
+2,3,train_14014_b_2.nii.gz,Where is the cavitary lesion observed?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_14015_b_2.nii.gz,Where are the lesions detected?,No lesions,Open,-,-,-,-,-
+2,3,train_14023_a_1.nii.gz,Where are the calcific nodules located?,Upper lobe posterior segment.,Open,-,-,-,-,-
+2,3,train_14054_a_1.nii.gz,Where is the dilatation noted?,Main pulmonary artery,Open,-,-,-,-,-
+2,3,train_14073_a_2.nii.gz,Where are the stone densities located?,Right and left kidneys.,Open,-,-,-,-,-
+2,3,train_14088_a_1.nii.gz,Which lung shows areas of consolidation?,Left lung.,Open,-,-,-,-,-
+2,3,train_14094_a_1.nii.gz,Where are the linear atelectasis areas located?,Bilateral lower lobes,Open,-,-,-,-,-
+2,3,train_14097_a_1.nii.gz,What type of effusions are present?,Bilateral pleural effusions.,Open,-,-,-,-,-
+2,3,train_14100_a_2.nii.gz,What type of density is observed in the right lung middle lobe?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_14116_a_1.nii.gz,Where is the lymph node observed?,Right paratracheal.,Open,-,-,-,-,-
+2,3,train_14138_b_1.nii.gz,What type of lesions are present in the lung parenchyma?,None detected.,Open,-,-,-,-,-
+2,3,train_14159_a_1.nii.gz,Where is the fusiform aneurysmatic dilatation located?,Thoracic aorta.,Open,-,-,-,-,-
+2,3,train_14166_d_1.nii.gz,Which abnormality is present in the right lung lower lobe?,Atelectasis,Open,-,-,-,-,-
+2,3,train_14175_a_2.nii.gz,Where are the observed nodules located?,Both lungs,Open,-,-,-,-,-
+2,3,train_141_a_1.nii.gz,Where are the cysts located?,Both kidneys,Open,-,-,-,-,-
+2,3,train_14212_a_2.nii.gz,Where is the consolidation observed?,Lower lobe of right lung,Open,-,-,-,-,-
+2,3,train_14214_b_1.nii.gz,Which shape does the abnormality exhibit?,Oval-shaped.,Open,-,-,-,-,-
+2,3,train_14214_b_2.nii.gz,Which shape is the abnormality?,Oval-shaped,Open,-,-,-,-,-
+2,3,train_14239_a_1.nii.gz,What type of density is noted in the right lung?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_14255_a_3.nii.gz,Where is the calculus located?,Right kidney renal pelvis.,Open,-,-,-,-,-
+2,3,train_14262_a_2.nii.gz,Which organ shows stones?,Gallbladder,Open,-,-,-,-,-
+2,3,train_14282_a_1.nii.gz,What type of abnormality is present in the ascending aorta?,Aneurysmal dilatation.,Open,-,-,-,-,-
+2,3,train_14297_c_2.nii.gz,Where are the nodules located in the left lung?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_14304_a_1.nii.gz,Where is the lymph node located?,Right upper paratracheal.,Open,-,-,-,-,-
+2,3,train_14309_e_2.nii.gz,What type of abnormality is seen in the right lung middle lobe?,Consolidation.,Open,-,-,-,-,-
+2,3,train_14318_b_2.nii.gz,Where is the obstruction primarily affecting the bronchi?,Right intermediate bronchus.,Open,-,-,-,-,-
+2,3,train_14323_a_1.nii.gz,Where is the pleural-based mass located?,Left lung lingular segment,Open,-,-,-,-,-
+2,3,train_14323_a_2.nii.gz,Where is the pleural-based mass located?,Left lung lingular segment.,Open,-,-,-,-,-
+2,3,train_14352_b_1.nii.gz,Where is the consolidation observed?,"Right lung, lower lobe",Open,-,-,-,-,-
+2,3,train_14384_a_1.nii.gz,Where is the hypodense lesion?,Right adrenal gland,Open,-,-,-,-,-
+2,3,train_14404_a_2.nii.gz,Where is consolidation observed?,Lower lobe of the right lung.,Open,-,-,-,-,-
+2,3,train_14414_a_2.nii.gz,Where is the calcific nodule located?,"Upper lobe, left lung",Open,-,-,-,-,-
+2,3,train_1442_a_1.nii.gz,Which condition is present in the right hemithorax?,Pneumothorax.,Open,-,-,-,-,-
+2,3,train_14441_c_1.nii.gz,Where is the mucus plug located?,Right main bronchus.,Open,-,-,-,-,-
+2,3,train_14442_a_2.nii.gz,What type of nodule is observed?,Spiculated nodule,Open,-,-,-,-,-
+2,3,train_1444_a_2.nii.gz,Where are the emphysematous changes more prominent?,Upper lobes.,Open,-,-,-,-,-
+2,3,train_14485_a_2.nii.gz,Which segment shows linear atelectatic changes?,Inferior lingular segment,Open,-,-,-,-,-
+2,3,train_14498_a_1.nii.gz,Which areas show ground glass opacities?,"Left lung, right lung",Open,-,-,-,-,-
+2,3,train_14502_a_2.nii.gz,Where is the consolidation area located?,"Lower lobe, left lung",Open,-,-,-,-,-
+2,3,train_14508_a_1.nii.gz,Where is the adenoma observed?,Right adrenal gland.,Open,-,-,-,-,-
+2,3,train_14534_a_1.nii.gz,Where are the consolidative areas predominantly located?,Posterobasal left lung.,Open,-,-,-,-,-
+2,3,train_1453_a_1.nii.gz,Which abnormality is observed in the thoracic aorta?,Fusiform aneurysmatic dilatation.,Open,-,-,-,-,-
+2,3,train_1458_a_3.nii.gz,Where are the displaced fracture lines located?,Right ribs.,Open,-,-,-,-,-
+2,3,train_14590_a_2.nii.gz,What type of density is observed in the left lung lower lobe?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_14629_b_1.nii.gz,What type of density is observed?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_1462_b_2.nii.gz,Where are the focal ground glass density increases located?,Peripheral subpleural area.,Open,-,-,-,-,-
+2,3,train_14633_a_1.nii.gz,Where are the focal infiltrations located?,Lung lower lobes,Open,-,-,-,-,-
+2,3,train_14635_a_2.nii.gz,Where is the largest nodule found?,"Peripheral-subpleural area, laterobasal segment, left lung lower lobe.",Open,-,-,-,-,-
+2,3,train_14661_a_1.nii.gz,Which areas show ground glass opacities?,"Upper, middle lobes",Open,-,-,-,-,-
+2,3,train_14674_b_1.nii.gz,Where is the emphysema located?,Upper lobes.,Open,-,-,-,-,-
+2,3,train_14690_b_2.nii.gz,What type of fluid accumulation is present in the pleural space?,Effusion.,Open,-,-,-,-,-
+2,3,train_14698_b_1.nii.gz,Which pulmonary artery shows enlargement?,Main pulmonary artery.,Open,-,-,-,-,-
+2,3,train_14701_b_1.nii.gz,Where is the pleural effusion more prominent?,Left side,Open,-,-,-,-,-
+2,3,train_14701_b_2.nii.gz,Where is the pleural effusion more prominent?,Left side,Open,-,-,-,-,-
+2,3,train_14707_a_1.nii.gz,Where are the mild atelectasis changes located?,Left lung inferior lingula,Open,-,-,-,-,-
+2,3,train_14714_a_1.nii.gz,Which shape is the lesion in the right main bronchus?,Oval shape,Open,-,-,-,-,-
+2,3,train_1472_a_1.nii.gz,What type of opacity is observed?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_14767_a_1.nii.gz,Where is the mass located?,Left adrenal gland,Open,-,-,-,-,-
+2,3,train_14769_a_2.nii.gz,Where are the nodules located in the right lung?,"Anterior segment, middle lobe.",Open,-,-,-,-,-
+2,3,train_14780_a_2.nii.gz,Where are the pulmonary nodules located?,"Lower lobe, right lung.",Open,-,-,-,-,-
+2,3,train_14781_a_1.nii.gz,Where is the solid mass lesion located?,Left lung apex,Open,-,-,-,-,-
+2,3,train_14819_a_1.nii.gz,What type of opacity is present?,Ground glass opacity,Open,-,-,-,-,-
+2,3,train_1486_c_2.nii.gz,Where is the effusion thickness observed?,Pleural space.,Open,-,-,-,-,-
+2,3,train_14881_c_1.nii.gz,What type of density is observed in the lung parenchyma?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_14885_a_2.nii.gz,Where is the calcific nodule located?,Right lung laterobasal segment,Open,-,-,-,-,-
+2,3,train_14931_a_1.nii.gz,What type of bronchiectasis is present?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_14941_a_2.nii.gz,Where are the areas of opacity observed?,"Right upper lobe, left lower lobe.",Open,-,-,-,-,-
+2,3,train_14947_c_1.nii.gz,Where is the newly emerged pleural effusion located?,Right side.,Open,-,-,-,-,-
+2,3,train_14957_a_2.nii.gz,Where is the abnormality primarily located?,Lower lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_14995_a_2.nii.gz,Where is the mass located?,Anterior upper lobe.,Open,-,-,-,-,-
+2,3,train_1500_a_1.nii.gz,What type of anatomical variation is observed?,Azygos lobe.,Open,-,-,-,-,-
+2,3,train_15038_a_2.nii.gz,What type of abnormality is present in the lung parenchyma?,Ground glass opacities.,Open,-,-,-,-,-
+2,3,train_15089_a_2.nii.gz,Where is the fat density lesion found?,Left adrenal gland.,Open,-,-,-,-,-
+2,3,train_15097_a_2.nii.gz,Where is the low-density nodular lesion located?,Left adrenal gland.,Open,-,-,-,-,-
+2,3,train_15098_a_1.nii.gz,Where are the fibroatelectatic changes observed?,Inferior lingular segment.,Open,-,-,-,-,-
+2,3,train_15240_a_1.nii.gz,Where are the calcified nodules located?,Upper lobe apicoposterior segment.,Open,-,-,-,-,-
+2,3,train_15256_a_1.nii.gz,What type of nodule is observed in the upper lobe of the left lung?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_15277_a_2.nii.gz,What type of density is observed?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_15279_a_1.nii.gz,Which bronchial abnormality is present?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_15281_c_2.nii.gz,Where are the pleural effusions observed?,Both hemithorax.,Open,-,-,-,-,-
+2,3,train_15285_d_1.nii.gz,Which condition is present in the lower lobe of the right lung?,Atelectasis.,Open,-,-,-,-,-
+2,3,train_15338_b_1.nii.gz,Which type of effusion is present in both lungs?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_15345_b_1.nii.gz,Which areas show ground-glass opacities?,"Right upper lobe, left lower lobe",Open,-,-,-,-,-
+2,3,train_15421_a_2.nii.gz,Which type of nodule is observed?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_15422_a_1.nii.gz,What type of lesions are observed in the lungs?,No lesions.,Open,-,-,-,-,-
+2,3,train_15436_a_1.nii.gz,Where are the nodular lesions located?,"Left lingula, right middle lobe.",Open,-,-,-,-,-
+2,3,train_15450_a_1.nii.gz,Which type of opacity is present?,Ground glass opacity.,Open,-,-,-,-,-
+2,3,train_15493_d_1.nii.gz,Which type of nodule is present in the right lung upper lobe?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_15511_b_2.nii.gz,Where is the obstructive pathology observed?,No obstructive pathology.,Open,-,-,-,-,-
+2,3,train_15533_a_2.nii.gz,Where are the nonspecific nodules located?,Both lungs.,Open,-,-,-,-,-
+2,3,train_15534_a_1.nii.gz,Where is the patchy density located?,Inferior lingular region,Open,-,-,-,-,-
+2,3,train_15542_a_1.nii.gz,Which type of atelectasis is present?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_15553_a_1.nii.gz,Where are the calculi found?,Left kidney.,Open,-,-,-,-,-
+2,3,train_15555_a_2.nii.gz,Where is the increased density located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_15558_a_2.nii.gz,Where are the atelectatic changes observed?,Lower lobe basal segments,Open,-,-,-,-,-
+2,3,train_15558_c_2.nii.gz,Where is the pleural effusion most prominent?,Right side,Open,-,-,-,-,-
+2,3,train_15561_b_1.nii.gz,Where is the stone observed?,Right kidney,Open,-,-,-,-,-
+2,3,train_15565_a_2.nii.gz,Where are the ground glass areas located?,Left lung lingular segment.,Open,-,-,-,-,-
+2,3,train_15574_a_1.nii.gz,Where is the patchy density observed?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_15586_a_2.nii.gz,Where are the calcified nodules observed?,Upper lobe of right lung,Open,-,-,-,-,-
+2,3,train_15591_a_2.nii.gz,Where are the hypodense lesions observed?,Both kidneys,Open,-,-,-,-,-
+2,3,train_15593_a_1.nii.gz,What type of fluid collections are observed?,None present.,Open,-,-,-,-,-
+2,3,train_15604_a_1.nii.gz,What type of opacity is present?,Ground glass opacity,Open,-,-,-,-,-
+2,3,train_15610_a_1.nii.gz,Where are the semisolid nodules located?,Right lung upper lobe posterior.,Open,-,-,-,-,-
+2,3,train_15614_a_1.nii.gz,Where is the pleural effusion located?,Left hemithorax,Open,-,-,-,-,-
+2,3,train_15623_b_2.nii.gz,Where are the ground-glass densities predominantly located?,Peripheral posterior lower lobe,Open,-,-,-,-,-
+2,3,train_15638_b_1.nii.gz,Which type of effusion is observed in the right hemithorax?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_15658_b_2.nii.gz,Which abnormality is indicated by the presence of fluid?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_15673_a_2.nii.gz,What type of lung abnormality is observed in the right lung upper lobe?,Consolidation.,Open,-,-,-,-,-
+2,3,train_15688_f_2.nii.gz,Where is the newly emerged nodular consolidation area found?,Basal segments of the left lung.,Open,-,-,-,-,-
+2,3,train_1568_a_1.nii.gz,Where is the low-density nodularity located?,Right lung middle lobe lateral segment.,Open,-,-,-,-,-
+2,3,train_15704_a_2.nii.gz,Where are the nonspecific nodules located?,Middle lobe of right lung.,Open,-,-,-,-,-
+2,3,train_15710_a_1.nii.gz,Where is the subpleural nodule located?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_15717_a_1.nii.gz,Where is the mild dilatation observed?,Main pulmonary artery.,Open,-,-,-,-,-
+2,3,train_1574_a_1.nii.gz,Where is the lymph node located?,Right upper paratracheal.,Open,-,-,-,-,-
+2,3,train_15750_a_2.nii.gz,Where is the calcified nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_15756_a_1.nii.gz,Where is the calcific nodule located?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_1577_a_2.nii.gz,Which type of bronchial abnormality is present?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_15785_a_1.nii.gz,Where is the pleural effusion located?,Right pleural area,Open,-,-,-,-,-
+2,3,train_15788_a_2.nii.gz,Where is the nodular appearance located?,Left upper lobe,Open,-,-,-,-,-
+2,3,train_1578_a_2.nii.gz,Where are no mass lesions detected?,Both lungs,Open,-,-,-,-,-
+2,3,train_1579_a_2.nii.gz,Where is the pleural effusion?,Not detected,Open,-,-,-,-,-
+2,3,train_15805_a_1.nii.gz,Where are the focal consolidations observed?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_15810_a_1.nii.gz,What type of lesion is present in the right kidney?,Cortical cyst,Open,-,-,-,-,-
+2,3,train_1585_b_1.nii.gz,Where is the dilatation observed?,Main pulmonary artery,Open,-,-,-,-,-
+2,3,train_15860_a_2.nii.gz,Where is the stone located?,Right kidney,Open,-,-,-,-,-
+2,3,train_15897_b_2.nii.gz,Which type of abnormality is indicated by air bronchograms?,Consolidation.,Open,-,-,-,-,-
+2,3,train_1589_a_1.nii.gz,Where are the areas of consolidation predominantly located?,Upper lobes,Open,-,-,-,-,-
+2,3,train_15926_a_1.nii.gz,What type of density is noted in the left lung?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_15939_a_2.nii.gz,Where is the segmentary atelectasis observed?,Left lung lingula.,Open,-,-,-,-,-
+2,3,train_1593_a_2.nii.gz,Where is the myelolipoma observed?,Right adrenal gland,Open,-,-,-,-,-
+2,3,train_15946_a_2.nii.gz,Where is the fusiform aneurysmatic dilatation observed?,Thoracic aorta.,Open,-,-,-,-,-
+2,3,train_15958_a_2.nii.gz,Where is the adenoma located?,Right adrenal gland,Open,-,-,-,-,-
+2,3,train_15965_b_1.nii.gz,Which lung shows total collapse?,Right lung.,Open,-,-,-,-,-
+2,3,train_15973_a_2.nii.gz,Where are the ground-glass densities located?,Both lungs,Open,-,-,-,-,-
+2,3,train_15975_a_1.nii.gz,Where are the observed ground-glass densities located?,Both lungs.,Open,-,-,-,-,-
+2,3,train_15986_b_1.nii.gz,Where is the stone located?,Left kidney,Open,-,-,-,-,-
+2,3,train_15986_b_2.nii.gz,Where is the stone located?,Left kidney,Open,-,-,-,-,-
+2,3,train_15987_a_2.nii.gz,Where are the atelectatic changes observed?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_159_a_2.nii.gz,What type of opacity is observed?,Ground-glass opacity,Open,-,-,-,-,-
+2,3,train_15_a_2.nii.gz,What type of opacities are observed?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_16014_a_2.nii.gz,Where are the masses located?,No masses detected.,Open,-,-,-,-,-
+2,3,train_16015_b_1.nii.gz,What shape are the observed lesions?,Round shaped,Open,-,-,-,-,-
+2,3,train_16033_a_1.nii.gz,Where is the chest tube observed?,Right hemithorax,Open,-,-,-,-,-
+2,3,train_16033_a_2.nii.gz,Where is the chest tube observed?,Right hemithorax,Open,-,-,-,-,-
+2,3,train_16039_a_1.nii.gz,Which lung shows consolidation areas?,Left lung.,Open,-,-,-,-,-
+2,3,train_16039_b_1.nii.gz,Where is the pleural effusion observed?,Right hemithorax,Open,-,-,-,-,-
+2,3,train_1607_a_1.nii.gz,Where is the hypodense nodular lesion found?,Left thyroid lobe.,Open,-,-,-,-,-
+2,3,train_16084_a_1.nii.gz,Where are the lesions detected?,None detected,Open,-,-,-,-,-
+2,3,train_16134_b_1.nii.gz,Where is the pneumothorax observed?,Right hemithorax.,Open,-,-,-,-,-
+2,3,train_16134_b_2.nii.gz,Where is the pneumothorax located?,Right hemithorax.,Open,-,-,-,-,-
+2,3,train_16139_a_1.nii.gz,Where is the ground glass density located?,"Lower lobe, right lung.",Open,-,-,-,-,-
+2,3,train_16176_b_1.nii.gz,Where are the consolidative areas located?,Both lower lobes.,Open,-,-,-,-,-
+2,3,train_16198_a_1.nii.gz,Where is the primary lung mass located?,Right lung suprahilar.,Open,-,-,-,-,-
+2,3,train_16220_b_1.nii.gz,Where are the hyperdense stones observed?,Both kidneys,Open,-,-,-,-,-
+2,3,train_16231_a_2.nii.gz,Where is the calcified parenchymal nodule located?,Apical right lung.,Open,-,-,-,-,-
+2,3,train_16251_a_1.nii.gz,Where are the opacities more prominent?,Lower lobes,Open,-,-,-,-,-
+2,3,train_16251_a_2.nii.gz,Where are the ground-glass opacities more prominent?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_16253_a_2.nii.gz,Where are the fractures observed?,Left ribs.,Open,-,-,-,-,-
+2,3,train_16254_a_2.nii.gz,Which lung shows atelectasis?,Left lung.,Open,-,-,-,-,-
+2,3,train_16274_a_1.nii.gz,Where are the patchy opacities more prominent?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_16282_a_1.nii.gz,Where is the suspicious density located?,Left lung upper lobe,Open,-,-,-,-,-
+2,3,train_16304_a_2.nii.gz,Where are the millimetric calculi observed?,Both kidneys.,Open,-,-,-,-,-
+2,3,train_16307_b_2.nii.gz,Where is the aneurysmatic dilatation observed?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_16311_a_1.nii.gz,Where is the nonspecific nodule located?,Left upper lobe,Open,-,-,-,-,-
+2,3,train_16313_b_2.nii.gz,Where are the nodular ground glass densities observed?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_16327_a_1.nii.gz,Where is the nonspecific nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_16328_a_1.nii.gz,Where are the nonspecific parenchymal nodules located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_16332_b_1.nii.gz,Where is the 4.5x2 mm nodule located?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_16336_a_2.nii.gz,Where are the areas of consolidation found?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_16339_a_1.nii.gz,Where is the atelectasis located?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_16351_a_2.nii.gz,Where are the consolidations observed?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_16352_a_2.nii.gz,Where is the nonspecific nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_16356_a_1.nii.gz,Where are the mild atelectatic changes observed?,Right middle lobe.,Open,-,-,-,-,-
+2,3,train_16356_a_2.nii.gz,Where is the abnormality detected?,Right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_16365_a_1.nii.gz,Where is the pleural effusion located?,Right hemithorax.,Open,-,-,-,-,-
+2,3,train_16371_a_1.nii.gz,Where are the nodules located?,Right lower lobe.,Open,-,-,-,-,-
+2,3,train_16379_a_2.nii.gz,Where is the pleural effusion located?,Right hemithorax,Open,-,-,-,-,-
+2,3,train_16385_a_2.nii.gz,Where are the nodules primarily located?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_16396_a_2.nii.gz,Where is the hyperdense stone observed?,Left kidney.,Open,-,-,-,-,-
+2,3,train_16411_a_1.nii.gz,Where is the nonspecific pleural nodule observed?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_16426_a_1.nii.gz,What type of effusion is present?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_16430_a_1.nii.gz,Where are the density consolidation areas located?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_16445_a_2.nii.gz,Where is the pleural effusion located?,Left pleural space,Open,-,-,-,-,-
+2,3,train_16454_b_1.nii.gz,Where are the nodular consolidations located?,Lower lobes,Open,-,-,-,-,-
+2,3,train_16464_a_1.nii.gz,Where is the nonspecific nodule found?,Right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_16467_a_2.nii.gz,Which lung contains the nodule?,Left lung.,Open,-,-,-,-,-
+2,3,train_16476_a_2.nii.gz,Where is the ground glass opacity located?,Left upper lobe,Open,-,-,-,-,-
+2,3,train_16478_a_1.nii.gz,Where is the mild pleural effusion observed?,Right pleura.,Open,-,-,-,-,-
+2,3,train_16481_a_1.nii.gz,Where is the cortical cyst located?,Left kidney,Open,-,-,-,-,-
+2,3,train_16500_a_2.nii.gz,Where is the irregularity located?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_1651_a_1.nii.gz,What pattern is formed by the lung opacities?,Crazy paving pattern,Open,-,-,-,-,-
+2,3,train_16521_a_1.nii.gz,Where is the nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_16529_b_1.nii.gz,Where is the subpleural nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_16530_a_1.nii.gz,Which type of effusion is present on the left side?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_16541_b_2.nii.gz,Where is the nodule with irregular borders located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_16541_d_2.nii.gz,Where is the area of nodular consolidation observed?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_16555_a_2.nii.gz,Where is the abnormality located?,Right upper lobe.,Open,-,-,-,-,-
+2,3,train_16564_a_2.nii.gz,Where are the nodules located?,Left lung upper lobe,Open,-,-,-,-,-
+2,3,train_16569_a_2.nii.gz,Where are the nodules located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_16587_a_1.nii.gz,Where is consolidation observed?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_1658_a_1.nii.gz,Which type of bronchial abnormality is present?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_1658_a_2.nii.gz,Where are the ground glass densities observed?,Peripheral-subpleural regions,Open,-,-,-,-,-
+2,3,train_16590_a_1.nii.gz,Where are the density increases located?,Lower lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_16597_a_2.nii.gz,Where is the nodule found?,Left lung upper lobe,Open,-,-,-,-,-
+2,3,train_16613_a_1.nii.gz,Where are the atelectatic changes located?,Left lung upper lobe,Open,-,-,-,-,-
+2,3,train_16629_c_2.nii.gz,Where is the atelectasis located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_16641_b_1.nii.gz,Where is the consolidation observed?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,3,train_16646_a_1.nii.gz,Where is the pleural effusion located?,Left pleural space,Open,-,-,-,-,-
+2,3,train_1666_a_1.nii.gz,What type of nodule is observed?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_16672_e_2.nii.gz,Where are the large areas of consolidation located?,Lower lobes,Open,-,-,-,-,-
+2,3,train_16676_a_2.nii.gz,Where are the areas compatible with consolidation observed?,Left lower lobe.,Open,-,-,-,-,-
+2,3,train_16692_a_1.nii.gz,Where is the coarse calcification focus located?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_16714_a_2.nii.gz,Which lung shows consolidation?,Left lung,Open,-,-,-,-,-
+2,3,train_16730_a_4.nii.gz,Where is the subpleural nodule located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_16731_a_2.nii.gz,Where is the stone located?,Right kidney.,Open,-,-,-,-,-
+2,3,train_16737_a_1.nii.gz,Where are the focal consolidations primarily located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_16757_a_1.nii.gz,Where is the air cyst located?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_16789_a_1.nii.gz,Where are the lesions detected?,None detected,Open,-,-,-,-,-
+2,3,train_16790_a_2.nii.gz,Where is the nonspecific nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_16791_a_2.nii.gz,Where are the minimal ground glass densities located?,Posterior lower lobes,Open,-,-,-,-,-
+2,3,train_1679_c_1.nii.gz,Where are the atelectasis located?,"Right middle lobe, left upper lobe",Open,-,-,-,-,-
+2,3,train_16811_a_1.nii.gz,Which lung lobe contains the nodule?,Left lower lobe,Open,-,-,-,-,-
+2,3,train_16836_a_1.nii.gz,Where is the focal ground glass area located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_16840_a_1.nii.gz,Where is the focal ground-glass-like density increase observed?,Right lower lobe.,Open,-,-,-,-,-
+2,3,train_1684_a_2.nii.gz,Which type of atelectasis is present?,Subsegmental atelectasis,Open,-,-,-,-,-
+2,3,train_16850_a_2.nii.gz,Where are the enlarged lymph nodes located?,Right upper paratracheal,Open,-,-,-,-,-
+2,3,train_16851_c_2.nii.gz,Where are the areas of consolidation located?,Lower lobes,Open,-,-,-,-,-
+2,3,train_16862_a_2.nii.gz,Where are the subpleural nodules observed?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_16863_a_2.nii.gz,Where is the aneurysm located?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_16868_a_2.nii.gz,Where are the patchy densities located?,Right lung middle lobe,Open,-,-,-,-,-
+2,3,train_16869_b_2.nii.gz,Where is the soft tissue mass observed?,Left lung hilum,Open,-,-,-,-,-
+2,3,train_16881_a_1.nii.gz,What type of fluid accumulation is present in the pleural area?,Effusion.,Open,-,-,-,-,-
+2,3,train_16885_a_1.nii.gz,Where are the lesions located?,Upper lobes,Open,-,-,-,-,-
+2,3,train_16887_d_2.nii.gz,Where is the air cyst located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_16902_a_2.nii.gz,Where is the calcific nodule located?,Left lung upper lobe,Open,-,-,-,-,-
+2,3,train_16934_a_1.nii.gz,Where is the atelectasis observed?,Left lung,Open,-,-,-,-,-
+2,3,train_16936_a_2.nii.gz,Where is the low-density nodule located?,Middle lobe of right lung.,Open,-,-,-,-,-
+2,3,train_16946_a_1.nii.gz,Where are the nodules observed?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,3,train_16985_a_1.nii.gz,Where are the nodular densities located?,Lung lower lobes,Open,-,-,-,-,-
+2,3,train_16985_c_1.nii.gz,Which type of abnormality is present?,No abnormalities detected.,Open,-,-,-,-,-
+2,3,train_17009_a_2.nii.gz,Which type of nodule is present?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_1703_a_1.nii.gz,Where is dependent atelectasis observed?,Lung lower lobes.,Open,-,-,-,-,-
+2,3,train_17048_a_2.nii.gz,Where are the suspicious masses located?,No masses detected.,Open,-,-,-,-,-
+2,3,train_17053_a_1.nii.gz,What type of sign is present in the consolidation area?,Air bronchogram sign,Open,-,-,-,-,-
+2,3,train_17058_a_2.nii.gz,Where is the nodule with slightly irregular borders located?,Left lung inferior lingular segment.,Open,-,-,-,-,-
+2,3,train_1708_b_2.nii.gz,Where is the localized mass lesion observed?,Right lung apical segment.,Open,-,-,-,-,-
+2,3,train_17090_b_2.nii.gz,Where is the remnant thymus tissue observed?,Anterior mediastinum.,Open,-,-,-,-,-
+2,3,train_17095_a_2.nii.gz,Where is the atelectasis found?,Left lower lobe.,Open,-,-,-,-,-
+2,3,train_1711_a_1.nii.gz,Where are the millimetric nodules located?,Upper lobe.,Open,-,-,-,-,-
+2,3,train_17137_a_1.nii.gz,What type of nodule is observed?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_1713_a_1.nii.gz,What type of bronchiectasis is present?,Cylindrical bronchiectasis,Open,-,-,-,-,-
+2,3,train_1713_a_2.nii.gz,What type of bronchiectasis is present?,Cylindrical bronchiectasis,Open,-,-,-,-,-
+2,3,train_1713_b_2.nii.gz,Which type of bronchiectasis is present?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_17143_a_1.nii.gz,Where is the area of consolidation located?,Posterobasal lower lobe.,Open,-,-,-,-,-
+2,3,train_17143_a_2.nii.gz,Where is the area of consolidation located?,Posterobasal lower lobe.,Open,-,-,-,-,-
+2,3,train_1715_a_1.nii.gz,Where is the space-occupying finding located?,Right hilar region.,Open,-,-,-,-,-
+2,3,train_17164_a_1.nii.gz,Where is the calcific nodule located?,Right upper lobe.,Open,-,-,-,-,-
+2,3,train_17197_c_1.nii.gz,Which lung shows focal consolidation?,Right lung.,Open,-,-,-,-,-
+2,3,train_17202_a_1.nii.gz,Which lung shows focal consolidative areas?,Right lung,Open,-,-,-,-,-
+2,3,train_17202_a_2.nii.gz,Which lung shows focal consolidative areas?,Right lung,Open,-,-,-,-,-
+2,3,train_17305_a_1.nii.gz,Where is the pulmonary nodule located?,Right upper lobe.,Open,-,-,-,-,-
+2,3,train_17322_a_2.nii.gz,Where are the enlarged lymph nodes?,Not present,Open,-,-,-,-,-
+2,3,train_17331_b_2.nii.gz,Where is the hyperdense stone located?,Left kidney.,Open,-,-,-,-,-
+2,3,train_17339_a_2.nii.gz,Where is the ground glass opacity located?,Left lower lobe,Open,-,-,-,-,-
+2,3,train_17343_a_1.nii.gz,Where is the pneumonic infiltration located?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,3,train_17343_a_2.nii.gz,Where is the pneumonic infiltration observed?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,3,train_17345_a_2.nii.gz,Where is the atelectasis located?,Right middle lobe.,Open,-,-,-,-,-
+2,3,train_17383_a_1.nii.gz,Where are the rib fractures located?,Right posterolateral.,Open,-,-,-,-,-
+2,3,train_1742_b_2.nii.gz,Where is the pericardial effusion observed?,Pericardial space.,Open,-,-,-,-,-
+2,3,train_17431_a_2.nii.gz,Where is the pleural effusion most pronounced?,Right pleural space.,Open,-,-,-,-,-
+2,3,train_17440_b_2.nii.gz,Where is the calcific parenchymal nodule located?,Right upper lobe.,Open,-,-,-,-,-
+2,3,train_17443_a_1.nii.gz,Where is the atelectasis located?,Left lung,Open,-,-,-,-,-
+2,3,train_17480_a_2.nii.gz,Where are the consolidation areas located?,Lung lower lobes.,Open,-,-,-,-,-
+2,3,train_17494_a_1.nii.gz,Where are the nodules primarily located?,Upper lobes,Open,-,-,-,-,-
+2,3,train_17505_a_1.nii.gz,Where is the solid lesion located?,Right adrenal gland,Open,-,-,-,-,-
+2,3,train_17529_b_1.nii.gz,Which opacity is noted?,Ground glass opacity,Open,-,-,-,-,-
+2,3,train_17531_a_5.nii.gz,Where is the aneurysmatic dilation observed?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_17550_a_1.nii.gz,Where is the consolidation located?,Left upper lobe,Open,-,-,-,-,-
+2,3,train_17597_a_2.nii.gz,Where are the lesions located in the right breast?,Upper outer quadrant.,Open,-,-,-,-,-
+2,3,train_17651_b_1.nii.gz,Where are the stable parenchymal nodules observed?,Right middle lobe.,Open,-,-,-,-,-
+2,3,train_17668_a_2.nii.gz,Where are the consolidations primarily located?,Middle and lower lobes.,Open,-,-,-,-,-
+2,3,train_17684_a_2.nii.gz,Where is the mass detected?,Right adrenal gland.,Open,-,-,-,-,-
+2,3,train_17716_a_1.nii.gz,Where is the aneurysmatic dilatation located?,Descending aorta,Open,-,-,-,-,-
+2,3,train_17720_a_1.nii.gz,Where is the nodule observed?,"Lower lobe, right lung.",Open,-,-,-,-,-
+2,3,train_17726_a_2.nii.gz,Where are the lesions detected?,No lesions detected.,Open,-,-,-,-,-
+2,3,train_17743_a_1.nii.gz,Where is the millimetric calculus located?,Left kidney,Open,-,-,-,-,-
+2,3,train_17751_a_2.nii.gz,Where are the focal small consolidations observed?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,3,train_1775_a_1.nii.gz,Where is the malignant nodule located?,Superior lingular segment.,Open,-,-,-,-,-
+2,3,train_17772_a_5.nii.gz,Where is the parenchymal nodule located?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_17776_a_2.nii.gz,Where is the nodular lesion observed?,Lateral segment of the right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_17776_b_1.nii.gz,What type of effusion is present on the left?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_17776_b_2.nii.gz,Where is the irregularly circumscribed nodular mass lesion located?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_17784_a_1.nii.gz,Where is the cortical cyst observed?,Left kidney.,Open,-,-,-,-,-
+2,3,train_17792_a_1.nii.gz,Where are the pulmonary nodules located?,Right lung apex.,Open,-,-,-,-,-
+2,3,train_17792_a_2.nii.gz,Where are the pulmonary nodules observed?,Apex of right lung.,Open,-,-,-,-,-
+2,3,train_17802_a_2.nii.gz,Where is the cystic lesion located?,Right kidney,Open,-,-,-,-,-
+2,3,train_17834_a_2.nii.gz,What type of effusion is present in the right hemithorax?,Loculated pleural effusion,Open,-,-,-,-,-
+2,3,train_17845_a_1.nii.gz,Which lung shows atelectasis?,Right lung.,Open,-,-,-,-,-
+2,3,train_17850_a_1.nii.gz,Where are the nonspecific nodules located?,Left upper lobe,Open,-,-,-,-,-
+2,3,train_17870_a_2.nii.gz,Where is the lymph node located?,Right upper paratracheal region.,Open,-,-,-,-,-
+2,3,train_17887_b_1.nii.gz,Which abnormality is indicated by the increased heart size?,Cardiomegaly.,Open,-,-,-,-,-
+2,3,train_17888_a_2.nii.gz,Where is the stable nodule located?,Left upper lobe,Open,-,-,-,-,-
+2,3,train_17894_a_2.nii.gz,Where is the subpleural nodule located?,Right upper lobe,Open,-,-,-,-,-
+2,3,train_17899_b_2.nii.gz,Where is the atelectasis located?,Right lung middle lobe,Open,-,-,-,-,-
+2,3,train_17901_a_1.nii.gz,Where are the enlarged lymph nodes located?,None detected.,Open,-,-,-,-,-
+2,3,train_17903_a_1.nii.gz,What type of opacity is present?,Ground glass opacity.,Open,-,-,-,-,-
+2,3,train_17903_a_2.nii.gz,What type of opacity is present in the left lung?,Ground glass opacity.,Open,-,-,-,-,-
+2,3,train_17915_a_2.nii.gz,Where is the focal consolidation located?,Lower lobe of right lung,Open,-,-,-,-,-
+2,3,train_17923_a_1.nii.gz,What type of opacity is observed?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_17956_d_2.nii.gz,What type of fluid accumulation is observed?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_17994_a_1.nii.gz,Where is the simple cortical cyst located?,Left kidney.,Open,-,-,-,-,-
+2,3,train_18016_a_1.nii.gz,Where is the mass appearance located?,"Right lung, lower lobe.",Open,-,-,-,-,-
+2,3,train_18016_a_2.nii.gz,Which type of effusion is observed?,Right pleural effusion.,Open,-,-,-,-,-
+2,3,train_18017_a_1.nii.gz,Where is the solid lesion located?,Right adrenal gland,Open,-,-,-,-,-
+2,3,train_1801_a_2.nii.gz,What type of densities are observed in the right lung lower lobe?,Ground-glass densities.,Open,-,-,-,-,-
+2,3,train_18025_a_1.nii.gz,Where is the aneurysmatic dilatation located?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_18028_a_1.nii.gz,What type of opacities are observed?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_18050_a_2.nii.gz,Where is the pleural effusion observed?,Left pleural space.,Open,-,-,-,-,-
+2,3,train_18095_a_1.nii.gz,Which lung contains the nodule?,Left lung.,Open,-,-,-,-,-
+2,3,train_1815_a_1.nii.gz,Where is the lymph node observed?,Right upper paratracheal.,Open,-,-,-,-,-
+2,3,train_1815_a_2.nii.gz,Where is the mucus plug identified?,Left main bronchus.,Open,-,-,-,-,-
+2,3,train_1822_b_1.nii.gz,Which type of opacity is present?,Ground glass opacity.,Open,-,-,-,-,-
+2,3,train_18254_a_1.nii.gz,Where is the aneurysmatic enlargement observed?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_1828_a_1.nii.gz,What type of density increase is observed in the lower lobe of the right lung?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_182_a_2.nii.gz,Where is the non-specific nodule observed?,Superior left lung,Open,-,-,-,-,-
+2,3,train_1830_a_1.nii.gz,Where are the fibrotic changes observed?,Both lung lower lobes,Open,-,-,-,-,-
+2,3,train_1834_b_1.nii.gz,Where is the pleural effusion?,Not detected,Open,-,-,-,-,-
+2,3,train_18415_a_2.nii.gz,Where are the nodular lesions?,None present,Open,-,-,-,-,-
+2,3,train_1841_b_1.nii.gz,Where are the calcific plaques located?,Aortic arch,Open,-,-,-,-,-
+2,3,train_18429_b_2.nii.gz,What type of contour does the nodule in the lower lobe have?,Spiculated contour.,Open,-,-,-,-,-
+2,3,train_18465_b_2.nii.gz,Where are the nodules located in the right lung?,Upper lobe anterior,Open,-,-,-,-,-
+2,3,train_18489_a_2.nii.gz,Where are the cysts observed?,Both kidneys.,Open,-,-,-,-,-
+2,3,train_18501_b_2.nii.gz,What type of effusion is present on the right?,Free pleural effusion.,Open,-,-,-,-,-
+2,3,train_18514_a_2.nii.gz,Where is the high-density lesion located?,Left adrenal gland,Open,-,-,-,-,-
+2,3,train_18535_a_2.nii.gz,What type of lung abnormality is present?,Ground-glass opacity,Open,-,-,-,-,-
+2,3,train_18560_a_2.nii.gz,Where is the nonspecific nodule observed?,"Posterobasal region, left lung.",Open,-,-,-,-,-
+2,3,train_18589_b_2.nii.gz,Where is the consolidation located in the right lung?,Posterior segment of the upper lobe.,Open,-,-,-,-,-
+2,3,train_18607_a_1.nii.gz,What type of lesions are present in the lungs?,No lesions.,Open,-,-,-,-,-
+2,3,train_18646_a_1.nii.gz,Where is the mass located?,Superior left lung.,Open,-,-,-,-,-
+2,3,train_18732_a_1.nii.gz,Which lesions are present in the lung parenchyma?,None observed.,Open,-,-,-,-,-
+2,3,train_18747_a_1.nii.gz,What type of opacity is present?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_18838_b_2.nii.gz,Where is the stable nodule observed?,Superior segment of left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_1883_a_2.nii.gz,Where is the soft tissue mass located?,Left lung hilum.,Open,-,-,-,-,-
+2,3,train_18900_a_1.nii.gz,Which abnormality is present in the middle lobe of the right lung?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_18907_a_1.nii.gz,What type of opacities are present?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_18907_a_2.nii.gz,What type of opacities are present?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_18907_b_1.nii.gz,Where are the nonspecific parenchymal nodules located?,Both lungs,Open,-,-,-,-,-
+2,3,train_18910_b_2.nii.gz,What type of effusion is observed?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_18911_a_2.nii.gz,Where is the pleural effusion?,Not present,Open,-,-,-,-,-
+2,3,train_18915_a_2.nii.gz,Where is the nonspecific nodule found?,"Lingula, left lung",Open,-,-,-,-,-
+2,3,train_1892_a_2.nii.gz,Where is the nonspecific nodule found?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_18930_a_2.nii.gz,What type of nodules are observed?,Ground-glass nodules,Open,-,-,-,-,-
+2,3,train_18931_a_1.nii.gz,Where is the irregular contoured nodule located?,"Superior segment, lower lobe, right lung.",Open,-,-,-,-,-
+2,3,train_18933_a_1.nii.gz,What type of opacities are present?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_18954_a_1.nii.gz,Where is the pleural effusion more prominent?,Right side.,Open,-,-,-,-,-
+2,3,train_18964_a_1.nii.gz,Where is the area of increased density consistent with consolidation?,Lower lobe of right lung.,Open,-,-,-,-,-
+2,3,train_19022_a_2.nii.gz,What type of lesions are observed in the lung parenchyma?,None detected.,Open,-,-,-,-,-
+2,3,train_19036_a_2.nii.gz,Where are the ground glass densities observed?,Both lungs,Open,-,-,-,-,-
+2,3,train_19050_a_2.nii.gz,Where are the ground glass densities located?,Bilateral lungs,Open,-,-,-,-,-
+2,3,train_19062_a_2.nii.gz,Where is the lobar pneumonic infiltration observed?,Lower lobe of right lung.,Open,-,-,-,-,-
+2,3,train_19076_a_2.nii.gz,Where are the enlarged lymph nodes located?,Not detected,Open,-,-,-,-,-
+2,3,train_19152_b_2.nii.gz,Where are the solid mass lesions located?,Lower lobe left lung.,Open,-,-,-,-,-
+2,3,train_19157_b_2.nii.gz,Where is the nodular mass lesion located?,Right adrenal gland,Open,-,-,-,-,-
+2,3,train_19162_a_2.nii.gz,Where are the nodular lesions?,Not present,Open,-,-,-,-,-
+2,3,train_19201_a_1.nii.gz,Where is the hydatid cyst located?,Right liver dome.,Open,-,-,-,-,-
+2,3,train_19220_a_1.nii.gz,Where is the lesion causing bronchial stenosis?,Right middle lobe bronchus.,Open,-,-,-,-,-
+2,3,train_19220_a_5.nii.gz,Where is the lesion causing bronchial stenosis located?,Right middle lobe bronchus.,Open,-,-,-,-,-
+2,3,train_19242_a_1.nii.gz,Where is the aneurysmatic dilatation located?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_19249_a_2.nii.gz,Which type of contour is seen on the mass in the left lung apex?,Spiculated contour.,Open,-,-,-,-,-
+2,3,train_19326_a_1.nii.gz,Where are the nonspecific nodules located?,Bilateral lower lobes,Open,-,-,-,-,-
+2,3,train_19326_a_2.nii.gz,Where are the nonspecific nodules observed?,Bilateral lower lobes.,Open,-,-,-,-,-
+2,3,train_19328_d_2.nii.gz,Which abnormality is identified in the lower lobe of the right lung?,Subsegmental atelectasis,Open,-,-,-,-,-
+2,3,train_19421_a_1.nii.gz,Where is the abnormality located?,Inferior lingular segment,Open,-,-,-,-,-
+2,3,train_19431_a_1.nii.gz,What type of contour does the lesion have?,Spiculated contour,Open,-,-,-,-,-
+2,3,train_19431_a_2.nii.gz,What type of contour does the lesion have?,Spiculated contour,Open,-,-,-,-,-
+2,3,train_19447_a_5.nii.gz,What type of densities are observed in the right lung lower lobe?,Ground glass densities.,Open,-,-,-,-,-
+2,3,train_19448_a_2.nii.gz,Where is the pericardial effusion located?,Pericardial space,Open,-,-,-,-,-
+2,3,train_19462_a_1.nii.gz,Where are the consolidations located?,Left lung apex.,Open,-,-,-,-,-
+2,3,train_19492_a_1.nii.gz,Where are the suspicious lesions located?,None detected.,Open,-,-,-,-,-
+2,3,train_19506_a_2.nii.gz,Where are the nonspecific parenchymal nodules located?,Both lungs.,Open,-,-,-,-,-
+2,3,train_19512_a_1.nii.gz,Where are the atelectatic changes observed?,"Upper lobe, right middle lobe",Open,-,-,-,-,-
+2,3,train_19515_a_2.nii.gz,What type of nodule is observed?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_19520_a_2.nii.gz,Which type of atelectasis is observed?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_19536_a_1.nii.gz,Where are the nonspecific nodules located?,Both lungs.,Open,-,-,-,-,-
+2,3,train_19539_a_2.nii.gz,Which type of effusions are present?,Bilateral pleural effusions.,Open,-,-,-,-,-
+2,3,train_19542_a_2.nii.gz,Where are the patchy densities located?,Right hilar region,Open,-,-,-,-,-
+2,3,train_19576_a_2.nii.gz,What type of thickening is noted?,Interlobular septal thickening,Open,-,-,-,-,-
+2,3,train_1957_a_2.nii.gz,Where is the consolidation area located?,"Upper lobe, left lung.",Open,-,-,-,-,-
+2,3,train_19618_a_2.nii.gz,Which condition is indicated by the increased heart size?,Cardiomegaly,Open,-,-,-,-,-
+2,3,train_19625_a_1.nii.gz,Where are the nodular lesions?,None present,Open,-,-,-,-,-
+2,3,train_19666_b_2.nii.gz,What type of density is noted in the infiltration areas?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_19685_a_2.nii.gz,Where is the dilatation observed?,Main pulmonary artery.,Open,-,-,-,-,-
+2,3,train_19687_c_1.nii.gz,Where is the effusion located?,Right pleural space,Open,-,-,-,-,-
+2,3,train_19689_a_2.nii.gz,What type of bronchial abnormality is present?,Cystic bronchiectasis,Open,-,-,-,-,-
+2,3,train_19715_a_1.nii.gz,What type of opacity is observed?,Ground glass opacity.,Open,-,-,-,-,-
+2,3,train_1975_a_2.nii.gz,Where are the pulmonary nodules located?,"Left upper lobe, right middle lobe",Open,-,-,-,-,-
+2,3,train_19852_a_1.nii.gz,What type of density is observed?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_19858_a_2.nii.gz,Which type of nodule is observed?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_19959_c_2.nii.gz,Where are the pleural effusions located?,Both hemithorax,Open,-,-,-,-,-
+2,3,train_19972_b_2.nii.gz,Where are the densities located?,Lung lower lobes,Open,-,-,-,-,-
+2,3,train_19972_b_3.nii.gz,Where are the densities located?,Lung lower lobes,Open,-,-,-,-,-
+2,3,train_2062_a_2.nii.gz,Where is the mass?,No mass detected,Open,-,-,-,-,-
+2,3,train_2092_a_1.nii.gz,Where is the effusion located?,Left pleural space.,Open,-,-,-,-,-
+2,3,train_209_a_1.nii.gz,Where is the lymph node located?,Right upper paratracheal,Open,-,-,-,-,-
+2,3,train_2132_a_1.nii.gz,What type of opacity is observed?,Ground-glass opacity,Open,-,-,-,-,-
+2,3,train_2158_d_2.nii.gz,Where is the effusion located?,Left pleural space.,Open,-,-,-,-,-
+2,3,train_2198_a_1.nii.gz,Where are the cysts more prominently seen?,Upper lobes.,Open,-,-,-,-,-
+2,3,train_2206_a_1.nii.gz,Which type of effusion is observed?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_2269_a_1.nii.gz,Where is the significant dilatation observed?,Main pulmonary artery.,Open,-,-,-,-,-
+2,3,train_2297_a_1.nii.gz,What type of abnormality is present in the mediastinum?,Pneumomediastinum.,Open,-,-,-,-,-
+2,3,train_22_a_1.nii.gz,Where is the mass lesion observed?,Lung lower lobe,Open,-,-,-,-,-
+2,3,train_2335_a_1.nii.gz,Where is the consolidation located?,Lower lobe,Open,-,-,-,-,-
+2,3,train_2365_a_2.nii.gz,Where is the hypodense lesion observed?,Right adrenal gland.,Open,-,-,-,-,-
+2,3,train_236_a_1.nii.gz,What type of changes are present in the lower lobe of the right lung?,Subsegmental atelectatic changes.,Open,-,-,-,-,-
+2,3,train_2391_a_2.nii.gz,Where is the hypodense nodule located?,Right thyroid lobe,Open,-,-,-,-,-
+2,3,train_2393_a_1.nii.gz,Where are the calcific nodules located?,"Right middle lobe, left lingular segment",Open,-,-,-,-,-
+2,3,train_2393_a_2.nii.gz,Where are the calcific nodules located?,"Right middle lobe, left lingular segment",Open,-,-,-,-,-
+2,3,train_2430_a_1.nii.gz,Where is the linear atelectasis observed?,Lower lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_2430_a_2.nii.gz,Where is the atelectasis observed?,Lower lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_2432_a_2.nii.gz,Where are the areas of nodular consolidation located?,Middle lobe of right lung.,Open,-,-,-,-,-
+2,3,train_2433_a_1.nii.gz,What type of effusion is observed in the right pleural space?,Free pleural effusion,Open,-,-,-,-,-
+2,3,train_2433_a_2.nii.gz,What type of effusion is observed in the right pleural space?,Free pleural effusion,Open,-,-,-,-,-
+2,3,train_2456_a_1.nii.gz,Where is the newly developed nodule located?,Anterior segment of right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_2485_b_2.nii.gz,Where are the suspicious masses located?,None present.,Open,-,-,-,-,-
+2,3,train_2489_b_2.nii.gz,Where is the nonspecific hypodense lesion located?,Left lobe of liver.,Open,-,-,-,-,-
+2,3,train_2491_a_2.nii.gz,Where is the abnormality located?,"Left lung upper lobe, right lung lower lobe",Open,-,-,-,-,-
+2,3,train_2495_a_1.nii.gz,Where is the consolidation primarily located?,Upper lobes.,Open,-,-,-,-,-
+2,3,train_2557_a_2.nii.gz,Where is the parenchymal nodule located?,Apical left lung.,Open,-,-,-,-,-
+2,3,train_2613_a_2.nii.gz,Where is the mass lesion located?,Left main bronchus.,Open,-,-,-,-,-
+2,3,train_2625_a_1.nii.gz,Where is the abnormality observed?,Lower lobe of left lung,Open,-,-,-,-,-
+2,3,train_2655_a_1.nii.gz,Where is the hypodense lesion observed?,Left adrenal gland.,Open,-,-,-,-,-
+2,3,train_266_b_2.nii.gz,Where is the minimal pleural effusion located?,Right side,Open,-,-,-,-,-
+2,3,train_2671_a_1.nii.gz,Where is the irregular mass located?,Right lung hilum,Open,-,-,-,-,-
+2,3,train_2684_a_1.nii.gz,Where are the consolidative areas observed?,Middle lobe,Open,-,-,-,-,-
+2,3,train_2747_a_1.nii.gz,What shape is the lesion in the left breast?,Oval-shaped.,Open,-,-,-,-,-
+2,3,train_2757_a_1.nii.gz,Where is the hypodense lesion located?,Right liver lobe.,Open,-,-,-,-,-
+2,3,train_2759_a_2.nii.gz,Which shape describes the nodule?,Oval shaped,Open,-,-,-,-,-
+2,3,train_2832_a_1.nii.gz,What type of nodules are observed?,Ground-glass nodules,Open,-,-,-,-,-
+2,3,train_2835_a_2.nii.gz,Where is the hyperdense lesion located?,Posterior right lobe,Open,-,-,-,-,-
+2,3,train_2874_a_1.nii.gz,Where are the emphysema areas most prominent?,Upper lobes,Open,-,-,-,-,-
+2,3,train_2874_a_2.nii.gz,Where are the emphysema areas most prominent?,Upper lobes,Open,-,-,-,-,-
+2,3,train_287_a_1.nii.gz,Which condition is indicated by the increased heart size?,Cardiomegaly,Open,-,-,-,-,-
+2,3,train_2883_a_2.nii.gz,Where is the consolidative lesion located?,"Middle lobe, right lung",Open,-,-,-,-,-
+2,3,train_2884_a_2.nii.gz,Where are the lesions located?,None present,Open,-,-,-,-,-
+2,3,train_2886_a_1.nii.gz,Which type of abnormality is observed in the left lung upper lobe?,Focal consolidation.,Open,-,-,-,-,-
+2,3,train_2897_a_1.nii.gz,What type of nodule is observed?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_2898_a_1.nii.gz,What type of lesions are detected?,No lesions.,Open,-,-,-,-,-
+2,3,train_2937_a_1.nii.gz,What type of atelectasis is observed?,Subsegmental atelectasis,Open,-,-,-,-,-
+2,3,train_2963_b_1.nii.gz,Where is the mass lesion located?,Middle trachea.,Open,-,-,-,-,-
+2,3,train_2969_a_1.nii.gz,Where is the aneurysmatic dilation observed?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_3086_a_1.nii.gz,Where are the lung parenchyma lesions located?,No lesions detected.,Open,-,-,-,-,-
+2,3,train_3182_a_1.nii.gz,Where are the nodules located?,Upper lobes,Open,-,-,-,-,-
+2,3,train_3203_a_2.nii.gz,Which areas show ground glass opacities?,Both lung lower lobes,Open,-,-,-,-,-
+2,3,train_3240_a_2.nii.gz,Where is the lobulated nodule located?,Right upper lobe.,Open,-,-,-,-,-
+2,3,train_3280_a_2.nii.gz,Where is the suspected nodule located?,"Middle lobe, right lung.",Open,-,-,-,-,-
+2,3,train_3299_a_1.nii.gz,Where is the cystic mass lesion located?,Right adrenal gland.,Open,-,-,-,-,-
+2,3,train_3299_a_2.nii.gz,Where is the cystic mass lesion located?,Right adrenal gland,Open,-,-,-,-,-
+2,3,train_3326_b_3.nii.gz,What type of fluid accumulation is present?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_3326_b_4.nii.gz,Which side shows a greater depth of effusion?,Left side.,Open,-,-,-,-,-
+2,3,train_3360_a_1.nii.gz,Where are the opacities primarily located?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_3366_a_2.nii.gz,What type of lesions are present in the lung parenchyma?,None detected,Open,-,-,-,-,-
+2,3,train_3372_a_1.nii.gz,Where is the atelectasis observed?,Left lung,Open,-,-,-,-,-
+2,3,train_3383_a_2.nii.gz,Where is the calcified nodule located?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_3476_b_1.nii.gz,What type of density is observed in the right lung?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_3487_a_1.nii.gz,Which abnormality is present in the pleural space?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_3487_a_2.nii.gz,What type of fluid accumulation is present?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_3519_a_2.nii.gz,Where are the nodular densities more prominent?,Upper lobe apices,Open,-,-,-,-,-
+2,3,train_3524_a_1.nii.gz,Where are the nodules located in the right lung?,Upper lobe.,Open,-,-,-,-,-
+2,3,train_3570_a_2.nii.gz,Which region contains a nodule?,Left hilar region,Open,-,-,-,-,-
+2,3,train_3595_a_1.nii.gz,Which type of nodule is present?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_3601_a_1.nii.gz,What type of fluid accumulation is observed?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_3601_a_2.nii.gz,What type of fluid accumulation is observed?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_3607_a_1.nii.gz,Where is the consolidation area located?,Right upper lobe.,Open,-,-,-,-,-
+2,3,train_3623_a_1.nii.gz,Where are the nodules located?,Upper lobe anterior segment.,Open,-,-,-,-,-
+2,3,train_3627_a_2.nii.gz,Where is the calcific nodule located?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,3,train_3666_a_1.nii.gz,Where is the minimal pleural effusion located?,Left side.,Open,-,-,-,-,-
+2,3,train_3675_a_1.nii.gz,Which type of effusion is present in the pericardial area?,Pericardial effusion.,Open,-,-,-,-,-
+2,3,train_3675_c_2.nii.gz,Which type of opacities are present?,Ground glass opacities.,Open,-,-,-,-,-
+2,3,train_3675_e_1.nii.gz,Where is the consolidation area located?,Lower lobe,Open,-,-,-,-,-
+2,3,train_3687_a_1.nii.gz,Which type of bronchial abnormality is noted?,Tubular bronchiectasis.,Open,-,-,-,-,-
+2,3,train_3698_b_1.nii.gz,What type of effusion is present?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_3704_a_1.nii.gz,Where is the hypodense lesion located?,Left kidney.,Open,-,-,-,-,-
+2,3,train_3713_b_1.nii.gz,Where are the nodular consolidations located?,Upper lobe of right lung.,Open,-,-,-,-,-
+2,3,train_3722_a_1.nii.gz,Where is the ground-glass nodule located?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_3734_a_5.nii.gz,What type of opacities are observed in both lungs?,Ground glass opacities,Open,-,-,-,-,-
+2,3,train_3735_b_2.nii.gz,Where are the lymphadenopathies observed?,Mediastinum and hilar regions.,Open,-,-,-,-,-
+2,3,train_3754_a_2.nii.gz,Where is the tubular and cylindrical bronchiectasis observed?,Anterior segment of right upper lobe,Open,-,-,-,-,-
+2,3,train_3755_a_1.nii.gz,Where is the calcific parenchymal nodule located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_3755_a_2.nii.gz,Where is the calcific parenchymal nodule located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_3760_a_2.nii.gz,Which organ has a cyst?,Right kidney,Open,-,-,-,-,-
+2,3,train_3761_a_1.nii.gz,Where is the area consistent with linear atelectasis observed?,Left lung middle lobe,Open,-,-,-,-,-
+2,3,train_3777_a_2.nii.gz,What type of opacities are present?,Ground-glass opacities.,Open,-,-,-,-,-
+2,3,train_3783_a_2.nii.gz,Where is the atelectasis located?,Right lung middle lobe,Open,-,-,-,-,-
+2,3,train_3813_b_2.nii.gz,Where is the pleural effusion more prominent?,Left hemithorax.,Open,-,-,-,-,-
+2,3,train_3821_a_3.nii.gz,Where are the atelectatic changes located?,Left lung lingular segment.,Open,-,-,-,-,-
+2,3,train_3827_a_1.nii.gz,Where are the ground glass densities observed?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_3827_a_2.nii.gz,Where are the ground glass densities observed?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_3828_b_2.nii.gz,Where are the calculi located?,Left kidney.,Open,-,-,-,-,-
+2,3,train_3832_a_2.nii.gz,Where are the suspicious nodules?,None detected.,Open,-,-,-,-,-
+2,3,train_3849_a_2.nii.gz,Where are the patchy densities located?,Lung lower lobes,Open,-,-,-,-,-
+2,3,train_3856_a_1.nii.gz,Where is the nodule located in the thyroid gland?,Right lobe,Open,-,-,-,-,-
+2,3,train_3889_a_1.nii.gz,Where are the nodules observed?,Anterior segment of right lung.,Open,-,-,-,-,-
+2,3,train_3945_a_1.nii.gz,What is the shape of the lesion in the left breast?,Oval-shaped.,Open,-,-,-,-,-
+2,3,train_3963_e_1.nii.gz,What type of effusion is present?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_3963_g_2.nii.gz,What type of effusion is observed in both hemithorax?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_3965_a_1.nii.gz,Which lesions are present?,None.,Open,-,-,-,-,-
+2,3,train_3977_b_2.nii.gz,Where is the mass lesion located?,Right lung apex.,Open,-,-,-,-,-
+2,3,train_3979_a_2.nii.gz,What type of lesions are present in the lung parenchyma?,None detected,Open,-,-,-,-,-
+2,3,train_3985_a_2.nii.gz,Where is the calculus located?,Left kidney.,Open,-,-,-,-,-
+2,3,train_3989_a_2.nii.gz,Where are the calcific nodules observed?,Right lower lobe mediobasal segment.,Open,-,-,-,-,-
+2,3,train_3999_b_2.nii.gz,What type of effusion is present?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_4012_a_1.nii.gz,Where is the pleural effusion observed?,Right hemithorax.,Open,-,-,-,-,-
+2,3,train_401_a_1.nii.gz,Where is the space-occupying lesion located?,None present.,Open,-,-,-,-,-
+2,3,train_4050_b_2.nii.gz,Where are the consolidations located?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_4063_a_1.nii.gz,Where are the atelectatic changes located?,Right lung middle lobe,Open,-,-,-,-,-
+2,3,train_408_a_1.nii.gz,Which type of effusion is observed?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_4122_b_1.nii.gz,Where are the nodules located in the left lung?,Anterior upper lobe.,Open,-,-,-,-,-
+2,3,train_4122_b_2.nii.gz,Where are the nodules located in the left lung?,Anterior upper lobe.,Open,-,-,-,-,-
+2,3,train_412_b_1.nii.gz,Where is the pneumothorax observed?,Left side.,Open,-,-,-,-,-
+2,3,train_414_a_1.nii.gz,Where is the ectasia observed?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_4151_b_1.nii.gz,Where is the cavitary lesion observed?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_4151_b_2.nii.gz,Where is the cavitary lesion observed?,Left upper lobe,Open,-,-,-,-,-
+2,3,train_4182_a_2.nii.gz,Where is the hypodense lesion located?,Right liver lobe,Open,-,-,-,-,-
+2,3,train_4196_b_2.nii.gz,Where is the effusion observed?,Right pleural space,Open,-,-,-,-,-
+2,3,train_4260_a_1.nii.gz,Where are the ground glass densities located?,Left lower lobe.,Open,-,-,-,-,-
+2,3,train_4261_b_2.nii.gz,Which side has a larger effusion?,Left side.,Open,-,-,-,-,-
+2,3,train_4272_b_2.nii.gz,Where is the effusion located?,Right hemithorax,Open,-,-,-,-,-
+2,3,train_4339_a_1.nii.gz,Which type of nodule is observed?,Ground-glass nodule,Open,-,-,-,-,-
+2,3,train_437_a_1.nii.gz,Where are the masses or nodules located?,Not detected.,Open,-,-,-,-,-
+2,3,train_4399_a_1.nii.gz,Where is the moderate effusion located?,Left hemithorax.,Open,-,-,-,-,-
+2,3,train_4399_a_2.nii.gz,Where is the moderate effusion located?,Left hemithorax.,Open,-,-,-,-,-
+2,3,train_4439_b_2.nii.gz,Where is the irregularly circumscribed nodule located?,Superior segment of right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_4441_a_1.nii.gz,Where is the round-shaped consolidation observed?,Left lower lobe,Open,-,-,-,-,-
+2,3,train_4482_a_1.nii.gz,Where is the aneurysmatic dilation observed?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_44_a_1.nii.gz,Which type of pneumothorax is present?,Left pneumothorax.,Open,-,-,-,-,-
+2,3,train_450_a_2.nii.gz,Which type of bronchial abnormality is present?,Bronchiectasis.,Open,-,-,-,-,-
+2,3,train_4512_b_1.nii.gz,Which lung contains the nodule?,Left lung,Open,-,-,-,-,-
+2,3,train_4513_a_2.nii.gz,Where is the subpleural nodule located?,Right middle lobe.,Open,-,-,-,-,-
+2,3,train_4521_a_2.nii.gz,Where is the dilatation observed?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_4524_a_2.nii.gz,Where is the nonspecific nodule found?,"Upper lobe, right lung",Open,-,-,-,-,-
+2,3,train_4553_a_2.nii.gz,Where is the pleural-based nodule located?,"Lower lobe, left lung",Open,-,-,-,-,-
+2,3,train_4556_a_3.nii.gz,Which type of opacities are observed?,Ground glass opacities.,Open,-,-,-,-,-
+2,3,train_4569_a_1.nii.gz,Where is the air cyst located?,Right middle lobe.,Open,-,-,-,-,-
+2,3,train_4586_b_1.nii.gz,Where is the atelectasis observed?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,3,train_4599_a_1.nii.gz,Where are the calculi located?,Both kidneys,Open,-,-,-,-,-
+2,3,train_4599_a_2.nii.gz,Where are the calculi located?,Both kidneys.,Open,-,-,-,-,-
+2,3,train_45_a_1.nii.gz,What type of effusion is observed in both pleural spaces?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_45_a_2.nii.gz,Where is the area of consolidation observed?,Lower lobe,Open,-,-,-,-,-
+2,3,train_460_a_1.nii.gz,Where are the cystic density lesions located?,Both kidneys.,Open,-,-,-,-,-
+2,3,train_4618_a_1.nii.gz,Where is the nodule located in the right lung?,Middle lobe.,Open,-,-,-,-,-
+2,3,train_461_a_2.nii.gz,What type of effusion is present?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_4695_a_2.nii.gz,Where is the solid nodule located?,"Anterior segment, right lung upper lobe.",Open,-,-,-,-,-
+2,3,train_4701_a_2.nii.gz,Where is the patchy density located?,Right lower lobe.,Open,-,-,-,-,-
+2,3,train_4724_a_1.nii.gz,Where is the calculus located?,Left kidney,Open,-,-,-,-,-
+2,3,train_4724_a_2.nii.gz,Where is the calculus located?,Left kidney,Open,-,-,-,-,-
+2,3,train_4763_a_2.nii.gz,Where is the nodule found in the lungs?,Anterior segment of right lung.,Open,-,-,-,-,-
+2,3,train_4765_a_2.nii.gz,Where are the consolidations located?,Lung lower lobes.,Open,-,-,-,-,-
+2,3,train_478_a_2.nii.gz,Where is the air cyst located?,"Anterior segment, right lung.",Open,-,-,-,-,-
+2,3,train_47_a_1.nii.gz,Where is the pleural-based consolidation observed?,Left lung apical segment.,Open,-,-,-,-,-
+2,3,train_4802_a_1.nii.gz,Where is the dilatation observed?,Main pulmonary artery.,Open,-,-,-,-,-
+2,3,train_4807_a_1.nii.gz,Where are the calcific nodules located?,Right middle lobe.,Open,-,-,-,-,-
+2,3,train_4821_a_2.nii.gz,Where are the enlarged lymph nodes?,Not present.,Open,-,-,-,-,-
+2,3,train_4849_a_1.nii.gz,Where is the nodule located in the right lung?,Lower lobe,Open,-,-,-,-,-
+2,3,train_4850_a_1.nii.gz,Where is the calcified nodule located?,Left hilar region.,Open,-,-,-,-,-
+2,3,train_4897_a_1.nii.gz,Where is the 2 mm diameter calcific nodule located?,Inferior lingular segment.,Open,-,-,-,-,-
+2,3,train_4949_a_1.nii.gz,Where is the pulmonary nodule located?,Right upper lobe.,Open,-,-,-,-,-
+2,3,train_4961_c_1.nii.gz,Which abnormality is present at the esophagogastric junction?,Hiatal hernia.,Open,-,-,-,-,-
+2,3,train_4961_d_1.nii.gz,Where is the effusion located?,Right hemithorax,Open,-,-,-,-,-
+2,3,train_4962_a_2.nii.gz,Where is the stone density located?,Left kidney,Open,-,-,-,-,-
+2,3,train_4987_a_1.nii.gz,Which abnormality is observed in the right lung?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_4988_a_2.nii.gz,What is the contour of the lesion in the right lung lower lobe?,Smooth lobulated.,Open,-,-,-,-,-
+2,3,train_503_a_1.nii.gz,What type of opacity is noted in the lung parenchyma?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_506_a_1.nii.gz,What type of nodule is observed?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_5119_a_1.nii.gz,Where is the aneurysmatic dilatation observed?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_5130_b_1.nii.gz,Which type of emphysema is present?,Centrilobular emphysema,Open,-,-,-,-,-
+2,3,train_5142_a_1.nii.gz,What type of nodules are present?,Ground-glass nodules,Open,-,-,-,-,-
+2,3,train_5184_a_1.nii.gz,Where is the space-occupying lesion suspected?,Right hilar region.,Open,-,-,-,-,-
+2,3,train_5184_a_2.nii.gz,Where is the space-occupying lesion located?,Right hilar region,Open,-,-,-,-,-
+2,3,train_518_h_2.nii.gz,Where is the newly emerging infiltration area located?,Left lung lingular segment.,Open,-,-,-,-,-
+2,3,train_5193_d_1.nii.gz,What type of lesion is observed in the upper pole of the right kidney?,Cortical cyst.,Open,-,-,-,-,-
+2,3,train_5207_a_1.nii.gz,Where is the consolidation observed?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_5212_a_2.nii.gz,Where is the calcific nodule located?,Left lower lobe,Open,-,-,-,-,-
+2,3,train_522_a_2.nii.gz,Where is the fissure-based nodule located?,"Superior segment, left lung lower lobe.",Open,-,-,-,-,-
+2,3,train_5235_a_1.nii.gz,Where is linear atelectasis located?,Posterobasal lower lobe,Open,-,-,-,-,-
+2,3,train_5238_a_1.nii.gz,Where are the multiple calcified nodular lesions observed?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,3,train_5240_a_2.nii.gz,Where is the focal thickening observed?,Anterior segment of right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_5262_a_1.nii.gz,Where are the spiculated nodules located?,Upper lobe of the right lung.,Open,-,-,-,-,-
+2,3,train_526_a_1.nii.gz,Where is the myelolipoma located?,Left adrenal gland,Open,-,-,-,-,-
+2,3,train_5281_a_2.nii.gz,Where is the largest nodule located?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,3,train_5294_a_2.nii.gz,Where are the ground-glass nodules located?,Lower lobes,Open,-,-,-,-,-
+2,3,train_5298_a_1.nii.gz,Where is the faintly circumscribed nodule located?,Right lung apex,Open,-,-,-,-,-
+2,3,train_5305_a_1.nii.gz,Which area shows consolidation?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_5309_a_2.nii.gz,Where is the cortical exophytic hypodense lesion located?,Right kidney,Open,-,-,-,-,-
+2,3,train_5312_a_2.nii.gz,Where are the patchy ground glass densities located?,Lower lobe basal segments.,Open,-,-,-,-,-
+2,3,train_5318_a_1.nii.gz,Which lung shows consolidative areas?,Left lung,Open,-,-,-,-,-
+2,3,train_531_a_2.nii.gz,Where are linear atelectatic changes observed?,Left lung lingular segment.,Open,-,-,-,-,-
+2,3,train_532_a_1.nii.gz,Which type of atelectasis is present?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_532_a_2.nii.gz,What type of atelectasis is present?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_5341_a_1.nii.gz,Where is the abnormality observed?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_5342_a_1.nii.gz,Where is the abnormality located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_5343_a_2.nii.gz,Where is the pulmonary nodule located?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_5350_c_1.nii.gz,Where are the calculi observed?,Right kidney.,Open,-,-,-,-,-
+2,3,train_5350_c_2.nii.gz,Where are the calculi located?,Right kidney,Open,-,-,-,-,-
+2,3,train_5378_a_2.nii.gz,Where is the calcified nodule located?,Lower lobe of right lung,Open,-,-,-,-,-
+2,3,train_5386_a_2.nii.gz,Where is the observed abnormality primarily located?,Lower lobes,Open,-,-,-,-,-
+2,3,train_5391_a_2.nii.gz,What type of lesions are present in the lung parenchyma?,No lesions,Open,-,-,-,-,-
+2,3,train_5415_a_2.nii.gz,Where are the lesions detected?,No lesions,Open,-,-,-,-,-
+2,3,train_5423_a_4.nii.gz,Where are the ground-glass densities observed?,Lung lower lobes.,Open,-,-,-,-,-
+2,3,train_5428_e_1.nii.gz,Where is the atelectasis located?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_5428_f_2.nii.gz,Where are the consolidations located?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_5463_a_1.nii.gz,Where are the partially calcified nodular lesions located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_5464_a_1.nii.gz,What contour does the mass lesion exhibit?,Lobulated contour.,Open,-,-,-,-,-
+2,3,train_546_a_1.nii.gz,What type of atelectasis is present?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_5478_a_1.nii.gz,Where is the ground glass nodule observed?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_5485_a_1.nii.gz,Where is the nodular abnormality located?,Lower lobe,Open,-,-,-,-,-
+2,3,train_5504_a_1.nii.gz,Where are the consolidations located?,Lower lobes,Open,-,-,-,-,-
+2,3,train_5529_a_1.nii.gz,Where are the suspicious nodules located?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_5529_b_2.nii.gz,Which lung shows consolidation?,Left lung,Open,-,-,-,-,-
+2,3,train_5533_b_2.nii.gz,Where is the atelectasis observed?,Middle lobe.,Open,-,-,-,-,-
+2,3,train_5552_a_2.nii.gz,Which lung shows consolidation areas?,Right lung.,Open,-,-,-,-,-
+2,3,train_5563_a_2.nii.gz,Where are the nodules located?,Right lung upper and lower lobes.,Open,-,-,-,-,-
+2,3,train_5568_a_1.nii.gz,Where is the nodule located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_557_c_2.nii.gz,Where are the calcific plaques observed?,Aortic arch.,Open,-,-,-,-,-
+2,3,train_55_b_2.nii.gz,Where are dependent atelectatic changes present?,Both lower lobes.,Open,-,-,-,-,-
+2,3,train_55_b_3.nii.gz,Where are dependent atelectatic changes located?,Both lower lobes.,Open,-,-,-,-,-
+2,3,train_5607_a_2.nii.gz,Where is the focal ground-glass density increase located?,Right lower lobe.,Open,-,-,-,-,-
+2,3,train_560_a_1.nii.gz,Which type of lung abnormality is observed?,Ground glass opacities,Open,-,-,-,-,-
+2,3,train_5610_a_1.nii.gz,Where is the atelectasis observed?,Lower lobes,Open,-,-,-,-,-
+2,3,train_5616_a_2.nii.gz,Where are the lesions detected?,None detected,Open,-,-,-,-,-
+2,3,train_5622_a_2.nii.gz,Where is the air cyst located?,"Right lung, upper lobe.",Open,-,-,-,-,-
+2,3,train_5623_a_1.nii.gz,Where are the consolidations located?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_5623_a_2.nii.gz,Where are the consolidations located?,Lower lobes,Open,-,-,-,-,-
+2,3,train_5634_e_1.nii.gz,Where is the nodular formation located?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_5638_a_1.nii.gz,Where is the atelectasis located?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_5658_a_2.nii.gz,Where are the nodular densities located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_5672_a_2.nii.gz,Where is the pleural effusion located?,Right hemithorax.,Open,-,-,-,-,-
+2,3,train_5676_a_1.nii.gz,Where are the nodular ground glass consolidations located?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_5684_a_2.nii.gz,Which type of opacities are observed?,Ground-glass opacities.,Open,-,-,-,-,-
+2,3,train_5701_a_2.nii.gz,Where is the space-occupying lesion located?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_5717_a_2.nii.gz,Where are the nodules located?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_5718_a_2.nii.gz,Where are the atelectatic changes located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_5739_a_1.nii.gz,Where is the parenchymal nodule observed?,Right perihilar area.,Open,-,-,-,-,-
+2,3,train_5756_a_1.nii.gz,Where is the calculus located?,Right kidney,Open,-,-,-,-,-
+2,3,train_5768_a_1.nii.gz,Where is the cortical scar located?,Left kidney,Open,-,-,-,-,-
+2,3,train_5772_a_1.nii.gz,Where are the ground glass opacities observed?,Right middle lobe.,Open,-,-,-,-,-
+2,3,train_5775_a_2.nii.gz,Where is the calculus observed?,Left kidney,Open,-,-,-,-,-
+2,3,train_5800_b_2.nii.gz,Where are the consolidative areas observed?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_5808_a_1.nii.gz,Where is the 3 mm nodule located?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_5808_a_2.nii.gz,Where is a 3 mm diameter nodule located?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_5818_a_2.nii.gz,Where is the pleural effusion more prominent?,Right side,Open,-,-,-,-,-
+2,3,train_5822_b_2.nii.gz,Which lung shows a nearly collapsed appearance?,Right lung.,Open,-,-,-,-,-
+2,3,train_5828_a_2.nii.gz,Where are the lesions?,None detected,Open,-,-,-,-,-
+2,3,train_582_b_1.nii.gz,Where is the primary mass located?,Lower lobe,Open,-,-,-,-,-
+2,3,train_582_b_2.nii.gz,Where is the primary mass located?,"Lower lobe, left lung.",Open,-,-,-,-,-
+2,3,train_5851_b_2.nii.gz,Where are the bronchiectasis observed?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_5877_a_1.nii.gz,Where is the patchy density observed?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,3,train_5891_a_2.nii.gz,Where are the ground-glass densities located?,Right upper lobe,Open,-,-,-,-,-
+2,3,train_5897_a_2.nii.gz,Where are the nodules located?,Left lower lobe,Open,-,-,-,-,-
+2,3,train_5900_a_1.nii.gz,Where are the atelectatic changes located?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_5900_a_2.nii.gz,Where are the patchy ground-glass opacities located?,Both lung lower lobes.,Open,-,-,-,-,-
+2,3,train_5915_b_2.nii.gz,Where is the pleural effusion observed?,Right hemithorax,Open,-,-,-,-,-
+2,3,train_5915_d_1.nii.gz,Where is the pleural effusion observed?,Right hemithorax.,Open,-,-,-,-,-
+2,3,train_5915_e_1.nii.gz,Where is the effusion located?,Right pleural space.,Open,-,-,-,-,-
+2,3,train_5921_a_1.nii.gz,Where is the hypodense lesion located?,Right kidney.,Open,-,-,-,-,-
+2,3,train_5923_a_1.nii.gz,Where are the atelectatic changes located?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_5924_a_1.nii.gz,Where is the calculus observed?,Right kidney.,Open,-,-,-,-,-
+2,3,train_5938_a_2.nii.gz,Which lung shows a nodule?,Left lung,Open,-,-,-,-,-
+2,3,train_5965_c_1.nii.gz,Where are the stable parenchymal nodules located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_596_a_1.nii.gz,Where is the parenchymal nodule located?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_5976_a_2.nii.gz,Where is the pleural-based nodular structure located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_5997_a_1.nii.gz,Where is the nodule located?,Right upper lobe,Open,-,-,-,-,-
+2,3,train_5997_a_2.nii.gz,Where is the nodule located?,Right upper lobe,Open,-,-,-,-,-
+2,3,train_6001_a_2.nii.gz,Where is the pleural effusion observed?,Left pleural space,Open,-,-,-,-,-
+2,3,train_6014_a_1.nii.gz,What type of opacities are observed?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_6014_b_1.nii.gz,Where is the nodule located?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_6014_b_2.nii.gz,Where is the nodule located?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_6016_a_1.nii.gz,Where is the cyst located?,Left kidney.,Open,-,-,-,-,-
+2,3,train_6018_a_2.nii.gz,Where is the subpleural nodule located?,Right upper lobe,Open,-,-,-,-,-
+2,3,train_6029_a_1.nii.gz,Where is the soft tissue density lesion located?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_6035_b_1.nii.gz,Where is the nodule with irregular borders located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_6044_b_1.nii.gz,Which areas show consolidation?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_6050_b_1.nii.gz,Where are the consolidative areas located?,Lower zones of both lungs.,Open,-,-,-,-,-
+2,3,train_6061_a_2.nii.gz,Where is the complicated cyst located?,Left kidney,Open,-,-,-,-,-
+2,3,train_6062_a_1.nii.gz,Where are the atelectatic changes located?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_6072_a_1.nii.gz,Which lung shows focal consolidation areas?,Right lung.,Open,-,-,-,-,-
+2,3,train_6075_a_3.nii.gz,Where is the atelectasis observed?,Lower lobes,Open,-,-,-,-,-
+2,3,train_6077_a_1.nii.gz,Where is the ground-glass density area located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_6091_a_1.nii.gz,Where are the ground glass densities located?,Right lower lobe.,Open,-,-,-,-,-
+2,3,train_6098_a_1.nii.gz,Where is the nonspecific parenchymal nodule found?,Right lung upper lobe,Open,-,-,-,-,-
+2,3,train_60_d_1.nii.gz,Where are the ground glass densities located?,Posterobasal lower lobe.,Open,-,-,-,-,-
+2,3,train_6133_a_1.nii.gz,Where are the ground glass areas located?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,3,train_6139_a_1.nii.gz,Where are the atelectatic changes located?,Both lung lower lobes.,Open,-,-,-,-,-
+2,3,train_6139_a_2.nii.gz,Where are the atelectatic changes located?,Both lung lower lobes.,Open,-,-,-,-,-
+2,3,train_6152_a_2.nii.gz,Where are the nodules located?,"Right lung middle lobe, right lung upper lobe",Open,-,-,-,-,-
+2,3,train_6154_a_2.nii.gz,Where are the parenchymal nodules observed?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_6165_a_1.nii.gz,Where are the consolidation areas located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_6165_a_2.nii.gz,Where are the consolidation areas located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_6170_a_1.nii.gz,Where is the pleural effusion observed?,Right pleural space.,Open,-,-,-,-,-
+2,3,train_6171_a_1.nii.gz,Where is the nodule located?,"Lower lobe, left lung",Open,-,-,-,-,-
+2,3,train_6177_a_2.nii.gz,Where is the mass located?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_6187_c_2.nii.gz,Where is the nodule located?,Left lung upper lobe,Open,-,-,-,-,-
+2,3,train_6191_a_2.nii.gz,Where is the aneurysmatic dilatation?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_6199_a_1.nii.gz,Where are the atelectatic changes located?,Left lung upper lobe,Open,-,-,-,-,-
+2,3,train_6208_b_2.nii.gz,Where is the simple cyst located?,Right kidney.,Open,-,-,-,-,-
+2,3,train_6210_a_1.nii.gz,Where are the parenchymal nodules located?,Right lung middle lobe,Open,-,-,-,-,-
+2,3,train_6217_b_1.nii.gz,Where is the atelectasis observed?,"Right lung, lower lobe.",Open,-,-,-,-,-
+2,3,train_6230_a_2.nii.gz,Where is the mass lesion located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_6236_a_2.nii.gz,Where are the ground glass densities located?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_6239_a_1.nii.gz,Where is the nonspecific nodule located?,Anterior segment of right lung upper lobe,Open,-,-,-,-,-
+2,3,train_6239_a_4.nii.gz,Where is the nonspecific nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_6242_a_1.nii.gz,Where are the calculi observed?,Right kidney.,Open,-,-,-,-,-
+2,3,train_6242_a_2.nii.gz,Where are the calculi observed?,Right kidney.,Open,-,-,-,-,-
+2,3,train_6249_a_2.nii.gz,Where are the ground-glass nodules located?,Upper lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_6258_a_1.nii.gz,Where is the area of consolidation located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_6258_a_2.nii.gz,Where is the pleural effusion located?,Right hemithorax.,Open,-,-,-,-,-
+2,3,train_6279_a_1.nii.gz,Where is the pleural effusion observed?,Left hemithorax,Open,-,-,-,-,-
+2,3,train_627_a_1.nii.gz,Where are the lesions?,No lesions detected,Open,-,-,-,-,-
+2,3,train_6291_a_2.nii.gz,Where is the cystic lesion located?,Left kidney.,Open,-,-,-,-,-
+2,3,train_6304_a_2.nii.gz,Where is the nodule located?,Left lung upper lobe,Open,-,-,-,-,-
+2,3,train_6315_a_1.nii.gz,Where are the nodules located?,Right lung middle lobe,Open,-,-,-,-,-
+2,3,train_6317_a_2.nii.gz,Where are the round-shaped abnormalities located?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,3,train_6320_a_1.nii.gz,Where is the atelectatic change located?,Left lung upper lobe,Open,-,-,-,-,-
+2,3,train_6321_b_2.nii.gz,Where are the lesions detected?,None present,Open,-,-,-,-,-
+2,3,train_6325_a_3.nii.gz,Where is the cortical cyst located?,Right kidney,Open,-,-,-,-,-
+2,3,train_6342_a_2.nii.gz,Where is the millimetric nonspecific nodule observed?,"Upper lobe, left lung",Open,-,-,-,-,-
+2,3,train_6356_a_1.nii.gz,Where are the consolidation areas located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_6371_a_1.nii.gz,Where is the area of atelectasis observed?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_6382_a_2.nii.gz,Where is the nonspecific nodule located?,Left lung lower lobe,Open,-,-,-,-,-
+2,3,train_6393_a_1.nii.gz,What type of density area is observed in the left lung?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_6407_a_1.nii.gz,Where is the hypodense lesion located?,Right adrenal gland,Open,-,-,-,-,-
+2,3,train_6407_a_2.nii.gz,Where is the hypodense lesion observed?,Right adrenal gland.,Open,-,-,-,-,-
+2,3,train_6412_a_1.nii.gz,Where is the nodular mass lesion located?,Right liver lobe,Open,-,-,-,-,-
+2,3,train_6413_a_2.nii.gz,Where is the nonspecific nodule located?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_6417_a_4.nii.gz,Where are the consolidations observed?,Right lung apex.,Open,-,-,-,-,-
+2,3,train_6432_a_2.nii.gz,Where are the ground-glass density areas located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_6434_a_2.nii.gz,Where is the nodule located?,Right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_6438_b_1.nii.gz,Where are the masses located in the right lung?,Upper lobe anterior segment.,Open,-,-,-,-,-
+2,3,train_6451_a_1.nii.gz,Where is the nonspecific pulmonary nodule located?,Right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_6451_a_2.nii.gz,Where is the pulmonary nodule located?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_645_a_2.nii.gz,Where is the air cyst located?,Lower lobe of left lung,Open,-,-,-,-,-
+2,3,train_6460_a_2.nii.gz,Where is the solitary nodule located?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_6467_a_1.nii.gz,Where is the subpleural nodule located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_6503_a_1.nii.gz,Where is the atelectasis located?,Left lung lower lobe.,Open,-,-,-,-,-
+2,3,train_6513_a_2.nii.gz,Where is the lesion located?,"Lower lobe, left lung.",Open,-,-,-,-,-
+2,3,train_6515_a_1.nii.gz,Where is the pleural effusion located?,Left pleural space,Open,-,-,-,-,-
+2,3,train_6516_a_3.nii.gz,Where is the effusion located?,Right pleural space.,Open,-,-,-,-,-
+2,3,train_6516_b_1.nii.gz,Where is the pneumothorax located?,Right hemithorax,Open,-,-,-,-,-
+2,3,train_6534_a_2.nii.gz,Where are the focal ground-glass densities located?,Right lung middle lobe.,Open,-,-,-,-,-
+2,3,train_6543_a_1.nii.gz,Where is the dilation observed?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_6600_a_1.nii.gz,Where are the lesions detected?,No lesions,Open,-,-,-,-,-
+2,3,train_6619_a_2.nii.gz,Where is the consolidation observed?,Both lower lobes.,Open,-,-,-,-,-
+2,3,train_6628_a_2.nii.gz,Which type of effusion is observed?,None detected,Open,-,-,-,-,-
+2,3,train_6652_a_1.nii.gz,Where are the consolidation areas located?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_6652_a_2.nii.gz,Where are the consolidation areas located?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_6703_a_2.nii.gz,Where are the calculi located?,Right kidney,Open,-,-,-,-,-
+2,3,train_6704_a_2.nii.gz,Where are the patchy densities more prominent?,"Left lung, lower lobe.",Open,-,-,-,-,-
+2,3,train_6717_a_1.nii.gz,Where is the irregularly-circumscribed nodular lesion located?,Lower lobe of the right lung.,Open,-,-,-,-,-
+2,3,train_6729_a_2.nii.gz,Which abnormality is present in both hemithoraxes?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_6796_a_2.nii.gz,Where are the opacities primarily located?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_6803_b_1.nii.gz,Where is the larger nodular lesion located?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_6805_b_1.nii.gz,Where is the hemothorax located?,Left hemithorax,Open,-,-,-,-,-
+2,3,train_6828_a_1.nii.gz,Which effusions are present?,Bilateral pleural effusions.,Open,-,-,-,-,-
+2,3,train_6837_a_2.nii.gz,Where is the ground glass opacity predominantly located?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_6865_a_1.nii.gz,What type of opacities are present in the left lung lower lobe?,Ground-glass opacities.,Open,-,-,-,-,-
+2,3,train_6898_a_2.nii.gz,What type of density is observed in the lung parenchyma?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_6902_b_1.nii.gz,What type of effusion is observed?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_6909_a_1.nii.gz,Where is the mass?,No mass detected,Open,-,-,-,-,-
+2,3,train_6910_a_1.nii.gz,Where is the calcific nodule located?,Right upper lobe,Open,-,-,-,-,-
+2,3,train_6919_a_2.nii.gz,Where is the low-density nodule located?,Lower lobe laterobasal.,Open,-,-,-,-,-
+2,3,train_6920_a_1.nii.gz,Where are the stones located?,Upper poles of kidneys,Open,-,-,-,-,-
+2,3,train_6927_a_2.nii.gz,Where are the pleural effusions observed?,Bilateral pleural spaces.,Open,-,-,-,-,-
+2,3,train_6945_a_2.nii.gz,What type of bronchial abnormality is observed?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_6948_a_1.nii.gz,Where are the pneumonic infiltrations observed?,Upper lobes of lungs.,Open,-,-,-,-,-
+2,3,train_6963_a_1.nii.gz,What type of lesions are present in the lungs?,None detected.,Open,-,-,-,-,-
+2,3,train_6978_a_1.nii.gz,What type of lesion is observed in the left kidney?,Cortical cyst.,Open,-,-,-,-,-
+2,3,train_6986_a_2.nii.gz,Where is the nonspecific nodule located?,Right middle lobe,Open,-,-,-,-,-
+2,3,train_6989_a_2.nii.gz,Where are the air cysts located?,Both upper lobes.,Open,-,-,-,-,-
+2,3,train_7012_a_1.nii.gz,Where is the fusiform dilatation observed?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_702_a_1.nii.gz,Where are the nodular lesions located in the lung parenchyma?,No lesions.,Open,-,-,-,-,-
+2,3,train_7033_b_2.nii.gz,What type of effusion is observed?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_7036_b_1.nii.gz,What type of opacities are observed?,Ground-glass,Open,-,-,-,-,-
+2,3,train_7046_a_2.nii.gz,Where is the pleural effusion more prominent?,Right pleural space.,Open,-,-,-,-,-
+2,3,train_7054_b_2.nii.gz,What abnormality is present in the pericardial area?,Pericardial effusion.,Open,-,-,-,-,-
+2,3,train_7061_a_2.nii.gz,Where are the lesions?,None detected,Open,-,-,-,-,-
+2,3,train_7067_a_1.nii.gz,Where is the abnormality located?,Right lung middle lobe,Open,-,-,-,-,-
+2,3,train_7069_b_2.nii.gz,Where are the atelectasis areas located?,Both lower lobes,Open,-,-,-,-,-
+2,3,train_707_a_1.nii.gz,Which type of lymph node is observed?,Paratracheal lymph node.,Open,-,-,-,-,-
+2,3,train_7090_a_1.nii.gz,What type of opacity is seen in the left lung upper lobe?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_7096_a_2.nii.gz,Where is the consolidation located?,"Lower lobe, left lung",Open,-,-,-,-,-
+2,3,train_709_a_2.nii.gz,Where is the bronchio-alveolar infiltration observed?,Lower lobe basal segments.,Open,-,-,-,-,-
+2,3,train_7102_a_1.nii.gz,Where is the new effusion observed?,Left hemithorax,Open,-,-,-,-,-
+2,3,train_7102_a_2.nii.gz,What type of effusion is observed in the left hemithorax?,Pleural effusion.,Open,-,-,-,-,-
+2,3,train_7109_a_1.nii.gz,Where is the aneurysmatic dilation observed?,Ascending aorta.,Open,-,-,-,-,-
+2,3,train_7113_a_2.nii.gz,Where are the nonspecific nodules most prominently located?,Right upper lobe.,Open,-,-,-,-,-
+2,3,train_7117_a_2.nii.gz,Where is the lymph node located?,Right upper paratracheal.,Open,-,-,-,-,-
+2,3,train_7125_b_1.nii.gz,What type of density is observed in the lung parenchyma?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_7132_b_2.nii.gz,Where is the free effusion observed?,Right pleural region.,Open,-,-,-,-,-
+2,3,train_7135_a_1.nii.gz,Where is the irregular mass lesion located?,Right main bronchus.,Open,-,-,-,-,-
+2,3,train_7136_a_2.nii.gz,Where are the newly developed reticulonodular infiltrates located?,Posterior right lung upper lobe.,Open,-,-,-,-,-
+2,3,train_7137_b_1.nii.gz,Where is the calculus located?,Left kidney mid-calyceal.,Open,-,-,-,-,-
+2,3,train_7149_a_2.nii.gz,Where is the cystic-necrotic mass located?,Right upper lobe,Open,-,-,-,-,-
+2,3,train_7161_a_1.nii.gz,Where is the consolidation observed?,Right lung apex,Open,-,-,-,-,-
+2,3,train_7166_a_2.nii.gz,Where are the areas of consolidation located?,Lower lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_7181_a_2.nii.gz,Where is the focal consolidation area located?,Left lung lingular segment,Open,-,-,-,-,-
+2,3,train_7185_a_2.nii.gz,Where is the ground glass area located?,"Left lung, lingular segment.",Open,-,-,-,-,-
+2,3,train_7199_a_1.nii.gz,Where are the nodules observed?,Right lower lobe.,Open,-,-,-,-,-
+2,3,train_719_a_2.nii.gz,Where are the fibroatelectatic changes located?,"Right middle lobe, left inferior lingula",Open,-,-,-,-,-
+2,3,train_7200_a_2.nii.gz,Where is the nonspecific nodule observed?,Left lung upper lobe.,Open,-,-,-,-,-
+2,3,train_7214_b_2.nii.gz,Where is the abnormality observed?,Left lung inferior lingula.,Open,-,-,-,-,-
+2,3,train_7231_a_1.nii.gz,Where are the nodular ground-glass densities located?,Peripheral subpleural area,Open,-,-,-,-,-
+2,3,train_7233_a_1.nii.gz,Where is the patchy consolidation observed?,Lower lobes.,Open,-,-,-,-,-
+2,3,train_7239_a_2.nii.gz,What type of fluid accumulation is present bilaterally?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_7247_a_1.nii.gz,Where is the focal ground-glass area observed?,Anterior segment of right lung.,Open,-,-,-,-,-
+2,3,train_7250_d_2.nii.gz,Where is the pleural effusion located?,Right pleural space,Open,-,-,-,-,-
+2,3,train_7250_e_1.nii.gz,Where is the irregularly circumscribed nodule located?,"Lower lobe, right lung.",Open,-,-,-,-,-
+2,3,train_7259_b_1.nii.gz,What type of pneumothorax is observed?,Left pneumothorax,Open,-,-,-,-,-
+2,3,train_7289_a_2.nii.gz,Where is the air cyst observed?,Right lung basal.,Open,-,-,-,-,-
+2,3,train_7299_a_2.nii.gz,Which lesions are present in the lung parenchyma?,None detected.,Open,-,-,-,-,-
+2,3,train_733_b_1.nii.gz,What type of pleural effusion is observed?,Left pleural effusion,Open,-,-,-,-,-
+2,3,train_733_b_2.nii.gz,Which type of pleural effusion is observed?,Left pleural effusion,Open,-,-,-,-,-
+2,3,train_7358_a_1.nii.gz,Where is the pleural effusion observed?,Right hemithorax.,Open,-,-,-,-,-
+2,3,train_7375_a_1.nii.gz,Which type of effusion is observed?,None detected.,Open,-,-,-,-,-
+2,3,train_7377_a_1.nii.gz,Where is the ground-glass-like nodule located?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,3,train_7379_a_1.nii.gz,Where are the ground glass areas located?,"Upper lobe, left lung",Open,-,-,-,-,-
+2,3,train_7379_b_2.nii.gz,Where is the calcific nodule observed?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_7382_a_1.nii.gz,Where are the nodular lesions?,None present,Open,-,-,-,-,-
+2,3,train_7391_b_2.nii.gz,Where is the consolidation area located?,Lower lobe superior segment.,Open,-,-,-,-,-
+2,3,train_7395_a_1.nii.gz,Where is the hypodense lesion located?,Right kidney.,Open,-,-,-,-,-
+2,3,train_7403_a_1.nii.gz,What type of effusion is observed?,None detected,Open,-,-,-,-,-
+2,3,train_7403_a_2.nii.gz,What type of effusion is noted?,None detected,Open,-,-,-,-,-
+2,3,train_7415_a_1.nii.gz,Which lung shows atelectasis?,Right lung,Open,-,-,-,-,-
+2,3,train_7424_a_2.nii.gz,Where is the pericardial effusion located?,Pericardial space.,Open,-,-,-,-,-
+2,3,train_7438_b_1.nii.gz,Where is the mass lesion observed?,Right adrenal gland.,Open,-,-,-,-,-
+2,3,train_7441_a_1.nii.gz,Where is the irregular nodule located?,Right upper lobe,Open,-,-,-,-,-
+2,3,train_7446_a_1.nii.gz,Which lung contains the nodule?,Right lung,Open,-,-,-,-,-
+2,3,train_7448_a_1.nii.gz,What type of lesion is observed in the T12 vertebral body?,Sclerotic metastatic lesion.,Open,-,-,-,-,-
+2,3,train_7448_a_2.nii.gz,What type of lesion is observed in the T12 vertebral body?,Sclerotic metastatic lesion.,Open,-,-,-,-,-
+2,3,train_7450_a_3.nii.gz,Where is the hypodense nodular lesion located?,Right adrenal gland.,Open,-,-,-,-,-
+2,3,train_7450_a_5.nii.gz,Where is the hypodense nodular lesion located?,Right adrenal gland.,Open,-,-,-,-,-
+2,3,train_7454_a_2.nii.gz,Where is the nodule observed?,Left lower lobe,Open,-,-,-,-,-
+2,3,train_7455_a_1.nii.gz,Which condition is indicated by the presence of air bronchograms?,Consolidation.,Open,-,-,-,-,-
+2,3,train_7457_c_1.nii.gz,Where is the nonspecific nodule located?,Right lung middle lobe,Open,-,-,-,-,-
+2,3,train_7461_b_1.nii.gz,Which type of effusion is present in the right hemithorax?,Pleural effusion,Open,-,-,-,-,-
+2,3,train_7463_a_1.nii.gz,Where are the small consolidations found?,Right lower lobe.,Open,-,-,-,-,-
+2,3,train_7486_a_2.nii.gz,What type of density is seen in the left lung lower lobe?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_7489_a_1.nii.gz,Where is the subpleural nodule located?,Right lung posterobasal.,Open,-,-,-,-,-
+2,3,train_7490_c_2.nii.gz,Where is the nodular density located?,Left lower lobe.,Open,-,-,-,-,-
+2,3,train_7506_a_2.nii.gz,Where are the nodules observed?,Both lungs,Open,-,-,-,-,-
+2,3,train_7507_b_2.nii.gz,Where is the consolidation area primarily located?,Left lower lobe,Open,-,-,-,-,-
+2,3,train_7511_a_5.nii.gz,Where is the cyst located?,Right kidney.,Open,-,-,-,-,-
+2,3,train_7512_a_1.nii.gz,Where are the nonspecific parenchymal nodules observed?,Both lungs.,Open,-,-,-,-,-
+2,3,train_7521_a_1.nii.gz,Where is the focal density located?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_7521_a_2.nii.gz,Which type of density is noted in the right lung lower lobe?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_7533_a_2.nii.gz,Where is the pleural effusion observed?,Left pleura.,Open,-,-,-,-,-
+2,3,train_7542_a_2.nii.gz,Where is the calcific nodule located?,Left upper lobe,Open,-,-,-,-,-
+2,3,train_7551_a_1.nii.gz,Where are the nodular-patchy consolidations primarily located?,Upper lobes,Open,-,-,-,-,-
+2,3,train_7551_a_2.nii.gz,Where are the nodular-patchy consolidations primarily located?,Upper lobes,Open,-,-,-,-,-
+2,3,train_7552_b_2.nii.gz,Where is the effusion located?,Right pleural space.,Open,-,-,-,-,-
+2,3,train_7557_a_1.nii.gz,Where is the semisolid nodule located?,Left upper lobe.,Open,-,-,-,-,-
+2,3,train_7569_a_1.nii.gz,Which area shows consolidation with air bronchograms?,Right lower lobe,Open,-,-,-,-,-
+2,3,train_7571_b_2.nii.gz,Where are the nodular lesions located?,Not present,Open,-,-,-,-,-
+2,3,train_7579_a_1.nii.gz,Where is the subpleural nodule located?,Left lower lobe.,Open,-,-,-,-,-
+2,3,train_757_a_1.nii.gz,Where are the ground glass areas located?,Bilateral lungs,Open,-,-,-,-,-
+2,3,train_7580_a_2.nii.gz,What type of opacity is observed?,Ground-glass opacity,Open,-,-,-,-,-
+2,3,train_7581_b_2.nii.gz,Where is the consolidation observed?,Left lung,Open,-,-,-,-,-
+2,3,train_7581_d_1.nii.gz,Where are infiltrates predominantly located?,Posterobasal lower lobe,Open,-,-,-,-,-
+2,3,train_7587_a_1.nii.gz,Where is the fusiform aneurysmatic dilatation observed?,Thoracic aorta,Open,-,-,-,-,-
+2,3,train_7592_a_3.nii.gz,Where are the calculi located?,Both kidneys,Open,-,-,-,-,-
+2,3,train_7594_a_2.nii.gz,Where is the calcific nodule located?,Right lower lobe.,Open,-,-,-,-,-
+2,3,train_7605_b_2.nii.gz,Which lung shows atelectasis?,Left lung.,Open,-,-,-,-,-
+2,3,train_7606_a_1.nii.gz,Where is the ground glass opacity located?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_7606_a_2.nii.gz,Where is the abnormality located?,Right lung lower lobe,Open,-,-,-,-,-
+2,3,train_7610_b_1.nii.gz,Where is the hypodense lesion located?,Right kidney,Open,-,-,-,-,-
+2,3,train_7610_c_2.nii.gz,Where is the exophytic lesion located?,Right kidney.,Open,-,-,-,-,-
+2,3,train_7613_c_2.nii.gz,Which condition is indicated by the presence of air bronchograms?,Consolidation,Open,-,-,-,-,-
+2,3,train_7617_a_1.nii.gz,Where is consolidation located?,"Lower lobe, right lung.",Open,-,-,-,-,-
+2,3,train_7618_a_1.nii.gz,What type of atelectasis is observed?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_7618_a_2.nii.gz,What type of atelectasis is visible?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_7628_a_1.nii.gz,Where are the ground-glass densities observed?,Both lungs,Open,-,-,-,-,-
+2,3,train_7647_b_1.nii.gz,Which type of opacity is present in the left lung upper lobe?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_7650_a_1.nii.gz,Where are the nonspecific nodules located?,Both lungs.,Open,-,-,-,-,-
+2,3,train_7674_a_1.nii.gz,Where is the irregular nodule located?,"Lower lobe, right lung",Open,-,-,-,-,-
+2,3,train_7682_a_1.nii.gz,Where is the consolidation observed?,Lower lobe.,Open,-,-,-,-,-
+2,3,train_7682_a_2.nii.gz,Where is the consolidation observed?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,3,train_7705_a_1.nii.gz,What type of opacities are observed?,Ground-glass opacities.,Open,-,-,-,-,-
+2,3,train_7706_c_2.nii.gz,Where is the area of consolidation more pronounced?,Upper lobe of right lung.,Open,-,-,-,-,-
+2,3,train_7745_a_2.nii.gz,Which condition is indicated by the enlarged heart?,Cardiomegaly.,Open,-,-,-,-,-
+2,3,train_7760_a_1.nii.gz,Where is the mass lesion located?,Anterior mediastinum.,Open,-,-,-,-,-
+2,3,train_7768_a_1.nii.gz,Where are the suspicious lesions located in the lung parenchyma?,No lesions.,Open,-,-,-,-,-
+2,3,train_7781_a_2.nii.gz,Where are the consolidation areas located?,Left lung inferior lingular segment,Open,-,-,-,-,-
+2,3,train_778_a_1.nii.gz,Where is the aneurysmatic dilation located?,Thoracic aorta.,Open,-,-,-,-,-
+2,3,train_778_a_2.nii.gz,Where is the aneurysm located?,Thoracic aorta.,Open,-,-,-,-,-
+2,3,train_7811_h_2.nii.gz,Where are the effusions located?,"Right, left hemithorax",Open,-,-,-,-,-
+2,3,train_781_a_1.nii.gz,Which masses are present?,No suspicious masses.,Open,-,-,-,-,-
+2,3,train_781_a_2.nii.gz,Where are the suspicious masses located?,No masses detected.,Open,-,-,-,-,-
+2,3,train_7822_a_2.nii.gz,Where are the emphysematous changes more prominent?,Upper lobes,Open,-,-,-,-,-
+2,3,train_7828_a_2.nii.gz,Where is the pleural effusion?,Not detected,Open,-,-,-,-,-
+2,3,train_7832_a_1.nii.gz,What type of bronchial abnormality is present?,Tubular bronchiectasis.,Open,-,-,-,-,-
+2,3,train_7842_a_2.nii.gz,Where is consolidation identified?,Lower lobe of left lung,Open,-,-,-,-,-
+2,3,train_7864_a_2.nii.gz,Where is the mucus plug located?,Proximal right main bronchus,Open,-,-,-,-,-
+2,3,train_7870_a_2.nii.gz,Where is the hypodense nodule located?,Left lobe.,Open,-,-,-,-,-
+2,3,train_787_a_2.nii.gz,Which type of atelectasis is observed?,Subsegmental atelectasis.,Open,-,-,-,-,-
+2,3,train_7952_a_1.nii.gz,Where are the consolidations located?,"Lower lobe, left lung",Open,-,-,-,-,-
+2,3,train_7957_a_1.nii.gz,What type of abnormality is observed in the ascending aorta?,Aneurysmatic dilatation,Open,-,-,-,-,-
+2,3,train_795_a_2.nii.gz,Which type of catheter is present?,Central venous catheter,Open,-,-,-,-,-
+2,3,train_7974_a_1.nii.gz,What type of opacities are present?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_7980_a_2.nii.gz,What shape is the nodular formation?,Oval-shaped.,Open,-,-,-,-,-
+2,3,train_8026_a_1.nii.gz,Where is the sclerotic bone lesion located?,Right clavicle.,Open,-,-,-,-,-
+2,3,train_8037_b_2.nii.gz,Where are the focal consolidative areas observed?,Right lung middle lobe and lower lobe superior segment.,Open,-,-,-,-,-
+2,3,train_8046_a_1.nii.gz,Where is the atelectasis observed?,Middle lobe.,Open,-,-,-,-,-
+2,3,train_8048_a_1.nii.gz,Which lung contains the lesion?,Right lung,Open,-,-,-,-,-
+2,3,train_8053_a_2.nii.gz,Which areas show consolidation?,"Right middle lobe, left lower lobe.",Open,-,-,-,-,-
+2,3,train_8065_b_1.nii.gz,Where are the millimetric nodules located?,Upper lobe of right lung,Open,-,-,-,-,-
+2,3,train_8065_f_2.nii.gz,Where are the subsegmental atelectasis areas observed?,Middle lobe of right lung.,Open,-,-,-,-,-
+2,3,train_8068_a_1.nii.gz,What type of fluid accumulation is present in both hemithorax?,Pleural fluid.,Open,-,-,-,-,-
+2,3,train_8068_a_2.nii.gz,Which type of fluid is present in both hemithorax?,Pleural fluid.,Open,-,-,-,-,-
+2,3,train_8074_a_2.nii.gz,Where are the nodular opacities located?,Lung upper lobes,Open,-,-,-,-,-
+2,3,train_8080_a_2.nii.gz,Which type of density is noted in the middle lobe of the right lung?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_8118_b_2.nii.gz,Where is the nodule located in the right lung?,Lower lobe,Open,-,-,-,-,-
+2,3,train_8139_a_1.nii.gz,Where is the hypodense nodule located?,Left thyroid lobe.,Open,-,-,-,-,-
+2,3,train_8143_a_2.nii.gz,Where are the enlarged lymph nodes located?,Not present,Open,-,-,-,-,-
+2,3,train_8174_a_1.nii.gz,Which abnormality is present in the middle lobe of the right lung?,Atelectasis,Open,-,-,-,-,-
+2,3,train_8186_a_2.nii.gz,What type of effusion is observed?,Bilateral pleural effusion,Open,-,-,-,-,-
+2,3,train_8198_a_2.nii.gz,Where are the consolidation areas located?,"Left upper lobe, right lower lobe",Open,-,-,-,-,-
+2,3,train_8208_a_1.nii.gz,What type of effusion is observed?,Bilateral pleural effusion,Open,-,-,-,-,-
+2,3,train_8230_b_2.nii.gz,Where is the pleural effusion more prominent?,Left side,Open,-,-,-,-,-
+2,3,train_8241_b_1.nii.gz,Where is the abnormality located?,Right hilar,Open,-,-,-,-,-
+2,3,train_8241_b_2.nii.gz,Where is the calcified abnormality located?,Right hilar,Open,-,-,-,-,-
+2,3,train_8244_h_2.nii.gz,What type of lesions are observed?,None observed.,Open,-,-,-,-,-
+2,3,train_8244_j_1.nii.gz,What type of contour is observed in the left lung lesion?,Spiculated contour,Open,-,-,-,-,-
+2,3,train_8249_a_1.nii.gz,What type of abnormality is present in the left lower lobe?,Atelectasis.,Open,-,-,-,-,-
+2,3,train_824_a_1.nii.gz,Where are the nodules observed?,In both lungs.,Open,-,-,-,-,-
+2,3,train_8251_a_1.nii.gz,Where is the aneurysmatic dilatation located?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_826_a_1.nii.gz,Where are the short lymph nodes observed?,"Prevascular, paratracheal, subcarinal, hilar regions.",Open,-,-,-,-,-
+2,3,train_8307_c_2.nii.gz,Where are the observed nodules?,Lung parenchyma,Open,-,-,-,-,-
+2,3,train_8320_c_1.nii.gz,Where are the atelectasis changes noted?,Both lung lower lobes.,Open,-,-,-,-,-
+2,3,train_8321_a_2.nii.gz,Where are the hypodense nodular lesions located?,Both kidneys.,Open,-,-,-,-,-
+2,3,train_8331_a_1.nii.gz,Where are the calcified lymph nodes located?,"Lower paratracheal, right hilar.",Open,-,-,-,-,-
+2,3,train_8336_a_1.nii.gz,Where is the lymph node located?,Right upper paratracheal.,Open,-,-,-,-,-
+2,3,train_8373_a_2.nii.gz,What type of atelectasis is observed?,Subsegmentary atelectasis.,Open,-,-,-,-,-
+2,3,train_8378_a_1.nii.gz,Where are the hypodense lesions located?,Both kidneys,Open,-,-,-,-,-
+2,3,train_8380_c_1.nii.gz,Where is the soft tissue lesion located?,Left lung apex.,Open,-,-,-,-,-
+2,3,train_8380_c_2.nii.gz,Where is the soft tissue lesion found?,Left lung apex.,Open,-,-,-,-,-
+2,3,train_8390_b_1.nii.gz,What type of bronchiectasis is present?,Cystic bronchiectasis,Open,-,-,-,-,-
+2,3,train_8420_a_1.nii.gz,What type of density is observed around the nodule?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_8420_a_2.nii.gz,What type of density is observed around the nodule?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_842_a_1.nii.gz,What type of density is noted?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_842_a_2.nii.gz,Which type of density is noted?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_8439_a_2.nii.gz,What type of effusion is present?,Right pleural effusion.,Open,-,-,-,-,-
+2,3,train_8442_a_1.nii.gz,What type of effusion is present in both pleural spaces?,Bilateral pleural effusion.,Open,-,-,-,-,-
+2,3,train_844_a_1.nii.gz,What type of nodules are present?,Ground-glass nodules.,Open,-,-,-,-,-
+2,3,train_8454_c_1.nii.gz,Where are the pathological lymph nodes observed?,Bilateral upper paratracheal.,Open,-,-,-,-,-
+2,3,train_8503_a_1.nii.gz,Where is the mass lesion located?,Left adrenal gland.,Open,-,-,-,-,-
+2,3,train_8526_a_2.nii.gz,Which lung shows nodules?,Right lung,Open,-,-,-,-,-
+2,3,train_8545_a_1.nii.gz,What type of abnormality is seen in the left lung lower lobe?,Atelectasis,Open,-,-,-,-,-
+2,3,train_8601_a_1.nii.gz,Which type of density is noted in the nodule?,Ground glass density.,Open,-,-,-,-,-
+2,3,train_8607_b_2.nii.gz,What type of opacities are observed?,Ground glass opacities.,Open,-,-,-,-,-
+2,3,train_8646_a_1.nii.gz,Where are the cylindrical bronchiectatic changes observed?,Posterior lower lobes,Open,-,-,-,-,-
+2,3,train_8646_a_4.nii.gz,What type of bronchial changes are present?,Cylindrical bronchiectasis,Open,-,-,-,-,-
+2,3,train_8673_a_1.nii.gz,Where is the pleural effusion more prominent?,Right side.,Open,-,-,-,-,-
+2,3,train_8675_a_2.nii.gz,Where are the cysts located?,Both kidneys,Open,-,-,-,-,-
+2,3,train_8696_a_2.nii.gz,What type of opacity is present?,Ground glass opacity,Open,-,-,-,-,-
+2,3,train_869_a_2.nii.gz,Which type of density is present?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_871_a_1.nii.gz,Where are the multiple cysts located?,Both kidneys,Open,-,-,-,-,-
+2,3,train_8786_b_2.nii.gz,What type of atelectasis is observed?,Linear-subsegmental.,Open,-,-,-,-,-
+2,3,train_8789_a_1.nii.gz,Where are the lytic-destructive lesions located?,Not present,Open,-,-,-,-,-
+2,3,train_87_a_2.nii.gz,Where is the ground-glass nodule located?,Lower lobe of the left lung.,Open,-,-,-,-,-
+2,3,train_8806_a_2.nii.gz,What type of nodule is observed in the right lung?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_8817_a_2.nii.gz,Which type of opacity is observed in the left lung lower lobe?,Ground glass opacity.,Open,-,-,-,-,-
+2,3,train_883_a_2.nii.gz,What type of pattern is observed in the right lung middle lobe?,Crazy paving pattern.,Open,-,-,-,-,-
+2,3,train_8858_a_4.nii.gz,Where is the pleural effusion most prominent?,Lower lobe basal segment.,Open,-,-,-,-,-
+2,3,train_8920_a_1.nii.gz,Which type of opacity is observed?,Ground-glass opacity,Open,-,-,-,-,-
+2,3,train_8920_a_2.nii.gz,What type of opacity is observed?,Ground-glass opacity,Open,-,-,-,-,-
+2,3,train_894_a_2.nii.gz,What type of density is observed?,Ground glass density,Open,-,-,-,-,-
+2,3,train_8955_a_2.nii.gz,What type of vertebral anomaly is observed?,Butterfly vertebra,Open,-,-,-,-,-
+2,3,train_895_a_2.nii.gz,Where is the density increase consistent with atelectasis observed?,Lower lobes of lungs.,Open,-,-,-,-,-
+2,3,train_8960_a_1.nii.gz,Where is the myelolipoma located?,Left adrenal gland,Open,-,-,-,-,-
+2,3,train_8987_b_1.nii.gz,Where is the mild dilatation observed?,Main pulmonary artery.,Open,-,-,-,-,-
+2,3,train_9027_a_2.nii.gz,Where is the smaller nodule found?,Left lung lingula.,Open,-,-,-,-,-
+2,3,train_9034_a_2.nii.gz,Where is the solid-cystic nodule located?,Right thyroid lobe.,Open,-,-,-,-,-
+2,3,train_9052_a_1.nii.gz,Where are the dependent density increases observed?,Both lung lower lobes.,Open,-,-,-,-,-
+2,3,train_9083_a_2.nii.gz,What type of opacities are observed?,Ground-glass opacities,Open,-,-,-,-,-
+2,3,train_9104_a_2.nii.gz,Where is the wide consolidation observed?,Apicoposterior segment of left upper lobe.,Open,-,-,-,-,-
+2,3,train_9116_a_2.nii.gz,What shape is the detected finding?,Oval-shaped,Open,-,-,-,-,-
+2,3,train_9129_a_1.nii.gz,What type of opacities are present?,Ground-glass opacities.,Open,-,-,-,-,-
+2,3,train_9149_a_2.nii.gz,Which size category do the observed nodules fall into?,Millimetric,Open,-,-,-,-,-
+2,3,train_9153_b_1.nii.gz,Which type of bronchial abnormality is present?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_915_a_1.nii.gz,Where is the 2mm diameter calcific nodule observed?,Lateral segment of middle lobe.,Open,-,-,-,-,-
+2,3,train_9175_a_1.nii.gz,Where are the nodular lesions?,None present,Open,-,-,-,-,-
+2,3,train_9176_a_2.nii.gz,Where is the fusiform aneurysmatic dilation observed?,Thoracic aorta.,Open,-,-,-,-,-
+2,3,train_917_a_2.nii.gz,Which type of opacity is present in the lung?,Ground-glass opacity.,Open,-,-,-,-,-
+2,3,train_918_a_1.nii.gz,Which type of nodule is observed in the anterior upper lobe of the left lung?,Ground-glass nodule.,Open,-,-,-,-,-
+2,3,train_918_a_2.nii.gz,Where is the ground-glass nodule located?,Anterior upper lobe.,Open,-,-,-,-,-
+2,3,train_9190_a_2.nii.gz,Where are the enlarged lymph nodes located?,Not present.,Open,-,-,-,-,-
+2,3,train_9273_b_1.nii.gz,Where is the narrowed bronchus located?,Left main bronchus.,Open,-,-,-,-,-
+2,3,train_9274_a_2.nii.gz,What type of density is observed?,Ground-glass density,Open,-,-,-,-,-
+2,3,train_9284_a_2.nii.gz,What type of opacities are observed?,Ground-glass opacities.,Open,-,-,-,-,-
+2,3,train_9298_a_3.nii.gz,What type of abnormality is seen in the ascending aorta?,Aneurysmal dilation,Open,-,-,-,-,-
+2,3,train_9332_a_2.nii.gz,Which type of bronchial abnormality is present?,Cylindrical bronchiectasis.,Open,-,-,-,-,-
+2,3,train_933_a_2.nii.gz,What type of lesions are observed in the lung parenchyma?,No lesions.,Open,-,-,-,-,-
+2,3,train_9353_a_2.nii.gz,Where is the consolidation located?,Lower lobe anterior segment.,Open,-,-,-,-,-
+2,3,train_9383_b_1.nii.gz,Where are the cavitary lesions located?,Right lung apex.,Open,-,-,-,-,-
+2,3,train_9383_c_1.nii.gz,Where is the cavitary lesion located?,Right lung apex.,Open,-,-,-,-,-
+2,3,train_9389_a_1.nii.gz,Where are the bronchiectatic changes located?,Bilateral lower lobes,Open,-,-,-,-,-
+2,3,train_939_a_1.nii.gz,What type of abnormality is observed in the middle lobe of the right lung?,Bronchiectasis.,Open,-,-,-,-,-
+2,3,train_93_e_1.nii.gz,Where is the focal consolidation located?,"Superior segment, left lung lower lobe.",Open,-,-,-,-,-
+2,3,train_9413_a_2.nii.gz,Where are the multifocal lesions observed?,Both lung lower lobes.,Open,-,-,-,-,-
+2,3,train_9421_a_1.nii.gz,Where is the prominent abnormality located?,"Right lung, lower lobes",Open,-,-,-,-,-
+2,3,train_9424_a_2.nii.gz,Where is the aneurysmatic dilatation located?,Descending aorta,Open,-,-,-,-,-
+2,3,train_9436_a_2.nii.gz,What condition is indicated by the presence of air bronchograms?,Pneumonic consolidation.,Open,-,-,-,-,-
+2,3,train_9455_c_1.nii.gz,Where is the primary tumor observed?,Right lung hilum.,Open,-,-,-,-,-
+2,3,train_9456_a_1.nii.gz,Which abnormality is present in the ascending aorta?,Fusiform aneurysmatic dilation.,Open,-,-,-,-,-
+2,3,train_9463_a_2.nii.gz,What type of density is observed in the upper lobe of the right lung?,Consolidative density,Open,-,-,-,-,-
+2,3,train_9484_a_1.nii.gz,What type of densities are present in the posterior upper lobe?,Ground-glass densities,Open,-,-,-,-,-
+2,3,train_9526_a_2.nii.gz,Where is the mass lesion located?,Right pulmonary hilus,Open,-,-,-,-,-
+2,3,train_9533_b_2.nii.gz,What type of density is noted in the left lung lower lobe?,Patchy ground-glass densities.,Open,-,-,-,-,-
+2,3,train_9548_b_2.nii.gz,Where is the subsolid nodule observed?,Lower lobe of left lung.,Open,-,-,-,-,-
+2,3,train_955_a_1.nii.gz,Where is the pleural effusion most significant?,Right lung base,Open,-,-,-,-,-
+2,3,train_955_a_2.nii.gz,Where is the pleural effusion most significant?,Right lung base,Open,-,-,-,-,-
+2,3,train_9573_a_2.nii.gz,Where is the nodular mass lesion located?,Right adrenal gland.,Open,-,-,-,-,-
+2,3,train_9592_a_1.nii.gz,Where are the intrapulmonary nodules located?,Bilateral lung parenchyma.,Open,-,-,-,-,-
+2,3,train_9595_a_2.nii.gz,Where is the suspicious focus for pneumonia observed?,Superior segment of the right lung lower lobe.,Open,-,-,-,-,-
+2,3,train_9599_a_2.nii.gz,Where is the solid nodule identified?,Left thyroid lobe.,Open,-,-,-,-,-
+2,3,train_962_a_1.nii.gz,Where is the nodule located in the right lung?,Upper lobe.,Open,-,-,-,-,-
+2,3,train_9643_a_1.nii.gz,Where is the dilatation observed?,Ascending aorta,Open,-,-,-,-,-
+2,3,train_9668_a_2.nii.gz,What type of lesions are present in the lung parenchyma?,None detected.,Open,-,-,-,-,-
+2,3,train_9678_a_2.nii.gz,Where is the focal aneurysmatic dilatation located?,Aortic arch.,Open,-,-,-,-,-
+2,3,train_9682_a_2.nii.gz,Where is the hypodense lesion located?,Liver right lobe,Open,-,-,-,-,-
+2,3,train_9689_a_1.nii.gz,What type of abnormality is present in the right lung middle lobe?,Consolidation.,Open,-,-,-,-,-
+2,3,train_9691_a_1.nii.gz,Where is the consolidative increase in density observed?,Middle lobe.,Open,-,-,-,-,-
+2,3,train_9702_a_1.nii.gz,Where are emphysematous changes prominent?,Upper lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_9703_a_1.nii.gz,What type of effusion is observed?,Loculated pleural effusion,Open,-,-,-,-,-
+2,3,train_9715_a_1.nii.gz,What type of density is noted in the lung parenchyma?,Ground-glass density.,Open,-,-,-,-,-
+2,3,train_9735_a_1.nii.gz,What type of lesions are present in the lungs?,None detected.,Open,-,-,-,-,-
+2,3,train_9745_a_2.nii.gz,What type of density is observed?,Ground glass density,Open,-,-,-,-,-
+2,3,train_9754_a_2.nii.gz,Where is the abnormality observed?,Left hilar region.,Open,-,-,-,-,-
+2,3,train_9782_a_2.nii.gz,Where is the air cyst located?,"Anterior segment, right lung.",Open,-,-,-,-,-
+2,3,train_9801_a_1.nii.gz,Where is the mass located?,"Lower lobe, left lung",Open,-,-,-,-,-
+2,3,train_9830_a_2.nii.gz,Where are the calcified nodules found?,Lower lobes of both lungs.,Open,-,-,-,-,-
+2,3,train_9835_a_1.nii.gz,Where is the thyroid gland abnormality observed?,Left thyroid lobe.,Open,-,-,-,-,-
+2,3,train_9839_a_1.nii.gz,Which condition is indicated by the increased heart size?,Cardiomegaly.,Open,-,-,-,-,-
+2,3,train_983_a_2.nii.gz,Where is the ground glass nodule observed?,Upper lobe.,Open,-,-,-,-,-
+2,3,train_9861_a_2.nii.gz,Where are the pulmonary nodules located?,"Left lower lobe, right middle lobe",Open,-,-,-,-,-
+2,3,train_9884_a_2.nii.gz,Where are the spiculated lesions located?,Right lung apex.,Open,-,-,-,-,-
+2,3,train_9902_a_2.nii.gz,Where are the calcified lymph nodes located?,"Right hilar, paratracheal.",Open,-,-,-,-,-
+2,3,train_9911_a_1.nii.gz,What type of densities are observed in the left lung lower lobe?,Ground glass densities.,Open,-,-,-,-,-
+2,3,train_9911_a_2.nii.gz,What type of densities are observed in the left lung lower lobe?,Ground glass densities.,Open,-,-,-,-,-
+2,3,train_9912_a_2.nii.gz,Where are the pleural effusions located?,Both hemithorax,Open,-,-,-,-,-
+2,3,train_9927_a_2.nii.gz,Where are the non-specific parenchymal nodules observed?,Right lung upper lobe anterior segment,Open,-,-,-,-,-
+2,3,train_9931_a_1.nii.gz,Where is the pleural effusion?,Not detected,Open,-,-,-,-,-
+2,3,train_9949_a_1.nii.gz,Where are the ground-glass densities observed?,Lung parenchyma.,Open,-,-,-,-,-
+2,3,train_9975_a_1.nii.gz,Where are the enlarged lymph nodes located?,Not detected,Open,-,-,-,-,-
+2,3,train_9978_a_1.nii.gz,Where is the abnormality observed?,Apex of right lung.,Open,-,-,-,-,-
+2,3,train_9987_a_1.nii.gz,Where is the bulla formation located?,Lower lobe of the right lung.,Open,-,-,-,-,-
+2,3,train_9999_a_2.nii.gz,Where is the hypodense lesion located?,Left adrenal gland,Open,-,-,-,-,-
