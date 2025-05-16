@@ -12,9 +12,7 @@ In the `3DRAD` directory, there are QA data without 3D images.
 You can find the dataset in https://huggingface.co/datasets/Tang-xiaoxiao/3D-RAD
 
 ## Evaluation
-In the `RadFM` and `M3D` directory, there are code for evaluating RadFM and M3D models on our 3D-RAD benchmark. Note that, the base code in RadFM is  from https://github.com/chaoyi-wu/RadFM, and the base code in M3D is from 
-
-https://github.com/BAAI-DCAI/M3D. To run our evaluation, you should first satisfy the requirements and download the models according to the base code of these models.
+In the `RadFM` and `M3D` directory, there are code for evaluating RadFM and M3D models on our 3D-RAD benchmark. Note that, the base code in RadFM is  from https://github.com/chaoyi-wu/RadFM, and the base code in M3D is from https://github.com/BAAI-DCAI/M3D. To run our evaluation, you should first satisfy the requirements and download the models according to the base code of these models.
 
 Compare to the base code, we make the following modifications: In the `RadFM` directory, we add a new Dataset in `RadFM/src/Dataset/dataset/rad_dataset.py` and modify the Dataset to test in `RadFM/src/Dataset/multi_dataset_test.py`. Then we add a new python file to evaluate our benchmark in `RadFM/src/eval_3DRAD.py`. In the `M3D` directory, we add a new Dataset in `M3D/Bench/dataset/multi_dataset.py` and add a new python file to evaluate our benchmark in `M3D/Bench/eval/eval_3DRAD.py`.
 
