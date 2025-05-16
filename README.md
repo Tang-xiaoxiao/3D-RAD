@@ -5,7 +5,7 @@ In our project, we collect a large-scale dataset designed to advance 3D Med-VQA 
 
 This code can evaluate our 3D-RAD dataset on M3D and RadFM models. (OmniV model code has not been published, we will publish the evaluation code on OmniV model after they publish.)
 
-![main](/Users/liyichen/Downloads/main.png)
+![main](https://github.com/Tang-xiaoxiao/M3D-RAD/blob/main/Figures/main.png)
 
 ## 3D-RAD Dataset
 In the `3DRAD` directory, there are QA data without 3D images.
