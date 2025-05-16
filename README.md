@@ -9,7 +9,7 @@ This code can evaluate our 3D-RAD dataset on M3D and RadFM models. (OmniV model 
 
 ## 3D-RAD Dataset
 In the `3DRAD` directory, there are QA data without 3D images.
-You can find the dataset in https://huggingface.co/datasets/Tang-xiaoxiao/3D-RAD
+You can find the dataset in https://huggingface.co/datasets/Tang-xiaoxiao/3D-RAD.
 
 ## Evaluation
 In the `RadFM` and `M3D` directory, there are code for evaluating RadFM and M3D models on our 3D-RAD benchmark. Note that, the base code in RadFM is  from https://github.com/chaoyi-wu/RadFM, and the base code in M3D is from https://github.com/BAAI-DCAI/M3D. To run our evaluation, you should first satisfy the requirements and download the models according to the base code of these models.
@@ -35,10 +35,13 @@ python Bench/eval/eval_3DRAD.py \
 --output_dir={your saved output_dir}
 ```
 
-### Model Links
+## Model Links
 
 | Model | Paper                                                        | Link                               |
 | ----- | ------------------------------------------------------------ | ---------------------------------- |
 | RadFM | Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data | https://github.com/chaoyi-wu/RadFM |
 | M3D   | M3D: Advancing 3D Medical Image Analysis with Multi-Modal Large Language Models | https://github.com/BAAI-DCAI/M3D   |
 | OmniV | OmniV-Med: Scaling Medical Vision-Language Model for Universal Visual Understanding | Has not been published             |
+
+## Finetuned Model
+You can find our finetuned model in https://huggingface.co/Tang-xiaoxiao/M3D-RAD.
