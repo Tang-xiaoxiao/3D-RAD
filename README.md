@@ -19,7 +19,7 @@
 - **2025.09.19**: 🔥 Paper accepted to **NeurIPS 2025**! 🎯
 - **2025.05.16**: 🔥 Set up the repository and committed the dataset!
 
-## Overview
+## 🔍 Overview
 💡 In this repository, we present **"3D-RAD: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks"**.
 
 In our project, we collect a large-scale dataset designed to advance 3D Med-VQA using radiology CT scans, 3D-RAD, encompasses six diverse VQA tasks: **Anomaly Detection** (task 1), **Image Observation** (task 2), **Medical Computation** (task 3), **Existence Detection** (task 4), **Static Temporal Diagnosis** (task 5), and **Longitudinal Temporal Diagnosis** (task 6). 
@@ -29,19 +29,19 @@ This code can evaluate our 3D-RAD dataset on M3D and RadFM models. (OmniV model 
 ![overview](https://github.com/Tang-xiaoxiao/3D-RAD/blob/main/Figures/overview.png)
 ![main](https://github.com/Tang-xiaoxiao/3D-RAD/blob/main/Figures/main.png)
 
-## 3D-RAD Dataset
+## 📊 3D-RAD Dataset
 In the `3DRAD` directory, there are QA data without 3D images.
 You can find the full dataset with 3D images (For efficient model input, the original CT images were preprocessed and converted into .npy format.) in [3D-RAD_Dataset](https://huggingface.co/datasets/Tang-xiaoxiao/3D-RAD).
 
 ![distribution](https://github.com/Tang-xiaoxiao/3D-RAD/blob/main/Figures/distribution.png)
 ![construction](https://github.com/Tang-xiaoxiao/3D-RAD/blob/main/Figures/Construction.png)
 
-## M3D-RAD Model
+## 🤖 M3D-RAD Model
 To assess the utility of 3D-RAD, we **finetuned two M3D model variants** with different parameter scales, thereby constructing the M3D-RAD models. You can find our finetuned model in [M3D-RAD_Models](https://huggingface.co/Tang-xiaoxiao/M3D-RAD).
 
 ![finetuned](https://github.com/Tang-xiaoxiao/3D-RAD/blob/main/Figures/finetuned.png)
 
-## Evaluation
+## 📈 Evaluation
 
 ### Zero-Shot Evaluation.
 We conducted **zero-shot evaluation** of several stateof-the-art 3D medical vision-language models on our benchmark to assess their generalization capabilities.
@@ -76,10 +76,10 @@ To further investigate the impact of dataset scale on model performance, we rand
 
 ![varysizes](https://github.com/Tang-xiaoxiao/3D-RAD/blob/main/Figures/varysizes.png)
 
-## Data Source
+## 📁 Data Source
 The original CT scans in our dataset are derived from [CT-RATE](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE), which is released under a CC-BY-NC-SA license. We fully comply with the license terms by using the data for non-commercial academic research, providing proper attribution.
 
-## Model Links
+## 🔗 Model Links
 
 | Model | Paper                                                        |
 | ----- | ------------------------------------------------------------ |
