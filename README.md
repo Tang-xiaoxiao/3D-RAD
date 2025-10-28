@@ -20,7 +20,7 @@
 - **2025.05.16**: 🔥 Set up the repository and committed the dataset!
 
 ## 🔍 Overview
-💡 In this repository, we present **"3D-RAD: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks"**. [Paper Link](https://arxiv.org/pdf/2506.11147)
+💡 In this repository, we present **["3D-RAD: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks"](https://arxiv.org/pdf/2506.11147)**.
 
 In our project, we collect a large-scale dataset designed to advance 3D Med-VQA using radiology CT scans, 3D-RAD, encompasses six diverse VQA tasks: **Anomaly Detection** (task 1), **Image Observation** (task 2), **Medical Computation** (task 3), **Existence Detection** (task 4), **Static Temporal Diagnosis** (task 5), and **Longitudinal Temporal Diagnosis** (task 6). 
 
