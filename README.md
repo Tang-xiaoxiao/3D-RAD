@@ -1,18 +1,14 @@
 # [NeurIPS 2025] 🩻 3D-RAD: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks
 <div align="center">
-
-  <a href="https://github.com/Tang-xiaoxiao/MedGenDiff/stargazers">
+  <a href="https://github.com/Tang-xiaoxiao/3D-RAD/stargazers">
     <img src="https://img.shields.io/github/stars/Tang-xiaoxiao/3D-RAD?style=social" />
   </a>
-
+  <a href="https://arxiv.org/abs/2506.11147">
+    <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arxiv" />
+  </a>
   <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" />
-  </a>
-
 </div>
 
 ## 📢 News
