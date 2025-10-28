@@ -1,4 +1,4 @@
-# [NeurIPS 2025] 🩻 3D-RAD: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks
+# [ 🎯 NeurIPS 2025 ] 3D-RAD 🩻: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks
 <div align="center">
   <a href="https://github.com/Tang-xiaoxiao/3D-RAD/stargazers">
     <img src="https://img.shields.io/github/stars/Tang-xiaoxiao/3D-RAD?style=social" />
