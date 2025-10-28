@@ -1,4 +1,4 @@
-# 3D-RAD
+# [NeurIPS 2025] 3D-RAD
 The official code for the paper "3D-RAD: A Comprehensive 3D Radiology Med-VQA Dataset with Multi-Temporal Analysis and Diverse Diagnostic Tasks".
 
 In our project, we collect a large-scale dataset designed to advance 3D Med-VQA using radiology CT scans, 3D-RAD, encompasses six diverse VQA tasks: anomaly detection (task 1), image observation (task 2), medical computation (task 3), existence detection (task 4), static temporal diagnosis (task 5), and longitudinal temporal diagnosis (task 6). 
