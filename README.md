@@ -15,6 +15,7 @@
 
 <summary><strong>What's New in This Update 🚀</strong></summary>
 
+- **Due to file size limitations, we have not uploaded the processed training set; however, it can be easily prepared from CT-RATE using the one-to-one corresponding IDs in our text files and the same format conversion applied to the test set images.**
 - **2025.10.23**: 🔥 Updated **the latest version** of the paper!
 - **2025.09.19**: 🔥 Paper accepted to **NeurIPS 2025**! 🎯
 - **2025.05.16**: 🔥 Set up the repository and committed the dataset!
